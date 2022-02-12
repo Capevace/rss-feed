@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-12T00:28:22.011Z</id>
+    <id>urn:2022-02-12T19:29:10.820Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-12T00:28:22.011Z</updated>
-    <generator>osmosfeed 1.12.0</generator>
+    <updated>2022-02-12T19:29:10.820Z</updated>
+    <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[v1.12.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"/>
+        <updated>2022-02-12T17:46:42.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Future articles appeared in the feed
+Fxied: Security vulnerability from axios
+Thank you: @naari3]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your CSS reset needs text-size-adjust (probably)]]></title>
+        <id>https://css-tricks.com/?p=363498</id>
+        <link href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/"/>
+        <updated>2022-02-12T00:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Kilian Valkhof:
+[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a 
+…
+Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9 New React and JavaScript Links for February 2022]]></title>
         <id>https://css-tricks.com/?p=363396</id>
@@ -327,21 +352,6 @@ A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks
         <summary type="html"><![CDATA[In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a newbie-friendly codebase]]></title>
-        <id>https://css-tricks.com/?p=362884</id>
-        <link href="https://css-tricks.com/building-a-newbie-friendly-codebase/"/>
-        <updated>2022-02-03T22:32:58.000Z</updated>
-        <summary type="html"><![CDATA[Pedro Santos suggests:
-Using naming conventions such that you can learn them once and apply them everywhere
-Unidirectional data flows. Make it easy to follow the app flow.
-No magic numbers. I’d add they are even worse in CSS
-…
-Building a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>

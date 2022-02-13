@@ -6,6 +6,16 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
+          "author": null,
+          "description": "New: Thumbnail image display for each article\nNew: Improved color, spacing, and typography for easier reading\nNew: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.\nChanged: All sections are expanded by default\nChanged: Switched to vitest for easier testing\nFixed: Long string (e.g. URL) caused horizontal overflow\nThank you: @naari3, @tianheg",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
+          "publishedOn": "2022-02-13T05:01:09.000Z",
+          "wordCount": 369,
+          "title": "v1.13.0 (#78)",
+          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
           "author": null,
           "description": "Fixed: Future articles appeared in the feed\nFxied: Security vulnerability from axios\nThank you: @naari3",
@@ -1569,5 +1579,5 @@
       ]
     }
   ],
-  "cliVersion": "1.12.1"
+  "cliVersion": "1.13.0"
 }

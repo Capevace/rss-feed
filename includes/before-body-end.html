@@ -1,0 +1,31 @@
+<script type="text/javascript">
+    (() => {
+        const createElement = (date) => `
+            <style>
+                .mat-last-updated {
+                    position: absolute;
+                    right: 0;
+                    width: 100%;
+                    left: 0;
+                    display: flex;
+                    justify-content: right;
+                    padding: 0px 2.5rem;
+                }
+            </style>
+            Last update: ${date.toLocaleString()}
+        `;
+
+        const date = new Date(
+            Array.from(document.querySelectorAll('[data-offset-date]'))
+                .map((e) => e.getAttribute('datetime'))
+                .sort()
+                .reverse()[0]
+        );
+
+        const element = document.createElement('div');
+        element.classList.add('mat-last-updated');
+        element.innerHTML = createElement(date);
+
+        document.body.prepend(element);
+    })();
+</script>

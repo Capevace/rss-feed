@@ -9138,6 +9138,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/github-attacker-breached-dozens-of-orgs-using-stolen-oauth-tokens/",
+          "author": "Sergiu Gatlan",
+          "description": "GitHub revealed today that an attacker is using stolen OAuth user tokens (issued to Heroku and Travis-CI) to download data from private repositories. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/github-attacker-breached-dozens-of-orgs-using-stolen-oauth-tokens/",
+          "publishedOn": "2022-04-15T23:09:50.000Z",
+          "wordCount": 1086,
+          "title": "GitHub: Attacker breached dozens of orgs using stolen OAuth tokens",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/08/18/GitHub_headpic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-15th-2022-encrypting-russia/",
+          "author": "Lawrence Abrams",
+          "description": "While countries worldwide have been the frequent target of ransomware attacks, Russia and CIS countries have been avoided by threat actors. The tables have turned with the NB65 hacking group modifying the leaked Conti ransomware to use in attacks on Russian entities. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-15th-2022-encrypting-russia/",
+          "publishedOn": "2022-04-15T21:19:25.000Z",
+          "wordCount": 1229,
+          "title": "The Week in Ransomware - April 15th 2022 - Encrypting Russia",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/01/22/russian-american-cyberattacks.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/t-mobile-customers-warned-of-unblockable-sms-phishing-attacks/",
           "author": "Sergiu Gatlan",
           "description": "An ongoing phishing campaign targets T-Mobile customers with malicious links using unblockable texts sent via SMS (Short Message Service) group messages. [...]",
@@ -11476,66 +11496,6 @@
           "wordCount": 966,
           "title": "Russia gets triggered by Ukraine joining NATO cyberdefense hub",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/02/23/Cyclops_Russia.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/google-exposes-tactics-of-a-conti-ransomware-access-broker/",
-          "author": "Bill Toulas",
-          "description": "Google's Threat Analysis Group has exposed the operations of a threat actor group dubbed \"EXOTIC LILY,\" an initial access broker linked to the Conti and Diavol ransomware operations. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/google-exposes-tactics-of-a-conti-ransomware-access-broker/",
-          "publishedOn": "2022-03-17T20:30:25.000Z",
-          "wordCount": 1414,
-          "title": "Google exposes tactics of a Conti ransomware access broker",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/05/01/hacking.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-internet-explorers-looming-demise-in-june/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft has reminded Windows customers today that they'll finally retire the Internet Explorer 11 web browser from some Windows 10 versions in June and replace it with the new Chromium-based Microsoft Edge. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-internet-explorers-looming-demise-in-june/",
-          "publishedOn": "2022-03-17T18:13:15.000Z",
-          "wordCount": 930,
-          "title": "Microsoft reminds of Internet Explorer's looming demise in June",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/03/17/Internet-Explorer__headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/asus-warns-of-cyclops-blink-malware-attacks-targeting-routers/",
-          "author": "Bill Toulas",
-          "description": "Multiple ASUS router models are vulnerable to the Russia-linked Cyclops Blink malware threat, causing the vendor to publish an advisory with mitigations for the security risk. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-cyclops-blink-malware-attacks-targeting-routers/",
-          "publishedOn": "2022-03-17T17:12:08.000Z",
-          "wordCount": 1186,
-          "title": "ASUS warns of Cyclops Blink malware attacks targeting routers",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/03/17/asus-routers.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/europe-warns-of-aircraft-gps-outages-tied-to-russian-invasion/",
-          "author": "Sergiu Gatlan",
-          "description": "The European Union Aviation Safety Agency (EASA), EU's air transport safety and environmental protection regulator, warned today of intermittent outages affecting Global Navigation Satellite Systems (GNSS) linked to the Russian invasion of Ukraine. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/europe-warns-of-aircraft-gps-outages-tied-to-russian-invasion/",
-          "publishedOn": "2022-03-17T16:28:47.000Z",
-          "wordCount": 1111,
-          "title": "Europe warns of aircraft GPS outages tied to Russian invasion",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/03/17/satellite_navigation.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/microsoft-creates-tool-to-scan-mikrotik-routers-for-trickbot-infections/",
-          "author": "Bill Toulas",
-          "description": "The TrickBot trojan has just added one more trick up its sleeve, now using vulnerable IoT (internet of things) devices like modem routers as proxies for its C2 (command and control) server communication. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/microsoft-creates-tool-to-scan-mikrotik-routers-for-trickbot-infections/",
-          "publishedOn": "2022-03-17T12:22:40.000Z",
-          "wordCount": 1381,
-          "title": "Microsoft creates tool to scan MikroTik routers for TrickBot infections",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2020/11/20/trickbot-header.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/big-sabotage-famous-npm-package-deletes-files-to-protest-ukraine-war/",
-          "author": "Ax Sharma",
-          "description": "This week, the developer of the popular npm package 'node-ipc' released sabotaged versions of the library in protest of the ongoing Russo-Ukrainian War. The 'node-ipc' package, which gets downloaded over a million times weekly, began deleting files on developer's machines, in addition to creating new text files with \"peace\" messages. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/big-sabotage-famous-npm-package-deletes-files-to-protest-ukraine-war/",
-          "publishedOn": "2022-03-17T09:51:45.000Z",
-          "wordCount": 1629,
-          "title": "BIG sabotage: Famous npm package deletes files to protest Ukraine war",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/03/17/npm-bg.png"
         }
       ]
     },
@@ -11544,6 +11504,16 @@
       "feedUrl": "https://www.technologyreview.com/feed/",
       "siteUrl": "https://www.technologyreview.com",
       "articles": [
+        {
+          "id": "https://www.technologyreview.com/?p=1050259",
+          "author": "Patrick Howell O'Neill",
+          "description": "The FBI said on Thursday that the Lazarus Group, a prolific hacking team run by the North Korean government, is responsible for the March 2022 hack of a cryptocurrency platform called Ronin Network.  The hackers stole $620 million in the cryptocurrency Ethereum. That’s an eye-catching number in almost any context. But in the Wild West…",
+          "link": "https://www.technologyreview.com/2022/04/15/1050259/a-620-million-hack-just-another-day-in-crypto/",
+          "publishedOn": "2022-04-15T18:14:03.000Z",
+          "wordCount": 1401,
+          "title": "A $620 million hack? Just another day in crypto",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/04/NK-ethereum-hack3.jpeg?resize=1200,600"
+        },
         {
           "id": "https://www.technologyreview.com/?p=1049519",
           "author": "MIT Technology Review Insights",
@@ -12163,46 +12133,6 @@
           "wordCount": 2508,
           "title": "Inside the plan to fix America’s never-ending cybersecurity failures",
           "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/03/WH-glitch3.png?resize=1200,600"
-        },
-        {
-          "id": "https://www.technologyreview.com/?p=1047439",
-          "author": "MIT Technology Review Insights",
-          "description": "As global viewers waited with bated breath in early February to see whether Japanese figure skater Hanyu Yuzuru would nail a legendary quadruple axel during the Beijing 2022 Winter Olympics, it was likely that few would have considered the amount of behind-the-scenes work needed to bring those images to their screens. The Olympic Winter Games…",
-          "link": "https://www.technologyreview.com/2022/03/17/1047439/winter-olympics-cloud-technology-sets-a-different-record/",
-          "publishedOn": "2022-03-17T20:28:32.000Z",
-          "wordCount": 1674,
-          "title": "Winter Olympics  cloud technology sets a different record",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/03/Olympic-Broadcasting-in-the-Cloud-delivers-efficiency-innovation-and-inclusiveness.jpg?resize=1200,600"
-        },
-        {
-          "id": "https://www.technologyreview.com/?p=1047413",
-          "author": "Sam Richards, Tate Ryan-Mosley",
-          "description": "Despite public assertions that it had gone dormant, a multi-agency task force consisting of federal, state, and local police that was created to monitor protests in Minnesota during the murder trial of former police officer Derek Chauvin continued to operate in secret after the trial’s conclusion, according to emails and documents examined by MIT Technology…",
-          "link": "https://www.technologyreview.com/2022/03/17/1047413/secret-police-surveillance-protesters-george-floyd-operation-safety-net/",
-          "publishedOn": "2022-03-17T16:39:56.000Z",
-          "wordCount": 2019,
-          "title": "Secret police: After protests around George Floyd’s murder ended, a police system for watching protesters kept going.",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/03/Untitled-4-1.jpeg?resize=1200,600"
-        },
-        {
-          "id": "https://www.technologyreview.com/?p=1047393",
-          "author": "Charlotte Jee",
-          "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Russia is risking the creation of a “splinternet”—and it could be irreversible Cut off: Russia’s disconnection from the online services of the West has been abrupt and severe. Facebook has been blocked…",
-          "link": "https://www.technologyreview.com/2022/03/17/1047393/the-download-russia-is-risking-the-creation-of-a-splinternet-and-it-could-be-irreversible/",
-          "publishedOn": "2022-03-17T13:06:39.000Z",
-          "wordCount": 1378,
-          "title": "The Download: Russia is risking the creation of a “splinternet”—and it could be irreversible",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/03/Splinternet-b-1.jpeg?resize=1200,600"
-        },
-        {
-          "id": "https://www.technologyreview.com/?p=1047352",
-          "author": "James Ball",
-          "description": "Russia’s disconnection from the online services of the West has been as abrupt and complete as its disconnection from real-world global trade routes. Facebook has been blocked entirely by Russian authorities, while Twitter is almost completely cut off. Many more companies have voluntarily withdrawn from the Russian market—including Apple, Microsoft, TikTok, Netflix, and others. Russia…",
-          "link": "https://www.technologyreview.com/2022/03/17/1047352/russia-splinternet-risk/",
-          "publishedOn": "2022-03-17T09:34:16.000Z",
-          "wordCount": 1879,
-          "title": "Russia is risking the creation of a “splinternet”—and it could be irreversible",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/03/Splinternet-b-1.jpeg?resize=1200,600"
         }
       ]
     },
@@ -12211,6 +12141,26 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-6677899",
+          "author": null,
+          "description": "Im Interview wirft Dr. Christian Jacobi einen exklusiven Blick aufs Design des neuen Telum-Prozessors. Er ist das Herz des neuen IBM-Mainframes z16.",
+          "link": "https://www.heise.de/news/Neuer-Prozessor-fuer-den-Mainframe-IBMs-Chefarchitekt-erklaert-das-Telum-Design-6677899.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-04-16T07:00:00.000Z",
+          "wordCount": 1615,
+          "title": "Neuer Prozessor für den Mainframe: IBMs Chefarchitekt erklärt das Telum-Design",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/5/8/4/0/4/mainframe_interviews-4401693f2334a5d4.png"
+        },
+        {
+          "id": "http://heise.de/-6546674",
+          "author": null,
+          "description": "Im c't uplink geht's um Passwörter und Strategien zum Absichern von Online-Konten, Passwortmanager gegen Login-Chaos und Zwei-Faktor-Authentifizierung.",
+          "link": "https://www.heise.de/news/Die-besten-Passwort-Strategien-c-t-uplink-42-7-6546674.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-04-16T04:30:00.000Z",
+          "wordCount": 1083,
+          "title": "Die besten Passwort-Strategien | c't uplink #42.7",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/6/1/7/9/4/signal-2022-04-13-100651_001-cbdbfe10448ade18.jpeg"
+        },
         {
           "id": "http://heise.de/-6693956",
           "author": null,
@@ -17160,226 +17110,6 @@
           "wordCount": 1392,
           "title": "heise-Angebot: Bis Sonntag noch 50 Prozent Rabatt auf die Videokurse der heise Academy",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/5/9/9/4/1/Academy-Abo-Ticker-16-9-L-053ffaab57affd98.jpg"
-        },
-        {
-          "id": "http://heise.de/-6586793",
-          "author": null,
-          "description": "Zwei große Netzbetreiber können Datenverkehr nicht mehr über den Internetknoten LINX führen. Andere europäische Knoten lehnen solche Sanktionen weiterhin ab.",
-          "link": "https://www.heise.de/news/Londoner-Internet-Exchange-depeert-zwei-russische-Netzbetreibern-6586793.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T18:24:00.000Z",
-          "wordCount": 1463,
-          "title": "Ukraine-Krieg: Londoner Netzknoten stoppt Peering mit russischen Netzbetreibern",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/2/2/2/6/shutterstock_1107716192-34380b971ba1224a.jpg"
-        },
-        {
-          "id": "http://heise.de/-6586558",
-          "author": null,
-          "description": "Content-Delivery-Spezialist Cloudflare ergänzt sämtliche Angebote um einen laufend aktualisierten Regelsatz zum Schutz der Webanwendungen.",
-          "link": "https://www.heise.de/news/Cloudflare-WAF-kostenloser-Schutz-fuer-Webserver-6586558.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T18:00:00.000Z",
-          "wordCount": 953,
-          "title": "Cloudflare WAF: kostenloser Schutz für Webserver",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/2/1/0/5/PC-Stacheldrath-b5f1d2e5aed1e26d.jpeg"
-        },
-        {
-          "id": "http://heise.de/-6586829",
-          "author": null,
-          "description": "Deutsche Medienregulierer wollen ein weiteres Zwangsgeld gegen das deutschsprachige Live-Programm des russischen Mediums RT festsetzen – in Höhe von 40.000 Euro",
-          "link": "https://www.heise.de/news/Medienregulierer-setzen-zweites-Zwangsgeld-zu-deutschem-RT-Programm-fest-6586829.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T17:56:00.000Z",
-          "wordCount": 966,
-          "title": "Medienregulierer setzen zweites Zwangsgeld zu deutschem RT-Programm fest",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/2/2/4/4/shutterstock_1696906258-de686f8273fe7932.jpg"
-        },
-        {
-          "id": "http://heise.de/-6586589",
-          "author": null,
-          "description": "Dass Videokonferenzen auch nach Corona Alltag bleiben, ist Microsofts große Hoffnung. Entsprechend erhält Teams einige neue Funktionen für die hybride Arbeit.",
-          "link": "https://www.heise.de/news/Microsofts-Goldesel-Teams-komplett-ausgerichtet-aufs-hybride-Buero-6586589.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T17:29:00.000Z",
-          "wordCount": 1326,
-          "title": "Microsofts Goldesel: Teams komplett ausgerichtet aufs hybride Büro",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/2/1/2/1/Microsoft_Teams_Rooms-1dc3f9708bcc9334.png"
-        },
-        {
-          "id": "http://heise.de/-6586777",
-          "author": null,
-          "description": "MacBook Pros mit getauschter Hauptplatine können das jüngste Monterey-Update nicht richtig einspielen. Auch Apples Rauswurf von Python 2.7 sorgt für Fehler.",
-          "link": "https://www.heise.de/news/Probleme-mit-macOS-12-3-Berichte-ueber-lahmgelegte-MacBooks-kaputte-Skripte-6586777.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T17:05:00.000Z",
-          "wordCount": 1205,
-          "title": "Probleme mit macOS 12.3: Berichte über lahmgelegte MacBooks, kaputte Skripte",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/2/2/1/8/shutterstock_1862075311-c974973153e112c7.jpg"
-        },
-        {
-          "id": "http://heise.de/-6586633",
-          "author": null,
-          "description": "Die neue Chip-Stacking-Technik beim Ryzen 7 5800X3D führt zu Vorsichtsmaßnahmen bei AMD: Der CPU-Takt und die Spannung lassen sich nicht anpassen.",
-          "link": "https://www.heise.de/news/Ryzen-7-5800X3D-AMDs-schnellste-Gaming-CPU-ohne-Uebertaktungsmoeglichkeit-6586633.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T16:37:00.000Z",
-          "wordCount": 1129,
-          "title": "Ryzen 7 5800X3D: AMDs schnellste Gaming-CPU ohne Übertaktungsmöglichkeit",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/2/1/4/5/Ryzen_7_5800X3D-723ded3098fd161e.jpeg"
-        },
-        {
-          "id": "http://heise.de/-6586280",
-          "author": null,
-          "description": "Meta stellt Eltern in den USA Überwachungsprogramme zur Verfügung, mit denen sie die Aktivitäten ihrer Kinder auf Instagram und bei Oculus kontrollieren können.",
-          "link": "https://www.heise.de/news/Meta-US-Eltern-koennen-Oculus-und-Instagram-Konten-ihrer-Kinder-verwalten-6586280.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T15:24:00.000Z",
-          "wordCount": 1579,
-          "title": "Meta: US-Eltern können Oculus- und Instagram-Konten ihrer Kinder verwalten",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/9/4/5/shutterstock_2065684229-4c850490acebf2f9.jpg"
-        },
-        {
-          "id": "http://heise.de/-6586355",
-          "author": null,
-          "description": "Die eintägige IIoT Conference schlägt im Juni auf der automatica die Brücke zwischen IT und Automatisierungstechnik.",
-          "link": "https://www.heise.de/news/IIoT-Conference-Entwicklerkonferenz-im-Rahmen-der-automatica-in-Muenchen-6586355.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T14:39:00.000Z",
-          "wordCount": 991,
-          "title": "heise-Angebot: IIoT Conference: Entwicklerkonferenz im Rahmen der automatica in München",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/9/9/0/iiotconf-5384f93f35ed2280.jpg"
-        },
-        {
-          "id": "http://heise.de/-6586373",
-          "author": null,
-          "description": "Update oder Ransomware? Microsofts Anti-Viren-Lösung ist sich nicht ganz sicher.",
-          "link": "https://www.heise.de/news/l-f-Microsoft-Defender-kaempft-gegen-Office-6586373.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T13:52:00.000Z",
-          "wordCount": 841,
-          "title": "l+f: Microsoft Defender kämpft gegen Office",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/9/9/9/shutterstock_1378498490-a4647d4fe8cd2430.jpg"
-        },
-        {
-          "id": "http://heise.de/-6585865",
-          "author": null,
-          "description": "Server mit ClickHouse Database Management System sind verwundbar. Ein Sicherheitsupdate steht zum Download bereit.",
-          "link": "https://www.heise.de/news/Online-Analysetool-ClickHouse-DBMS-Komprimierte-Dateien-als-Schadcode-Schleuder-6585865.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T13:23:00.000Z",
-          "wordCount": 912,
-          "title": "Online-Analysetool ClickHouse DBMS: Komprimierte Dateien als Schadcode-Schleuder",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/7/4/1/shutterstock_668074000-95ba03df0409561c.jpg"
-        },
-        {
-          "id": "http://heise.de/-6586059",
-          "author": null,
-          "description": "Vom vollständig automatisierten Software-Deployment bis zum Bereitstellen der Infrastructure-as-Code per GitOps liefert das Online-Event einschlägiges Know-how.",
-          "link": "https://www.heise.de/news/Mastering-GitOps-2022-Jetzt-noch-Tickets-fuer-die-Heise-Konferenz-sichern-6586059.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T13:13:00.000Z",
-          "wordCount": 1141,
-          "title": "heise-Angebot: Mastering GitOps 2022: Jetzt noch Tickets für die Heise-Konferenz sichern",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/8/3/2/Aufmacher-Teaserbild-28280f3a67f2f644.jpg"
-        },
-        {
-          "id": "http://heise.de/-6586258",
-          "author": null,
-          "description": "Wer Microsoft-Dienste aus der Cloud einsetzt, erhält meist auch ein Azure Active Directory. Jedoch ist die Standardkonfiguration alles andere als sicher.",
-          "link": "https://www.heise.de/news/Das-Interview-zur-neuen-iX-Alle-MS-365-Nutzer-muessen-sich-ums-Azure-AD-kuemmern-6586258.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T12:57:00.000Z",
-          "wordCount": 1629,
-          "title": "heise-Angebot: Das Interview zur neuen iX: Alle MS-365-Nutzer müssen sich ums Azure AD kümmern",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/9/3/3/ix_422_master-9eea4e82178f67e3.png"
-        },
-        {
-          "id": "http://heise.de/-6475447",
-          "author": null,
-          "description": "Heise Medien und die Partner Acer, Bechtle und Intel möchten wissen, wie die Schule der Zukunft aussehen könnte. Daher rufen wir zum Ideenwettbewerb auf!",
-          "link": "https://www.heise.de/brandworlds/go-schule-morgen/ideenwettbewerb/ideenwettbewerb-go-schule-morgen-jetzt-mitmachen/?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T11:57:00.000Z",
-          "wordCount": 1440,
-          "title": "Anzeige: Ideenwettbewerb GO! Schule morgen: jetzt mitmachen!",
-          "imageUrl": "https://www.heise.de/brandworlds/go-schule-morgen/wp-content/uploads/sites/13/2022/01/Pixabay-lernen-hinweis-schule-untertan-3245793.jpg"
-        },
-        {
-          "id": "http://heise.de/-6585507",
-          "author": null,
-          "description": "Microsofts Work Trend Index hält fest, wie groß die Diskrepanz der Erwartungen an die neue Arbeitsrealität zwischen Chefetagen und Mitarbeitenden ist: groß.",
-          "link": "https://www.heise.de/news/Microsoft-Eure-Chefs-wissen-nicht-was-ihr-Angestellten-im-Arbeitsalltag-wollt-6585507.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T11:11:00.000Z",
-          "wordCount": 1289,
-          "title": "Microsoft: Eure Chefs wissen nicht, was ihr Angestellten im Arbeitsalltag wollt",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/5/5/6/MSFT_WTI_annualReport_hero_desktop_1440x790-a253f4bf272cf424.jpeg"
-        },
-        {
-          "id": "http://heise.de/-6585834",
-          "author": null,
-          "description": "Um gemeinsam eine lange E-Mail zu schreiben, können Google-Nutzer nun direkt Docs heranziehen. Eine neue Vorlage verknüpft beide Programme miteinander.",
-          "link": "https://www.heise.de/news/Wer-sich-gerne-laenger-fasst-E-Mails-direkt-in-Google-Docs-schreiben-6585834.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T10:31:00.000Z",
-          "wordCount": 974,
-          "title": "Wer sich gerne länger fasst: E-Mails direkt in Google Docs schreiben",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/7/2/0/Spam2-37d34b7954a63508.jpg"
-        },
-        {
-          "id": "http://heise.de/-6585235",
-          "author": null,
-          "description": "Facebooks Mutterkonzern Meta hat ein Deepfake-Video des ukrainischen Präsidenten Wolodymyr Selenskyi entfernt, in dem er sich der russischen Invasion ergibt.",
-          "link": "https://www.heise.de/news/Facebook-entfernt-Deepfake-Video-von-Wolodymyr-Selenskyj-6585235.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T10:31:00.000Z",
-          "wordCount": 1014,
-          "title": "Facebook entfernt Deepfake-Video von Wolodymyr Selenskyi",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/4/2/0/selenskyjashdkjs-e348566cfc26a7e1.png"
-        },
-        {
-          "id": "http://heise.de/-6585231",
-          "author": null,
-          "description": "Angreifer könnten Computer attackieren, auf denen der Webbrowser Chrome installiert ist.",
-          "link": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Schwachstelle-bedroht-Google-Chrome-6585231.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T08:55:00.000Z",
-          "wordCount": 909,
-          "title": "Sicherheitsupdate: Kritische Schwachstelle bedroht Google Chrome",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/4/1/8/chrome2-1d3c320a641e7a13.png"
-        },
-        {
-          "id": "http://heise.de/-6550864",
-          "author": null,
-          "description": "Die zweite Vorschauversion gibt Einblicke in geplante Neuerungen in .NET 7. Der Ahead-of-Time-Compiler nähert sich.",
-          "link": "https://www.heise.de/news/NET-7-Zweite-Preview-erweitert-das-NET-CLI-6550864.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T08:49:00.000Z",
-          "wordCount": 1601,
-          "title": ".NET 7: Zweite Preview erweitert das .NET CLI",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/6/4/1/6/5/shutterstock_1357496909-c182ce3434d8f1e4.jpg"
-        },
-        {
-          "id": "http://heise.de/-6585065",
-          "author": null,
-          "description": "Die Google I/O findet dieses Jahr im Mai statt. Die Online-Teilnahme an der Konferenz im Shoreline Amphitheater ist kostenlos.",
-          "link": "https://www.heise.de/news/Googles-Entwicklerkonferenz-I-O-2022-weitgehend-online-aber-mit-Livepublikum-6585065.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T08:49:00.000Z",
-          "wordCount": 1025,
-          "title": "Googles Entwicklerkonferenz I/O 2022 weitgehend online, aber mit Livepublikum",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/3/3/1/googleio-1a9c60042001865d.png"
-        },
-        {
-          "id": "http://heise.de/-6585075",
-          "author": null,
-          "description": "Staatsnahe russische Medien erhielten mit Beginn des Kriegs ein entsprechendes Label – zehntausende Tweets wurden in der Folge gekennzeichnet.",
-          "link": "https://www.heise.de/news/Ukraine-Krieg-Twitter-kennzeichnete-bisher-61-000-Tweets-zu-staatsnahen-Medien-6585075.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T08:25:00.000Z",
-          "wordCount": 1218,
-          "title": "Russische Staatsmedien im Ukraine-Krieg: Twitter markiert zehntausende Tweets",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/3/3/7/shutterstock_1310971421-1c6f2414656d8028.jpg"
-        },
-        {
-          "id": "http://heise.de/-6543002",
-          "author": null,
-          "description": "Die Frühjahrsausgabe der \"We Are Developers!\"-Beilage zu c't und iX bietet Artikel zu moderner KI, Data Science, MLOps, Cloud-Security und autonomem Fahren.",
-          "link": "https://www.heise.de/news/We-Are-Developers-Das-Fruehjahrsmagazin-denkt-KI-neu-und-ist-gratis-verfuegbar-6543002.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T06:49:00.000Z",
-          "wordCount": 1164,
-          "title": "We Are Developers! Das Frühjahrsmagazin denkt KI neu und ist gratis verfügbar",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/5/9/6/6/4/Screenshot_2022-03-08_211533-493c70f4b00d4ed6.jpg"
-        },
-        {
-          "id": "http://heise.de/-6550002",
-          "author": null,
-          "description": "Ein erfahrener Pentester stellt die häufigsten Sicherheitslücken in Webanwendungen vor und erklärt, wie man sich erfolgreich schützt. 10 Prozent Rabatt bis 5.4.",
-          "link": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-6550002.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T06:30:00.000Z",
-          "wordCount": 954,
-          "title": "heise-Angebot: iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/6/3/6/7/5/2021_webdev_ws_1280x720_1-b8e24827fb707e22.png"
         }
       ]
     },
@@ -17807,26 +17537,6 @@
           "wordCount": 943,
           "title": "WordPress-Update: Angreifer könnten Admins Schadcode unterschieben",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/2/5/1/7/shutterstock_1027241377-6d72eb29d312b52e.jpg"
-        },
-        {
-          "id": "http://heise.de/-6585865",
-          "author": null,
-          "description": "Server mit ClickHouse Database Management System sind verwundbar. Ein Sicherheitsupdate steht zum Download bereit.",
-          "link": "https://www.heise.de/news/Online-Analysetool-ClickHouse-DBMS-Komprimierte-Dateien-als-Schadcode-Schleuder-6585865.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T13:23:00.000Z",
-          "wordCount": 912,
-          "title": "Online-Analysetool ClickHouse DBMS: Komprimierte Dateien als Schadcode-Schleuder",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/7/4/1/shutterstock_668074000-95ba03df0409561c.jpg"
-        },
-        {
-          "id": "http://heise.de/-6585231",
-          "author": null,
-          "description": "Angreifer könnten Computer attackieren, auf denen der Webbrowser Chrome installiert ist.",
-          "link": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Schwachstelle-bedroht-Google-Chrome-6585231.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
-          "publishedOn": "2022-03-17T08:55:00.000Z",
-          "wordCount": 909,
-          "title": "Sicherheitsupdate: Kritische Schwachstelle bedroht Google Chrome",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/1/4/1/8/chrome2-1d3c320a641e7a13.png"
         }
       ]
     },
@@ -17835,6 +17545,26 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2293141896872827363",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The U.S. Treasury Department has implicated the North Korea-backed Lazarus Group (aka Hidden Cobra) in the theft of $540 million from video game Axie Infinity's Ronin Network last month.\r\nOn Thursday, the Treasury tied the Ethereum wallet address that received the stolen funds to the threat actor and sanctioned the funds by adding the address to the Office of Foreign Assets Control's (OFAC)",
+          "link": "https://thehackernews.com/2022/04/lazarus-hackers-behind-540-million-axie.html",
+          "publishedOn": "2022-04-16T08:31:45.000Z",
+          "wordCount": 1409,
+          "title": "Lazarus Group Behind $540 Million Axie Infinity Crypto Hack and Attacks on Chemical Sector",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEjaZbDBJEP4bmKE58_GTWcnHUjAlkA-ZNceqTpf7mvVNVODl-OjflwOR2wDwxMQFVQeBU2986zS-6WzaKZvgBuAv7cihoTXIHOr4wTtUNCszw_L8P0sTpxtsGSdQOAszEaD10YJy_v4s-Bv9NReNYenLYPRx-kDYUJb8mTBo9KgeGy6bKSThbhqsuV4/s728-e1000/hackers.jpg"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3296248392299822648",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Cloud-based repository hosting service GitHub on Friday revealed that it discovered evidence of an unnamed adversary capitalizing on stolen OAuth user tokens to unauthorizedly download private data from several organizations.\r\n\"An attacker abused stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including NPM",
+          "link": "https://thehackernews.com/2022/04/github-says-hackers-breach-dozens-of.html",
+          "publishedOn": "2022-04-16T04:38:40.000Z",
+          "wordCount": 903,
+          "title": "GitHub Says Hackers Breached Dozens of Organizations Using Stolen OAuth Access Tokens",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhyyZD-eQE6DIUtLr32I8PmlXJJWLkfrss7xFzRsPGP2qUwIPloMe7K1P16NLiXwd19qgx8OdnhBKZ5mAQtZj9BSPE_Zw3UQ7tv8rf2BXsbkD1Ycot9dlUQXA9eSDAvPGO2PQ8QFC7Tj0fd3DhLqspr-ANfwPFJ7X5Bb9iNKdW8uDpp0__qjgN1QjbA/s728-e1000/github.jpg"
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-939648909991976830",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -19024,66 +18754,6 @@
           "wordCount": 1032,
           "title": "New Variant of Russian Cyclops Blink Botnet Targeting ASUS Routers",
           "imageUrl": "https://thehackernews.com/new-images/img/a/AVvXsEh21s4ejqfdQW2nqUZZ5m-XDUU4e3LIdsEeqn7uNU7fRHj2VQlvInVhK5oZV3nF7JmV-ThhRf8j5h_o_FK6oAUVVejZlN81kH-HWKeCuYbPHe7i3xNjGDVmfHZNaxStd14LfQV2WnsCDZFffpSNIb_k1CqJ7ONHndlDD-ttAy1rrfF8mTa-TZ_99Dzq=s728-e1000"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8789996358444743962",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "In what's yet another act of sabotage, the developer behind the popular \"node-ipc\" NPM package shipped a new version to protest Russia's invasion of Ukraine, raising concerns about security in the open-source and the software supply chain.\r\nAffecting versions 10.1.1 and 10.1.2 of the library, the changes introduced undesirable behavior by its maintainer RIAEvangelist, targeting users with IP",
-          "link": "https://thehackernews.com/2022/03/popular-npm-package-updated-to-wipe.html",
-          "publishedOn": "2022-03-17T13:25:49.000Z",
-          "wordCount": 1016,
-          "title": "Popular NPM Package Updated to Wipe Russia, Belarus Systems to Protest Ukraine Invasion",
-          "imageUrl": "https://thehackernews.com/new-images/img/a/AVvXsEhrsfJ09xWOgfoE7_w1ZBLUE8uhaR8Nbhl1ApoZcymz2bi3qXkTN5P3ZZ4bEfgYtG_wmPoi350aIB5_pJxiWvUOKZfzY3ehRCYGrfU-DWOJPXWGgoeNwph4voTqBi3oO_P44rjTzER7B92kK1GgU1WinGyFmZEnYXw0TnDhWu_xwey3IrKuLAfjfPdp=s728-e1000"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-9098908045084129046",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The malware known as DirtyMoe has gained new worm-like propagation capabilities that allow it to expand its reach without requiring any user interaction, the latest research has found.\r\n\"The worming module targets older well-known vulnerabilities, e.g., EternalBlue and Hot Potato Windows privilege escalation,\" Avast researcher Martin Chlumecký said in a report published Wednesday.\r\n\"One worm",
-          "link": "https://thehackernews.com/2022/03/dirtymoe-botnet-gains-new-exploits-in.html",
-          "publishedOn": "2022-03-17T12:59:15.000Z",
-          "wordCount": 911,
-          "title": "DirtyMoe Botnet Gains New Exploits in Wormable Module to Spread Rapidly",
-          "imageUrl": "https://thehackernews.com/new-images/img/a/AVvXsEiTipxcMA3gQJhZiNO3Iyj5gGiC8i6L3sal6eMF8KQ5GspqBoAAydQg1JTrYGMGDdlho8Gonmorea1APMpyi7MpOKCv86HXJM-8-dFNvBj_pGNXMVyGDAeO3Qcoz6oi-NOX7dZDBNiLXWvn6I7ePgcs6TwRceO8VN1C2V29wVRg6ZQLUw2GPuCX-Dqe"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3474726304528764764",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "As a CSIRT consultant, I cannot overemphasize the importance of effectively managing the first hour in a critical incident.\r\nFinding out what to do is often a daunting task in a critical incident. In addition, the feeling of uneasiness often prevents an incident response analyst from making effective decisions. However, keeping a cool head and actions planned out is crucial in successfully",
-          "link": "https://thehackernews.com/2022/03/the-golden-hour-of-incident-response.html",
-          "publishedOn": "2022-03-17T12:34:41.000Z",
-          "wordCount": 1543,
-          "title": "The Golden Hour of Incident Response",
-          "imageUrl": "https://thehackernews.com/new-images/img/a/AVvXsEhC6-Frx6ASetCVeIe0Isvdlr1XqhxQ83OCdKQex7NcREHwmRC-ibakhROH1Q3Yj9kyjb1nmM5sFbxoe9xRBjIuWx-bEBHGj-hoqdd8hOBhx77QmXi0u0afz-SDIWBatsxlTAkM4UMUVtaGJNasu4iuBHSz4OcnmdfDmN2xPdGF9KoVuwVyKYluGDMm=s728-e1000"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-303984399269906003",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Microsoft on Wednesday detailed a previously undiscovered technique put to use by the TrickBot malware that involves using compromised Internet of Things (IoT) devices as a go-between for establishing communications with the command-and-control (C2) servers.\r\n\"By using MikroTik routers as proxy servers for its C2 servers and redirecting the traffic through non-standard ports, TrickBot adds",
-          "link": "https://thehackernews.com/2022/03/trickbot-malware-abusing-hacked-iot.html",
-          "publishedOn": "2022-03-17T10:05:39.000Z",
-          "wordCount": 847,
-          "title": "TrickBot Malware Abusing Hacked IoT Devices as Command-and-Control Servers",
-          "imageUrl": "https://thehackernews.com/new-images/img/a/AVvXsEjtABJtT4zheeL0GMjWhl2OjB3Do_4F7ldpyEPdM_cfDSLIJU8NaQk_VLf7iknCvtaVVH7IC21zhlVJUfWSa8SxMjevGqJqVH0JW480uIDFhKz-M107U4ZX5oOYC_HkCLNPWd1C_B_whSRDYpoJVl-EjsCQcwPGktu3RIhNMEVHcvuB5EOa4PO0ebGT"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2049611945344489433",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The Security Service of Ukraine (SBU) said it has detained a \"hacker\" who offered technical assistance to the invading Russian troops by providing mobile communication services inside the Ukrainian territory.\r\nThe anonymous suspect is said to have broadcasted text messages to Ukrainian officials, including security officers and civil servants, proposing that they surrender and take the side of",
-          "link": "https://thehackernews.com/2022/03/ukraine-secret-service-arrests-hacker.html",
-          "publishedOn": "2022-03-17T08:46:43.000Z",
-          "wordCount": 817,
-          "title": "Ukraine Secret Service Arrests Hacker Helping Russian Invaders",
-          "imageUrl": "https://thehackernews.com/new-images/img/a/AVvXsEgjme1BmwPOM-NvsHwfIyfMrpUGvGH32ds5weq4zBkyulOnVYGJ7sUZroEgh6wNpK75nNMMbA_-z8eVO9ZENKNt8z5LEJGAOjKnmoUeBQE63Dr667Z_vpE0HcB3qr4qxQiczKXTQHs9YZGzw4RQ85L3e65A4QVzFeCELgFLYZr2vl58fUp41t7xukKs=s728-e1000"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6274703001276360383",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A newly disclosed security vulnerability in the Kubernetes container engine CRI-O called cr8escape could be exploited by an attacker to break out of containers and obtain root access to the host.\r\n\"Invocation of CVE-2022-0811 can allow an attacker to perform a variety of actions on objectives, including execution of malware, exfiltration of data, and lateral movement across pods,\" CrowdStrike",
-          "link": "https://thehackernews.com/2022/03/new-vulnerability-in-cri-o-engine-lets.html",
-          "publishedOn": "2022-03-17T07:37:22.000Z",
-          "wordCount": 902,
-          "title": "New Vulnerability in CRI-O Engine Lets Attackers Escape Kubernetes Containers",
-          "imageUrl": "https://thehackernews.com/new-images/img/a/AVvXsEgq_gLSvfXm8qlAZRK_vTTc6_bLiznrZuXtNC2bJFIPFLtThL9PyI97t-gCafataW96ItA8Sq7lNY6eI1DMNrRqWMotA5q-rmDmw3EyZeeiMDrt9xlcNH3MfLcAZlAe3eZDBwJdV-dxK-QEb7IguGpz-IDY--CBzugM8yqCOax6dQSs29xWTYvbYG3f=s728-e1000"
         }
       ]
     },
@@ -19092,6 +18762,56 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/16/apple_m2_chips/",
+          "author": null,
+          "description": "<h4>'Widespread internal testing' of four processor types</h4> <p>Apple is seemingly testing four next-generation M2 processors on software developed by third-party app makers in at least nine Mac models that are likely to be upcoming laptops and desktops.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/16/apple_m2_chips/",
+          "publishedOn": "2022-04-16T07:53:10.000Z",
+          "wordCount": 2351,
+          "title": "Apple dev logs suggest 'nine new M2-powered Macs'",
+          "imageUrl": "https://regmedia.co.uk/2021/09/03/shutterstock_apple.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/16/twitter_poison_pill_musk/",
+          "author": null,
+          "description": "<h4>Populist provocateur ponders partners to pay for platform prize</h4> <p><strong>Comment</strong>  Twitter on Friday said its board of directors had unanimously approved a plan to prevent a hostile takeover, something that became a distinct possibility after billionaire Elon Musk offered $43 billion to buy the social media network.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/16/twitter_poison_pill_musk/",
+          "publishedOn": "2022-04-16T01:14:36.000Z",
+          "wordCount": 2859,
+          "title": "Twitter preps poison pill to preclude Elon Musk's purchase plan",
+          "imageUrl": "https://regmedia.co.uk/2022/04/16/twitter_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/15/feds_north_korea_bounty/",
+          "author": null,
+          "description": "<h4>Meanwhile: Caltech grad earns five years in prison for heping Kim's coders</h4> <p>The US government offered a reward up to $5 million for information that helps disrupt North Korea's cryptocurrency theft, cyber-espionage, and other illicit state-backed activities.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/15/feds_north_korea_bounty/",
+          "publishedOn": "2022-04-15T23:24:47.000Z",
+          "wordCount": 2560,
+          "title": "Feds offer $5m reward for info on North Korean cyber crooks",
+          "imageUrl": "https://regmedia.co.uk/2022/04/15/north_korea_cyberattacks_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/15/githubs_dependabot_security/",
+          "author": null,
+          "description": "<h4>Instead of just raising the alarm, automated code-scold will flag where the fire is</h4> <p>GitHub's Dependabot is becoming more dependable thanks to its newfound ability to tell developers whether its security alerts are relevant or not.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/15/githubs_dependabot_security/",
+          "publishedOn": "2022-04-15T20:17:04.000Z",
+          "wordCount": 2642,
+          "title": "GitHub's Dependabot learns to report bad news you can use",
+          "imageUrl": "https://regmedia.co.uk/2020/11/02/github.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/15/rarible-flaw-nft/",
+          "author": null,
+          "description": "<h4>This isn't the moving-fast-and-breaking-things future we wanted</h4> <p>Miscreants exploited a now-fixed design flaw in the Rarible NFT marketplace to steal a non-fungible token from Taiwanese singer and actor Jay Chou and sell it for about $500,000.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/15/rarible-flaw-nft/",
+          "publishedOn": "2022-04-15T19:50:03.000Z",
+          "wordCount": 3071,
+          "title": "Star loses $500,000 NFT after crooks exploit Rarible market",
+          "imageUrl": "https://regmedia.co.uk/2021/10/16/nft.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/15/intels_neurochips_could_one_day/",
           "author": null,
@@ -24531,236 +24251,6 @@
           "wordCount": 2132,
           "title": "US biz to blow $120bn on AI by 2025, says IDC",
           "imageUrl": "https://regmedia.co.uk/2022/03/17/shutterstock_robot_dollar.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/microsoft_trickbot_scanner/",
-          "author": null,
-          "description": "<h4>Thanks... Micro... soft... OK, there, we said it</h4> <p>Microsoft has published a tool that scans for and detects MikroTik-powered Internet-of-Things devices that have been hijacked by the Trickbot gang.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/microsoft_trickbot_scanner/",
-          "publishedOn": "2022-03-17T20:51:28.000Z",
-          "wordCount": 2204,
-          "title": "Has Trickbot gang hijacked your MikroTik router? This scanner may have an answer",
-          "imageUrl": "https://regmedia.co.uk/2021/10/29/shutterstock_trojan_malware.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/ruby_ukraine_zverok/",
-          "author": null,
-          "description": "<h4>@zverok asks dev world for support as Russia's invasion of Ukraine continues</h4> <p><strong>Interview</strong>  Victor Shepelev, known as @zverok on Twitter and GitHub, is a Ruby developer and software architect who lives in Kharkiv, Ukraine. Since Russia invaded his country on February 24, 2022, he's had more pressing concerns than writing code, such as keeping his family safe and helping his fellow citizens survive.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/ruby_ukraine_zverok/",
-          "publishedOn": "2022-03-17T19:51:44.000Z",
-          "wordCount": 3152,
-          "title": "Coding in a war zone: A Ruby developer's life in Kharkiv",
-          "imageUrl": "https://regmedia.co.uk/2022/03/17/victor_family_photo.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/microsoft_datacenter_finland/",
-          "author": null,
-          "description": "<h4>Like the internet, excess energy will move through a series of tubes</h4> <p>Microsoft and Finland's largest energy company have partnered to build a new datacenter near Helsinki that will heat homes as it cools servers.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/microsoft_datacenter_finland/",
-          "publishedOn": "2022-03-17T18:40:26.000Z",
-          "wordCount": 2199,
-          "title": "Microsoft datacenter to heat homes in Finland",
-          "imageUrl": "https://regmedia.co.uk/2021/01/19/shutterstock_green_data_center.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/intel_100m_chip_skills/",
-          "author": null,
-          "description": "<h4>Bold moves to create a 'semi' literate pool of factory workers</h4> <p>Intel plans to spend tens of billions of dollars on a chip manufacturing <a target=\"_blank\" href=\"https://www.theregister.com/2022/01/21/intel_us20bn_ohio/\">mega-site in Ohio</a>, and the x86 titan knows it's critical to also invest in developing the future workforce to populate it.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/intel_100m_chip_skills/",
-          "publishedOn": "2022-03-17T18:00:11.000Z",
-          "wordCount": 2246,
-          "title": "Intel details $100m plan to boost US chip-making skills",
-          "imageUrl": "https://regmedia.co.uk/2019/08/26/shutterstock_generic_silicon_wafer.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/intels_100m_ohio/",
-          "author": null,
-          "description": "<h4>Bold moves to create a 'semi' literate pool of chip workers</h4> <p>Intel plans to spend tens of billions of dollars to build a chip manufacturing <a target=\"_blank\" href=\"https://www.theregister.com/2022/01/21/intel_us20bn_ohio/\">\"mega-site\" in Ohio</a>, but the chipmaker knows it's critical to also invest in developing the future workforce to populate it. This is even more pressing as Intel eyes a <a target=\"_blank\" href=\"https://www.theregister.com/2021/03/24/intel_gelsinger_strategy/\">larger overall footprint of fabs</a> in the United States and <a target=\"_blank\" href=\"https://www.theregister.com/2022/03/15/intel_germany_europe_investment/\">Europe</a>.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/intels_100m_ohio/",
-          "publishedOn": "2022-03-17T18:00:11.000Z",
-          "wordCount": 2191,
-          "title": "Intel’s $100m plan to help US fund Ohio chip workforce",
-          "imageUrl": "https://regmedia.co.uk/2019/08/26/shutterstock_generic_silicon_wafer.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/democrat_bills_big_mergers/",
-          "author": null,
-          "description": "<h4>Dem-backed bills would also grant powers to undo previous takeovers</h4> <p>A pair of law bills before the US House and Senate would give watchdogs stronger powers to block big mergers, and allow regulators to reach back into the past to dismantle previous M&amp;As deemed to be harmful. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/democrat_bills_big_mergers/",
-          "publishedOn": "2022-03-17T17:30:12.000Z",
-          "wordCount": 2546,
-          "title": "US mulls laws allowing FTC, DoJ to block $5bn+ mergers",
-          "imageUrl": "https://regmedia.co.uk/2022/03/18/shutterstock_elizabeth_warren.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/democrats_merger_draft_laws/",
-          "author": null,
-          "description": "<h4>Plus granting powers to undo previous takeovers</h4> <p>A pair of law bills before the US House and Senate would give watchdogs the power to block big mergers, and allow regulators to reach back into the past to dismantle previous M&amp;As deemed to be harmful. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/democrats_merger_draft_laws/",
-          "publishedOn": "2022-03-17T17:30:12.000Z",
-          "wordCount": 2255,
-          "title": "US mulls laws allowing FTC, DoJ to block $5bn+ mergers",
-          "imageUrl": "https://regmedia.co.uk/2021/02/11/shutterstock_bad_facebook.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/us_bills_mergers/",
-          "author": null,
-          "description": "<h4>Meta, Google and Amazon could be on the chopping block</h4> <p>A pair of new bills in the US House and Senate would block big mergers, and allow regulators to reach back into the past to dismantle previous M&amp;As deemed to be harmful. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/us_bills_mergers/",
-          "publishedOn": "2022-03-17T17:30:12.000Z",
-          "wordCount": 2318,
-          "title": "US bills aim to name deals over $5bn 'prohibited mergers'",
-          "imageUrl": "https://regmedia.co.uk/2022/03/17/merger_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/ovhcloud_microsoft_complaint/",
-          "author": null,
-          "description": "<h4>Several companies 'taking action to ensure a level playing field among cloud services providers' in Europe</h4> <p>Microsoft is facing an antitrust complaint in Europe from France's OVHcloud.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/ovhcloud_microsoft_complaint/",
-          "publishedOn": "2022-03-17T17:00:14.000Z",
-          "wordCount": 2385,
-          "title": "Microsoft faces EU antitrust complaint from OVHcloud",
-          "imageUrl": "https://regmedia.co.uk/2016/09/15/eu_flag_photo_via_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/exomars_suspended/",
-          "author": null,
-          "description": "<h4>ESA will need to source a different rocket, lander, and descent stage in time for next window in 2024</h4> <p>The European Space Agency (ESA) has slammed the brakes on its ExoMars rover, Rosalind Franklin.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/exomars_suspended/",
-          "publishedOn": "2022-03-17T16:30:10.000Z",
-          "wordCount": 2200,
-          "title": "ExoMars rover launch axed over Russia tensions",
-          "imageUrl": "https://regmedia.co.uk/2022/03/01/exomars_rosalind_franklin_rover.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/qualcomm_russia_sales/",
-          "author": null,
-          "description": "<h4>Policy via social media: It's a thing now. Even though Russia will be able to read it...</h4> <p>Chipmaker Qualcomm is the latest tech firm to stop doing business with Russia following the invasion of Ukraine.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/qualcomm_russia_sales/",
-          "publishedOn": "2022-03-17T16:02:08.000Z",
-          "wordCount": 2166,
-          "title": "Qualcomm reveals it's not selling to Russia during Twitter spat",
-          "imageUrl": "https://regmedia.co.uk/2020/11/05/shutterstock_qualcomm_editorial_only.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/microsoft_reseller_concerns/",
-          "author": null,
-          "description": "<h4>Who benefits from changes to the Partner Network? Well, it's not partners... or even their customers</h4> <p>Microsoft has \"evolved\" its Partner Network, but changing the name to the Microsoft Cloud Partner Program has done little to dispel concerns over the company's New Commerce Experience (NCE).…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/microsoft_reseller_concerns/",
-          "publishedOn": "2022-03-17T15:30:11.000Z",
-          "wordCount": 2710,
-          "title": "Microsoft's New Commerce Experience: Cloud resellers concerned",
-          "imageUrl": "https://regmedia.co.uk/2018/03/23/cloud_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/earthquake_strikes_wobbling_already_fragile/",
-          "author": null,
-          "description": "<h4>Shutdowns in factories put crunch on weakened supply chain</h4> <p>Wednesday's 7.3 magnitude earthquake off the coast of Fukushima, Japan, caused the temporary shutdown of some major manufacturers, including chip and component-makers Murata, Renesas and Kioxia, in addition to broader manufacturing companies in the area.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/earthquake_strikes_wobbling_already_fragile/",
-          "publishedOn": "2022-03-17T15:00:13.000Z",
-          "wordCount": 2358,
-          "title": "Japan's earthquake disrupts already fragile tech sector",
-          "imageUrl": "https://regmedia.co.uk/2021/10/15/factory_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/sap_ordered_to_repay_231m/",
-          "author": null,
-          "description": "<h4>Tribunal finds evidence of 'irregularly concluded software, support agreements'</h4> <p>Global application giant SAP is being ordered to pay South Africa's Department of Water and Sanitation ZAR 345m ($23.1m) after a couple of contracts between the two parties were set aside by the courts.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/sap_ordered_to_repay_231m/",
-          "publishedOn": "2022-03-17T14:30:13.000Z",
-          "wordCount": 2356,
-          "title": "SAP to repay $23.1m in water contracts settlement",
-          "imageUrl": "https://regmedia.co.uk/2022/03/17/shutterstock_lesotho.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/fcc_pacific_networks_comnet/",
-          "author": null,
-          "description": "<h4>Agency signals more actions targeting Chinese companies to come in the name of national security</h4> <p>Chinese telco Pacific Networks and its subsidiary ComNet must cease all services within the United States within 60 days from Wednesday March 16 following an order issued by the Federal Communications Commission (FCC).…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/fcc_pacific_networks_comnet/",
-          "publishedOn": "2022-03-17T14:00:18.000Z",
-          "wordCount": 2415,
-          "title": "FCC gives Pacific Networks 60 days to leave the US",
-          "imageUrl": "https://regmedia.co.uk/2022/03/08/shutterstock_china_usa.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/microsoft_updates_its_inhouse_linux/",
-          "author": null,
-          "description": "<h4>Homespun companion Linux system distro gets an update, but stays small – and 1.0</h4> <p>Microsoft has released the <a href=\"https://github.com/microsoft/CBL-Mariner/releases/tag/1.0.20220307-1.0\" rel=\"nofollow\">March-2022</a> update for CBL-Mariner, but the version number hasn't budged from 1.0.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/microsoft_updates_its_inhouse_linux/",
-          "publishedOn": "2022-03-17T13:30:10.000Z",
-          "wordCount": 2254,
-          "title": "Microsoft freshens up its in-house container Linux, CBL-Mariner",
-          "imageUrl": "https://regmedia.co.uk/2021/08/23/shutterstock_penguin_swimming.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/captcha_phishinbg_url/",
-          "author": null,
-          "description": "<h4>Select all images of you being duped into providing your credentials</h4> <p>CAPTCHA puzzles, designed to distinguish people from computer code, are being used to separate people from their login credentials.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/captcha_phishinbg_url/",
-          "publishedOn": "2022-03-17T13:00:11.000Z",
-          "wordCount": 2679,
-          "title": "How CAPTCHAs can cloak phishing URLs in emails",
-          "imageUrl": "https://regmedia.co.uk/2016/11/11/phishing.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/openness_of_oracle_licensing/",
-          "author": null,
-          "description": "<h4>Verified third-party tools do not guarantee compliance position</h4> <p>Oracle customers can only use its licensing tools after the company has started to talk to them about software audits or offered license advice. Meanwhile, third-party tools that have been verified by Oracle do not help users in terms of license compliance.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/openness_of_oracle_licensing/",
-          "publishedOn": "2022-03-17T12:30:05.000Z",
-          "wordCount": 2683,
-          "title": "Openness of Oracle licensing and audit tools questioned",
-          "imageUrl": "https://regmedia.co.uk/2016/08/10/oracle_logo_image_by_gongto_via_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/ico_cold_calling_fines/",
-          "author": null,
-          "description": "<h4>Businesses targeted elderly, made 750,000 calls to people on Telephone Preference System</h4> <p>Five British companies are collectively nursing a £405,000 fine from the UK's data watchdog for making a combined total of 750,000 unsolicited marketing calls targeting vulnerable elderly people.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/ico_cold_calling_fines/",
-          "publishedOn": "2022-03-17T11:45:09.000Z",
-          "wordCount": 2502,
-          "title": "Brit data regulator fines five cold-calling fiends £405k",
-          "imageUrl": "https://regmedia.co.uk/2015/06/18/phone_436357646768.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/file_explorer_windows_ads/",
-          "author": null,
-          "description": "<h4>An accidental glimpse of things to come or somebody hitting the wrong button?</h4> <p><strong>Comment</strong>  Microsoft's hurried backpedal over <a target=\"_blank\" href=\"https://www.theregister.com/2022/03/15/file_explorer_ad/\">advertisements in File Explorer</a> has industry watchers concerned.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/file_explorer_windows_ads/",
-          "publishedOn": "2022-03-17T11:00:14.000Z",
-          "wordCount": 2495,
-          "title": "How experimental was Microsoft's 'experimental banner' in File Explorer?",
-          "imageUrl": "https://regmedia.co.uk/2021/06/15/screenshot_windows_11_leak_a.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/racial_investigation_salesforce/",
-          "author": null,
-          "description": "<h4>The move follows lack of progress in equality and two resignations, campaign group says</h4> <p>A group of activist investors is targeting Salesforce in an effort to force the SaaS CRM giant to become the subject of an independent investigation into its practices regarding racial equality.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/racial_investigation_salesforce/",
-          "publishedOn": "2022-03-17T10:15:13.000Z",
-          "wordCount": 2606,
-          "title": "Activist investors attempt to push through racial diversity probe at Salesforce",
-          "imageUrl": "https://regmedia.co.uk/2019/11/06/bosschair.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/skyrora_testing/",
-          "author": null,
-          "description": "<h4>Brit rocketeers get ever closer to that first launch from UK soil</h4> <p>A space race of a sort in the UK has picked up pace in recent weeks, as aerospace company Orbex showed off its Kinloss launchpad in February and Skyrora this week opened its Midlothian rocket engine testing facility.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/skyrora_testing/",
-          "publishedOn": "2022-03-17T09:30:06.000Z",
-          "wordCount": 2587,
-          "title": "UK space firm Skyrora opens rocket testing site in Scotland",
-          "imageUrl": "https://regmedia.co.uk/2019/04/05/volodymyr_levykin.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/uber_union_london_mayor_wages/",
-          "author": null,
-          "description": "<h4>US biz's license to operate in London up for renewal this month</h4> <p>Gig workers have urged London Mayor Sadiq Khan to force Uber to pay drivers at least minimum wage as the ride-hailing biz seeks to renew its license to operate in the British capital.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/03/17/uber_union_london_mayor_wages/",
-          "publishedOn": "2022-03-17T08:28:13.000Z",
-          "wordCount": 2606,
-          "title": "Union presses mayor to force Uber to pay app drivers at least min wage",
-          "imageUrl": "https://regmedia.co.uk/2022/03/17/shutterstock_uber_london.jpg"
         }
       ]
     }

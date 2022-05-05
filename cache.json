@@ -8866,6 +8866,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
+          "author": "hello@smashingmagazine.com (Stefan Baumgartner)",
+          "description": "When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](link) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.",
+          "link": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
+          "publishedOn": "2022-05-05T09:30:00.000Z",
+          "wordCount": 3109,
+          "title": "Resilience, Flexibility And Immediacy: Working With Headless Systems",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!",
@@ -9182,6 +9197,76 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/nist-updates-guidance-for-defending-against-supply-chain-attacks/",
+          "author": "Lawrence Abrams",
+          "description": "The National Institute of Standards and Technology (NIST) has released updated guidance on securing the supply chain against cyberattacks. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/nist-updates-guidance-for-defending-against-supply-chain-attacks/",
+          "publishedOn": "2022-05-05T18:15:07.000Z",
+          "wordCount": 977,
+          "title": "NIST updates guidance for defending against supply-chain attacks",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/02/08/supply-chain.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/technology/ftc-to-force-isp-to-deploy-fiber-for-60k-users-to-match-speed-claims/",
+          "author": "Sergiu Gatlan",
+          "description": "The Federal Trade Commission (FTC) today proposed an order requiring Connecticut-based internet service provider Frontier Communications to stop \"lying\" to its customers and support its high-speed internet claims. [...]",
+          "link": "https://www.bleepingcomputer.com/news/technology/ftc-to-force-isp-to-deploy-fiber-for-60k-users-to-match-speed-claims/",
+          "publishedOn": "2022-05-05T17:43:23.000Z",
+          "wordCount": 1077,
+          "title": "FTC to force ISP to deploy fiber for 60K users to match speed claims",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/05/Installing_fiber_internet.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/microsoft-apple-and-google-to-support-fido-passwordless-logins/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft, Apple, and Google announced today plans to support a common passwordless sign-in standard (known as passkeys) developed by the World Wide Web Consortium (W3C) and the FIDO Alliance. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-apple-and-google-to-support-fido-passwordless-logins/",
+          "publishedOn": "2022-05-05T16:19:31.000Z",
+          "wordCount": 1212,
+          "title": "Microsoft, Apple, and Google to support FIDO passwordless logins",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/04/cybsecurity-lock-world.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-kernel-vulnerability/",
+          "author": "Bill Toulas",
+          "description": "Google has released the second part of the May security patch for Android, including a fix for an actively exploited Linux kernel vulnerability. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-kernel-vulnerability/",
+          "publishedOn": "2022-05-05T16:11:42.000Z",
+          "wordCount": 1070,
+          "title": "Google fixes actively exploited Android kernel vulnerability",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/09/17/Android.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/new-netdooka-malware-spreads-via-poisoned-search-results/",
+          "author": "Bill Toulas",
+          "description": "A new malware framework known as NetDooka has been discovered being distributed through the PrivateLoader pay-per-install (PPI) malware distribution service, allowing threat actors full access to an infected device. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/new-netdooka-malware-spreads-via-poisoned-search-results/",
+          "publishedOn": "2022-05-05T14:28:15.000Z",
+          "wordCount": 1126,
+          "title": "New NetDooka malware spreads via poisoned search results",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/05/malware-header.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/tor-project-upgrades-network-speed-performance-with-new-system/",
+          "author": "Bill Toulas",
+          "description": "The Tor Project has published details about a newly introduced system called Congestion Control that promises to eliminate speed limits on the network. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/tor-project-upgrades-network-speed-performance-with-new-system/",
+          "publishedOn": "2022-05-05T11:26:32.000Z",
+          "wordCount": 1131,
+          "title": "Tor project upgrades network speed performance with new system",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/05/traffic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/heroku-admits-that-customer-credentials-were-stolen-in-cyberattack/",
+          "author": "Ax Sharma",
+          "description": "Heroku has now revealed that the stolen GitHub integration OAuth tokens from last month further led to the compromise of an internal customer database. The Salesforce-owned cloud platform acknowledged the same compromised token was used by attackers to exfiltrate customers' hashed and salted passwords from \"a database.\" [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/heroku-admits-that-customer-credentials-were-stolen-in-cyberattack/",
+          "publishedOn": "2022-05-05T08:06:50.000Z",
+          "wordCount": 1601,
+          "title": "Heroku admits that customer credentials were stolen in cyberattack",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2019/12/04/Heroku.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/heroku-admits-to-customer-database-hack-after-oauth-token-theft/",
           "author": "Ax Sharma",
@@ -11371,26 +11456,6 @@
           "wordCount": 1172,
           "title": "U.S. sanctions crypto-exchange Garantex for aiding Hydra Market",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/03/07/Russia_cryptocurrency.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/technology/intel-shuts-down-all-business-operations-in-russia/",
-          "author": "Lawrence Abrams",
-          "description": "US chipmaker Intel announced Tuesday night that it had suspended all business operations in Russia, joining tech other companies who pulled out of the country due to the invasion of Ukraine. [...]",
-          "link": "https://www.bleepingcomputer.com/news/technology/intel-shuts-down-all-business-operations-in-russia/",
-          "publishedOn": "2022-04-06T03:57:28.000Z",
-          "wordCount": 858,
-          "title": "Intel shuts down all business operations in Russia",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/02/02/Intel2.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/australia-warns-of-money-recovery-phishing-luring-past-victims/",
-          "author": "Bill Toulas",
-          "description": "The Australian Competition & Consumer Commission has published an announcement to raise awareness about a spike in money recovery scams. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-money-recovery-phishing-luring-past-victims/",
-          "publishedOn": "2022-04-05T23:35:00.000Z",
-          "wordCount": 1059,
-          "title": "Australia warns of money recovery phishing luring past victims",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/10/13/flag_of_australia.jpg"
         }
       ]
     },
@@ -11399,6 +11464,16 @@
       "feedUrl": "https://www.technologyreview.com/feed/",
       "siteUrl": "https://www.technologyreview.com",
       "articles": [
+        {
+          "id": "https://www.technologyreview.com/?p=1051812",
+          "author": "Rhiannon Williams",
+          "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gene-edited pig heart given to a dying patient was infected with a pig virus The pig heart transplanted into an American patient earlier this year in a landmark operation was infected with…",
+          "link": "https://www.technologyreview.com/2022/05/05/1051812/download-pig-heart-transplant-infection-reddit-online-abortion-networks/",
+          "publishedOn": "2022-05-05T12:20:21.000Z",
+          "wordCount": 1186,
+          "title": "The Download: A transplant disaster, and online abortion networks",
+          "imageUrl": null
+        },
         {
           "id": "https://www.technologyreview.com/?p=1051725",
           "author": "Antonio Regalado",
@@ -12276,6 +12351,146 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-7077070",
+          "author": null,
+          "description": "Der chinesische Cloud-Anbieter möchte die eigenen RISC-V-Prozessoren unter Android als Plattform für IoT-Geräte etablieren.",
+          "link": "https://www.heise.de/news/Alibaba-bringt-Android-12-auf-RISC-V-Prozessoren-7077070.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T15:40:00.000Z",
+          "wordCount": 920,
+          "title": "Alibaba bringt Android 12 auf RISC-V-Prozessoren",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/5/1/7/8/Alibaba-Cloud_RISC-V_Xuantie-C906-crop-1651747854-2880x675-d9f5c5f20cb97158.png"
+        },
+        {
+          "id": "http://heise.de/-7076433",
+          "author": null,
+          "description": "Pulumi erlaubt das Bereitstellen von AWS CDK-Konstrukten und erweitert die für IaC offiziell freigegebenen Programmiersprachen um Java und YAML.",
+          "link": "https://www.heise.de/news/Infrastructure-as-Code-Vierte-Pulumi-Hauptversion-verspricht-Universal-IaC-7076433.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T15:19:00.000Z",
+          "wordCount": 1378,
+          "title": "Infrastructure-as-Code: Vierte Pulumi-Hauptversion verspricht Universal IaC",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/4/7/7/8/Pulumi_Universal_IaC-75b427dec860481f.png"
+        },
+        {
+          "id": "http://heise.de/-7076838",
+          "author": null,
+          "description": "GitHub verlangt nun von allen Nutzern der Plattform, dass sie bis Ende 2023 ihr Konto mit einer Form der Zwei-Faktor-Authentifizierung absichern.",
+          "link": "https://www.heise.de/news/Sichere-Software-Supply-Chain-GitHub-schreibt-Zwei-Faktor-Authentifizierung-vor-7076838.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T15:06:00.000Z",
+          "wordCount": 1135,
+          "title": "Sichere Software Supply Chain: GitHub schreibt Zwei-Faktor-Authentifizierung vor",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/5/0/5/6/shutterstock_232738360-419d75f84a6b11a5.jpg"
+        },
+        {
+          "id": "http://heise.de/-7076299",
+          "author": null,
+          "description": "IBM hat sein Midrange-Betriebssystem überholt: IBM i 7.5 integriert etwa Db2 for i und bietet die Entwicklungsumgebung Merlin und neue Sicherheitsfunktionen.",
+          "link": "https://www.heise.de/news/Runderneuert-Das-Midrange-Betriebssystem-IBM-i-7-5-7076299.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T14:28:00.000Z",
+          "wordCount": 1525,
+          "title": "Runderneuert: Das Midrange-Betriebssystem IBM i 7.5",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/4/6/8/3/p-ibm-power10-rack-806d6a4a9b1f7805.jpg"
+        },
+        {
+          "id": "http://heise.de/-7076812",
+          "author": null,
+          "description": "Ab Juni müssen VPN-Anbieter in Indien jede Menge Daten zu ihren Nutzern und Nutzerinnen vorhalten. Bei Nichtbefolgung droht schlimmstenfalls sogar Gefängnis.",
+          "link": "https://www.heise.de/news/Indien-VPN-Dienste-sollen-umfangreich-Nutzungsdaten-erheben-und-Jahre-speichern-7076812.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T14:18:00.000Z",
+          "wordCount": 1120,
+          "title": "Indien: VPN-Dienste sollen umfangreich Nutzungsdaten erheben und Jahre speichern",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/5/0/4/2/shutterstock_1206594373-2385c4116e0a7861.jpg"
+        },
+        {
+          "id": "http://heise.de/-7076977",
+          "author": null,
+          "description": "Der Funktionsumfang der Aqara G3 ist beeindruckend. Sie bietet etwa eine nützliche und spaßige Gestensteuerung und auch sonst hat die Kamera einiges zu bieten.",
+          "link": "https://www.techstage.de/test/besser-geht-es-nicht-fur-100-euro-ptz-uberwachungskamera-aqara-g3-mit-wlan-im-test/1ej23je?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T14:17:00.000Z",
+          "wordCount": 2402,
+          "title": "Besser geht es nicht (für 100 Euro): PTZ-Überwachungskamera Aqara G3 mit WLAN im Test",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/1ZAktkpTURBXy9lNGViZTMzOGEyZTA5N2UzNzBkZWMzMzdjYWJjZTZlYy5qcGeSlQMAAM0XgM0NOJMFzQSwzQJ2"
+        },
+        {
+          "id": "http://heise.de/-7076804",
+          "author": null,
+          "description": "Schneller, einfacher und sicherer sollen Log-ins quer über alle Geräte und Plattformen werden. Das unterstützen nun auch Apple, Google und Microsoft.",
+          "link": "https://www.heise.de/news/Passwort-Nachfolge-Apple-Google-und-Microsoft-unterstuetzen-erweitertes-FIDO-7076804.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T14:17:00.000Z",
+          "wordCount": 1300,
+          "title": "Passwort-Nachfolge: Apple, Google und Microsoft unterstützen erweitertes FIDO",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/5/0/3/8/FIdo-93a1c3f19b6ff7af.jpg"
+        },
+        {
+          "id": "http://heise.de/-7076231",
+          "author": null,
+          "description": "Ein wichtiger Sicherheitspatch schließt eine Schwachstelle in IBMs Informix Dynamic Server.",
+          "link": "https://www.heise.de/news/Sicherheitsupdate-schuetzt-IBMs-Datenbankmanagementsystem-Informix-Dynamic-Server-7076231.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T12:09:00.000Z",
+          "wordCount": 814,
+          "title": "Sicherheitsupdate schützt IBMs Datenbanksystem Informix Dynamic Server",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/4/6/4/5/shutterstock_1492712420-53047ff8fee2ae44.jpg"
+        },
+        {
+          "id": "http://heise.de/-7076632",
+          "author": null,
+          "description": "Für einen Aufpreis von 25 US-Dollar pro Monat dürfen Nutzer das Satelliten-Internet künftig auf dem gesamten Kontinent verwenden. Autos und Boote bleiben tabu.",
+          "link": "https://www.heise.de/news/Flexibilitaet-gegen-Aufpreis-Starlink-bietet-neue-Portability-Option-an-7076632.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T11:38:00.000Z",
+          "wordCount": 1102,
+          "title": "Flexibilität gegen Aufpreis: Starlink bietet neue Portability-Option an",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/4/9/4/6/Marketing_LandingRural-adbf0e11f2dc1325.jpg"
+        },
+        {
+          "id": "http://heise.de/-7075191",
+          "author": null,
+          "description": "heise Developer präsentiert software-architektur.tv, Eberhard Wolffs Videocast. Die Episode setzt den Architekturentwurf für die Beispielaufgabe fort.",
+          "link": "https://www.heise.de/news/software-architektur-tv-Loesungsstrategie-Kontext-am-Beispiel-iSAQB-Advanced-7075191.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T10:51:00.000Z",
+          "wordCount": 914,
+          "title": "software-architektur.tv: Lösungsstrategie & Kontext am Beispiel iSAQB Advanced",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/4/0/7/6/iSAQB-9831626a2292163f.png"
+        },
+        {
+          "id": "http://heise.de/-7076186",
+          "author": null,
+          "description": "Der Online-Musikdienst Soundcloud kauft Musiio, um mithilfe des auf Musik spezialisierten KI-Unternehmens Musikhits zu identifizieren.",
+          "link": "https://www.heise.de/news/Soundcloud-will-mit-Kauf-des-KI-Unternehmens-Musiio-beliebte-Lieder-erkennen-7076186.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T10:45:00.000Z",
+          "wordCount": 902,
+          "title": "Automatische Trendsuche: Soundcloud will mit Musiio beliebte Lieder erkennen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/4/6/2/0/shutterstock_1342811438-ad1e0984c4be3fde.jpg"
+        },
+        {
+          "id": "http://heise.de/-7075725",
+          "author": null,
+          "description": "Der Netzwerkausrüster Cisco hat unter anderem in Enterprise NFV Infrastrucutre Software eine kritische Lücke geschlossen.",
+          "link": "https://www.heise.de/news/Sicherheitsupdates-Cisco-schliesst-VM-Ausbruch-Luecken-mit-Root-Zugriff-7075725.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T10:42:00.000Z",
+          "wordCount": 999,
+          "title": "Sicherheitsupdates: Cisco schließt VM-Ausbruch-Lücken mit Root-Zugriff",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/4/3/6/7/cisco1-11025a8f03cd29a5.png"
+        },
+        {
+          "id": "http://heise.de/-6668518",
+          "author": null,
+          "description": "Rechnungsprogramme erstellen mustergültige Rechnungen, Angeboten und Mahnungen. Unterschiede gibt es etwa bei Zusatzfunktionen und unterstützten Schnittstellen.",
+          "link": "https://www.heise.de/download/specials/Rechnungsprogramme-fuer-Freiberufler-Handwerker-und-Unternehmer-im-Vergleich-6668518?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T10:27:00.000Z",
+          "wordCount": null,
+          "title": "Rechnungsprogramme für Freiberufler, Handwerker und Unternehmer",
+          "imageUrl": null
+        },
+        {
+          "id": "http://heise.de/-7075517",
+          "author": null,
+          "description": "Quantencomputer bedrohen übliche Verschlüsselungsmethoden und rücken immer näher. Im Workshop lernen Softwareentwickler, wie man die Gefahr rechtzeitig abwehrt.",
+          "link": "https://www.heise.de/news/c-t-Workshop-Post-Quanten-Kryptographie-7075517.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T10:00:00.000Z",
+          "wordCount": 970,
+          "title": "heise-Angebot: c’t-Workshop: Post-Quanten-Kryptographie",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/4/2/7/4/Post-Quanten-Kryptography-Ticker-Header-16-9-3c5d49b729d4a254.jpg"
+        },
         {
           "id": "http://heise.de/-7075549",
           "author": null,
@@ -17025,26 +17240,6 @@
           "wordCount": 1038,
           "title": "Patchday: Google schließt 44 Sicherheitslücken in Android",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/4/8/3/2/0/android1-b91ce676c20a7218.png"
-        },
-        {
-          "id": "http://heise.de/-6662154",
-          "author": null,
-          "description": "Lernen Sie die Vorteile von Azure AD kennen: Mit Active Directory aus der Cloud hybride Identitäten sicher verwalten. 10 Prozent Frühbucherrabatt bis 20.4.",
-          "link": "https://www.heise.de/news/iX-Workshop-Azure-AD-als-zentralen-Authentifizierungsdienst-einrichten-6662154.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-04-06T06:00:00.000Z",
-          "wordCount": 952,
-          "title": "heise-Angebot: iX-Workshop: Azure AD als zentralen Authentifizierungsdienst einrichten",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/4/7/2/0/8/Azure-Active-Directory-Ticker-Header-16-9-fb3a3a33c8d17715.jpg"
-        },
-        {
-          "id": "http://heise.de/-6663973",
-          "author": null,
-          "description": "Die World Wide Developers Conference wird trotz abklingender Pandemie erneut nicht live stattfinden. Das Online-Event startet am 6. Juni mit einer Keynote.",
-          "link": "https://www.heise.de/news/WWDC-2022-Apples-Entwicklerkonferenz-wieder-virtuell-6663973.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-04-05T23:29:00.000Z",
-          "wordCount": 1228,
-          "title": "WWDC 2022: Apples Entwicklerkonferenz wieder virtuell",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/4/8/2/2/8/Apple-WWDC22-announcement-hero_big.jpg.large_2x-af34489ba74a1519.jpg"
         }
       ]
     },
@@ -17053,6 +17248,26 @@
       "feedUrl": "https://www.heise.de/security/rss/alert-news.rdf",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "http://heise.de/-7076231",
+          "author": null,
+          "description": "Ein wichtiger Sicherheitspatch schließt eine Schwachstelle in IBMs Informix Dynamic Server.",
+          "link": "https://www.heise.de/news/Sicherheitsupdate-schuetzt-IBMs-Datenbankmanagementsystem-Informix-Dynamic-Server-7076231.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T12:09:00.000Z",
+          "wordCount": 814,
+          "title": "Sicherheitsupdate schützt IBMs Datenbanksystem Informix Dynamic Server",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/4/6/4/5/shutterstock_1492712420-53047ff8fee2ae44.jpg"
+        },
+        {
+          "id": "http://heise.de/-7075725",
+          "author": null,
+          "description": "Der Netzwerkausrüster Cisco hat unter anderem in Enterprise NFV Infrastrucutre Software eine kritische Lücke geschlossen.",
+          "link": "https://www.heise.de/news/Sicherheitsupdates-Cisco-schliesst-VM-Ausbruch-Luecken-mit-Root-Zugriff-7075725.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-05T10:42:00.000Z",
+          "wordCount": 999,
+          "title": "Sicherheitsupdates: Cisco schließt VM-Ausbruch-Lücken mit Root-Zugriff",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/4/3/6/7/cisco1-11025a8f03cd29a5.png"
+        },
         {
           "id": "http://heise.de/-7075530",
           "author": null,
@@ -17440,6 +17655,66 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8185278971042757942",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Google today announced plans to implement support for passwordless logins in Android and the Chrome web browser to allow users to seamlessly and securely sign in across different devices and websites irrespective of the platform.\r\n\"This will simplify sign-ins across devices, websites, and applications no matter the platform — without the need for a single password,\" Google said.\r\n<!--adsense-->",
+          "link": "https://thehackernews.com/2022/05/google-to-add-passwordless.html",
+          "publishedOn": "2022-05-05T14:24:38.000Z",
+          "wordCount": 875,
+          "title": "Google to Add Passwordless Authentication Support to Android and Chrome",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhZjff0FREKY1afxfzwnkVxg-RYZT6RYP3ALmNOanqw3Zh_8XzKUu2kmTIwKZXzuHRWbfQk_EDU1vPnZ4WILWfwOlVo48qHpi6WHG5FOQeg_X2uoMbU6cIfQ1qzsw1sJE46tO9GzD5AtH72f7gANlt6s8O45qLtbmNI7KfxPXW140IJ_XCTbpVx5APW/s728-e1000/passwordless.jpg"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1872877140458648177",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The National Institute of Standards and Technology (NIST) on Thursday released an updated cybersecurity guidance for managing risks in the supply chain, as it increasingly emerges as a lucrative attack vector.\r\n\"It encourages organizations to consider the vulnerabilities not only of a finished product they are considering using, but also of its components — which may have been developed elsewhere",
+          "link": "https://thehackernews.com/2022/05/nist-releases-updated-guidance-for.html",
+          "publishedOn": "2022-05-05T14:21:43.000Z",
+          "wordCount": 827,
+          "title": "NIST Releases Updated Cybersecurity Guidance for Managing Supply Chain Risks",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgXKEMdd59pgdyNz9Rdu4cNd4MFXU9-Z3pQip3ib9ieKXrMWBnO-DtB8GbDsUf1wwJm9ixww2Jx6HFyNhAciArl1OZhgqzp2OxmQ_mcL8UwBkP_UURo1ZM6rKBU8e6gBF81Qdbb46iP3X7k6b84VSYnz-bvE-Hp2Kd13t1t9oROnFvlxcAYnLIWKqZq/s728-e1000/nistt.jpg"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8033139713361669672",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Two high-severity security vulnerabilities, which went undetected for several years, have been discovered in a legitimate driver that's part of Avast and AVG antivirus solutions.\r\n\"These vulnerabilities allow attackers to escalate privileges enabling them to disable security products, overwrite system components, corrupt the operating system, or perform malicious operations unimpeded,\"",
+          "link": "https://thehackernews.com/2022/05/researchers-disclose-10-year-old.html",
+          "publishedOn": "2022-05-05T13:48:08.000Z",
+          "wordCount": 816,
+          "title": "Researchers Disclose Years-Old Vulnerabilities in Avast and AVG Antivirus",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEi79HXH8JwFK6dZr4AlDUEcnS5d5HtJsxuaAtj31_u8l6rNOcpE8TdllbTXCTaRjuIsxWUrqbOzmyhz6mE4Nx0xY1m4BSifV7mSEx7i47PmacFNB7YzddLPTjhY2hTTL2paske99If83TpH6jZ76Kw4K7N-vc4tkHU49Omp-dhxMIPQXYZuHheut04m/s728-e1000/avast.jpg"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4724780618023502856",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "The developers who create the software, applications and programs that drive digital business have become the lifeblood of many organizations. Most modern businesses would not be able to (profitably) function, without competitive applications and programs, or without 24-hour access to their websites and other infrastructure.\r\nAnd yet, these very same touchpoints are also often the gateway that",
+          "link": "https://thehackernews.com/2022/05/the-importance-of-defining-secure-code.html",
+          "publishedOn": "2022-05-05T11:14:16.000Z",
+          "wordCount": 1524,
+          "title": "The Importance of Defining Secure Code",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEjMR8U6qeI-PKwvpJ1OWbFJnw1SsDh73rqgDYTKh4odaUTpER4pjThumvg67zVSinM0QaJpVYKf_ZfuftYrJzIXKUZiJKEzpNHuaIcikvkgzqZ0PRBz-dPVxa6opotJ_cxTOzTkz798hsFeTLLVy1M6Wdss47OiXhG9doAJfkW6RIeldNu2J7F23s13/s728-e1000/image.jpg"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7174192668546909965",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Salesforce-owned subsidiary Heroku on Thursday acknowledged that the theft of GitHub integration OAuth tokens further involved unauthorized access to an internal customer database.\r\nThe company, in an updated notification, revealed that a compromised token was abused to breach the database and \"exfiltrate the hashed and salted passwords for customers' user accounts.\"\r\nAs a consequence, Salesforce",
+          "link": "https://thehackernews.com/2022/05/heroku-forces-user-password-resets.html",
+          "publishedOn": "2022-05-05T10:58:33.000Z",
+          "wordCount": 775,
+          "title": "Heroku Forces User Password Resets Following GitHub OAuth Token Theft",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEg15Z2d_xS5elVdgf0xSUYqiHRPanhvDc3o8p0Vx09SlFdq1BQDAfW13mhR2zYu63dhu11Dj1cdPhHiHiFtH5bPgZ6_Iv97KMZMz_d4jK2j0sevffYpoMTNRvYoNJ-TYmmm39-mytEXjguYQe0_2BTPFQi5HSQd_bvARRrgvs9CvnhkU-IFkvptj2rP/s728-e1000/heroku.jpg"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4310621821721184573",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "An ElasticSearch server instance that was left open on the Internet without a password contained sensitive financial information about loans from Indian and African financial services.\r\nThe leak, which was discovered by researchers from information security company UpGuard, amounted to 5.8GB and consisted of a total of 1,686,363 records.\r\n\"Those records included personal information like name,",
+          "link": "https://thehackernews.com/2022/05/thousands-of-borrowers-data-exposed.html",
+          "publishedOn": "2022-05-05T10:31:01.000Z",
+          "wordCount": 882,
+          "title": "Thousands of Borrowers' Data Exposed from ENCollect Debt Collection Service",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhTgi9H4WBWnX8uXNR64AyqaHmqm10tiiCva53qyNqPqD6zp9ly1WbmpqgTVJkJp9Oe6-qhKrEEJJPdQf9ze8iAchTdassk2ADJgTzF1AmMiJUAIY2VQZ9YuHE02-nLK9uB9cU7vsovMf-CZh7j3VVIDuqJ-h1g7qCwWLNVQez9gi06OSypDNrncSHz/s728-e1000/encollect.jpg"
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-852837176389976737",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -18607,6 +18882,126 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/bluesky_update/",
+          "author": null,
+          "description": "<h4>Bluesky thinking includes blueprints for distributed social network</h4> <p>After several years of work, Twitter's open-source offshoot Bluesky has published some code and more information about what it's doing – but not a new social network yet.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/bluesky_update/",
+          "publishedOn": "2022-05-05T16:40:06.000Z",
+          "wordCount": 2581,
+          "title": "Did you know Twitter has an open-source arm? This is what it's been up to",
+          "imageUrl": "https://regmedia.co.uk/2021/05/25/twitter_shutterstock_editorial_only.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/sec_delisting_china/",
+          "author": null,
+          "description": "<h4>US requires a bit more transparency than some Chinese tech companies are giving</h4> <p>More Chinese tech companies including Tencent, JD.com, and China Mobile face delisting by the US Securities and Exchange Commission (SEC) thanks to opaque disclosures.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/sec_delisting_china/",
+          "publishedOn": "2022-05-05T16:08:10.000Z",
+          "wordCount": 2247,
+          "title": "SEC adds Tencent, JD.com, China Mobile to group facing potential delisting",
+          "imageUrl": "https://regmedia.co.uk/2018/07/10/shutterstock_stock_worries.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/citrix_daas_google_azure/",
+          "author": null,
+          "description": "<h4>It's Q2 2022 – and remote/mixed access is still very much a thing</h4> <p>Citrix has made deals with cloud providers to sell its Desktop as a Service (Daas) platform, providing enterprises with a choice of host for its virtual desktop products.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/citrix_daas_google_azure/",
+          "publishedOn": "2022-05-05T15:36:38.000Z",
+          "wordCount": 2396,
+          "title": "Citrix spreads its Desktop as a Service across Google and Azure clouds",
+          "imageUrl": "https://regmedia.co.uk/2021/11/15/shutterstock_empty_office.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/tablet_pc_sales_dip_q1_2022/",
+          "author": null,
+          "description": "<h4>Panic buying is over, but the market's still well above pre-pandemic norms</h4> <p>Shipments from nearly all of the major tablet manufacturers are declining as consumers and educators find other things to do with their money.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/tablet_pc_sales_dip_q1_2022/",
+          "publishedOn": "2022-05-05T15:04:12.000Z",
+          "wordCount": 2277,
+          "title": "Tablet PC sales decline as consumers consider inflation",
+          "imageUrl": "https://regmedia.co.uk/2020/09/29/thinkpad_nano_x1.png"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/azure_ad_update_compliance/",
+          "author": null,
+          "description": "<h4>Love your Windows Update Compliance reports? Best learn to love Azure AD as well</h4> <p>Users of Microsoft's Update Compliance service have been warned that <a target=\"_blank\" rel=\"nofollow\" href=\"https://techcommunity.microsoft.com/t5/windows-it-pro-blog/azure-ad-required-for-update-compliance-after-october-15-2022/ba-p/3301621\">a move to Azure Active Directory will be required</a> if they wish to continue using the service.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/azure_ad_update_compliance/",
+          "publishedOn": "2022-05-05T14:33:35.000Z",
+          "wordCount": 2228,
+          "title": "Microsoft to nudge more users toward Azure Active Directory",
+          "imageUrl": "https://regmedia.co.uk/2018/04/10/update_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/palantir_leaps_from_covid_role/",
+          "author": null,
+          "description": "<h4>Controversial analytics company sees expansion into healthcare continuing</h4> <p>Peter Thiel-founded analytics company Palantir has won a $90 million, five-year contract with the US Department of Health and Human Services (HHS) for a \"holistic\" enterprise data project.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/palantir_leaps_from_covid_role/",
+          "publishedOn": "2022-05-05T14:00:07.000Z",
+          "wordCount": 2242,
+          "title": "Palantir expands from Covid role, wins $90m deal with US Department of Health",
+          "imageUrl": "https://regmedia.co.uk/2022/05/05/shutterstock_peter_thiel.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/google_eu_sovereign/",
+          "author": null,
+          "description": "<h4>Woos European firms who don't want their data caught in the US Cloud Act dragnet</h4> <p>Google is joining Microsoft in its attempts to tackle EU concerns <a target=\"_blank\" rel=\"nofollow\" href=\"https://cloud.google.com/blog/products/workspace/announcing-sovereign-controls-for-google-workspace\">regarding data sovereignty</a> but some privacy experts are yet to be convinced by the move.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/google_eu_sovereign/",
+          "publishedOn": "2022-05-05T13:30:08.000Z",
+          "wordCount": 2708,
+          "title": "Google chases sovereignty market with EU Workspace Data product",
+          "imageUrl": "https://regmedia.co.uk/2021/11/10/shutterstock_data_center.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/arm_china_ceo_stays/",
+          "author": null,
+          "description": "<h4>Middle Kingdom subsidiary claims Allen Wu refusing to 'hand over his management duties'</h4> <p>The Arm saga is continuing with the ousted CEO of Arm's renegade Chinese division still refusing to step down, despite being fired again recently.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/arm_china_ceo_stays/",
+          "publishedOn": "2022-05-05T13:00:07.000Z",
+          "wordCount": 2383,
+          "title": "Arm China CEO refuses to go, despite SoftBank taking control",
+          "imageUrl": "https://regmedia.co.uk/2017/03/21/arm_dynamiq_graphic.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/yandex_datacenter_in_finland/",
+          "author": null,
+          "description": "<h4>Russia's Google desperately seeking new energy deal after Finnish renewables supplier agreement terminated</h4> <p>Finnish energy supplier Ilmatar says it has terminated a supplier agreement to provide electricity to Yandex's datacenter in the southern part of the country, forcing the facility to rely on diesel generators.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/yandex_datacenter_in_finland/",
+          "publishedOn": "2022-05-05T12:30:11.000Z",
+          "wordCount": 2764,
+          "title": "Yandex's only datacenter outside of Russia still running on diesel",
+          "imageUrl": "https://regmedia.co.uk/2022/05/05/shutterstock_yandex.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/google_cancels_biannual_performance_reviews/",
+          "author": null,
+          "description": "<h4>New review system supposedly less of a headache for managers, staff</h4> <p>Google is shifting to one performance review per annum for employees even though more than half of its workforce consider the current twice yearly appraisal system to be beneficial.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/google_cancels_biannual_performance_reviews/",
+          "publishedOn": "2022-05-05T11:41:59.000Z",
+          "wordCount": 2335,
+          "title": "Google cancels bi-annual performance reviews, shifts to GRAD system",
+          "imageUrl": "https://regmedia.co.uk/2021/09/08/google_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/fda_cavity_detection/",
+          "author": null,
+          "description": "<h4>Ain't that the tooth?</h4> <p>VideaHealth, a dental AI startup spun out of MIT and Harvard, has received FDA approval in the US to commercialize its cavity-detection algorithm for clinical use. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/fda_cavity_detection/",
+          "publishedOn": "2022-05-05T10:30:10.000Z",
+          "wordCount": 2262,
+          "title": "Watchdog rubber-stamps cavity-detecting neural network for dentists",
+          "imageUrl": "https://regmedia.co.uk/2022/05/04/dentist_computer.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/stock_market_twitter/",
+          "author": null,
+          "description": "<h4>Good thing no one's buying or selling stock from Twitter posts, right? Um, right?</h4> <p>For years, Twitter posts and other online messages have been gathered and analyzed by financial algorithms in an effort to anticipate stock market movements. But, it turns out, these smart systems are rather dumb.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/stock_market_twitter/",
+          "publishedOn": "2022-05-05T09:29:10.000Z",
+          "wordCount": 2647,
+          "title": "Eggheads demo how to fool share-trading bots with carefully crafted retweets",
+          "imageUrl": "https://regmedia.co.uk/2015/11/03/stock_market_image_via_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/05/bt_deal_with_aws/",
           "author": null,
@@ -23506,76 +23901,6 @@
           "wordCount": 2549,
           "title": "Google not complying with South Korea's app store payments law",
           "imageUrl": "https://regmedia.co.uk/2022/04/06/shutterstock_south_korea_flag_icon.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/06/singapore_digital_currency_regulation/",
-          "author": null,
-          "description": "<h4>Increases regulation on operators to stop money laundering and terror funding</h4> <p>Singapore's Monetary Authority (MAS) has opined that all transactions involving digital tokens carry higher inherent money laundering and terrorist funding risks, and introduced new regulations so that local players are less likely to facilitate such crimes.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/06/singapore_digital_currency_regulation/",
-          "publishedOn": "2022-04-06T05:59:10.000Z",
-          "wordCount": 2406,
-          "title": "'All digital token transactions carry higher inherent risks': Singapore government",
-          "imageUrl": "https://regmedia.co.uk/2019/09/18/shutterstock_singapore.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/06/2021_national_semiconductor_market_share/",
-          "author": null,
-          "description": "<h4>US has over half the market, Japan is a tale of woe</h4> <p>China finished 2021 holding just four per cent of global semiconductor market, research firm IC Insights stated on Tuesday.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/06/2021_national_semiconductor_market_share/",
-          "publishedOn": "2022-04-06T04:45:32.000Z",
-          "wordCount": 2521,
-          "title": "China finished 2021 with 4% global semiconductor market share",
-          "imageUrl": "https://regmedia.co.uk/2022/03/09/china_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/06/shanghai_lockdown_robots/",
-          "author": null,
-          "description": "<h4>Drones, delivery-bots and robo-sprayers at work in locked-down megacity</h4> <p>State-controlled media in China is proudly <a target=\"_blank\" href=\"https://english.news.cn/20220405/c378ccc74a84487288ccb2bdd008c748/c.html\">reporting</a> the use of robots to facilitate the “temporary closed-off management” of Shanghai, which has experienced a new surge of COVID.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/06/shanghai_lockdown_robots/",
-          "publishedOn": "2022-04-06T03:38:24.000Z",
-          "wordCount": 2475,
-          "title": "China rolls out bots to enforce ‘temporary closed-off management’ of Shanghai",
-          "imageUrl": "https://regmedia.co.uk/2022/01/27/china_shutterstock3.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/06/microsoft_365_cloud/",
-          "author": null,
-          "description": "<h4>'Just the beginning of our Windows and Microsoft cloud integration' says Windows boss</h4> <p>Microsoft has revealed plans to make cloudy Windows 11 PCs easily available from, and integrated with, its flagship OS on physical PCs, and hinted at much more integration between Redmond's desktop operating system and its clouds.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/06/microsoft_365_cloud/",
-          "publishedOn": "2022-04-06T01:30:41.000Z",
-          "wordCount": 2833,
-          "title": "Microsoft brings Cloud PCs and local desktops together in Windows 365",
-          "imageUrl": "https://regmedia.co.uk/2022/04/06/supplied_windows_365_switch.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/05/us_germany_hydra/",
-          "author": null,
-          "description": "<h4>US also charges Russia-based web host owner regarding cyber-crime market</h4> <p>US and German federal agencies came down hard on Hydra, the longest-running known dark-web marketplace trafficking in illegal drugs and money-laundering services, with a multi-pronged attack that aimed to cut off multiple heads of the nefarious online beast.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/05/us_germany_hydra/",
-          "publishedOn": "2022-04-05T23:12:52.000Z",
-          "wordCount": 2542,
-          "title": "Feds slay dark-web souk Hydra: Servers and $25m in crypto-coins seized",
-          "imageUrl": "https://regmedia.co.uk/2022/04/05/hyrda_monster_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/05/kuiper/",
-          "author": null,
-          "description": "<h4>Amazingly SpaceX isn't on the list</h4> <p>Amazon's proposed broadband satellite constellation, Project Kuiper, has inched closer to making it into orbit, even if some of the rockets it intends to use have yet to take their first flights.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/05/kuiper/",
-          "publishedOn": "2022-04-05T22:12:04.000Z",
-          "wordCount": 2495,
-          "title": "Amazon books rocket flights for its Kuiper broadband internet satellites",
-          "imageUrl": "https://regmedia.co.uk/2022/04/05/rocket_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/05/us_cybersecurity_cdp/",
-          "author": null,
-          "description": "<h4>Some in tech industry are ecstatic: 'A historic step forward' and timing 'couldn't be any better'</h4> <p>The US State Department this week launched an agency responsible for developing online defense and privacy-protection policies and direction as the Biden administration seeks to integrate cybersecurity into America's foreign relations.  …</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/05/us_cybersecurity_cdp/",
-          "publishedOn": "2022-04-05T21:23:23.000Z",
-          "wordCount": 3152,
-          "title": "US State Department opens cybersecurity policy bureau",
-          "imageUrl": "https://regmedia.co.uk/2022/04/05/us_department_of_state_logo_shutterstock.jpg"
         }
       ]
     }

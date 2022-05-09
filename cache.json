@@ -9178,6 +9178,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/costa-rica-declares-national-emergency-after-conti-ransomware-attacks/",
+          "author": "Ax Sharma",
+          "description": "The Costa Rican President Rodrigo Chaves has declared a national emergency following cyber attacks from Conti ransomware group. BleepingComputer also observed Conti published most of the 672 GB dump that appears to contain data belonging to the Costa Rican government agencies. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/costa-rica-declares-national-emergency-after-conti-ransomware-attacks/",
+          "publishedOn": "2022-05-09T07:53:28.000Z",
+          "wordCount": 1537,
+          "title": "Costa Rica declares national emergency after Conti ransomware attacks",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/03/01/Conti--ransomware.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/check-your-gems-rubygems-fixes-unauthorized-package-takeover-bug/",
+          "author": "Ax Sharma",
+          "description": "The RubyGems package repository has fixed a critical vulnerability that would allow anyone to unpublish (\"yank\") certain Ruby packages from the repository and republish their tainted or malicious versions with the same file names and version numbers. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/check-your-gems-rubygems-fixes-unauthorized-package-takeover-bug/",
+          "publishedOn": "2022-05-08T20:59:59.000Z",
+          "wordCount": 1316,
+          "title": "Check your gems: RubyGems fixes unauthorized package takeover bug",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2020/12/16/RubyGems.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/exploits-created-for-critical-f5-big-ip-flaw-install-patch-immediately/",
           "author": "Lawrence Abrams",
           "description": "Security researchers are warning F5 BIG-IP admins to immediately install the latest security updates after creating exploits for a recently disclosed critical CVE-2022-1388 remote code execution vulnerability. [...]",
@@ -11386,36 +11406,6 @@
           "wordCount": 990,
           "title": "Microsoft Edge gets performance boost with updated sleeping tabs",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/06/01/Microsoft-Edge.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/hackers-use-contis-leaked-ransomware-to-attack-russian-companies/",
-          "author": "Lawrence Abrams",
-          "description": "A hacking group used the Conti's leaked ransomware source code to create their own ransomware to use in cyberattacks against Russian organizations. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-use-contis-leaked-ransomware-to-attack-russian-companies/",
-          "publishedOn": "2022-04-09T18:30:42.000Z",
-          "wordCount": 1337,
-          "title": "Hackers use Conti's leaked ransomware to attack Russian companies",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/28/hacker.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/new-android-banking-malware-remotely-takes-control-of-your-device/",
-          "author": "Bill Toulas",
-          "description": "A new Android banking malware named Octo has appeared in the wild, featuring remote access capabilities that allow malicious operators to perform on-device fraud. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/new-android-banking-malware-remotely-takes-control-of-your-device/",
-          "publishedOn": "2022-04-09T15:02:04.000Z",
-          "wordCount": 1320,
-          "title": "New Android banking malware remotely takes control of your device",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/07/07/Android-headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-autopatch-steals-the-fun-from-patch-tuesdays/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft announced that Windows Autopatch, a service designed to automatically keep Windows and Office software up to date, will be released in July 2022. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-autopatch-steals-the-fun-from-patch-tuesdays/",
-          "publishedOn": "2022-04-09T14:00:00.000Z",
-          "wordCount": 1009,
-          "title": "Microsoft: Windows Autopatch steals the 'fun' from Patch Tuesdays",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/08/31/Windows-Update.jpg"
         }
       ]
     },
@@ -12201,6 +12191,76 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-7077723",
+          "author": null,
+          "description": "In einer Fabrik von Quanta Computer in Shanghai kam es zu Ausschreitungen. Hunderte Arbeiter, die Apple-Produkte fertigen, sprangen über COVID-Zäune.",
+          "link": "https://www.heise.de/news/China-Chaotische-Zustaende-bei-Corona-Lockdown-in-MacBook-Fabrik-7077723.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-09T07:43:00.000Z",
+          "wordCount": 1204,
+          "title": "China: Chaotische Zustände bei Corona-Lockdown in MacBook-Fabrik",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/5/5/2/9/shutterstock_1261948831-f76bb5d4483d5768.jpg"
+        },
+        {
+          "id": "http://heise.de/-7079049",
+          "author": null,
+          "description": "Sicherheitsforscher habe in vergleichsweise kurzer Zeit Exploit-Code entwickelt. Das könnten Angreifer auch. Admins sollten BIP-IP-Produkte aktualisieren.",
+          "link": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-F5-BIG-IP-Systeme-koennten-bevorstehen-7079049.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-09T07:19:00.000Z",
+          "wordCount": 985,
+          "title": "Jetzt patchen! Attacken auf F5 BIG-IP-Systeme könnten bevorstehen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/6/2/2/4/shutterstock_1862075341-6d718db0475394c5.jpg"
+        },
+        {
+          "id": "http://heise.de/-7078994",
+          "author": null,
+          "description": "Dafür, dass SpaceX dem ukrainischen Militär mit dem Satelliten-Internet hilft, werde sich Elon Musk \"verantworten müssen\", droht Dmitri Rogosin.",
+          "link": "https://www.heise.de/news/Satelliten-Internet-fuer-ukrainisches-Militaer-Roskosmos-Chef-droht-Elon-Musk-7078994.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-09T07:00:00.000Z",
+          "wordCount": 1128,
+          "title": "Starlink-Internet für ukrainisches Militär: Roskosmos-Chef Rogosin droht Musk",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/6/1/9/4/shutterstock_2095910923-96446cf58f16478b.jpg"
+        },
+        {
+          "id": "http://heise.de/-7078896",
+          "author": null,
+          "description": "Eine KBV-Umfrage zum eRezept und zur elektronischen Arbeitsunfähigkeitsbescheinigung zeigt: In der Praxis hapert es oftmals an den technischen Voraussetzungen.",
+          "link": "https://www.heise.de/news/eHealth-Umfrage-Telematikinfrastruktur-ist-groesstes-Hindernis-fuer-Praxen-7078896.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-09T06:45:00.000Z",
+          "wordCount": 1273,
+          "title": "eHealth-Umfrage: Telematikinfrastruktur ist \"größtes Hindernis\" für Praxen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/6/1/4/2/shutterstock_1256048419-9d3e8de45a145a75.jpg"
+        },
+        {
+          "id": "http://heise.de/-7078593",
+          "author": null,
+          "description": "Der BREKO-Verband hat die Effizienz von Internet-Zugangsverfahren bewerten lassen: Glasfaser soll die Infrastruktur mit dem weitaus geringsten Strombedarf sein.",
+          "link": "https://www.heise.de/news/Gutachten-Glasfaser-uebertraegt-Daten-am-energiesparendsten-7078593.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-09T06:09:00.000Z",
+          "wordCount": 1238,
+          "title": "Gutachten: Glasfaser überträgt Daten am energiesparendsten​",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/5/9/8/6/shutterstock_1331553542-c16330404e91c7ee.jpg"
+        },
+        {
+          "id": "http://heise.de/-7074413",
+          "author": null,
+          "description": "In drei Tagen mit den Tools des Elastic Stack die eigenen Unternehmensdaten monitoren, in Echtzeit analysieren und visualisieren lernen. Noch einige Plätze.",
+          "link": "https://www.heise.de/news/iX-Workshop-Mit-dem-Elastic-Stack-Unternehmensdaten-auswerten-und-visualisieren-7074413.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-09T06:00:00.000Z",
+          "wordCount": 1022,
+          "title": "heise-Angebot: iX-Workshop: Mit dem Elastic Stack Unternehmensdaten auswerten und visualisieren",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/3/6/6/6/2021_webdev_ws_1280x720_3-0d88897c25254621.png"
+        },
+        {
+          "id": "http://heise.de/-7072982",
+          "author": null,
+          "description": "Bis Ende 2025 will Intel bei der Chip-Fertigungstechnik zu TSMC aufschließen. Der AMD Ryzen 7000 braucht wohl unbedingt teuren DDR5-Speicher.",
+          "link": "https://www.heise.de/news/Intel-will-TSMC-einholen-und-spart-Wasser-Ryzen-7000-Spekulationen-7072982.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-09T04:00:00.000Z",
+          "wordCount": 1551,
+          "title": "Intel will TSMC einholen und spart Wasser, Ryzen-7000-Spekulationen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/3/0/2/2/Zhaoxin-KaiXian-KX-U6580-und-ZX-200-4K-9c9683f27a0561c4.jpg"
+        },
         {
           "id": "http://heise.de/-7078694",
           "author": null,
@@ -16630,46 +16690,6 @@
           "wordCount": 1093,
           "title": "Twitter revidiert Änderung: Eingebettete gelöschte Tweets bleiben sichtbar",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/5/0/3/4/4/shutterstock_1572348718-1e8f245b2fdfebbe.jpg"
-        },
-        {
-          "id": "http://heise.de/-6667553",
-          "author": null,
-          "description": "Viele USB-Geräte belegen zusammen mit einem Netzteil eine komplette Steckdose. Doch das ist in vielen Fällen unnötig. Steckdosen mit USB-Ports schaffen Abhilfe.",
-          "link": "https://www.techstage.de/ratgeber/darum-sollten-mehrfachsteckdosen-und-unterputz-steckdosen-immer-usb-ports-haben/n79r97w?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-04-09T14:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Darum sollten Mehrfachsteckdosen und Unterputz-Steckdosen immer USB-Ports haben",
-          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/psJktkpTURBXy9jNGE2NzZjZGUxMmQ4MmFlMzA5NmE3ZjcwMDc5Mzc4Ny5qcGeSlQMAAM0XgM0NOJMFzQSwzQJ2"
-        },
-        {
-          "id": "http://heise.de/-6667656",
-          "author": null,
-          "description": "Die EU-Kommission steht in der Kritik, da sie BT trotz Brexit einen 1,2 Milliarden Euro Auftrag für den Transeuropäischen Telematikdienst erteilen will.",
-          "link": "https://www.heise.de/news/Sensible-Behoerdendaten-British-Telecom-soll-EU-Verwaltungsnetzwerk-managen-6667656.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-04-09T13:29:00.000Z",
-          "wordCount": 1470,
-          "title": "Sensible Behördendaten: British Telecom soll EU-Verwaltungsnetzwerk managen",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/5/0/2/7/3/shutterstock_1862063197-4847ab0bd04d1d91.jpg"
-        },
-        {
-          "id": "http://heise.de/-6667593",
-          "author": null,
-          "description": "Der VDE hat ein Fortbildungsprogramm zu technisch versierten Arzt- und Patientenhelfern zertifiziert. Sie sollen Gesundheits-Apps und die ePA voranbringen.",
-          "link": "https://www.heise.de/news/VDE-Digital-technische-Assistenten-sollen-die-E-Medizin-befluegeln-6667593.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-04-09T11:05:00.000Z",
-          "wordCount": 1636,
-          "title": "VDE: Digital-technische Assistenten sollen die E-Medizin beflügeln",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/5/0/2/3/7/shutterstock_704402449-0f763076a53b05e2.jpg"
-        },
-        {
-          "id": "http://heise.de/-6667559",
-          "author": null,
-          "description": "Das Wirtschaftsministerium hat für die EU-Initiative für Cloud-Infrastrukturen mehrere, teils besonders energieeffiziente Projekte in Brüssel eingereicht.",
-          "link": "https://www.heise.de/news/Cloud-Grossprojekt-IPCEI-750-Millionen-Foerderhilfe-fuer-26-deutsche-Firmen-6667559.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-04-09T08:21:00.000Z",
-          "wordCount": 1273,
-          "title": "Cloud-Großprojekt IPCEI: 750-Millionen-Förderhilfe für 26 deutsche Firmen",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/5/0/2/1/9/shutterstock_686521927-84314942017a1bc7.jpg"
         }
       ]
     },
@@ -16678,6 +16698,16 @@
       "feedUrl": "https://www.heise.de/security/rss/alert-news.rdf",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "http://heise.de/-7079049",
+          "author": null,
+          "description": "Sicherheitsforscher habe in vergleichsweise kurzer Zeit Exploit-Code entwickelt. Das könnten Angreifer auch. Admins sollten BIP-IP-Produkte aktualisieren.",
+          "link": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-F5-BIG-IP-Systeme-koennten-bevorstehen-7079049.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2022-05-09T07:19:00.000Z",
+          "wordCount": 985,
+          "title": "Jetzt patchen! Attacken auf F5 BIG-IP-Systeme könnten bevorstehen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/3/6/2/2/4/shutterstock_1862075341-6d718db0475394c5.jpg"
+        },
         {
           "id": "http://heise.de/-7077449",
           "author": null,
@@ -17055,6 +17085,36 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3747176288782621273",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of phishing attacks that deploy an information-stealing malware called Jester Stealer on compromised systems.\r\nThe mass email campaign carries the subject line \"chemical attack\" and contains a link to a macro-enabled Microsoft Excel file, opening which leads to computers getting infected with Jester Stealer.\r\nThe attack, which",
+          "link": "https://thehackernews.com/2022/05/ukrainian-cert-warns-citizens-of-new.html",
+          "publishedOn": "2022-05-09T08:55:28.000Z",
+          "wordCount": 826,
+          "title": "Ukrainian CERT Warns Citizens of a New Wave of Attacks Distributing Jester Malware",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEilMLJXxcYjtUwAZKdnzWczhhd-J9QkoEihgZIDUL52I39at9BU_5SijsUXeJpJjgqenxybN_3yFDUKVQT2UNd4Cza8AalkOgdjbuJBgtJxtD82mV3P9fxDVuYNjBUcLGWPqzel88wGpC8wQzGIjgu8hZ22V4xw43txPyhhfGIaH7LKb5wjuyKHh9Oq/s728-e1000/jester.jpg"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2527292358474747802",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Days after F5 released patches for a critical remote code execution vulnerability affecting its BIG-IP family of products, security researchers are warning that they were able to create an exploit for the shortcoming.\r\nTracked CVE-2022-1388 (CVSS score: 9.8), the flaw relates to an iControl REST authentication bypass that, if successfully exploited, could lead to remote code execution, allowing",
+          "link": "https://thehackernews.com/2022/05/researchers-develop-rce-exploit-for.html",
+          "publishedOn": "2022-05-09T08:44:57.000Z",
+          "wordCount": 826,
+          "title": "Researchers Develop RCE Exploit for the Latest F5 BIG-IP Vulnerability",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEg5YVTszIPCrdhSDdbiNHZLx_7Y2PAuginDDFpNuucqQi41rQJzZBQsCVl76q-q6zR9HFVZXmi0yyFewOigZ5wHmfwe70i2i4vV2o1SBRVjWao43lzjnjfsf46ec97G23hfDsQIp9h-V1YqO63aTfI3IpP5L2FNeKMjZZI4kwSp-TrlkIBAZv6Cc902/s728-e1000/exploit.jpg"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4221102643833651592",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The U.S. State Department has announced rewards of up to $10 million for any information leading to the identification of key individuals who are part of the infamous Conti cybercrime gang.\r\nAdditionally, it's offering another $5 million for intelligence information that could help arrest or convict individuals who are conspiring or attempting to affiliate with the group in a ransomware attack.",
+          "link": "https://thehackernews.com/2022/05/us-offering-10-million-reward-for.html",
+          "publishedOn": "2022-05-09T03:28:43.000Z",
+          "wordCount": 796,
+          "title": "U.S. Offering $10 Million Reward for Information on Conti Ransomware Hackers",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgFNCvnRT8Z17owMSikITsg4SD2FCTzBI10CXgcxCbXOfyxtgJ1OjGCZ5qeIweHTyNom5Fq46xe1rETUnt3Y-bZmfsiXNNlL23fiq_w6Tj5ZRde-xac2idkUaOGCOmWT3lxZZHnc-xIRRZohhKz3YjnOS_iTycMNwcbTDDSRzd5JOImDkHVEgsLRoHp/s728-e1000/hackers.jpg"
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4876283572118121423",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -18172,6 +18232,46 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/09/only_microsoft_can_give_open/",
+          "author": null,
+          "description": "<h4>Forget the days of NT (Nineties Tyranny), lets change that to New Trust. Corporate IT is watching</h4> <p><strong>Opinion</strong>  We concentrate on their technical aspects, but file systems can get pretty political. They're one of the last fronts still fighting in the Interoperability Wars. While you can plumb any number of open file systems to Linux if you need what they have, NTFS remains a problem.  …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/09/only_microsoft_can_give_open/",
+          "publishedOn": "2022-05-09T09:15:11.000Z",
+          "wordCount": 2830,
+          "title": "Only Microsoft can give open-source the gift of NTFS. Only Microsoft needs to",
+          "imageUrl": "https://regmedia.co.uk/2018/06/25/penguin_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/09/who_me/",
+          "author": null,
+          "description": "<h4>All routers are equal, but some are more equal than others</h4> <p><strong>Who, Me?</strong>  Welcome to an edition of <a target=\"_blank\" href=\"https://www.theregister.com/Tag/who-me\">Who, Me?</a> where some configuration confusion left an entire nation cast adrift.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/09/who_me/",
+          "publishedOn": "2022-05-09T08:27:07.000Z",
+          "wordCount": 2519,
+          "title": "An international incident or just some finger trouble at the console?",
+          "imageUrl": "https://regmedia.co.uk/2019/12/10/cutphoneline.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/09/amd_xilinx_datacenter/",
+          "author": null,
+          "description": "<h4>Same goes for Arm, for the same reason: Power efficiency</h4> <p><strong>Comment</strong>  AMD’s plans to integrate AI functionality from its Xilinx FPGAs with its Epyc server microprocessors presents several tantalizing opportunities for systems builders and datacenter operators alike, Glenn O’Donnell, research director at Forrester, told <em>The Register</em>.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/09/amd_xilinx_datacenter/",
+          "publishedOn": "2022-05-09T07:28:13.000Z",
+          "wordCount": 2736,
+          "title": "AMD’s Xilinx-enhanced Epycs are right up the alley of datacenter builders",
+          "imageUrl": "https://regmedia.co.uk/2022/04/11/shutterstock_network.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/08/pegasus_india_data_law_controversy/",
+          "author": null,
+          "description": "<h4>Stalled law satisfies few and has even been identifed as likely to damage growth</h4> <p><strong>Analysis</strong>  NSO Group's Pegasus spyware-for-governments keeps returning to the headlines thanks to revelations such as its use against <a target=\"_blank\" href=\"https://www.theregister.com/2022/05/02/spain_pegasus_malware/\">Spain's prime minister</a> and <a target=\"_blank\" href=\"https://www.theregister.com/2022/04/18/uk_catalan_spyware/\">senior British officials</a>. But there's one nation where outrage about Pegasus has been constant for nearly a year and shows little sign of abating: India.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/05/08/pegasus_india_data_law_controversy/",
+          "publishedOn": "2022-05-08T21:03:08.000Z",
+          "wordCount": 3283,
+          "title": "India's ongoing outrage over Pegasus malware tells a bigger story about privacy law problems",
+          "imageUrl": "https://regmedia.co.uk/2021/11/09/shutterstock_india_infosec.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/05/08/in_brief_ai/",
           "author": null,
@@ -22781,46 +22881,6 @@
           "wordCount": 2792,
           "title": "Why OpenAI recruited human contractors to improve GPT-3",
           "imageUrl": "https://regmedia.co.uk/2020/05/07/shutterstock_robot_typing_using_computer.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/09/swiss_spin_supercomputing/",
-          "author": null,
-          "description": "<h4>The smallest artificial spin ice ever created could be part of novel low-power HPC</h4> <p>Researchers at the Paul Scherrer Institute and ETH Zurich have managed to accomplish a technological breakthrough that could lead to new forms of low-energy supercomputing.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/09/swiss_spin_supercomputing/",
-          "publishedOn": "2022-04-09T20:00:09.000Z",
-          "wordCount": 2569,
-          "title": "Swiss researchers make spin ice supercomputing breakthrough",
-          "imageUrl": "https://regmedia.co.uk/2022/04/05/kagome-spin-ice.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/09/ai_trickledown_economics/",
-          "author": null,
-          "description": "<h4>ML master pitches trimmed-down deep learning for the masses</h4> <p>In 2015, modern AI trailblazer Andrew Ng's recipe for success was to go big on neural networks, data, and monolithic systems. Now that recipe has created a problem: the technology is dominated by only a few rich companies with the money and headcount to build such immense systems.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/09/ai_trickledown_economics/",
-          "publishedOn": "2022-04-09T18:00:07.000Z",
-          "wordCount": 2706,
-          "title": "AI pioneer suggests trickle-down approach to machine learning",
-          "imageUrl": "https://regmedia.co.uk/2022/02/22/shutterstock_banking_ai.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/09/army_3d_barracks/",
-          "author": null,
-          "description": "<h4>Do we have enough toner for barracks in Fort Bliss base in Texas?</h4> <p>The US Department of Defense is to construct and try out the largest 3D-printed buildings in the Americas: three barracks in a Lone Star army base.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/09/army_3d_barracks/",
-          "publishedOn": "2022-04-09T16:00:10.000Z",
-          "wordCount": 2313,
-          "title": "US Army to build largest 3D-printed structures in the Americas",
-          "imageUrl": "https://regmedia.co.uk/2022/04/05/3d-printed-army-barracks.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/04/09/noobs_guide_to_elden_ring/",
-          "author": null,
-          "description": "<h4>FromSoftware's magnum opus, made with input from George R R Martin, invites new and veteran players alike</h4> <p><strong>The RPG</strong>  <em>Greetings, traveler, and welcome back to</em> The Register Plays Games<em>, our monthly gaming column. You'll forgive the lateness of this edition because there was really only one game that mattered in March – perhaps the entirety of 2022 – and that game's name is</em> Elden Ring.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/04/09/noobs_guide_to_elden_ring/",
-          "publishedOn": "2022-04-09T12:00:10.000Z",
-          "wordCount": 5702,
-          "title": "The <em>Souls</em> noob's guide to <em>Elden Ring</em>",
-          "imageUrl": "https://regmedia.co.uk/2022/04/08/er1.jpg"
         }
       ]
     }

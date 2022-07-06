@@ -900,21 +900,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
-          "author": "hello@smashingmagazine.com (Sam Poder)",
-          "description": "In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.",
-          "link": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
-          "publishedOn": "2022-06-06T09:00:00.000Z",
-          "wordCount": 2356,
-          "title": "The Case For Prisma In The Jamstack",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg"
         }
       ]
     },
@@ -923,6 +908,26 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/new-redalert-ransomware-targets-windows-linux-vmware-esxi-servers/",
+          "author": "Lawrence Abrams",
+          "description": "A new ransomware operation called RedAlert, or N13V, encrypts both Windows and Linux VMWare ESXi servers in attacks on corporate networks. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/new-redalert-ransomware-targets-windows-linux-vmware-esxi-servers/",
+          "publishedOn": "2022-07-05T22:20:47.000Z",
+          "wordCount": 2466,
+          "title": "New RedAlert Ransomware targets Windows, Linux VMware ESXi servers",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/07/05/red-alert-header.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-now-has-confidential-vms-with-ephemeral-storage/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft has expanded its confidential computing offering and is now allowing Azure cloud computing service customers to create hardware isolated virtual machines (aka confidential VMs) with Ephemeral OS disks. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-now-has-confidential-vms-with-ephemeral-storage/",
+          "publishedOn": "2022-07-05T19:40:49.000Z",
+          "wordCount": 2139,
+          "title": "Microsoft Azure now has confidential VMs with ephemeral storage",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/04/28/microsoft-azure.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/npm-supply-chain-attack-impacts-hundreds-of-websites-and-apps/",
           "author": "Sergiu Gatlan",
@@ -2962,66 +2967,6 @@
           "wordCount": 1047,
           "title": "Android June 2022 updates bring fix for critical RCE vulnerability",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/09/17/Android.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/qbot-now-pushes-black-basta-ransomware-in-bot-powered-attacks/",
-          "author": "Bill Toulas",
-          "description": "The Black Basta ransomware gang has partnered with the QBot malware operation to spread laterally through hacked corporate environments. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/qbot-now-pushes-black-basta-ransomware-in-bot-powered-attacks/",
-          "publishedOn": "2022-06-06T21:01:20.000Z",
-          "wordCount": 1128,
-          "title": "QBot now pushes Black Basta ransomware in bot-powered attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2020/12/09/Qbot.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/mandiant-no-evidence-we-were-hacked-by-lockbit-ransomware/",
-          "author": "Sergiu Gatlan",
-          "description": "American cybersecurity firm Mandiant is investigating LockBit ransomware gang's claims that they hacked the company's network and stole data. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/mandiant-no-evidence-we-were-hacked-by-lockbit-ransomware/",
-          "publishedOn": "2022-06-06T19:54:02.000Z",
-          "wordCount": 1257,
-          "title": "Mandiant: “No evidence” we were hacked by LockBit ransomware",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/06/06/Mandiant.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-banned-rewards-accounts-when-redeeming-points/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft has fixed a bug where the Microsoft Rewards accounts of customers who redeemed points would get suspended without warning. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-banned-rewards-accounts-when-redeeming-points/",
-          "publishedOn": "2022-06-06T18:25:45.000Z",
-          "wordCount": 933,
-          "title": "Microsoft bug banned Rewards accounts when redeeming points",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/09/05/Microsoft.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-give-victims-time-to-save-their-reputation/",
-          "author": "Bill Toulas",
-          "description": "Threat analysts have observed an unusual trend in ransomware group tactics, reporting that initial phases of victim extortion are becoming less open to the public as the actors tend to use hidden or anonymous entries. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-give-victims-time-to-save-their-reputation/",
-          "publishedOn": "2022-06-06T16:56:10.000Z",
-          "wordCount": 1333,
-          "title": "Ransomware gangs now give victims time to save their reputation",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/03/24/hacker.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/windows-zero-day-exploited-in-us-local-govt-phishing-attacks/",
-          "author": "Sergiu Gatlan",
-          "description": "European governments and US local governments were the targets of a phishing campaign using malicious Rich Text Format (RTF) documents designed to exploit a critical Windows zero-day vulnerability known as Follina. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/windows-zero-day-exploited-in-us-local-govt-phishing-attacks/",
-          "publishedOn": "2022-06-06T16:09:50.000Z",
-          "wordCount": 1108,
-          "title": "Windows zero-day exploited in US local govt phishing attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/06/06/phishing-attack-ukraine.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/italian-city-of-palermo-shuts-down-all-systems-to-fend-off-cyberattack/",
-          "author": "Bill Toulas",
-          "description": "The municipality of Palermo in Southern Italy suffered a cyberattack on Friday, which appears to have had a massive impact on a broad range of operations and services to both citizens and visiting tourists. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/italian-city-of-palermo-shuts-down-all-systems-to-fend-off-cyberattack/",
-          "publishedOn": "2022-06-06T14:13:32.000Z",
-          "wordCount": 1056,
-          "title": "Italian city of Palermo shuts down all systems to fend off cyberattack",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/06/06/palermo-italy.jpg"
         }
       ]
     },
@@ -3879,36 +3824,6 @@
           "wordCount": 1891,
           "title": "Saudi Arabia plans to spend $1 billion a year discovering treatments to slow aging",
           "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/06/MBS-moodycrackle2b.jpeg?resize=1200,600"
-        },
-        {
-          "id": "https://www.technologyreview.com/?p=1052856",
-          "author": "MIT Technology Review Insights",
-          "description": "Third-party cookies might be going the way of the dinosaur, but organizations will still need data about their customers’ online behaviors to deliver the personalized experiences they expect. This means a shift in data strategy to focus on multiple types of first-party data, collected with customer consent. First-party data is data that customers agree to…",
-          "link": "https://www.technologyreview.com/2022/06/06/1052856/the-right-data-strategy-is-the-foundation-for-better-customer-experiences/",
-          "publishedOn": "2022-06-06T14:14:52.000Z",
-          "wordCount": 1572,
-          "title": "The right data strategy is the foundation for better customer experiences",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/05/adobe_multi_1200.png?resize=1200,600"
-        },
-        {
-          "id": "https://www.technologyreview.com/?p=1053107",
-          "author": "Rhiannon Williams",
-          "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup wants to pack more energy into electric vehicle batteries Fully charged: Electric vehicles are becoming more popular, but they’re still constrained by how far they’re able to travel on a single…",
-          "link": "https://www.technologyreview.com/2022/06/06/1053107/download-longer-lasting-electric-car-batteries-big-tech-congress-antitrust-bill/",
-          "publishedOn": "2022-06-06T12:15:48.000Z",
-          "wordCount": 1313,
-          "title": "The Download: Longer-lasting electric car batteries, and Big Tech’s fightback",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/06/0504_SolidPower_06.jpeg?resize=1200,600"
-        },
-        {
-          "id": "https://www.technologyreview.com/?p=1053099",
-          "author": "Casey Crownhart",
-          "description": "While electric vehicles are rising in popularity, they are still limited in range—a Tesla Model 3 can go for about 350 miles before it needs to be recharged—and concerns about safety have plagued the lithium-ion batteries that dominate the market. In a quest to build batteries for electric vehicles that can take us farther safely,…",
-          "link": "https://www.technologyreview.com/2022/06/06/1053099/electric-vehicle-batteries-solid-power/",
-          "publishedOn": "2022-06-06T12:00:00.000Z",
-          "wordCount": 1128,
-          "title": "This startup wants to pack more energy into electric vehicle batteries",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/06/0504_SolidPower_06.jpeg?resize=1200,600"
         }
       ]
     },
@@ -3917,6 +3832,46 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-7163526",
+          "author": null,
+          "description": "Apples neues Einsteiger-Notebook kommt vermutlich Mitte des Monats. Wintel-Produzenten fürchten, dass es den geschwächten Markt aufrollen könnte.",
+          "link": "https://www.heise.de/news/Analysten-PC-Hersteller-wegen-MacBook-Air-M2-besorgt-7163526.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-07-06T09:04:00.000Z",
+          "wordCount": 2020,
+          "title": "Analysten: PC-Hersteller wegen MacBook Air M2 \"besorgt\"",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/7/0/9/8/4/Apple-WWDC22-MacBook-Air-MagSafe-220606-327b45304c8bcaff.jpg"
+        },
+        {
+          "id": "http://heise.de/-7157050",
+          "author": null,
+          "description": "Linux-Server erfolgreich aufsetzen und verwalten – für Windows-Admins und Quereinsteiger mit EDV-Kenntnissen. Buchen Sie mit 10% Frühbucherrabatt bis 25.7.22.",
+          "link": "https://www.heise.de/news/iX-Intensiv-Workshop-In-fuenf-Tagen-zum-Linux-Server-Admin-7157050.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-07-06T08:00:00.000Z",
+          "wordCount": 1807,
+          "title": "heise-Angebot: iX-Intensiv-Workshop: In fünf Tagen zum Linux-Server-Admin",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/6/7/5/6/1/Linux-Server_Ticker-16x9-2a237b7d9cf685a7.jpg"
+        },
+        {
+          "id": "http://heise.de/-7163474",
+          "author": null,
+          "description": "heise Developer präsentiert den Videocast von Eberhard Wolff und Lisa Moritz: Diesmal geht es um die Rolle des Softwarearchitekten und der Softwarearchitektin.",
+          "link": "https://www.heise.de/news/software-architektur-tv-Die-Rolle-der-Softwarearchitekten-7163474.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-07-06T07:40:00.000Z",
+          "wordCount": 1865,
+          "title": "software-architektur.tv: Die Rolle der Softwarearchitekten",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/7/0/9/5/8/OrganaisationArchitekturBeispiel-9859c7b7cadd31c3.png"
+        },
+        {
+          "id": "http://heise.de/-7163610",
+          "author": null,
+          "description": "Bei bundesweiten Informatikwettbewerben sinkt die Mädchenbeteiligung bis zur Endrunde massiv. Forscher fordern, die Idee der sozialen Gemeinschaft zu stärken.",
+          "link": "https://www.heise.de/news/Studie-Soziales-Selbstbild-und-Stereotype-halten-Maedchen-von-Informatik-fern-7163610.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-07-06T07:05:00.000Z",
+          "wordCount": 2297,
+          "title": "Studie: Soziales Selbstbild und Stereotype halten Mädchen von Informatik fern",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/7/1/0/2/8/shutterstock_1846981042-d96943d1ca0415f5.jpg"
+        },
         {
           "id": "http://heise.de/-7163427",
           "author": null,
@@ -8816,106 +8771,6 @@
           "wordCount": 1063,
           "title": "heise-Angebot: Online-Workshop: iPhone- und Android-Apps mit Flutter entwickeln",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/3/7/4/1/MicrosoftTeams-image-7d34ba006bb36fe5.png"
-        },
-        {
-          "id": "http://heise.de/-7132841",
-          "author": null,
-          "description": "iPadOS soll flexibleres Arbeiten mit App-Fenstern ermöglichen – auf M1-iPads. Neue Funktionen verbessern Apps und die gemeinsame Arbeit an Dokumenten.",
-          "link": "https://www.heise.de/news/WWDC-2022-iPadOS-16-mit-Fenstermanager-auf-M1-iPads-7132841.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T19:08:00.000Z",
-          "wordCount": 1157,
-          "title": "iPadOS 16: Apple zeigt Fenstermanagement auf WWDC 2022",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/5/6/8/Bildschirmfoto_2022-06-06_um_21.03.25-efe02a353dc4d012.png"
-        },
-        {
-          "id": "http://heise.de/-7132851",
-          "author": null,
-          "description": "macOS 13 Ventura bekommt ein neues Fenster-Management sowie verbessertes Spotlight, FaceTime, Mail und Safari. Metal 3 soll macOS für Spiele attraktiver machen.",
-          "link": "https://www.heise.de/news/WWDC-2022-Apple-stellt-macOS-13-vor-7132851.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T18:25:00.000Z",
-          "wordCount": 1483,
-          "title": "macOS 13 Ventura: Apple zeigt Mac-Betriebssystem auf der WWDC 2022",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/5/7/3/macos13-1cdd8d408aed91b1.jpg"
-        },
-        {
-          "id": "http://heise.de/-7132845",
-          "author": null,
-          "description": "Der M2-Prozessor ist eine rundum verbesserte Version des M1 – mit dabei: schnellere CPU-Kerne, eine stärkere GPU und bis zu 24 GByte RAM.",
-          "link": "https://www.heise.de/news/Apple-Silicon-M2-Rundumerneuerte-zweite-Prozessorgeneration-7132845.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T18:10:00.000Z",
-          "wordCount": 834,
-          "title": "Apple Silicon M2: Rundumerneuerte zweite Prozessorgeneration",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/5/7/0/WWDC_2022_-_June_6___Apple_1-2-47_screenshot_1-bece76dd79bcd219.png"
-        },
-        {
-          "id": "http://heise.de/-7131805",
-          "author": null,
-          "description": "Welche neuen Produkte stellt Apple auf der WWDC heute vor? Gibt es Infos rund um Apple Watch, iPhone 14 und iOS 16? Alle News im Liveticker von Mac & i.",
-          "link": "https://www.heise.de/news/Apples-WWDC-Keynote-2022-im-Liveticker-Neue-Betriebssysteme-Macs-AR-und-mehr-7131805.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T17:46:00.000Z",
-          "wordCount": 917,
-          "title": "Apples WWDC-Keynote 2022 heute im Liveticker: News zu iOS 16 und Apple Watch",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/0/3/1/wwdc22-b8ce93b68f1c0e96.png"
-        },
-        {
-          "id": "http://heise.de/-7132835",
-          "author": null,
-          "description": "iOS 16 bringt viel mehr Informationen auf den iPhone-Sperrbildschirm und eine lange Liste an weiteren Neuerungen.",
-          "link": "https://www.heise.de/news/WWDC-2022-Apple-enthuellt-iOS-16-7132835.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T17:12:00.000Z",
-          "wordCount": 1290,
-          "title": "iOS 16: Apple präsentiert neue Version auf der WWDC 2022",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/5/6/5/Bildschirmfoto_2022-06-06_um_19.09.56-c010ca47afc78b56.png"
-        },
-        {
-          "id": "http://heise.de/-7132713",
-          "author": null,
-          "description": "Kunden und freie Werkstätten sollen künftig Zugang zu Ersatzteilen und Anleitungen erhalten. Das erste Gesetz seiner Art, das sich mit Elektronik befasst.",
-          "link": "https://www.heise.de/news/Recht-auf-Reparatur-fuer-Elektronik-im-US-Bundesstaat-New-York-verabschiedet-7132713.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T14:13:00.000Z",
-          "wordCount": 1201,
-          "title": "Recht auf Reparatur für Elektronik im US-Bundesstaat New York verabschiedet",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/4/9/9/apple_repair-service-expansion_iphone-repair_07072020-30f98e16c6139975.jpeg"
-        },
-        {
-          "id": "http://heise.de/-7131956",
-          "author": null,
-          "description": "Statt mit Smartphone, elektronischer Gesundheitskarte und PIN können sich nun Versicherte \"kartenlos\" in der E-Rezept-App mit ihrer Krankenkassen-App anmelden.",
-          "link": "https://www.heise.de/news/E-Rezept-App-Erste-Krankenkassen-ermoeglichen-kartenlose-Anmeldung-7131956.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T13:12:00.000Z",
-          "wordCount": 1063,
-          "title": "E-Rezept-App: Erste Krankenkassen ermöglichen \"kartenlose\" Anmeldung",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/1/0/8/PXL_20220603_140405519-68ad2062a56b6f5f.jpg"
-        },
-        {
-          "id": "http://heise.de/-7132674",
-          "author": null,
-          "description": "Angreifer könnten auf Server mit dem Framework Horde zum Umgang mit E-Mails zugreifen und im schlimmsten Fall eigenen Code ausführen.",
-          "link": "https://www.heise.de/news/Schadcode-Luecke-bedroht-Horde-Webmail-Kein-Sicherheitspatch-in-Sicht-7132674.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T10:51:00.000Z",
-          "wordCount": 910,
-          "title": "Schadcode-Lücke bedroht Horde Webmail – Kein Sicherheitspatch in Sicht",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/4/7/8/urn-newsml-dpa-com-20090101-161116-99-197472_large_4_3-6cdd4e01d1bfd9d8.jpg"
-        },
-        {
-          "id": "http://heise.de/-7132649",
-          "author": null,
-          "description": "Unbekannte Täter hatten Zugriff auf Discord-Server und haben mit Fake-Gewinnspielen 357.000 US-Dollar in NTFs und Kryptowährung gemacht.",
-          "link": "https://www.heise.de/news/Phishing-Betrueger-erbeuten-erneut-Bored-Ape-Yacht-Club-NFTs-und-Krypto-Waehrung-7132649.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T09:54:00.000Z",
-          "wordCount": 1026,
-          "title": "Phishing-Betrüger erbeuten erneut Bored Ape Yacht Club NFTs und Krypto-Währung",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/4/6/4/Bildschirmfoto_2022-06-06_um_11.48.14-c447c0d6641c673a.png"
-        },
-        {
-          "id": "http://heise.de/-7132633",
-          "author": null,
-          "description": "Aufgrund von öffentlich verfügbarem Exploit-Code steigen die Attacken auf Confluence-Instanzen. Patches sind jetzt verfügbar.",
-          "link": "https://www.heise.de/news/Jetzt-patchen-Lage-um-Attacken-auf-Atlassian-Confluence-spitzt-sich-zu-7132633.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T08:57:00.000Z",
-          "wordCount": 970,
-          "title": "Jetzt patchen! Lage um Attacken auf Atlassian Confluence spitzt sich zu",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/4/5/6/shutterstock_1024271563-bad03ea07113dd32.jpg"
         }
       ]
     },
@@ -9313,26 +9168,6 @@
           "wordCount": 1055,
           "title": "Patchday: Google schließt Kernel- und Software-Lücken in Android",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/8/1/5/android1-b91ce676c20a7218.png"
-        },
-        {
-          "id": "http://heise.de/-7132674",
-          "author": null,
-          "description": "Angreifer könnten auf Server mit dem Framework Horde zum Umgang mit E-Mails zugreifen und im schlimmsten Fall eigenen Code ausführen.",
-          "link": "https://www.heise.de/news/Schadcode-Luecke-bedroht-Horde-Webmail-Kein-Sicherheitspatch-in-Sicht-7132674.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T10:51:00.000Z",
-          "wordCount": 924,
-          "title": "Sicherheitspatch erschienen: Schadcode-Lücke bedroht Horde Webmail",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/4/7/8/urn-newsml-dpa-com-20090101-161116-99-197472_large_4_3-6cdd4e01d1bfd9d8.jpg"
-        },
-        {
-          "id": "http://heise.de/-7132633",
-          "author": null,
-          "description": "Aufgrund von öffentlich verfügbarem Exploit-Code steigen die Attacken auf Confluence-Instanzen. Patches sind jetzt verfügbar.",
-          "link": "https://www.heise.de/news/Jetzt-patchen-Lage-um-Attacken-auf-Atlassian-Confluence-spitzt-sich-zu-7132633.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
-          "publishedOn": "2022-06-06T08:57:00.000Z",
-          "wordCount": 970,
-          "title": "Jetzt patchen! Lage um Attacken auf Atlassian Confluence spitzt sich zu",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/5/4/5/6/shutterstock_1024271563-bad03ea07113dd32.jpg"
         }
       ]
     },
@@ -9341,6 +9176,16 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4441718188225875253",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The operators of the Hive ransomware-as-a-service (RaaS) scheme have overhauled their file-encrypting software to fully migrate to Rust and adopt a more sophisticated encryption method.\r\n\"With its latest variant carrying several major upgrades, Hive also proves it's one of the fastest evolving ransomware families, exemplifying the continuously changing ransomware ecosystem,\" Microsoft Threat",
+          "link": "https://thehackernews.com/2022/07/hive-ransomware-upgrades-to-rust-for.html",
+          "publishedOn": "2022-07-06T07:09:04.000Z",
+          "wordCount": 2212,
+          "title": "Hive Ransomware Upgrades to Rust for More Sophisticated Encryption Method",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEjjwspLjItjpuzJpoVH7b7X2saDqZ_mxpwvWGDiLF3_3aqYpnySeM1kRIDMTjZYjKdg_rti3w2gZltZiRLOpICfkUh0rQj1-pigYTUKYz9GChpRvUTVO2GWF6b6PW9YuhV5UE-wLj-o8c5Q1HKeuS4GOfelRbV7qkhsqpTkLxuJpbAAWrvzRDkZDzRP/s728-e1000/malware.jpg"
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2730982183407992466",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -10390,56 +10235,6 @@
           "wordCount": 883,
           "title": "Apple's New Feature Will Install Security Updates Automatically Without Full OS Update",
           "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgkV6gfB0VRb3TBBnRGACAWMiR5z7Xil_08dsJASmg4YOXiKt-gJcA5DC9up9z-OHYP99WCUuAczoiyzd-fEBPxxqd7iYX54Gw7Si9Ba8K_jbIZTL4YJw_5mNCy9WPv84Fn0LXO9yXlApySjpurh7Oo_xjuFjb1vU3soBv2NIaQoUQLzeorPdMnX1Y6/s728-e1000/apple-update.jpg"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-416316739083618224",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "10 of the most prolific mobile banking trojans have set their eyes on 639 financial applications that are available on the Google Play Store and have been cumulatively downloaded over 1.01 billion times.\r\nSome of the most targeted apps include Walmart-backed PhonePe, Binance, Cash App, Garanti BBVA Mobile, La Banque Postale, Ma Banque, Caf - Mon Compte, Postepay, and BBVA México. These apps alone",
-          "link": "https://thehackernews.com/2022/06/10-most-prolific-banking-trojans.html",
-          "publishedOn": "2022-06-06T14:34:49.000Z",
-          "wordCount": 919,
-          "title": "10 Most Prolific Banking Trojans Targeting Hundreds of Financial Apps with Over a Billion Users",
-          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEjArmXh4iW2t1OZ68WoFmNX4TMvuLnR4ZB-1_-WXYlt_jcy8AqmR1QKo2FicZrfFZDQJqHg2OvmRsy7ZmPdublP-SH0zGzusMkm-a_SIRexCphZQi-uoPKUTLcVQ1HIEfBdlGlFNqTINXRzkTIiR6aMkIg6kZhbJXCwC51Jn9f8WBGq6kn0CSyCgGId/s728-e1000/apps.jpg"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1362762806109570287",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Cybersecurity researchers have disclosed two unpatched security vulnerabilities in the open-source U-Boot boot loader.\r\nThe issues, which were uncovered in the IP defragmentation algorithm implemented in U-Boot by NCC Group, could be abused to achieve arbitrary out-of-bounds write and denial-of-service (DoS).\r\nU-Boot is a boot loader used in Linux-based embedded systems such as ChromeOS as well as",
-          "link": "https://thehackernews.com/2022/06/unpatched-critical-flaws-disclosed-in-u.html",
-          "publishedOn": "2022-06-06T14:04:57.000Z",
-          "wordCount": 690,
-          "title": "Unpatched Critical Flaws Disclosed in U-Boot Bootloader for Embedded Devices",
-          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEjYlMuDL1C6PfztkfQneJFta9IUEUVIm889UuyfUTg219tK8actC1PDOgcQ8P1DNRzqB7QlMpZTuwiCx1CyMTNKGZpxIwlheKiPeShwMahG3dNpz6s2lnvlX3TQe0Yj_6LgZvCNPnXhlBKjb6ddmKNcY2iLE5tnb1akHrYwq3BZDZn4b3EhxzgpgkpT/s728-e1000/u-boot.jpg"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4995904693339769110",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "\"Shifting (security)\" left approach in Software Development Life Cycle (SDLC) means starting security earlier in the process. As organizations realized that software never comes out perfectly and are riddled with many exploitable holes, bugs, and business logic vulnerabilities that require going back to fix and patch, they understood that building secure software requires incorporating and",
-          "link": "https://thehackernews.com/2022/06/be-proactive-shift-security-validation.html",
-          "publishedOn": "2022-06-06T12:39:17.000Z",
-          "wordCount": 1399,
-          "title": "Be Proactive! Shift Security Validation Left",
-          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEg5U0pia7USfaJR1Pm5II2ZSCxvjbRbN0Z0NzaorNlnXI2fLwFapTyoPQNO52039LjkLePqlSFSTdKlevozISmM8gqa5ushUPoreGl1r7yf8rwlRUpxuTpZmSt2xxQ1WLd3JM4VLwPQRVi7E5q5kQq9Wy9t1OloU2kWyp8fy-nWXVvGc24siWeKija_/s728-e1000/left.jpg"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6320997818901021656",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Microsoft's Digital Crimes Unit (DCU) last week disclosed that it had taken legal proceedings against an Iranian threat actor dubbed Bohrium in connection with a spear-phishing operation.\r\nThe adversarial collective is said to have targeted entities in tech, transportation, government, and education sectors located in the U.S., Middle East, and India.\r\n<!--adsense-->\r\n\"Bohrium actors create fake",
-          "link": "https://thehackernews.com/2022/06/microsoft-seizes-41-domains-used-in.html",
-          "publishedOn": "2022-06-06T12:23:37.000Z",
-          "wordCount": 737,
-          "title": "Microsoft Seizes 41 Domains Used in Spear-Phishing Attacks by Bohrium Hackers",
-          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEjaRjx-HbaI1bAuMq53v_bjt20VSXx-PPgpoLkVG-Jk_3AEwg-S7M7Or4ltRrUzMkxIWsaV-qUV5zxygLI1919zC0j20rf3Gm6-ynzL0Spm3rQ2tNRGf7juwpzTNN7reN0qMe-_28GQhHgvn8X6ejGNy4qPKMA-fOyR8xaIFTw4LOwJI1hcNtAlhvQ1/s728-e1000/phishing.jpg"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5601464856080792755",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Food and Drug Administration (FDA) have issued an advisory about critical security vulnerabilities in Illumina's next-generation sequencing (NGS) software.\r\nThree of the flaws are rated 10 out of 10 for severity on the Common Vulnerability Scoring System (CVSS), with two others having severity ratings of 9.1 and 7.4.\r\nThe issues",
-          "link": "https://thehackernews.com/2022/06/cisa-warned-about-critical.html",
-          "publishedOn": "2022-06-06T11:58:16.000Z",
-          "wordCount": 887,
-          "title": "CISA Warned About Critical Vulnerabilities in Illumina's DNA Sequencing Devices",
-          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgZrluBmkMh2nVQtSlcaXkWb6Gj-qUtoF1ZpGXnuo1Dri_x2edeJwr9jC8hy0r5N82UHyJNoGtey828OFHWWu4ITk_e3hrsOFM10-9_A-wqI_Rjx5SlG_cSMUwgd8rjWsd88NV2OeHePTZm-oKojh_WIs1LAgyb-2vgkuL5ueaAxaIFI3d9l1-u9TIh/s728-e1000/dna.jpg"
         }
       ]
     },
@@ -10448,6 +10243,126 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/apple_tribunal/",
+          "author": null,
+          "description": "<h4>Stop us if you've heard this before: Apple facing charges of anti-competitive behavior in the App Store</h4> <p>A UK tribunal has agreed that a Collective Proceedings Order (CPO) potentially involving 19.6 million consumers in the country can go ahead in a case that could cost Apple up to £1.5 billion ($1.8 billion).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/apple_tribunal/",
+          "publishedOn": "2022-07-06T08:30:13.000Z",
+          "wordCount": 2613,
+          "title": "UK tribunal: App Store class action seeking up to $1.8b can continue",
+          "imageUrl": "https://regmedia.co.uk/2022/04/22/shutterstock_apple_store.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/eu_dsa_dma_laws_big_tech/",
+          "author": null,
+          "description": "<h4>Google, Facebook, Amazon and the rest stand to lose – if rules are actually enforced</h4> <p>After nearly two years of legal wrangling, the European Parliament on Tuesday passed the Digital Markets Act and the Digital Services Act, teeing up a showdown between the continent and US tech giants.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/eu_dsa_dma_laws_big_tech/",
+          "publishedOn": "2022-07-06T07:25:12.000Z",
+          "wordCount": 2405,
+          "title": "Europe passes sweeping antitrust laws targeting America's Big Tech",
+          "imageUrl": "https://regmedia.co.uk/2017/02/02/eu_parliament_photo2_via_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/international_database_vendors_are_losing/",
+          "author": null,
+          "description": "<h4>One market down on China's march toward tech self-sufficiency, a bajillion more to go.</h4> <p>Beijing's efforts to grow local alternatives to the wares of the world's mightiest tech companies have made progress in the relational database market, according to research by analyst firm International Data Corp (IDC).…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/international_database_vendors_are_losing/",
+          "publishedOn": "2022-07-06T06:59:12.000Z",
+          "wordCount": 2425,
+          "title": "Oracle, IBM, losing ground to local databases in China, says IDC",
+          "imageUrl": "https://regmedia.co.uk/2021/10/29/shutterstock_china_flag_code.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/uk_south_korea_data_agreement/",
+          "author": null,
+          "description": "<h4>Time to bone up on Hancom Office, the productivity suite that's big in Korea – and nowhere else</h4> <p>The governments of the United Kingdom and the Republic of Korea (that's South Korea) have reached an in-principle agreement to share data across borders.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/uk_south_korea_data_agreement/",
+          "publishedOn": "2022-07-06T06:31:24.000Z",
+          "wordCount": 1239,
+          "title": "UK, South Korea, strike data-sharing pact",
+          "imageUrl": "https://regmedia.co.uk/2022/07/06/shutterstock_uk_south_korea_flags.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/brc4_state_sponsored_apt29/",
+          "author": null,
+          "description": "<h4>The fun folk who attacked Solar Winds using a poisoned CV and tools from the murky world of commercial hackware</h4> <p>Palo Alto Networks' Unit 42 threat intelligence team has claimed that a piece of malware that 56 antivirus products were unable to detect is evidence that state-backed attackers have found new ways to go about the evil business.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/brc4_state_sponsored_apt29/",
+          "publishedOn": "2022-07-06T05:27:10.000Z",
+          "wordCount": 2336,
+          "title": "Near-undetectable malware linked to Russia's Cozy Bear",
+          "imageUrl": "https://regmedia.co.uk/2022/03/18/russian_bear_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/india_twitter_it_rules_protest/",
+          "author": null,
+          "description": "<h4>Local carriers are also upset with the laws, which they say will break encryption</h4> <p>India's rules governing content takedowns are being challenged by local mobile carriers and Twitter, on grounds that they are technically infeasible and restrict free speech.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/india_twitter_it_rules_protest/",
+          "publishedOn": "2022-07-06T02:45:13.000Z",
+          "wordCount": 1360,
+          "title": "Twitter sues Indian government over content takedown orders",
+          "imageUrl": "https://regmedia.co.uk/2021/06/01/twitter_india_editorial_only_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/astralocker-ransomware-shutters-operations/",
+          "author": null,
+          "description": "<h4>Why go through the hassle of demands and decryption when quietly mining is so much easier?</h4> <p>The developer of the AstraLocker ransomware code is reportedly ceasing operations and turning attention to the far simpler art and crime of cryptojacking.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/06/astralocker-ransomware-shutters-operations/",
+          "publishedOn": "2022-07-06T01:28:43.000Z",
+          "wordCount": 2628,
+          "title": "AstraLocker ransomware reportedly closes doors to pursue cryptojacking",
+          "imageUrl": "https://regmedia.co.uk/2018/08/06/ransomware_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/05/elon_musks_brother_buys_intels/",
+          "author": null,
+          "description": "<h4>Yet another sign x86 giant has moved past Krzanich era to focus on core chip businesses</h4> <p>As Intel tries to enact an ambitious comeback plan, the semiconductor giant has been offloading some divisions that aren't key to its core chipmaking business. The latest to get shunted off is the company's PR-friendly drone-powered light-show business, and the buyer is… Elon Musk's brother.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/05/elon_musks_brother_buys_intels/",
+          "publishedOn": "2022-07-05T23:04:08.000Z",
+          "wordCount": 1482,
+          "title": "Elon Musk’s brother buys Intel’s fireworks-replacing drone biz",
+          "imageUrl": "https://regmedia.co.uk/2022/07/05/intel_drones.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/05/us_nist_quantum_algorithms/",
+          "author": null,
+          "description": "<h4>NIST pushes ahead with CRYSTALS-KYBER, CRYSTALS-Dilithium, FALCON, SPHINCS+ algorithms</h4> <p>The US National Institute of Standards and Technology (NIST) has recommended four cryptographic algorithms for standardization to ensure data can be protected as quantum computers become more capable of decryption.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/05/us_nist_quantum_algorithms/",
+          "publishedOn": "2022-07-05T22:36:33.000Z",
+          "wordCount": 2856,
+          "title": "Actual quantum computers don't exist yet. The encryption to defeat them may already be here",
+          "imageUrl": "https://regmedia.co.uk/2020/01/21/shutterstock_encrypted_text.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/05/us_expands_efforts_to_hamstring/",
+          "author": null,
+          "description": "<h4>Beijing can't get next-gen lithography gear, America now trying to block sales of older machines</h4> <p>The US government is reportedly stepping up efforts to hamper China's ability to grow its semiconductor manufacturing capabilities by pressing for a wider ban on key chipmaking gear.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/05/us_expands_efforts_to_hamstring/",
+          "publishedOn": "2022-07-05T21:12:19.000Z",
+          "wordCount": 1361,
+          "title": "US expands efforts to hamstring China’s chipmaking mojo",
+          "imageUrl": "https://regmedia.co.uk/2022/03/09/china_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/05/dod-hackus-bug-bounty/",
+          "author": null,
+          "description": "<h4>DoD puts money behind bug bounty program after reward-free pilot</h4> <p>The US Department of Defense has created a broad but short bug bounty program for reports of vulnerabilities in public-facing systems and applications.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/05/dod-hackus-bug-bounty/",
+          "publishedOn": "2022-07-05T20:06:42.000Z",
+          "wordCount": 2782,
+          "title": "Pentagon: We'll pay you if you can find a way to hack us",
+          "imageUrl": "https://regmedia.co.uk/2020/04/23/shutterstock_bug.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/05/subtle_chromium_bug_extensions/",
+          "author": null,
+          "description": "<h4>Unlucky few percent of netizens affected by weird timing issue</h4> <p>For the past three months, an elusive bug in Google's open-source Chromium project has been causing a small percentage of Chrome extensions to silently fail.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/05/subtle_chromium_bug_extensions/",
+          "publishedOn": "2022-07-05T18:55:11.000Z",
+          "wordCount": 1504,
+          "title": "If you can find and fix this subtle Chromium bug that breaks some extensions, there's $8k waiting for you",
+          "imageUrl": "https://regmedia.co.uk/2020/05/06/chrome_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/05/fintechs_future_lies_with_big/",
           "author": null,
@@ -16027,156 +15942,6 @@
           "wordCount": 3320,
           "title": "We sat through Apple's product launch disguised as a dev event so you don't have to",
           "imageUrl": "https://regmedia.co.uk/2022/06/06/apple_macbook_air_2022.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/twitter_musk_bots/",
-          "author": null,
-          "description": "<h4>Right as Texas AG sticks his oar in</h4> <p>Elon Musk is prepared to terminate his takeover of Twitter, reiterating his claim that the social media biz is covering up the number of spam and fake bot accounts on the site, lawyers representing the Tesla CEO said on Monday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/twitter_musk_bots/",
-          "publishedOn": "2022-06-06T21:09:51.000Z",
-          "wordCount": 2614,
-          "title": "Musk repeats threat to end $46.5bn Twitter deal – with lawyers, not just tweets",
-          "imageUrl": "https://regmedia.co.uk/2022/04/16/twitter_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/xpo_google_deliveries/",
-          "author": null,
-          "description": "<h4>When an exec asked for help tackling supply-chain woes, were they told to 'just Google it' or what?</h4> <p>Even in the waning days of the pandemic, extended lead times and delayed packages are an inescapable reality. Logistics giant XPO this week picked Google Cloud to try to change that.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/xpo_google_deliveries/",
-          "publishedOn": "2022-06-06T20:23:40.000Z",
-          "wordCount": 2206,
-          "title": "Transport giant picks up Google Cloud AI to aid package delivery, tracking",
-          "imageUrl": "https://regmedia.co.uk/2019/06/18/shutterstock_box_dolly.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/taiwan_chips_russia/",
-          "author": null,
-          "description": "<h4>Already cut off from most x86 chips, the two countries lose out even more</h4> <p>Taiwan's government has enacted a strict ban on the export of computer chips and chip-making equipment to Russia and Belarus, a move that will make it even harder for the two countries to access modern processors following export bans from other countries.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/taiwan_chips_russia/",
-          "publishedOn": "2022-06-06T17:41:28.000Z",
-          "wordCount": 2255,
-          "title": "Taiwan bans exports of chips faster than 25MHz to Russia, Belarus",
-          "imageUrl": "https://regmedia.co.uk/2022/06/06/russia_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/servicenow_acquires_hr_analytics_specialist/",
-          "author": null,
-          "description": "<h4>Remember when ServiceNow said 'no acquisitions? Someone should tell Hitch Works</h4> <p>IT helpdesk-turned-workflow software company ServiceNow is to acquire Hitch Works, which produces software to help organizations better use their employees' existing skills.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/servicenow_acquires_hr_analytics_specialist/",
-          "publishedOn": "2022-06-06T16:21:01.000Z",
-          "wordCount": 2272,
-          "title": "AI-driven HR startup snapped up as companies fight to retain employees",
-          "imageUrl": "https://regmedia.co.uk/2022/06/06/shutterstock_hr_dept.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/openlight_silicon_photonics/",
-          "author": null,
-          "description": "<h4>The 'OpenLight' union aims for on-chip lasers with help from Intel's recent add, Tower Semiconductor</h4> <p>Synopsys and Juniper Networks are targeting the silicon photonics market via a newly established company to let third parties produce devices with integrated on-chip lasers using Tower Semiconductor's production facilities.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/openlight_silicon_photonics/",
-          "publishedOn": "2022-06-06T15:30:08.000Z",
-          "wordCount": 2395,
-          "title": "Synopsys, Juniper Networks fuse to tackle silicon photonics",
-          "imageUrl": "https://regmedia.co.uk/2022/03/04/photonics_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/ai_sustainability_tech/",
-          "author": null,
-          "description": "<h4>Carbon offsets don't make you green when your datacenters are still rolling coal</h4> <p><strong>Comment</strong>  It's hard to suppress an eyeroll when the world's largest consumers of datacenter resources talk about sustainability. Putting the planet ahead of profits is often not at the top of the to-do list in large-scale, performance-driven environments.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/ai_sustainability_tech/",
-          "publishedOn": "2022-06-06T14:44:12.000Z",
-          "wordCount": 2902,
-          "title": "Why chasing the AI dragon may force big tech to take sustainability seriously",
-          "imageUrl": "https://regmedia.co.uk/2021/03/17/shutterstock_green_computing.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/us_pcs_shipments/",
-          "author": null,
-          "description": "<h4>Desktops, inflation and other factors also shaping American demand</h4> <p>US PC shipments fell by double digits in the first quarter of 2022, mostly due to the collapse of Chromebook orders, yet the effect of inflation and a greater mix of higher spec machines lifted the value of those sales.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/us_pcs_shipments/",
-          "publishedOn": "2022-06-06T14:14:05.000Z",
-          "wordCount": 2490,
-          "title": "Higher spec machines lift US PC revenues 40% even as shipments drop",
-          "imageUrl": "https://regmedia.co.uk/2017/11/20/shutterstock_container_ship.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/responsible_computing_aims_to_drive/",
-          "author": null,
-          "description": "<h4>From greener datacenters to data transparency and 'conscious code', IBM, Dell, others push for better IT ops</h4> <p>IBM and Dell are the founding members of a new initiative to promote sustainable development in IT by providing a framework of responsible corporate policies for organizations to follow.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/responsible_computing_aims_to_drive/",
-          "publishedOn": "2022-06-06T13:30:08.000Z",
-          "wordCount": 2709,
-          "title": "Compute responsibly: Yet another IT industry sustainability drive",
-          "imageUrl": "https://regmedia.co.uk/2015/07/31/shutterstock217132183.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/gaia_x_ovh_nextcloud_scaleway/",
-          "author": null,
-          "description": "<h4>What do we want? Open standards, just licensing and a level playing field, say OVHcloud, Scaleway and others</h4> <p>If you're a cloud specialist in the EU, things like licensing, Euro digital sovereignty project Gaia-X, and a creating a level playing field are all front of mind.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/gaia_x_ovh_nextcloud_scaleway/",
-          "publishedOn": "2022-06-06T13:00:11.000Z",
-          "wordCount": 3085,
-          "title": "The Register talks to Microsoft's European cloud rivals about getting a fair deal",
-          "imageUrl": "https://regmedia.co.uk/2015/10/26/european-parliament.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/sony_satcomms_subsidiary/",
-          "author": null,
-          "description": "<h4>Plans to beam data to satellites, and between orbiting birds too</h4> <p>Sony on Friday launched a subsidiary dedicated to optical communications – in space.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/sony_satcomms_subsidiary/",
-          "publishedOn": "2022-06-06T11:54:08.000Z",
-          "wordCount": 2295,
-          "title": "Sony launches a space laser subsidiary (for comms, not conflict)",
-          "imageUrl": "https://regmedia.co.uk/2016/05/26/laser_beam_teaser.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/swype_come_back/",
-          "author": null,
-          "description": "<h4>Come back Swype, all is forgiven. Don't you want our money, Redmond?</h4> <p>There are lots of software keyboards for smartphones and tablets alike, but one stands head and shoulders above the rest… However you can't have it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/swype_come_back/",
-          "publishedOn": "2022-06-06T11:02:05.000Z",
-          "wordCount": 2632,
-          "title": "Microsoft: You own the best software keyboard there is. Please let us buy it",
-          "imageUrl": "https://regmedia.co.uk/2022/06/01/main-swype-keyboard-cropped.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/big_techs_big_privacy_heist/",
-          "author": null,
-          "description": "<h4>You opted out, but you didn't uncheck the box on page 24, so your data's ours...</h4> <p><strong>Opinion</strong>  \"We value your privacy,\" say the pop-ups. Better believe it. That privacy, or rather taking it away, is worth half a trillion dollars a year to big tech and the rest of the digital advertising industry. That's around a third of a percent of global GDP, give or take wars and plagues. …</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/big_techs_big_privacy_heist/",
-          "publishedOn": "2022-06-06T10:00:10.000Z",
-          "wordCount": 2835,
-          "title": "Behind Big Tech's big privacy heist: Deliberate obfuscation",
-          "imageUrl": "https://regmedia.co.uk/2020/01/16/shutterstock_somebodys_watching_me.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/datacenter_switch_cloud/",
-          "author": null,
-          "description": "<h4>Supply and demand are in for a switcheroo, analyst tells El Reg</h4> <p>Cloud service providers drove the datacenter switching market to its fifth consecutive quarter of year-over-year growth, but it won’t last forever, Dell’Oro Group analyst Sameh Boujelbene told <em>The Register</em>.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/datacenter_switch_cloud/",
-          "publishedOn": "2022-06-06T09:01:10.000Z",
-          "wordCount": 2362,
-          "title": "Datacenter switching surged in Q1, but it won't last forever",
-          "imageUrl": "https://regmedia.co.uk/2022/04/26/shutterstock_network.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/who_me/",
-          "author": null,
-          "description": "<h4>Just make sure to drink it AFTER the rocket has successfully launched</h4> <p><strong>Who, Me?</strong>  Welcome back to Who, Me?, where this week a reader tells us how they used brute force and whiskey to solve a pyrotechnic problem.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/who_me/",
-          "publishedOn": "2022-06-06T08:01:10.000Z",
-          "wordCount": 2504,
-          "title": "Brute force and whiskey: The solution to all life's problems",
-          "imageUrl": "https://regmedia.co.uk/2016/10/21/liquor_bottle_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/japan_regulates_stablecoin/",
-          "author": null,
-          "description": "<h4>Wants private coins to have face value in Yen by 2023</h4> <p>Japan's parliament has passed legislation allowing Yen-linked stablecoin cryptocurrencies, thus becoming one of the first countries – and by far the largest economy – to regulate a form of non-fiat digital money.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/06/06/japan_regulates_stablecoin/",
-          "publishedOn": "2022-06-06T06:55:10.000Z",
-          "wordCount": 2252,
-          "title": "Japan lets its banks and other entities issue stablecoins",
-          "imageUrl": "https://regmedia.co.uk/2022/06/06/shutterstock_japan_cryptocurrency.jpg"
         }
       ]
     }

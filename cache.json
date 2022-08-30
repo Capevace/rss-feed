@@ -409,6 +409,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372839",
+          "author": "Geoff Graham",
+          "description": "We can make variables in CSS pretty easily:\n:root {\n  --scale: 1;\n}\nAnd we can declare them on any element:\n.thing {\n  transform: scale(--scale);\n}\nEven better for an example like this is applying the variable on a user …\nInterpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/interpolating-numeric-css-variables/",
+          "publishedOn": "2022-08-30T13:17:25.000Z",
+          "wordCount": 963,
+          "title": "Interpolating Numeric CSS Variables",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372839"
+        },
+        {
           "id": "https://css-tricks.com/?p=372634",
           "author": "Preethi Selvam",
           "description": "Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …\nUsing Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -585,6 +595,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
+          "author": "hello@smashingmagazine.com (Shane Hudson)",
+          "description": "Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.",
+          "link": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
+          "publishedOn": "2022-08-30T09:00:00.000Z",
+          "wordCount": 4517,
+          "title": "How To Improve And Measure Your Progress Learning Web Design",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
           "author": "hello@smashingmagazine.com (Eduard Kuric)",
@@ -848,6 +873,46 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-australian-govt-with-scanbox-malware/",
+          "author": "Bill Toulas",
+          "description": "China-based threat actors have been targeting Australian government agencies and wind turbine fleets in the South China Sea by directing select individuals to a fake impersonating an Australian news media outlet. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-australian-govt-with-scanbox-malware/",
+          "publishedOn": "2022-08-30T17:26:40.000Z",
+          "wordCount": 2404,
+          "title": "Chinese hackers target Australian govt with ScanBox malware",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/11/08/China_hacker_silhouette.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-outage-knocks-ubuntu-vms-offline-after-buggy-update/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft Azure customers' virtual machines (VMs) running Ubuntu 18.04 have been taken offline by an ongoing outage caused by a faulty systemd update. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-outage-knocks-ubuntu-vms-offline-after-buggy-update/",
+          "publishedOn": "2022-08-30T15:41:37.000Z",
+          "wordCount": 2095,
+          "title": "Microsoft Azure outage knocks Ubuntu VMs offline after buggy update",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/04/28/microsoft-azure-headpic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-14-million-installs-steal-browsing-data/",
+          "author": "Bill Toulas",
+          "description": "Threat analysts at McAfee found five Google Chrome extensions that steal track users' browsing activity. Collectively, the extensions have been downloaded  more then 1.4  million times. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-14-million-installs-steal-browsing-data/",
+          "publishedOn": "2022-08-30T15:11:05.000Z",
+          "wordCount": 2305,
+          "title": "Chrome extensions with 1.4 million installs steal browsing data",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/05/26/Google___Chrome.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/google/google-launches-open-source-software-bug-bounty-program/",
+          "author": "Sergiu Gatlan",
+          "description": "Google will now pay security researchers to find and report bugs in the latest versions of Google-released open-source software (Google OSS). [...]",
+          "link": "https://www.bleepingcomputer.com/news/google/google-launches-open-source-software-bug-bounty-program/",
+          "publishedOn": "2022-08-30T11:00:00.000Z",
+          "wordCount": 2308,
+          "title": "Google launches open-source software bug bounty program",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/08/30/Google.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/fbi-hackers-increasingly-exploit-defi-bugs-to-steal-cryptocurrency/",
           "author": "Sergiu Gatlan",
           "description": "The U.S. Federal Bureau of Investigation (FBI) is warning investors that cyber criminals increasingly exploiting security vulnerabilities in Decentralized Finance (DeFi) platforms to steal cryptocurrency. [...]",
@@ -886,6 +951,16 @@
           "wordCount": 2322,
           "title": "Windows malware delays coinminer install by a month to evade detection",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/08/29/countdown.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/pirate-sites-ban-in-austria-took-down-cloudflare-cdns-by-mistake/",
+          "author": "Bill Toulas",
+          "description": "Excessive and indiscriminate blocking is underway in Austria, with internet service providers (ISPs) complying to a court order to block pirate sites causing significant collateral damage. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/pirate-sites-ban-in-austria-took-down-cloudflare-cdns-by-mistake/",
+          "publishedOn": "2022-08-29T16:22:44.000Z",
+          "wordCount": 2113,
+          "title": "Pirate sites ban in Austria took down Cloudflare CDNs by mistake",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/09/world-internet-network.jpg"
         },
         {
           "id": "https://www.bleepingcomputer.com/news/security/cloudflare-cdn-clients-caught-in-austrian-fight-against-pirate-sites/",
@@ -2766,16 +2841,6 @@
           "wordCount": 2346,
           "title": "BlackCat ransomware claims attack on European gas pipeline",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/08/01/gas-pipeline.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/australia-charges-dev-of-imminent-monitor-rat-used-by-domestic-abusers/",
-          "author": "Lawrence Abrams",
-          "description": "​An Australian man was charged for developing and selling the Imminent Monitor remote access trojan, used to spy on victims' devices remotely. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/australia-charges-dev-of-imminent-monitor-rat-used-by-domestic-abusers/",
-          "publishedOn": "2022-07-31T23:48:55.000Z",
-          "wordCount": 2317,
-          "title": "Australia charges dev of Imminent Monitor RAT used by domestic abusers",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/11/12/rat.jpg"
         }
       ]
     },
@@ -2784,6 +2849,16 @@
       "feedUrl": "https://www.technologyreview.com/feed/",
       "siteUrl": "https://www.technologyreview.com",
       "articles": [
+        {
+          "id": "https://www.technologyreview.com/?p=1058761",
+          "author": "Rhiannon Williams",
+          "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s heat wave is creating havoc for electric vehicle drivers As a globally unprecedented heat wave continues to hold its grip on southern China, with the highest temperature as much as 113°F (45°C),…",
+          "link": "https://www.technologyreview.com/2022/08/30/1058761/download-ev-havoc-china-first-private-venus-mission/",
+          "publishedOn": "2022-08-30T12:10:00.000Z",
+          "wordCount": 5586,
+          "title": "The Download: EV havoc in China, and the first private Venus mission",
+          "imageUrl": null
+        },
         {
           "id": "https://www.technologyreview.com/?p=1058452",
           "author": "MIT Technology Review Insights",
@@ -3651,6 +3726,136 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-7248665",
+          "author": null,
+          "description": "Das Landgericht Essen hat es Medion untersagt, den Prepaid-Basistarif von Alditalk als Produkt ohne Mindestumsatz anzupreisen. Alles andere sei irreführend.",
+          "link": "https://www.heise.de/news/Urteil-Medion-darf-Alditalk-Basistarif-nicht-mit-kein-Mindestumsatz-bewerben-7248665.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T17:48:00.000Z",
+          "wordCount": 2043,
+          "title": "Urteil: Medion darf Alditalk-Basistarif nicht mit \"kein Mindestumsatz\" bewerben",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/7/0/5/shutterstock_1389198959-eacb2e1510e26d89.jpg"
+        },
+        {
+          "id": "http://heise.de/-7248661",
+          "author": null,
+          "description": "Die Ezviz C6 2K+ bietet über ein schwenk- und neigbares Objektiv eine 360-Grad-Rundumsicht. Als Babyfon lässt sie sich dank Geräuscherkennung ebenfalls nutzen.",
+          "link": "https://www.techstage.de/test/ezviz-c6-2k-im-test-indoor-ptz-ueberwachungskamera-mit-bewegungsverfolgung/8j1wct8?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T16:01:00.000Z",
+          "wordCount": 5230,
+          "title": "Ezviz C6 2K+ im Test: Indoor-PTZ-Überwachungskamera mit Bewegungsverfolgung",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/_9rktkpTURBXy9lZDNlY2VhNTYyZDgwYzQxZmZjNGE3NmYzNzg0ZjVjYi5qcGeSlQMAAM0PwM0I3JMFzQSwzQJ2"
+        },
+        {
+          "id": "http://heise.de/-7248203",
+          "author": null,
+          "description": "Bei Telegram-Nutzern taucht eine Umfrage auf; darin fragt der Messengerdienst, in welchen Fällen er IP-Adresse und Telefonnummer an die Polizei geben soll.",
+          "link": "https://www.heise.de/news/Telegram-und-die-BKA-Umfrage-Es-gibt-gesetzliche-Regelungen-dazu-7248203.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T14:44:00.000Z",
+          "wordCount": 2086,
+          "title": "Telegram und die BKA-Umfrage: Es gibt gesetzliche Regelungen dazu",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/4/5/2/IMG_3865-11ffd9a1127b0943.png"
+        },
+        {
+          "id": "http://heise.de/-7248124",
+          "author": null,
+          "description": "Nach Kritik am teuren Hardware-Tausch für die Anbindung an das \"sichere Gesundheitsnetz\", gibt es für ab September 2023 auslaufende Geräte Alternativen.",
+          "link": "https://www.heise.de/news/Gematik-lenkt-bei-Hardware-Tausch-ein-E-Rezept-auf-Gesundheitskarte-frueher-7248124.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T14:03:00.000Z",
+          "wordCount": 2239,
+          "title": "Gematik lenkt ein: Gesellschafter beschließen Alternativen zum Hardware-Tausch",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/4/1/1/Konnektoren_und_Akten_2-16834e22353b1be3.jpg"
+        },
+        {
+          "id": "http://heise.de/-7248288",
+          "author": null,
+          "description": "Version 4.8 erscheint mit den angekündigten Neuerungen für Null-Prüfungen und erlaubt es, Dateien bei automatischen Importen auszuschließen.",
+          "link": "https://www.heise.de/news/Programmiersprache-TypeScript-4-8-erlaubt-Anpassung-automatischer-Importe-7248288.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T13:55:00.000Z",
+          "wordCount": 2063,
+          "title": "Programmiersprache TypeScript 4.8 erlaubt Anpassung automatischer Importe",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/4/9/7/Schreibmaschine-85414ec83185a0cc.jpg"
+        },
+        {
+          "id": "http://heise.de/-7248298",
+          "author": null,
+          "description": "Die Schere zwischen Standard- und Pro-Modellen wird beim iPhone 14 weiter aufgehen. Was vor dem Apple Event am 7. September an Gerüchten und Leaks vorliegt.",
+          "link": "https://www.heise.de/news/iPhone-14-und-14-Pro-Was-ueber-Apples-neue-Modelle-bereits-durchgesickert-ist-7248298.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T13:22:00.000Z",
+          "wordCount": 2519,
+          "title": "iPhone 14 und 14 Pro: Was über Apples neue Modelle durchgesickert ist",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/5/0/2/iPhone14c-ad735aabc1b5ef39.jpg"
+        },
+        {
+          "id": "http://heise.de/-7248056",
+          "author": null,
+          "description": "Mit dem Startwort \"Hi\" können WhatsApp-Nutzerinnen und Nutzer in Indien direkt ihre Supermarktbestellung aufgeben. Die ist sogar Ende-zu-Ende-verschlüsselt.",
+          "link": "https://www.heise.de/news/WhatsApp-transformiert-in-Indien-zum-JioMart-Supermarkt-7248056.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T12:46:00.000Z",
+          "wordCount": 2105,
+          "title": "WhatsApp wird in Indien zum Online-Shop",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/3/7/2/02_payment-to-complete-the-purchase-29c29e279288c391.webp"
+        },
+        {
+          "id": "http://heise.de/-7248136",
+          "author": null,
+          "description": "Ab dem ersten Oktober gilt Microsofts überarbeitete Cloud-Lizenz. Das soll Partnern ein individuelleres Angebot ermöglichen, manche Anbieter bleiben außen vor.",
+          "link": "https://www.heise.de/news/Microsoft-aendert-Lizenzmodell-fuer-Outsourcing-und-Hosting-in-der-Cloud-7248136.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T12:21:00.000Z",
+          "wordCount": 1979,
+          "title": "Microsoft ändert Lizenzmodell für Outsourcing und Hosting in der Cloud",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/4/1/7/shutterstock_286021352-9d05df693bdf4874.jpg"
+        },
+        {
+          "id": "http://heise.de/-7248232",
+          "author": null,
+          "description": "Beim Kampf zwischen Pokémons kann es zu Remote Code Execution kommen.",
+          "link": "https://www.heise.de/news/l-f-Trennt-euren-Game-Boy-Color-vom-Internet-7248232.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T12:14:00.000Z",
+          "wordCount": 1794,
+          "title": "l+f: Trennt euren Game Boy Color vom Internet!",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/4/6/7/shutterstock_1767015074-5461a8513a9a9da7.jpg"
+        },
+        {
+          "id": "http://heise.de/-7247598",
+          "author": null,
+          "description": "Nützlicher Helfer statt lästiges Ärgernis: Der c’t-Workshop zeigt, wie man \"Security Enhanced Linux\" optimal einsetzt und konfiguriert, um Systeme abzusichern.",
+          "link": "https://www.heise.de/news/c-t-Workshop-Dienste-mit-SELinux-absichern-7247598.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T12:00:00.000Z",
+          "wordCount": 1936,
+          "title": "heise-Angebot: c’t-Workshop: Dienste mit SELinux absichern",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/1/3/3/SELinux-Ticker-Header-16-9-083508f2c252042c.jpg"
+        },
+        {
+          "id": "http://heise.de/-7248070",
+          "author": null,
+          "description": "Webseiten können derzeit in aktuellen Chromium-basierten Webbrowsern beliebig auf die Zwischenablage zugreifen. Das ermöglicht etwa Angriffe auf Nutzer.",
+          "link": "https://www.heise.de/news/Sicherheitsluecke-Zwischenablage-in-Chromium-basierten-Browsern-frei-zugreifbar-7248070.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T11:07:00.000Z",
+          "wordCount": 1917,
+          "title": "Sicherheitslücke: Zwischenablage in Chromium-basierten Browsern frei zugreifbar",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/3/8/1/shutterstock_1799002783-186043449331be13.jpg"
+        },
+        {
+          "id": "http://heise.de/-7248091",
+          "author": null,
+          "description": "AMD-Chefin Lisa Su hat es sich nicht nehmen lassen, eine erste, kurze Demo zu einer RDNA3-Grafikkarte zu zeigen. Noch dieses Jahr steht die Vorstellung an.",
+          "link": "https://www.heise.de/news/Grafikkarten-Demo-AMD-zeigt-Radeon-RX-7000-mit-Ryzen-9-7950X-in-Aktion-7248091.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T11:02:00.000Z",
+          "wordCount": 2224,
+          "title": "Grafikkarten-Demo: AMD zeigt Radeon RX 7000 mit Ryzen 9 7950X in Aktion",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/3/9/2/AMD_Premiere__together_we_advance_PCs_30-54_screenshot_1-915fe28242ee30f0.jpg"
+        },
+        {
+          "id": "http://heise.de/-7247888",
+          "author": null,
+          "description": "Fünf Chrome-Add-ons hat McAfee identifiziert, die Browserdaten manipulieren und Affiliate-Abzocke betreiben. Sie kommen auf 1,4 Millionen Installationen.",
+          "link": "https://www.heise.de/news/Affiliate-Betrug-Browser-Erweiterungen-mit-1-4-Millionen-Installationen-7247888.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T09:44:00.000Z",
+          "wordCount": 1961,
+          "title": "Affiliate-Betrug: Chrome-Browser-Add-ons mit 1,4 Millionen Installationen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/2/8/6/Chrome-007b728834073fd2.jpg"
+        },
         {
           "id": "http://heise.de/-7247836",
           "author": null,
@@ -8270,26 +8475,6 @@
           "wordCount": 1972,
           "title": "Apple-Bestellungen: Lange Wartezeiten auf Weiterversand",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/8/4/4/7/5/macbookairm2-bdcf5d68450d9e2d.jpg"
-        },
-        {
-          "id": "http://heise.de/-7194265",
-          "author": null,
-          "description": "Sieben Workshops zu CI/CD, GitOps sowie Konfiguration und Sicherheit in Kubernetes runden das Programm der Continuous Lifecycle und ContainerConf 2022 ab.",
-          "link": "https://www.heise.de/news/Continuous-Lifecycle-und-ContainerConf-2022-Workshops-zu-Kubernetes-und-GitOps-7194265.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-08-01T05:59:00.000Z",
-          "wordCount": 2275,
-          "title": "heise-Angebot: Continuous Lifecycle und ContainerConf 2022: Workshops zu Kubernetes und GitOps",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/8/4/2/4/2/CLCCC-Logos-mit-Hingtergrund-gruen-gelb-5b035bf0d2130cfe.png"
-        },
-        {
-          "id": "http://heise.de/-7194820",
-          "author": null,
-          "description": "Im nächsten Jahr will Intel in Magdeburg bauen. Doch damit staatliche Fördergelder fließen können, muss die EU noch ein neues Gesetz verabschieden.",
-          "link": "https://www.heise.de/news/Intel-hofft-auf-Spatenstich-in-Magdeburg-im-ersten-Halbjahr-2023-7194820.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-08-01T05:35:00.000Z",
-          "wordCount": 2092,
-          "title": "Intel hofft auf Spatenstich in Magdeburg im ersten Halbjahr 2023",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/8/4/5/2/6/shutterstock_1087666373-30becd6f2e43d2c6.jpg"
         }
       ]
     },
@@ -8298,6 +8483,16 @@
       "feedUrl": "https://www.heise.de/security/rss/alert-news.rdf",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "http://heise.de/-7248070",
+          "author": null,
+          "description": "Webseiten können derzeit in aktuellen Chromium-basierten Webbrowsern beliebig auf die Zwischenablage zugreifen. Das ermöglicht etwa Angriffe auf Nutzer.",
+          "link": "https://www.heise.de/news/Sicherheitsluecke-Zwischenablage-in-Chromium-basierten-Browsern-frei-zugreifbar-7248070.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2022-08-30T11:07:00.000Z",
+          "wordCount": 1917,
+          "title": "Sicherheitslücke: Zwischenablage in Chromium-basierten Browsern frei zugreifbar",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/3/8/1/shutterstock_1799002783-186043449331be13.jpg"
+        },
         {
           "id": "http://heise.de/-7247760",
           "author": null,
@@ -8635,6 +8830,39 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3641890904071295682",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "As many as three disparate but related campaigns between March and Jun 2022 have been found to deliver a variety of malware, including ModernLoader, RedLine Stealer, and cryptocurrency miners onto compromised systems.\n\"The actors use PowerShell, .NET assemblies, and HTA and VBS files to spread across a targeted network, eventually dropping other pieces of malware, such as the SystemBC trojan and",
+          "link": "https://thehackernews.com/2022/08/hackers-use-modernloader-to-infect.html",
+          "publishedOn": "2022-08-30T12:55:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Use ModernLoader to Infect Systems with Stealers and Cryptominers",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6498269990151149475",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "As threat complexity increases and the boundaries of an organization have all but disappeared, security teams are more challenged than ever to deliver consistent security outcomes. One company aiming to help security teams meet this challenge is Stellar Cyber. \nStellar Cyber claims to address the needs of MSSPs by providing capabilities typically found in NG-SIEM, NDR, and SOAR products in their",
+          "link": "https://thehackernews.com/2022/08/hands-on-review-stellar-cyber-security.html",
+          "publishedOn": "2022-08-30T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Hands-on Review: Stellar Cyber Security Operations Platform for MSSPs",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3578841386146581777",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Akasa Air, India's newest commercial airline, exposed the personal data belonging to its customers that the company blamed on a technical configuration error.\nAccording to security researcher Ashutosh Barot, the issue is rooted in the account registration process, leading to the exposure of details such as names, gender, email addresses, and phone numbers.\nThe bug was identified on August 7,",
+          "link": "https://thehackernews.com/2022/08/indias-newest-airline-akasa-air-suffers.html",
+          "publishedOn": "2022-08-30T07:00:00.000Z",
+          "wordCount": null,
+          "title": "India's Newest Airline Akasa Air Found Leaking Passengers' Personal Information",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4240605752398065204",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -9921,17 +10149,6 @@
           "title": "Australian Hacker Charged with Creating, Selling Spyware to Cyber Criminals",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3835892266038628283",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The operators of the Gootkit access-as-a-service (AaaS) malware have resurfaced with updated techniques to compromise unsuspecting victims.\n\"In the past, Gootkit used freeware installers to mask malicious files; now it uses legal documents to trick users into downloading these files,\" Trend Micro researchers Buddy Tancio and Jed Valderama said in a write-up last week.\n\nThe findings",
-          "link": "https://thehackernews.com/2022/07/gootkit-loader-resurfaces-with-updated.html",
-          "publishedOn": "2022-08-01T04:51:16.445Z",
-          "wordCount": null,
-          "title": "Gootkit Loader Resurfaces with Updated Tactic to Compromise Targeted Computers",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -9940,6 +10157,96 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/microsoft_armbased_vms_azure/",
+          "author": null,
+          "description": "<h4>Support going live in 10 Azure regions, running on Ampere Altra</h4> <p>Microsoft has opened up Arm-based virtual machines for general availability on its Azure cloud platform, after previewing the technology earlier this year.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/microsoft_armbased_vms_azure/",
+          "publishedOn": "2022-08-30T16:57:06.000Z",
+          "wordCount": 1250,
+          "title": "Official: Arm-based VMs available on Azure",
+          "imageUrl": "https://regmedia.co.uk/2021/05/20/ampere_pr_provided.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/tesla_phantom_braking/",
+          "author": null,
+          "description": "<h4>Automaker accused of hiding malfunctioning tech from drivers</h4> <p>A lawsuit filed against Tesla this month accuses the automaker of covering up an alleged malfunction that makes vehicles stop for nonexistent objects, sometimes in the middle of traffic, while in Autopilot mode.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/tesla_phantom_braking/",
+          "publishedOn": "2022-08-30T16:22:12.000Z",
+          "wordCount": 1265,
+          "title": "Tesla faces Autopilot lawsuit alleging phantom braking",
+          "imageUrl": "https://regmedia.co.uk/2017/09/04/tesla_photo_via_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/teradata_embraces_data_lakes_and/",
+          "author": null,
+          "description": "<h4>Reworked use of object storage changes footing with competitors but will need to convince devs</h4> <p>Teradata has launched analytics and data lake platforms as it strives to steal the march on so-call cloud-native enterprise data warehouse companies.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/teradata_embraces_data_lakes_and/",
+          "publishedOn": "2022-08-30T15:13:05.000Z",
+          "wordCount": 1555,
+          "title": "Teradata takes on cloud-native rivals with data lakes, MLOps",
+          "imageUrl": "https://regmedia.co.uk/2022/08/30/shutterstock_data_lake.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/dell_vxrail_vmware/",
+          "author": null,
+          "description": "<h4>HCI platform now supports vSphere 8, vSAN 8, and VCF 4.5</h4> <p><strong>VMware Explore</strong>  Dell has announced its latest kit co-developed with VMware, including updated VxRail HCI systems with support for network offloading to DPUs, support for VMware's Tanzu Kubernetes Grid in its Apex subscription platform, and a turnkey platform for operating AI workloads.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/dell_vxrail_vmware/",
+          "publishedOn": "2022-08-30T14:21:29.000Z",
+          "wordCount": 1625,
+          "title": "Dell intros updated VxRail and dedicated AI platform with VMware",
+          "imageUrl": "https://regmedia.co.uk/2022/08/30/dellemc-vxrail-p-series-ff-1280x1280.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/toyota/",
+          "author": null,
+          "description": "<h4>Production dips almost 7% between January and July. COVID-19 disruption also blamed</h4> <p>Semiconductor shortages might have peaked in some sectors but the automotive industry is still reaching to secure as many chips as it can, with Toyota outlining the continued ramifications.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/toyota/",
+          "publishedOn": "2022-08-30T13:06:05.000Z",
+          "wordCount": 1300,
+          "title": "Chips still down for Toyota: Low semiconductor supplies dampen output",
+          "imageUrl": "https://regmedia.co.uk/2022/08/30/shutterstock_toyota.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/vmware_explore_news_roundup/",
+          "author": null,
+          "description": "<h4>Re-composes automation and management tools as ‘Aria’, reduces cloud hardware requirements, tries to reinvent security ... again</h4> <p><strong>VMware Explore</strong>  VMware has delivered on its promise to brings its flagship vSphere compute virtualization suite to SmartNICs that embed a small computer on a network interface controller and run network-centric workloads there to free servers’ CPUs from scutwork.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/vmware_explore_news_roundup/",
+          "publishedOn": "2022-08-30T12:01:10.000Z",
+          "wordCount": 1974,
+          "title": "VMware reckons 20% of server cores can come back to work thanks to vSphere 8 and SmartNICs",
+          "imageUrl": "https://regmedia.co.uk/2022/08/29/supplied_vmware_explore_logo.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/singapore_struggles_to_taper_cryptocurrency/",
+          "author": null,
+          "description": "<h4>City-state can’t beat them, so plans to regulate them, starting with consumer suitability tests</h4> <p>The Monetary Authority of Singapore (MAS) said on Monday it is taking measures to reduce the harms caused by cryptocurrency, including conducting \"customer suitability tests\" as part of its ongoing slow-motion crackdown on the alternative tender.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/singapore_struggles_to_taper_cryptocurrency/",
+          "publishedOn": "2022-08-30T11:44:10.000Z",
+          "wordCount": 1239,
+          "title": "Singapore struggles to curb cryptocurrency enthusiasm",
+          "imageUrl": "https://regmedia.co.uk/2019/09/18/shutterstock_singapore.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/nitrokod_crypto_malware_google/",
+          "author": null,
+          "description": "<h4>Ah, nothing like a classic Trojan horse</h4> <p>Watch out: someone is spreading cryptocurrency-mining malware disguised as legitimate-looking applications, such as Google Translate, on free software download sites and through Google searches.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/nitrokod_crypto_malware_google/",
+          "publishedOn": "2022-08-30T10:27:12.000Z",
+          "wordCount": 1565,
+          "title": "That 'clean' Google Translate app is actually Windows crypto-mining malware",
+          "imageUrl": "https://regmedia.co.uk/2015/07/01/trojan_873465783.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/kylin_the_multiple_semiofficial_chinese/",
+          "author": null,
+          "description": "<h4>Investigating the world of Chinese Linux</h4> <p>Ubuntu's special distro for the Chinese market has a widening edge over the company's more conventional flavors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/kylin_the_multiple_semiofficial_chinese/",
+          "publishedOn": "2022-08-30T09:30:16.000Z",
+          "wordCount": 3617,
+          "title": "Kylin: The multiple semi-official Chinese versions of Ubuntu",
+          "imageUrl": "https://regmedia.co.uk/2022/08/26/kylin-pro-startup.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/iss_legacy_tech/",
           "author": null,
@@ -14999,56 +15306,6 @@
           "wordCount": 1386,
           "title": "Google: We had to shut down a datacenter to save it during London’s heatwave",
           "imageUrl": "https://regmedia.co.uk/2022/08/01/shutterstock_big_ben_extreme_heat.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/01/indonesia_blocks_sites_pse_noncompliance/",
-          "author": null,
-          "description": "<h4>Yahoo<i>!</i> was blocked too, but … meh</h4> <p>Indonesia has blocked access to PayPal, Yahoo<i>!</i>, plus Epic Games and Steam, sparking outrage among local netizens so fierce that the Ministry responsible has wound back its restrictions on PayPal for a few days.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/01/indonesia_blocks_sites_pse_noncompliance/",
-          "publishedOn": "2022-08-01T05:56:06.000Z",
-          "wordCount": 1180,
-          "title": "Indonesia sparks outrage by blocking PayPal, gaming sites, for compliance oversight",
-          "imageUrl": "https://regmedia.co.uk/2022/08/01/shutterstock_running_late.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/01/samsung_galaxy_smartphone_repair_mode/",
-          "author": null,
-          "description": "<h4>Something Hunter Biden probably wishes computers had ages ago</h4> <p>Samsung has added a \"repair mode\" to its Galaxy smartphones, hiding users' data when they entrust an ailing device to a technician.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/01/samsung_galaxy_smartphone_repair_mode/",
-          "publishedOn": "2022-08-01T04:59:14.000Z",
-          "wordCount": 1145,
-          "title": "Samsung adds 'repair mode' that hides data on Galaxy smartphones in South Korea",
-          "imageUrl": "https://regmedia.co.uk/2021/05/07/repair.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/01/vvdn_rudra_india_supercomputer/",
-          "author": null,
-          "description": "<h4>Local manufacturer to build modest kit for modestly sized supers</h4> <p>India's ambition to become self-sufficient in hardware has taken a small step forward after the nation's Centre for Development of Advanced Computing (CDAC) contracted a local manufacturer to build the designed-in-India servers for a future supercomputer project.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/01/vvdn_rudra_india_supercomputer/",
-          "publishedOn": "2022-08-01T02:28:54.000Z",
-          "wordCount": 1195,
-          "title": "India signs local server-maker to build nodes for home-grown supercomputers",
-          "imageUrl": "https://regmedia.co.uk/2021/02/01/indian_flag_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/01/asia_tech_news_roundup/",
-          "author": null,
-          "description": "<h4>PLUS: India open to space tourism; China/Indonesia infosec pact; Paytm denies breach; Infosys dodges government again; and more</h4> <p><strong>Asia In Brief</strong>  Australia's federal police (AFP) on Friday charged a man with creating and profiting from spyware that allowed total remote control of victims' computers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/01/asia_tech_news_roundup/",
-          "publishedOn": "2022-08-01T00:30:12.000Z",
-          "wordCount": 1818,
-          "title": "Spyware developer charged by Australian Police after 14,500 sales",
-          "imageUrl": "https://regmedia.co.uk/2021/07/19/shutterstock_spyware.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/07/31/linux_5_19/",
-          "author": null,
-          "description": "<h4>Hails the combo as finally making Arm 'usable as a development platform'</h4> <p>Linus Torvalds has released version 5.19 of the project, and hailed Apple's homebrew silicon – and the Asahi Linux distribution that runs on it – for making Arm-powered computers useful for developers.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/07/31/linux_5_19/",
-          "publishedOn": "2022-07-31T23:45:13.000Z",
-          "wordCount": 1341,
-          "title": "Linus Torvalds releases Linux 5.19 – using Asahi on an Arm-powered Mac",
-          "imageUrl": "https://regmedia.co.uk/2021/07/11/shutterstock_penguins_watch_pc.jpg"
         }
       ]
     }

@@ -868,6 +868,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-falsely-detects-win32-hivezy-in-google-chrome-electron-apps/",
+          "author": "Lawrence Abrams",
+          "description": "A bad Microsoft Defender signature update mistakenly detects Google Chrome, Microsoft Edge, Discord, and other Electron apps as 'Win32/Hive.ZY' each time the apps are opened in Windows. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-falsely-detects-win32-hivezy-in-google-chrome-electron-apps/",
+          "publishedOn": "2022-09-04T15:30:48.000Z",
+          "wordCount": 2120,
+          "title": "Microsoft Defender falsely detects Win32/Hive.ZY in Google Chrome, Electron apps",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/09/12/Microsoft-Defender.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/sharkbot-malware-sneaks-back-on-google-play-to-steal-your-logins/",
+          "author": "Bill Toulas",
+          "description": "A new and upgraded version of the SharkBot malware has returned to Google's Play Store, targeting banking logins of Android users through apps that have tens of thousands of installations. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/sharkbot-malware-sneaks-back-on-google-play-to-steal-your-logins/",
+          "publishedOn": "2022-09-04T14:07:14.000Z",
+          "wordCount": 2379,
+          "title": "SharkBot malware sneaks back on Google Play to steal your logins",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/03/04/shark.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-105-wont-start-due-to-old-group-policy-how-to-fix/",
           "author": "Lawrence Abrams",
           "description": "The new Microsoft Edge 105 is not starting for many Windows users due to a deprecated group policy used to disable reporting of usage and crash-related data to Microsoft. [...]",
@@ -2686,26 +2706,6 @@
           "wordCount": 2487,
           "title": "New GwisinLocker ransomware encrypts Windows and Linux ESXi servers",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/08/05/ghost-in-the-machine.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/uk-nhs-suffers-outage-after-cyberattack-on-managed-service-provider/",
-          "author": "Sergiu Gatlan",
-          "description": "United Kingdom's National Health Service (NHS) 111 emergency services are affected by a major outage triggered by a cyberattack that hit the systems of managed service provider (MSP) Advanced. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/uk-nhs-suffers-outage-after-cyberattack-on-managed-service-provider/",
-          "publishedOn": "2022-08-05T22:43:14.000Z",
-          "wordCount": 2135,
-          "title": "UK NHS suffers outage after cyberattack on managed service provider",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/08/05/NHS.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-5th-2022-a-look-at-cyber-insurance/",
-          "author": "Lawrence Abrams",
-          "description": "For the most part, it has been a quiet week on the ransomware front, with a few new reports, product developments, and attacks revealed. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-5th-2022-a-look-at-cyber-insurance/",
-          "publishedOn": "2022-08-05T21:35:24.000Z",
-          "wordCount": 2530,
-          "title": "The Week in Ransomware - August 5th 2022 - A look at cyber insurance",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2020/11/03/Ransomware.jpg"
         }
       ]
     },
@@ -3571,6 +3571,36 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-7253209",
+          "author": null,
+          "description": "USB-Geräte belegen mit einem Netzteil eine komplette Steckdose. Doch das ist häufig gar nicht nötig. Steckdosen mit integrierten USB-Ports schaffen Abhilfe.",
+          "link": "https://www.techstage.de/ratgeber/smart-unterputz-mehrfach-wo-usb-ports-an-steckdosen-sinnvoll-sind/n79r97w?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-04T18:00:00.000Z",
+          "wordCount": 3122,
+          "title": "Smart, Unterputz, Mehrfach: Wo USB-Ports an Steckdosen sinnvoll sind",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/Hi-ktkpTURBXy83ZGU5MzA3ZmEwZjAwZjM0YTE3OTI0ZDc2NzcyYjhhOS5qcGeSlQMAAM0XgM0NOJMFzQSwzQJ2"
+        },
+        {
+          "id": "http://heise.de/-7253259",
+          "author": null,
+          "description": "Im Juli ergatterten Cyber-Einbrecher vertrauliche Kundendaten von Samsung in den USA. Die Firma schreibt Betroffene nun per E-Mail an.",
+          "link": "https://www.heise.de/news/Persoenliche-Daten-kompromittiert-Samsung-informiert-US-Kunden-ueber-Leck-im-Juli-7253259.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-04T13:42:00.000Z",
+          "wordCount": 2061,
+          "title": "Persönliche Daten kompromittiert: Samsung informiert US-Kunden über Leck im Juli",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/3/1/0/0/shutterstock_70213381-0864bd037fd6377f.jpg"
+        },
+        {
+          "id": "http://heise.de/-7248932",
+          "author": null,
+          "description": "Ein Feature erweitert in DALL·E nun die ursprüngliche Bildgrenze – Outpainting ermöglicht neue Elemente, Stilkombinationen und eine großformatige Ausarbeitung.",
+          "link": "https://www.heise.de/news/KI-System-DALL-E-erweitert-Rahmen-Outpainting-malt-Bilder-ueber-den-Rand-hinaus-7248932.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-04T11:21:00.000Z",
+          "wordCount": 3401,
+          "title": "KI-System DALL·E erweitert Rahmen: Outpainting malt Bilder über den Rand hinaus",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/0/8/4/8/girl-with-a-pearl-earring-2bf4ec33df7da4f6.jpeg"
+        },
         {
           "id": "http://heise.de/-7252946",
           "author": null,
@@ -7930,16 +7960,6 @@
           "wordCount": 2616,
           "title": "BSI-Warnung vor Kaspersky: Interne Dokumente belegen politische Motivation",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/8/7/7/1/3/shutterstock_1470830258-2490e1311b310537.jpg"
-        },
-        {
-          "id": "http://heise.de/-7187811",
-          "author": null,
-          "description": "Das James-Webb-Weltraumteleskop liefert neben Bildern auch Daten für Spektralanalysen. Wir reden über das Teleskop und wie man die Daten selbst auswertet.",
-          "link": "https://www.heise.de/news/Daten-von-James-Webb-Weltraumteleskop-selbst-auswerten-c-t-uplink-44-3-7187811.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-08-06T04:30:00.000Z",
-          "wordCount": 1991,
-          "title": "Daten von James-Webb-Weltraumteleskop selbst auswerten | c’t uplink 44.3",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/8/0/7/7/9/443__Thumb_Uplink_JamesWebb_Breit-b7ad4482671bcdf5.jpg"
         }
       ]
     },
@@ -9608,6 +9628,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/04/nasa_spacex/",
+          "author": null,
+          "description": "<h4>Top official spells out simply why America is going back to the Moon</h4> <p><strong>Interview</strong>  \"There is no SpaceX without NASA,\" Thomas Zurbuchen, an associate administrator at the US space agency's Science Mission Directorate, told <em>The Register</em> this week as a Falcon 9 lurked in the background at Cape Canaveral.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/04/nasa_spacex/",
+          "publishedOn": "2022-09-04T11:06:11.000Z",
+          "wordCount": 1530,
+          "title": "NASA sees our space future as both government and privately run",
+          "imageUrl": "https://regmedia.co.uk/2022/08/26/nasa.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/03/artemis_nasa_scrubbed/",
           "author": null,
@@ -14307,36 +14337,6 @@
           "wordCount": 2448,
           "title": "Hi, I'll be your ransomware negotiator today – but don't tell the crooks that",
           "imageUrl": "https://regmedia.co.uk/2022/08/05/ransom_note_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/tesla_musk_robot/",
-          "author": null,
-          "description": "<h4>Find it next to the Cybertruck, Boring tunnel maps, Twitter acquisition and my sense of commitment</h4> <p>If Elon Musk's claims made during Tesla's shareholder meeting this week are accurate, get ready for that humanoid robot he promised, some self-driving software update, and an overhauled Cybertruck. Then again, this is Elon we're talking about.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/tesla_musk_robot/",
-          "publishedOn": "2022-08-05T23:37:05.000Z",
-          "wordCount": 1579,
-          "title": "Remember the humanoid Tesla robot? It's ready for September reveal, says Musk",
-          "imageUrl": "https://regmedia.co.uk/2022/08/05/optimus-tease.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/apple_warns_suppliers_in_taiwan/",
-          "author": null,
-          "description": "<h4>That's the way the Cook he crumbles</h4> <p>Apple, which celebrates its self-professed commitment to free expression and human rights, has reportedly told its suppliers in Taiwan to label their components so they describe Taiwan as a province of the People's Republic of China (PRC).…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/apple_warns_suppliers_in_taiwan/",
-          "publishedOn": "2022-08-05T22:47:08.000Z",
-          "wordCount": 1738,
-          "title": "Apple tells suppliers to use 'Taiwan, China' or 'Chinese Taipei' to appease Beijing",
-          "imageUrl": "https://regmedia.co.uk/2022/02/17/shutterstock_taiwan_in_chinas_shadow.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/roscosmos_nasa_iss/",
-          "author": null,
-          "description": "<h4>Yeah, they do have a habit of being in places where they are no longer welcome</h4> <p>Russia's space agency has signaled it may well continue maintaining its chunk of the International Space Station to potentially as far out as 2030. Or as early as 2025.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/roscosmos_nasa_iss/",
-          "publishedOn": "2022-08-05T22:10:32.000Z",
-          "wordCount": 1437,
-          "title": "Russia: Hey, don't act surprised if we're still on the ISS in 2030",
-          "imageUrl": "https://regmedia.co.uk/2019/01/09/iss.jpg"
         }
       ]
     }

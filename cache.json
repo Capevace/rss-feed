@@ -616,6 +616,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/09/new-gatsby-2022/",
+          "author": "hello@smashingmagazine.com (Paul Scanlon)",
+          "description": "Gatsby has evolved quite dramatically in the last two years. In this article, Paul Scanlon explains what Gatsby can do today, and how he used some of the new features when upgrading his personal website from Gatsby 2 to Gatsby 4.",
+          "link": "https://smashingmagazine.com/2022/09/new-gatsby-2022/",
+          "publishedOn": "2022-09-20T08:00:00.000Z",
+          "wordCount": 4967,
+          "title": "What’s New In Gatsby 2022?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/34359e66-8433-419e-9ea1-ab4c3becac46/new-gatsby-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/34359e66-8433-419e-9ea1-ab4c3becac46/new-gatsby-2022.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/",
+          "author": "hello@smashingmagazine.com (Andrico Karoulla)",
+          "description": "In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.",
+          "link": "https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/",
+          "publishedOn": "2022-09-19T18:00:00.000Z",
+          "wordCount": 7013,
+          "title": "Building A Retro Draggable Web Component With Lit",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c1d9b905-3c76-4125-a9b1-91c8db791a06/building-retro-draggable-web-component-using-lit.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c1d9b905-3c76-4125-a9b1-91c8db791a06/building-retro-draggable-web-component-using-lit.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
           "author": "hello@smashingmagazine.com (Matt Athanasiou)",
           "description": "How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.",
@@ -922,6 +952,36 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/american-airlines-discloses-data-breach-after-employee-email-compromise/",
+          "author": "Sergiu Gatlan",
+          "description": "American Airlines has notified customers of a recent data breach after attackers compromised an undisclosed number of employee email accounts and gained access to sensitive personal information. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/american-airlines-discloses-data-breach-after-employee-email-compromise/",
+          "publishedOn": "2022-09-19T21:50:19.000Z",
+          "wordCount": 2257,
+          "title": "American Airlines discloses data breach after employee email compromise",
+          "imageUrl": "https://www.bleepstatic.com/images/news/u/1109292/2022/American—-Airlines.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/microsoft-365-phishing-attacks-impersonate-us-govt-agencies/",
+          "author": "Bill Toulas",
+          "description": "An ongoing phishing campaign targeting U.S. government contractors has expanded its operation to push higher-quality lures and better-crafted documents. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-365-phishing-attacks-impersonate-us-govt-agencies/",
+          "publishedOn": "2022-09-19T20:28:25.000Z",
+          "wordCount": 2341,
+          "title": "Microsoft 365 phishing attacks impersonate U.S. govt agencies",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/08/23/phishing-email.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-ukrainian-telcos-to-drop-malware/",
+          "author": "Bill Toulas",
+          "description": "The Russian state-sponsored hacking group known as Sandworm has been observed masquerading as telecommunication providers to target Ukrainian entities with malware. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-ukrainian-telcos-to-drop-malware/",
+          "publishedOn": "2022-09-19T18:50:01.000Z",
+          "wordCount": 2283,
+          "title": "Russian Sandworm hackers pose as Ukrainian telcos to drop malware",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2020/10/19/sandworms.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/uber-links-breach-to-lapsus-group-blames-contractor-for-hack/",
           "author": "Sergiu Gatlan",
@@ -2791,26 +2851,6 @@
           "wordCount": 2499,
           "title": "LockBit ransomware blames Entrust for DDoS attacks on leak sites",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/07/27/Lockbit-logo.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/an-encrypted-zip-file-can-have-two-correct-passwords-heres-why/",
-          "author": "Ax Sharma",
-          "description": "Password-protected ZIP archives are common means of compressing and sharing sets of files—from sensitive documents to malware samples to even malware (phishing \"invoices\" in emails). But, did you know it is possible for an encrypted ZIP file to have two correct passwords, with both producing the same outcome on extraction? [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/an-encrypted-zip-file-can-have-two-correct-passwords-heres-why/",
-          "publishedOn": "2022-08-21T16:27:34.000Z",
-          "wordCount": 2774,
-          "title": "An encrypted ZIP file can have two correct passwords — here's why",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/08/21/compressed-folder-light-rays.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/hackers-target-hotel-and-travel-companies-with-fake-reservations/",
-          "author": "Bill Toulas",
-          "description": "A hacker tracked as TA558 has upped their activity this year, running phishing campaigns that target multiple hotels and firms in the hospitality and travel space. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-target-hotel-and-travel-companies-with-fake-reservations/",
-          "publishedOn": "2022-08-21T14:12:06.000Z",
-          "wordCount": 2278,
-          "title": "Hackers target hotel and travel companies with fake reservations",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/09/travel-header.jpg"
         }
       ]
     },
@@ -2819,6 +2859,16 @@
       "feedUrl": "https://www.technologyreview.com/feed/",
       "siteUrl": "https://www.technologyreview.com",
       "articles": [
+        {
+          "id": "https://www.technologyreview.com/?p=1059709",
+          "author": "Hana Kiros",
+          "description": "YouTube’s recommendation algorithm drives 70% of what people watch on the platform. That algorithm shapes the information billions of people consume, and YouTube has controls that purport to allow people to adjust what it shows them. But, a new study finds, those tools don’t do much. Instead, users have little power to keep unwanted videos—including…",
+          "link": "https://www.technologyreview.com/2022/09/20/1059709/youtube-algorithm-recommendations/",
+          "publishedOn": "2022-09-20T08:00:00.000Z",
+          "wordCount": 5478,
+          "title": "Hated that video? YouTube’s algorithm might push you another just like it.",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/09/pushing-videos3a.jpeg?resize=1200,600"
+        },
         {
           "id": "https://www.technologyreview.com/?p=1059250",
           "author": "MIT Technology Review Insights",
@@ -3656,6 +3706,96 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-7269702",
+          "author": null,
+          "description": "Wer im App Store ab 5. Oktober eine App erwirbt, muss im Schnitt 20 Prozent mehr bezahlen. Grund für die Erhöhung dürfte der schwache Euro sein.",
+          "link": "https://www.heise.de/news/App-Store-Apple-erhoeht-in-Europa-ab-5-Oktober-die-Preise-7269702.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-20T09:13:00.000Z",
+          "wordCount": 2195,
+          "title": "App Store: Apple erhöht in Europa ab 5. Oktober die Preise",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/1/5/7/4/shutterstock_1081604945-21aa0e5c2f260e93.jpg"
+        },
+        {
+          "id": "http://heise.de/-7269567",
+          "author": null,
+          "description": "Scheinbar im Raum schwebenden Texten und Objekten kommt man mit dem neuen transparenten OLED-Display von Waveshare zumindest ein Stückchen näher.",
+          "link": "https://www.heise.de/news/Transparentes-OLED-Display-fuer-Raspberry-und-Arduino-Bastelrechner-7269567.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-20T09:00:00.000Z",
+          "wordCount": 1953,
+          "title": "Transparentes OLED-Display für Raspberry- und Arduino-Bastelrechner",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/1/5/0/3/1.51inch-Transparent-OLED-details-13-3c45e2d5748ce4f6.png"
+        },
+        {
+          "id": "http://heise.de/-7269535",
+          "author": null,
+          "description": "Selbst Erpressungstrojaner haben Sicherheitslücken und „Fans“ machen für Geld offensichtlich alles.",
+          "link": "https://www.heise.de/news/l-f-Lockbit-Macher-lassen-Kohle-fuer-Bug-Bounty-und-Tattoos-springen-7269535.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-20T08:26:00.000Z",
+          "wordCount": 1914,
+          "title": "l+f: Lockbit-Macher lassen Kohle für Bug Bounty und Tattoos springen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/1/4/8/6/Ransomware_Erpressungstrojaner_Trojaner_Cybercrime_-9d6ec3f5dc56b8cb.jpg"
+        },
+        {
+          "id": "http://heise.de/-7264571",
+          "author": null,
+          "description": "Jetzt mit dem neuen c't-Sonderheft und Desinfec't 2022/23 Trojaner unter Windows jagen und Daten von nicht mehr startenden PCs in Sicherheit bringen.",
+          "link": "https://www.heise.de/news/c-t-Sicherheitstool-Desinfec-t-2022-23-auf-USB-Stick-kaufen-7264571.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-20T08:00:00.000Z",
+          "wordCount": 2070,
+          "title": "heise-Angebot: c't-Sicherheitstool: Desinfec't 2022/23 auf USB-Stick kaufen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/0/8/7/2/4/Titel_mit_Hintergrund_hb22.09-f26e1013e1c31f0d.jpg"
+        },
+        {
+          "id": "http://heise.de/-7269223",
+          "author": null,
+          "description": "Künftig gibt es das quelloffene Büropaket auch in Apples Mac App Store. Das dürfte der schnelleren Verbreitung dienen, ist allerdings mit Kosten verbunden.",
+          "link": "https://www.heise.de/news/Mac-LibreOffice-verbreitert-Vertrieb-gegen-Geld-7269223.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-20T08:00:00.000Z",
+          "wordCount": 2181,
+          "title": "Mac: LibreOffice verbreitert Vertrieb – gegen Geld",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/1/3/2/3/previewed-6612aba2282d1032.png"
+        },
+        {
+          "id": "http://heise.de/-7269037",
+          "author": null,
+          "description": "Im November starten die Konferenzen zu CI/CD, DevSecOps, Kubernetes und Containern wieder vor Ort. Bis 26. September gilt noch der Frühbucherrabatt.",
+          "link": "https://www.heise.de/news/Continuous-Lifecycle-und-ContainerConf-2022-Jetzt-noch-Fruehbucherticket-sichern-7269037.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-20T06:10:00.000Z",
+          "wordCount": 2112,
+          "title": "heise-Angebot: Continuous Lifecycle und ContainerConf 2022: Jetzt noch Frühbucherticket sichern",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/1/2/2/1/CLCCC-Logos-mit-Hingtergrund-gruen-gelb-5b035bf0d2130cfe.png"
+        },
+        {
+          "id": "http://heise.de/-7269350",
+          "author": null,
+          "description": "Hinter dem Hackerangriff auf Uber soll ein Mitglied der Hackergruppe Lapsus$ stecken. Der ist womöglich auch für das Leak von Szenen aus GTA 6 verantwortlich.",
+          "link": "https://www.heise.de/news/Uber-Hacker-soll-Mitglied-der-Lapsus-Gruppe-sein-keine-Nutzerdaten-betroffen-7269350.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-20T05:05:00.000Z",
+          "wordCount": 2103,
+          "title": "Uber: Hacker soll Mitglied der Lapsus$-Gruppe sein - Verbindung zu GTA-Leak?",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/1/3/8/7/shutterstock_1369454993-c21036a5e551416c.jpg"
+        },
+        {
+          "id": "http://heise.de/-7269257",
+          "author": null,
+          "description": "Netzbetreiber befürchten durch die neue Gigabitstrategie einen \"Förder-Tsunami\", der den eigenwirtschaftlichen Ausbau hindert. Der Schuh drückt sie anders.",
+          "link": "https://www.heise.de/news/Glasfaser-fuer-alle-bis-2030-Ab-2026-wird-es-happig-7269257.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-19T23:55:00.000Z",
+          "wordCount": 2552,
+          "title": "Glasfaser für alle bis 2030: Ab 2026 wird es happig",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/1/3/4/0/Glasfaserverlegung_Holzhaus-421c6d0e747c168e.jpg"
+        },
+        {
+          "id": "http://heise.de/-7269283",
+          "author": null,
+          "description": "Der Digitalkonzern will seine Cloud- und Webhostingsparte an die Börse bringen. Dort wurde die Ankündigung positiv aufgenommen.",
+          "link": "https://www.heise.de/news/United-Internet-treibt-Plaene-fuer-Ionos-Boersengang-voran-7269283.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2022-09-19T18:30:00.000Z",
+          "wordCount": 1978,
+          "title": "United Internet treibt Pläne für Ionos-Börsengang voran",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/1/3/5/3/shutterstock_421955908-7a8e8d63ffd67f4d.jpg"
+        },
         {
           "id": "http://heise.de/-7269216",
           "author": null,
@@ -8105,26 +8245,6 @@
           "wordCount": 1861,
           "title": "heise-Angebot: iX-Workshop: KI hands-on – Machine Learning & Deep Learning (Last Call)",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/9/4/0/3/7/DeepLearning_Tensorflow_Ticker-16x9_Kopie-bb107163727e2c39.png"
-        },
-        {
-          "id": "http://heise.de/-7238555",
-          "author": null,
-          "description": "Schnelles Internet, Video-Streaming oder Online-Spiele: Ein WLAN-Router macht das zu Hause möglich. Wie man das richtige Gerät findet, erklärt der Ratgeber.",
-          "link": "https://www.techstage.de/ratgeber/fritzbox-vs-netgear-und-co-so-findet-man-den-besten-wlan-router/p0yxemc?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-08-21T14:00:00.000Z",
-          "wordCount": 3717,
-          "title": "Fritzbox vs. Netgear & Co.: So findet man den besten WLAN-Router",
-          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/qqbktkpTURBXy9kN2FlMDY1YjMyNjA0MjY4MThlYjhkZTAwMDc5YmZmYy5qcGeSlQMAzLnNFy_NDQqTBc0EsM0Cdg"
-        },
-        {
-          "id": "http://heise.de/-7221253",
-          "author": null,
-          "description": "Wer sich zu wichtigen IT-Themen weiterbilden möchte, kann für kurze Zeit beim Kauf der Videokurse in der heise Academy ordentlich sparen.",
-          "link": "https://www.heise.de/news/Nur-fuer-kurze-Zeit-50-Prozent-Rabatt-auf-alle-Videokurse-der-heise-Academy-7221253.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-08-21T09:00:00.000Z",
-          "wordCount": 2419,
-          "title": "heise-Angebot: Nur für kurze Zeit: 50 Prozent Rabatt auf alle Videokurse der heise Academy",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/9/2/5/9/4/Academy-50_-Ticker-Header-16-9-c6552d1197065c1d.jpg"
         }
       ]
     },
@@ -9782,6 +9902,96 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/linux_foundation_europe/",
+          "author": null,
+          "description": "<h4>Plans to drive more open source – and more transparency – into public sector</h4> <p><strong>Open Source Summit</strong>  The body behind the biggest open source project in the world has opened a European division.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/linux_foundation_europe/",
+          "publishedOn": "2022-09-20T08:30:11.000Z",
+          "wordCount": 1160,
+          "title": "Linux Foundation launches European division",
+          "imageUrl": "https://regmedia.co.uk/2016/09/15/eu_flag_photo_via_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/ipnsig_solar_system_routing_framework/",
+          "author": null,
+          "description": "<h4>Needs to be autonomous, interoperable, and capable of scaling to 100,000 nodes</h4> <p>The Internet Society’s Interplanetary Networking Special Interest Group (IPNSIG) has called for the development of “a common, interoperable, autonomous and scalable routing framework within the Solar System Internet.”…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/ipnsig_solar_system_routing_framework/",
+          "publishedOn": "2022-09-20T07:29:06.000Z",
+          "wordCount": 1291,
+          "title": "Internet Society recommends development of Solar-System-scale routing framework",
+          "imageUrl": "https://regmedia.co.uk/2022/09/20/shutterstock_the_solar_system.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/in_brief_ai/",
+          "author": null,
+          "description": "<h4>Plus: Cruise expanding self-driving robotaxi operations, and more</h4> <p><strong>In brief</strong>  Everyone agrees that text-to-image models are here to stay, though opinions are divided over AI-generated art.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/in_brief_ai/",
+          "publishedOn": "2022-09-20T06:40:12.000Z",
+          "wordCount": 1525,
+          "title": "Creatives up in arms over claim that AI is killing human art",
+          "imageUrl": "https://regmedia.co.uk/2018/11/28/woman_painting.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/china_to_shoot_tourists_into/",
+          "author": null,
+          "description": "<h4>Asserts Beijing can achieve parity with US capabilities within a decade, thanks to burgeoning private sector</h4> <p>China’s space tourism operators will lift off for first time in 2025 at between $280k-$400k per sub-orbital seat, according to the founder of Beijing-backed commercial launch service provider CAS Space, Yang Yiqiang.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/china_to_shoot_tourists_into/",
+          "publishedOn": "2022-09-20T05:31:15.000Z",
+          "wordCount": 1438,
+          "title": "China to launch space tourism by 2025, says industry veteran",
+          "imageUrl": "https://regmedia.co.uk/2021/05/19/astronaut.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/libre_office_macos_fees/",
+          "author": null,
+          "description": "<h4>Only in the Mac App Store, as part of FOSS-for-biz strategy software org admits may not quickly deliver results</h4> <p>The Document Foundation, the organization that tends the open source productivity suite LibreOffice, has decided to start charging for one version of the software.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/libre_office_macos_fees/",
+          "publishedOn": "2022-09-20T04:30:11.000Z",
+          "wordCount": 1447,
+          "title": "Document Foundation starts charging €8.99 for 'free' LibreOffice",
+          "imageUrl": "https://regmedia.co.uk/2022/09/20/shutterstock_editorial_only_libreoffice.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/google_dialogflow_outage/",
+          "author": null,
+          "description": "<h4>Replace unreliable people with tireless cloudy software, they said …</h4> <p>Your correspondent once met the manager of a contact center dedicated to processing parking and speeding fines. This chap's \"customers\" were understandably nearly always unhappy, and the folks who answered the phones therefore copped more than their fair share of surliness and abuse.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/google_dialogflow_outage/",
+          "publishedOn": "2022-09-20T03:15:08.000Z",
+          "wordCount": 1280,
+          "title": "Google's AI call center agents all take the morning off",
+          "imageUrl": "https://regmedia.co.uk/2022/09/20/shutterstock_robot_call_centre.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/nasa_sls_test/",
+          "author": null,
+          "description": "<h4>For those on tenterhooks over this Moon mission</h4> <p>NASA will televise a test on Wednesday to confirm whether a repair made to its Space Launch System (SLS) rocket has fixed the hydrogen leak that forced officials to scrub a previous launch attempt.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/nasa_sls_test/",
+          "publishedOn": "2022-09-20T00:09:39.000Z",
+          "wordCount": 1360,
+          "title": "NASA to live-stream SLS rocket fuel leak repair test",
+          "imageUrl": "https://regmedia.co.uk/2022/04/19/artemis_i.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/uber_admits_breach/",
+          "author": null,
+          "description": "<h4>From annoying MFA alerts to 'several internal systems' infiltrated</h4> <p>Uber, four days after suffering a substantial cybersecurity breach, has admitted its attacker accessed \"several internal systems\" including the corporation's G Suite account, and downloaded internal Slack messages and a tool used by its finance department to manage \"some\" invoices.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/uber_admits_breach/",
+          "publishedOn": "2022-09-19T22:54:54.000Z",
+          "wordCount": 1817,
+          "title": "Uber explains how it was pwned this month, points finger at Lapsus$ gang",
+          "imageUrl": "https://regmedia.co.uk/2022/09/19/uber_car_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/lockergoga_ransomware_decryptor/",
+          "author": null,
+          "description": "<h4>Software nasty used to cause hundreds of millions of dollars in damages, cops say</h4> <p>If you've been hit by the LockerGoga ransomware, an international law enforcement effort has publicly released a tool to fix the problem.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/lockergoga_ransomware_decryptor/",
+          "publishedOn": "2022-09-19T20:07:43.000Z",
+          "wordCount": 1256,
+          "title": "Been hit by LockerGoga ransomware? A free fix is now out",
+          "imageUrl": "https://regmedia.co.uk/2019/09/18/shutterstock_open_door_unlocked.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/iphone_14s_ifixit/",
           "author": null,
@@ -14191,16 +14401,6 @@
           "wordCount": 2348,
           "title": "Huawei dangles developer incentives to sell Harmony OS around the world",
           "imageUrl": "https://regmedia.co.uk/2021/08/19/shutterstock_satellite_over_asia.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/21/in_brief_ai/",
-          "author": null,
-          "description": "<h4>Plus: How US Homeland Security uses AI – and text-to-image systems deployed in social media</h4> <p><strong>In brief</strong>  Elon Musk wants Tesla's robot butler to be able to cook, mow laws, and care for the elderly, he wrote in an essay published in a magazine backed by the official Cyberspace Administration of China.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/21/in_brief_ai/",
-          "publishedOn": "2022-08-21T09:48:09.000Z",
-          "wordCount": 1492,
-          "title": "Musk tries to sell Tesla's Optimus robot butler to China",
-          "imageUrl": "https://regmedia.co.uk/2022/08/19/robot_shutterstock.jpg"
         }
       ]
     }

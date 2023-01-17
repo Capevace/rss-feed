@@ -486,6 +486,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
+          "author": "hello@smashingmagazine.com (Eloïse Martin)",
+          "description": "Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.",
+          "link": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
+          "publishedOn": "2023-01-16T18:00:00.000Z",
+          "wordCount": 5228,
+          "title": "Optimizing The Image Element LCP",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/01/top-frontend-tools-2022/",
           "author": "hello@smashingmagazine.com (Louis Lazaris)",
           "description": "Who doesn’t love a good front-end tool? In this roundup, you’ll find a nice list of useful front-end tools that were popular last year but are still bound to help you speed up and enhance your development workflow. Let’s dive in!",
@@ -687,6 +702,46 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/researchers-to-release-poc-exploit-for-critical-zoho-rce-bug-patch-now/",
+          "author": "Sergiu Gatlan",
+          "description": "Proof-of-concept exploit code will be released later this week for a critical vulnerability allowing remote code execution (RCE) without authentication in several VMware products. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/researchers-to-release-poc-exploit-for-critical-zoho-rce-bug-patch-now/",
+          "publishedOn": "2023-01-16T23:10:40.000Z",
+          "wordCount": 2299,
+          "title": "Researchers to release PoC exploit for critical Zoho RCE bug, patch now",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/16/ZOHO_headpic.jpeg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/msi-accidentally-breaks-secure-boot-for-hundreds-of-motherboards/",
+          "author": "Bill Toulas",
+          "description": "Over 290 MSI motherboards are reportedly affected by an insecure default UEFI Secure Boot setting settings that allows any operating system image to run regardless of whether it has a wrong or missing signature. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/msi-accidentally-breaks-secure-boot-for-hundreds-of-motherboards/",
+          "publishedOn": "2023-01-16T22:02:36.000Z",
+          "wordCount": 2498,
+          "title": "MSI accidentally breaks Secure Boot for hundreds of motherboards",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/16/msi-wallpaper-1.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/vice-society-ransomware-leaks-university-of-duisburg-essen-s-data/",
+          "author": "Bill Toulas",
+          "description": "The Vice Society ransomware gang has claimed responsibility for the November 2022 cyberattack that forced the University of Duisburg-Essen (UDE) to reconstruct its IT infrastructure, a process that's still ongoing. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/vice-society-ransomware-leaks-university-of-duisburg-essen-s-data/",
+          "publishedOn": "2023-01-16T19:22:08.000Z",
+          "wordCount": 2301,
+          "title": "Vice Society ransomware leaks University of Duisburg-Essen’s data",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/16/University_of_Duisburg-Essen.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/datadog-rotates-rpm-signing-key-exposed-in-circleci-hack/",
+          "author": "Sergiu Gatlan",
+          "description": "Cloud security firm Datadog says that one of its RPM GPG signing keys and its passphrase have been exposed during a recent CircleCI security breach. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/datadog-rotates-rpm-signing-key-exposed-in-circleci-hack/",
+          "publishedOn": "2023-01-16T19:08:19.000Z",
+          "wordCount": 2196,
+          "title": "Datadog rotates RPM signing key exposed in CircleCI hack",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/16/Datadog.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/malicious-lolip0p-pypi-packages-install-info-stealing-malware/",
           "author": "Bill Toulas",
@@ -2116,46 +2171,6 @@
           "wordCount": 2355,
           "title": "Microsoft: KB5021233 causes blue screens with 0xc000021a errors",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/01/13/windows-10-glass-broken.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-no-windows-preview-updates-this-month-due-to-holidays/",
-          "author": "Mayank Parmar",
-          "description": "Microsoft has confirmed that Windows Update won't offer optional updates in December, with the software giant only focusing on security updates due to the holiday season. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-no-windows-preview-updates-this-month-due-to-holidays/",
-          "publishedOn": "2022-12-18T16:42:59.000Z",
-          "wordCount": 1962,
-          "title": "Microsoft: No Windows preview updates this month due to holidays",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/08/03/Windows-10.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-no-optional-windows-updates-this-month-due-to-holidays/",
-          "author": "Mayank Parmar",
-          "description": "Microsoft has confirmed that Windows Update won't offer optional updates in December, with the software giant only focusing on security updates due to the holiday season. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-no-optional-windows-updates-this-month-due-to-holidays/",
-          "publishedOn": "2022-12-18T16:42:59.000Z",
-          "wordCount": 1960,
-          "title": "Microsoft: No optional Windows Updates this month due to holidays",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/08/03/Windows-10.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/restaurant-crm-platform-sevenrooms-confirms-breach-after-data-for-sale/",
-          "author": "Bill Toulas",
-          "description": "SevenRooms, a restaurant CRM software and guest manRestaurant customer management platform SevenRooms has confirmed it suffered a data breach after a threat actor began selling stolen data on a hacking forum.agement service provider, has admitted it has suffered a data breach, result of a security incident on one of its vendors. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/restaurant-crm-platform-sevenrooms-confirms-breach-after-data-for-sale/",
-          "publishedOn": "2022-12-18T16:07:14.000Z",
-          "wordCount": 2193,
-          "title": "Restaurant CRM platform ‘SevenRooms’ confirms breach after data for sale",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/17/restaurant.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/t-mobile-hacker-gets-10-years-for-25-million-phone-unlock-scheme/",
-          "author": "Sergiu Gatlan",
-          "description": "Argishti Khudaverdyan, the former owner of a T-Mobile retail store, was sentenced to 10 years in prison for a $25 million scheme where he unlocked and unblocked cellphones by hacking into T-Mobile's internal systems. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/t-mobile-hacker-gets-10-years-for-25-million-phone-unlock-scheme/",
-          "publishedOn": "2022-12-18T15:03:05.000Z",
-          "wordCount": 2453,
-          "title": "T-Mobile hacker gets 10 years for $25 million phone unlock scheme",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/02/26/T-Mobile-headpic.jpg"
         }
       ]
     },
@@ -3001,6 +3016,76 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-7460099",
+          "author": null,
+          "description": "Das Webinar führt in die Produktivitätsfunktionen von iOS 16 ein und erklärt unter anderem, wie sich Unternehmen vor ungewolltem Datenabfluss schützen können.",
+          "link": "https://www.heise.de/news/Webinar-Apple-Produktivitaetsfunktionen-fuer-die-Zusammenarbeit-im-Unternehmen-7460099.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-01-17T09:00:00.000Z",
+          "wordCount": 2023,
+          "title": "heise-Angebot: Webinar: Apple-Produktivitätsfunktionen für die Zusammenarbeit im Unternehmen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/7/9/9/9/0/Produktivitaetsfunktionen-Ticker-Header-16-9-287246ceac103acf.jpg"
+        },
+        {
+          "id": "http://heise.de/-7460807",
+          "author": null,
+          "description": "Angeblich stellt Apple heute neue Rechner vor – per schnöder Pressemitteilung. Unterdessen ist ein neues MacBook Pro in einer Regulierungsdatenbank aufgetaucht.",
+          "link": "https://www.heise.de/news/Geruechtekueche-Neue-Macs-am-Dienstag-7460807.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-01-17T08:48:00.000Z",
+          "wordCount": 2111,
+          "title": "Gerüchteküche: Neue Macs am Dienstag?",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/0/3/7/5/263756595_69a9b52695-dcf7e65769e47dd4.jpg"
+        },
+        {
+          "id": "http://heise.de/-7460953",
+          "author": null,
+          "description": "Die von US-Strafverfolgern genutzte App, SweepWizard, erlaubte den Zugriff auf vertrauliche Daten. Der Hersteller hat die App vorerst zurückgezogen.",
+          "link": "https://www.heise.de/news/US-Polizei-App-legt-Details-zu-Durchsuchungen-und-Verdaechtigen-offen-7460953.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-01-17T08:43:00.000Z",
+          "wordCount": 2148,
+          "title": "US-Polizei-App legt Details zu Durchsuchungen und Verdächtigen offen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/0/4/5/2/Polizei_Stadt-4de7988d537c8918.jpg"
+        },
+        {
+          "id": "http://heise.de/-7459996",
+          "author": null,
+          "description": "In drei Tagen einen umfassenden Überblick über Inhalte und Umsetzung der IT-Grundschutz-Methodik des BSI erhalten. Mit anschließender Prüfung und Zertifzierung.",
+          "link": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-mit-10-Rabatt-7459996.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-01-17T07:00:00.000Z",
+          "wordCount": 1851,
+          "title": "heise-Angebot: iX-Workshop:  IT-Grundschutz-Praktiker mit Zertifikat (mit 10% Rabatt)",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/7/9/9/3/6/IT_Grundschutz_Praktiker_Ticker-16x9_Kopie-7c88b6ea99092ae0.png"
+        },
+        {
+          "id": "http://heise.de/-7451987",
+          "author": null,
+          "description": "AVMs einstiges Topmodell Fritzbox 7490 ist zwar schon fast zehn Jahre alt, aber wegen seiner weiten Verbreitung bekommt es dennoch das jüngste FritzOS.",
+          "link": "https://www.heise.de/news/Neues-FritzOS-Mehr-VPN-Tempo-fuer-alte-Fritzboxen-7451987.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-01-17T05:30:00.000Z",
+          "wordCount": 2205,
+          "title": "Neues FritzOS: Mehr VPN-Tempo für alte Fritzboxen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/7/5/6/5/8/AVM_FRITZBox_7490-3c9c14e4eecdc7b6.jpg"
+        },
+        {
+          "id": "http://heise.de/-7460869",
+          "author": null,
+          "description": "Ein New Yorker verklagt Twitter auf 5 Millionen US-Dollar wegen eines Datenlecks, durch das die Daten von mehr als 200 Millionen Nutzern offengelegt wurden.",
+          "link": "https://www.heise.de/news/Twitter-wegen-Datenleks-auf-fuenf-Millionen-US-Dollar-verklagt-7460869.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-01-16T22:32:00.000Z",
+          "wordCount": 2110,
+          "title": "Twitter wegen Datenlecks auf fünf Millionen US-Dollar verklagt",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/0/4/0/9/shutterstock_2152016641-38ebb0c068f98467.jpg"
+        },
+        {
+          "id": "http://heise.de/-7460759",
+          "author": null,
+          "description": "Neue Firmware rüstet bei zwei Kameras von Fujifilm wichtige Funktionen nach, bei sechs anderen Modellen lauert ein Bug. Ein Update kommt bald.",
+          "link": "https://www.heise.de/news/Fuji-verbessert-Tracking-bei-X-H2S-und-warnt-vor-anderen-Updates-7460759.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-01-16T18:49:00.000Z",
+          "wordCount": 2315,
+          "title": "Fuji warnt vor fehlerhaften Updates und verbessert Tracking bei X-H2S",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/0/3/5/0/Fuji-Tracking-c134d7a6c2cccbe0.png"
+        },
         {
           "id": "http://heise.de/-7460697",
           "author": null,
@@ -7330,26 +7415,6 @@
           "wordCount": 2170,
           "title": "Objektiventriegelung: Nikon ruft einige Z9 zurück",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/6/6/2/2/2/Z9_24-70_2.8_tilt_monitor_V-09bc6bdad8c7a9b7-2175d9ba68d84e1b.webp"
-        },
-        {
-          "id": "http://heise.de/-7398364",
-          "author": null,
-          "description": "PC-Lautsprecher sollen klein sein, gut klingen, interessant aussehen und möglichst wenig kosten. TechStage hat die fünf besten 2.0-Boxen für den PC getestet.",
-          "link": "https://www.techstage.de/bestenliste/top-5-die-besten-20-lautsprecher-fuer-den-pc-von-billig-bis-teuer/y3b2l1s?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-12-18T19:00:00.000Z",
-          "wordCount": 3420,
-          "title": "TechStage Top 5: Die besten 2.0-Lautsprecher für den PC",
-          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/P0jktkpTURBXy9iZTY2OTJiYjAzYzI2ZWRjMTk5NDM0MDYxN2E5YjQ0MS5qcGeSlQMBAM0LZc0GaZMFzQSwzQJ2"
-        },
-        {
-          "id": "http://heise.de/-7398398",
-          "author": null,
-          "description": "Google bietet für seinen E-Mail-Dienst Gmail clientseitige Verschlüsselung zum Testen an. Allerdings nur für Workspace-Abonnenten und als Betaversion.",
-          "link": "https://www.heise.de/news/Gmail-Clientseitige-Verschluesselung-als-Betaversion-fuer-Workspace-Nutzer-7398398.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-12-18T14:15:00.000Z",
-          "wordCount": 2009,
-          "title": "Gmail: Clientseitige Verschlüsselung als Betaversion für Workspace-Nutzer",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/6/6/2/0/5/shutterstock_2134027683-2fe4f46bb5317fac.jpg"
         }
       ]
     },
@@ -7695,6 +7760,22 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/researchers-uncover-3-pypi-packages.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A threat actor by the name Lolip0p has uploaded three rogue packages to the Python Package Index (PyPI) repository that are designed to drop malware on compromised developer systems.\nThe packages – named colorslib (versions 4.6.11 and 4.6.12), httpslib (versions 4.6.9 and 4.6.11), and libhttps (version 4.6.12) – by the author between January 7, 2023, and January 12, 2023. They have since been",
+          "link": "https://thehackernews.com/2023/01/researchers-uncover-3-pypi-packages.html",
+          "publishedOn": "2023-01-17T06:36:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover 3 PyPI Packages Spreading Malware to Developer Systems",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhdzNUp_3eRcuqueZQvaSmEWP8QvISag1ixK79f3tYSfWEYRd2v5XmCynyYGmlIHgNP6yJhhSMtF1sL0PwErNojkvBJmowGCbp0t0cHIEq9yN6mujXzeqvsbVhirjg1ad9cBv9LSJSojYYClucyOCF4KRMWDTLCQmyfPjY0QBfK4HNQSG35eae7xk5/s1600/python.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhdzNUp_3eRcuqueZQvaSmEWP8QvISag1ixK79f3tYSfWEYRd2v5XmCynyYGmlIHgNP6yJhhSMtF1sL0PwErNojkvBJmowGCbp0t0cHIEq9yN6mujXzeqvsbVhirjg1ad9cBv9LSJSojYYClucyOCF4KRMWDTLCQmyfPjY0QBfK4HNQSG35eae7xk5/s1600/python.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/01/raccoon-and-vidar-stealers-spreading.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -9286,6 +9367,56 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/17/tcs_wipro_hcl_infosys_results/",
+          "author": null,
+          "description": "<h4>Attrition woes subside as workers stop shifting, producing pleasing cost savings</h4> <p>India’s top four IT outsourcers, Wipro, HCL Technologies Infosys, and Tata Consultancy Services (TCS) all reported reasonably rosy results for their final quarter of 2022. the quarter rounding out 2022, despite global economic uncertainty.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/17/tcs_wipro_hcl_infosys_results/",
+          "publishedOn": "2023-01-17T07:58:06.000Z",
+          "wordCount": 1415,
+          "title": "India’s top four outsourcers report rosy revenues, mild macroeconomic misgivings",
+          "imageUrl": "https://regmedia.co.uk/2020/04/14/india_flag_digital_code.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/17/crypto_exchanges_freeze_lazarus_group/",
+          "author": null,
+          "description": "<h4>Well whaddya know, the crypto ecosystem did the right thing by stiffing the WannaCry bandits</h4> <p>Two cryptocurrency exchanges have frozen accounts identified as having been used by North Korea’s notorious Lazarus Group.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/17/crypto_exchanges_freeze_lazarus_group/",
+          "publishedOn": "2023-01-17T06:29:07.000Z",
+          "wordCount": 1327,
+          "title": "Crypto exchanges freeze accounts tied to North Korea’s notorious Lazarus Group",
+          "imageUrl": "https://regmedia.co.uk/2023/01/17/shuttertstock_north_korea_btc_flag_laptop.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/17/tencent_corruption_report/",
+          "author": null,
+          "description": "<h4>A couple have already been jailed, others shown the door for embezzling or arranging sham contracts</h4> <p>Chinese web and gaming giant Tencent has admitted it fired more than 100 people in 2022 for various forms of corruption – some so serious it reported them to local police.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/17/tencent_corruption_report/",
+          "publishedOn": "2023-01-17T05:29:08.000Z",
+          "wordCount": 1263,
+          "title": "Tencent fired 100 people for corruption during 2022",
+          "imageUrl": "https://regmedia.co.uk/2020/03/19/tencent.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/17/azure_openai_chatgpt/",
+          "author": null,
+          "description": "<h4>Addition of the chatbot everyone's talking about, and to, comes as Azure OpenAI goes GA</h4> <p>Microsoft has promised it will \"soon\" offer the ChatGPT AI chatbot as a service from its Azure cloud.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/17/azure_openai_chatgpt/",
+          "publishedOn": "2023-01-17T03:36:24.000Z",
+          "wordCount": 1402,
+          "title": "Microsoft to offer ChatGPT-as-a-service from Azure real soon now",
+          "imageUrl": "https://regmedia.co.uk/2023/01/17/shutterstock_editorial_only_microsoft_and_openai.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/17/didi_new_users_allowed/",
+          "author": null,
+          "description": "<h4>After eighteen month exile, it's allowed to recruit new customers</h4> <p>Chinese ride-share provider DiDi Chuxing announced on Monday that after a year and a half of being banned from registering new riders, the Cybersecurity Review Office has allowed it to resume recruitment of customers.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/17/didi_new_users_allowed/",
+          "publishedOn": "2023-01-17T01:30:05.000Z",
+          "wordCount": 1251,
+          "title": "Beijing lifts restrictions on rideshare giant DiDi Chuxing",
+          "imageUrl": "https://regmedia.co.uk/2022/07/22/shutterstock_didi_editorial_only.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/16/oracle_ula_costs/",
           "author": null,
@@ -12695,16 +12826,6 @@
           "wordCount": 2306,
           "title": "Toshiba breaks its silence on sales rumors, to quash them",
           "imageUrl": "https://regmedia.co.uk/2021/08/17/shutterstock_asia_as_circuit_board.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/12/18/us_blacklist_spells_trouble/",
-          "author": null,
-          "description": "<h4>One research firm thinks YMTC may have to exit 3D NAND altogether</h4> <p><strong>Analysis</strong>  The US has ramped up trade restrictions against YMTC, China's biggest domestic flash memory supplier, triggering concerns that the chipmaker will face significant production issues and potentially be forced to exit the 3D NAND market.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/12/18/us_blacklist_spells_trouble/",
-          "publishedOn": "2022-12-18T11:00:12.000Z",
-          "wordCount": 1525,
-          "title": "Latest US blacklist spells trouble for China’s biggest domestic 3D NAND supplier",
-          "imageUrl": "https://regmedia.co.uk/2021/03/17/china.jpg"
         }
       ]
     }

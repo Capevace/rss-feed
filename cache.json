@@ -497,16 +497,6 @@
           "wordCount": 2156,
           "title": "Styling Buttons in WordPress Block Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376237"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375486",
-          "author": "Geoff Graham",
-          "description": "You know, this is the time of year where Chris normally publishes a big ol’ reflection of the past year. The first one was published in 2007, the same year CSS-Tricks began, and it continued all the way through 2021…\nThank You (2022 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/thank-you-2022-edition/",
-          "publishedOn": "2022-12-28T15:46:15.000Z",
-          "wordCount": 2951,
-          "title": "Thank You (2022 Edition)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375486"
         }
       ]
     },
@@ -837,6 +827,76 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-force-upgrading-windows-11-21h2-devices/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft has started the forced rollout of Windows 11 22H2 to systems running Windows 11 21H2 that are approaching their end-of-support (EOS) date on October 10, 2023. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-force-upgrading-windows-11-21h2-devices/",
+          "publishedOn": "2023-01-27T00:08:46.000Z",
+          "wordCount": 2183,
+          "title": "Microsoft starts force upgrading Windows 11 21H2 devices",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/10/21/windows-11-gradient-header.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5022360-preview-update-released-with-15-improvements/",
+          "author": "Lawrence Abrams",
+          "description": "Microsoft has released the Windows 11 22H2 KB5022360 preview cumulative update with fifteen fixes or improvements. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5022360-preview-update-released-with-15-improvements/",
+          "publishedOn": "2023-01-27T00:05:30.000Z",
+          "wordCount": 2119,
+          "title": "Windows 11 KB5022360 preview update released with 15 improvements",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/06/30/windows-11-square-header.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/microsoft-urges-admins-to-patch-on-premises-exchange-servers/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft urged customers today to keep their on-premises Exchange servers patched by applying the latest supported Cumulative Update (CU) to have them always ready to deploy an emergency security update. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-urges-admins-to-patch-on-premises-exchange-servers/",
+          "publishedOn": "2023-01-26T23:02:41.000Z",
+          "wordCount": 2499,
+          "title": "Microsoft urges admins to patch on-premises Exchange servers",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/09/28/Microsoft-Exchange.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/bitwarden-password-vaults-targeted-in-google-ads-phishing-attack/",
+          "author": "Lawrence Abrams",
+          "description": "Bitwarden and other password managers are being targeted in Google ads phishing campaigns to steal users' password vault credentials. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/bitwarden-password-vaults-targeted-in-google-ads-phishing-attack/",
+          "publishedOn": "2023-01-26T21:40:34.000Z",
+          "wordCount": 2616,
+          "title": "Bitwarden password vaults targeted in Google ads phishing attack",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/09/cyber-key.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/us-offers-10m-bounty-for-hive-ransomware-links-to-foreign-governments/",
+          "author": "Sergiu Gatlan",
+          "description": "The U.S. Department of State today offered up to $10 million for information that could help link the Hive ransomware group (or other threat actors) with foreign governments. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/us-offers-10m-bounty-for-hive-ransomware-links-to-foreign-governments/",
+          "publishedOn": "2023-01-26T20:41:44.000Z",
+          "wordCount": 2192,
+          "title": "US offers $10M bounty for Hive ransomware links to foreign governments",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/26/Hive_ransomware.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/new-mimic-ransomware-abuses-everything-windows-search-tool/",
+          "author": "Bill Toulas",
+          "description": "A new ransomware family named 'Mimic' has been spotted in the wild abusing the APIs of a legitimate Windows file search tool called 'Everything' to achieve file enumeration. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/new-mimic-ransomware-abuses-everything-windows-search-tool/",
+          "publishedOn": "2023-01-26T20:22:24.000Z",
+          "wordCount": 2244,
+          "title": "New Mimic ransomware abuses ‘Everything’ Windows search tool",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/05/malware-header.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/lexmark-warns-of-rce-bug-affecting-100-printer-models-poc-released/",
+          "author": "Bill Toulas",
+          "description": "Lexmark has released a security firmware update to fix a severe vulnerability that could enable remote code execution (RCE) on more than 100 printer models. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/lexmark-warns-of-rce-bug-affecting-100-printer-models-poc-released/",
+          "publishedOn": "2023-01-26T20:08:01.000Z",
+          "wordCount": 2257,
+          "title": "Lexmark warns of RCE bug affecting 100 printer models, PoC released",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/26/lexmark.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/google-nukes-50-000-accounts-pushing-chinese-disinformation/",
           "author": "Sergiu Gatlan",
@@ -2566,46 +2626,6 @@
           "wordCount": 2301,
           "title": "Crypto platform 3Commas admits hackers stole API keys",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/04/15/bitcoin.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software/",
-          "author": "Bill Toulas",
-          "description": "Malware operators have been increasingly abusing the Google Ads platform to spread malware to unsuspecting users searching for popular software products. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software/",
-          "publishedOn": "2022-12-28T19:12:16.000Z",
-          "wordCount": 2613,
-          "title": "Hackers abuse Google Ads to spread malware in legit software",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/05/malware-header.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/royal-ransomware-claims-attack-on-intrado-telecom-provider/",
-          "author": "Sergiu Gatlan",
-          "description": "​​​​​​​The Royal Ransomware gang claimed responsibility for a cyber attack against telecommunications company Intrado on Tuesday. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/royal-ransomware-claims-attack-on-intrado-telecom-provider/",
-          "publishedOn": "2022-12-28T18:40:37.000Z",
-          "wordCount": 2271,
-          "title": "Royal ransomware claims attack on Intrado telecom provider",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/28/Intrado.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/thousands-of-citrix-servers-vulnerable-to-patched-critical-flaws/",
-          "author": "Bill Toulas",
-          "description": "Thousands of Citrix ADC and Gateway deployments remain vulnerable to two critical-severity security issues that the vendor fixed in recent months. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/thousands-of-citrix-servers-vulnerable-to-patched-critical-flaws/",
-          "publishedOn": "2022-12-28T17:28:40.000Z",
-          "wordCount": 2397,
-          "title": "Thousands of Citrix servers vulnerable to patched critical flaws",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/11/08/citrix-stars.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/ransomware-attack-at-louisiana-hospital-impacts-270-000-patients/",
-          "author": "Bill Toulas",
-          "description": "The Lake Charles Memorial Health System (LCMHS) is sending out notices of a data breach affecting almost 270,000 people who have received care at one of its medical centers. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-at-louisiana-hospital-impacts-270-000-patients/",
-          "publishedOn": "2022-12-28T13:54:26.000Z",
-          "wordCount": 2297,
-          "title": "Ransomware attack at Louisiana hospital impacts 270,000 patients",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/28/lcmh.jpg"
         }
       ]
     },
@@ -2614,6 +2634,16 @@
       "feedUrl": "https://www.technologyreview.com/feed/",
       "siteUrl": "https://www.technologyreview.com",
       "articles": [
+        {
+          "id": "https://www.technologyreview.com/?p=1067317",
+          "author": "Anthony Green",
+          "description": "A Roomba recorded a woman on the toilet. How did screenshots end up on social media? This episode we go behind the scenes of an MIT Technology Review investigation that uncovered how sensitive photos taken by an AI powered vacuum were leaked and landed on the internet. Reporting: We meet: Credits: This episode was reported…",
+          "link": "https://www.technologyreview.com/2023/01/26/1067317/podcast-roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy-consent-agreement-misled/",
+          "publishedOn": "2023-01-26T19:15:58.000Z",
+          "wordCount": 8794,
+          "title": "How Roomba tester’s private images ended up on Facebook",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/01/anaglyph-vacuum-169.jpg?resize=1200,600"
+        },
         {
           "id": "https://www.technologyreview.com/?p=1067308",
           "author": "Rhiannon Williams",
@@ -3383,16 +3413,6 @@
           "wordCount": 5290,
           "title": "AI is bringing the internet to submerged Roman ruins",
           "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/12/JF23_Baia_tablet_AR-ICR.jpg?resize=1200,600"
-        },
-        {
-          "id": "https://www.technologyreview.com/?p=1064782",
-          "author": "Matt Whittaker",
-          "description": "On a recent cool, sunny morning, Meg Caley could be found at Jack’s Solar Garden showing visitors a bed of kale plants. As executive director of Sprout City Farms, Caley has more than a decade of experience farming in unlikely urban spaces in the Denver area. Today, about an hour north of the city, she…",
-          "link": "https://www.technologyreview.com/2022/12/28/1064782/farm-solar-panels-crop/",
-          "publishedOn": "2022-12-28T10:00:00.000Z",
-          "wordCount": 5158,
-          "title": "The newest crop found on the farm? Solar panels.",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/12/JF23_download-4.jpg?resize=1200,600"
         }
       ]
     },
@@ -3401,6 +3421,46 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-7471868",
+          "author": null,
+          "description": "Penetrationstests gezielt und methodisch beauftragen und einsetzen, um Schwachstellen in der IT aufzuspüren und zu beseitigen. Online an zwei Vormittagen.",
+          "link": "https://www.heise.de/news/iX-Workshop-Pentests-Methodik-Ausschreibung-Auswertung-Last-Call-7471868.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-01-27T07:15:00.000Z",
+          "wordCount": 1876,
+          "title": "heise-Angebot: iX-Workshop: Pentests  – Methodik, Ausschreibung, Auswertung (Last Call)",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/6/3/4/6/Penetrationstests-Ticker-Header-16-9-79528f838d46ef20.jpg"
+        },
+        {
+          "id": "http://heise.de/-7472474",
+          "author": null,
+          "description": "Fast die Hälfte aller Bahn- und Busfahrer des Nahverkehrs geht bald in Rente. Nachwuchs lässt sich schwer finden. Automatisiertes Fahren soll Abhilfe schaffen.",
+          "link": "https://www.heise.de/news/Mobilitaetswende-Immer-mehr-U-Bahnen-werden-automatisiert-7472474.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-01-27T06:12:00.000Z",
+          "wordCount": 2471,
+          "title": "Mobilitätswende: Immer mehr U-Bahnen werden automatisiert",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/6/6/6/7/shutterstock_2161477825-e7fd0c866f5b7ecd.jpg"
+        },
+        {
+          "id": "http://heise.de/-7472301",
+          "author": null,
+          "description": "Das Sozialgericht München hat die Klage eines Arztes gegen Honorarkürzungen im Zusammenhang mit der verpflichtenden Anbindung an das Gesundheitsnetz abgewiesen.",
+          "link": "https://www.heise.de/news/Sorge-um-Schutz-von-Patientendaten-Gericht-weist-Klage-eines-Arztes-ab-7472301.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-01-27T05:19:00.000Z",
+          "wordCount": 2020,
+          "title": "Sorge um Schutz von Patientendaten: Gericht weist Klage eines Arztes ab",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/6/5/7/5/shutterstock_326305964-e44a27a73b498d19.jpg"
+        },
+        {
+          "id": "http://heise.de/-7472364",
+          "author": null,
+          "description": "Auf einen grausigen Jahresabschluss folgt ein noch grausigerer Ausblick auf Anfang 2023. Intel streicht viele Pläne, um Geld zu sparen.",
+          "link": "https://www.heise.de/news/Intel-Hoechstes-Operativminus-in-der-Firmengeschichte-7472364.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-01-26T23:25:00.000Z",
+          "wordCount": 2293,
+          "title": "Intels Prozessor-Kerngeschäft läuft desaströs",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/6/6/0/8/Core_i9-13900K-04c1fa1bf8840854.jpeg"
+        },
         {
           "id": "http://heise.de/-7471797",
           "author": null,
@@ -8760,36 +8820,6 @@
           "wordCount": 2146,
           "title": "Balkonkraftwerke: Chef der Bundesnetzagentur unterstützt Schuko-Stecker",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/7/1/3/6/1/balkon-be1424604f729018.jpg"
-        },
-        {
-          "id": "http://heise.de/-7443773",
-          "author": null,
-          "description": "Am 29.12. will der weltgrößte Auftragsfertiger TSMC die Produktion von 3-nm-Chips starten. Zudem sollen Pläne für die kommenden Jahre bekanntgeben werden.",
-          "link": "https://www.heise.de/news/TSMC-startet-Chip-Fertigung-mit-3-Nanometer-Strukturbreite-7443773.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-12-28T15:16:00.000Z",
-          "wordCount": 2012,
-          "title": "TSMC startet Chip-Fertigung mit 3 Nanometer Strukturbreite",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/7/1/2/4/9/Fab18-b5a327b4f1b2e470.jpg"
-        },
-        {
-          "id": "http://heise.de/-7443749",
-          "author": null,
-          "description": "Im Iran dauern die Proteste gegen das Regime an, der Machtapparat reagiert brutal. Die Internetsperren werden offenbar auch mit Starlink umgangen.",
-          "link": "https://www.heise.de/news/Starlink-im-Iran-Laut-Elon-Musk-schon-fast-100-Antennen-im-Einsatz-7443749.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-12-28T13:31:00.000Z",
-          "wordCount": 2094,
-          "title": "Starlink im Iran: Laut Elon Musk schon fast 100 Antennen im Einsatz",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/7/1/2/3/7/Marketing_LandingStreaming_Redesign-e624f51bf463aa6c-e624f51bf463aa6c.jpeg"
-        },
-        {
-          "id": "http://heise.de/-7443600",
-          "author": null,
-          "description": "Viele Alltagsdinge laufen bei Millionen Menschen längst online. Auch das Gesundheitswesen soll digitaler werden, doch da hakt es – trotz hochgesteckter Ziele.",
-          "link": "https://www.heise.de/news/Opt-out-statt-Opt-in-Operation-Neustart-fuer-die-E-Patientenakte-7443600.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2022-12-28T09:15:00.000Z",
-          "wordCount": 2315,
-          "title": "Opt-out statt Opt-in: Operation Neustart für die elektronische Patientenakte",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/7/1/1/6/2/shutterstock_536033812-9517589382c7c16d.jpg"
         }
       ]
     },
@@ -10950,38 +10980,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9hvR3y_6NdTYP3YNP4Z9Kw3snQjzDgjot-JNLvJ8fovZZou8JuCNfHvIy6JooeT3zwyfNqk_cNcal2mhfHr98HvjBlj_soRAOeATvwKh7yQ3NbyFlcu3gf9dUGVQ7cwL6U9l9tdDMoJE1Ok_BcajEUEcPMWbI-lpYzoMVX9yYgWIfZ62wc13evEu3/s1600/google-ads.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9hvR3y_6NdTYP3YNP4Z9Kw3snQjzDgjot-JNLvJ8fovZZou8JuCNfHvIy6JooeT3zwyfNqk_cNcal2mhfHr98HvjBlj_soRAOeATvwKh7yQ3NbyFlcu3gf9dUGVQ7cwL6U9l9tdDMoJE1Ok_BcajEUEcPMWbI-lpYzoMVX9yYgWIfZ62wc13evEu3/s1600/google-ads.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/bitkeep-confirms-cyber-attack-loses.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Decentralized multi-chain crypto wallet BitKeep on Wednesday confirmed a cyberattack that allowed threat actors to distribute fraudulent versions of its Android app with the goal of stealing users' digital currencies.\n\"With maliciously implanted code, the altered APK led to the leak of user's private keys and enabled the hacker to move funds,\" BitKeep CEO Kevin Como said, describing it as a \"",
-          "link": "https://thehackernews.com/2022/12/bitkeep-confirms-cyber-attack-loses.html",
-          "publishedOn": "2022-12-28T10:16:00.000Z",
-          "wordCount": null,
-          "title": "BitKeep Confirms Cyber Attack, Loses Over $9 Million in Digital Currencies",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-bVpB2nIO5V9_VBpFIHj86e3LcFKFcv2t-YtwO6DG4fBlYXg0y04TkWmGjM45sN16VmqlBicFByf-ryecFgyy2cVrTC-bxxwmsWl_07y40FEG2sXst2yS416J6hYFK2SA-D0fks_V7eyqD3rMkII9q25Xbhej3flZC84P2RxBfnayn57l95ZNvUh/s1600/bitkeep.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-bVpB2nIO5V9_VBpFIHj86e3LcFKFcv2t-YtwO6DG4fBlYXg0y04TkWmGjM45sN16VmqlBicFByf-ryecFgyy2cVrTC-bxxwmsWl_07y40FEG2sXst2yS416J6hYFK2SA-D0fks_V7eyqD3rMkII9q25Xbhej3flZC84P2RxBfnayn57l95ZNvUh/s1600/bitkeep.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/apt-hackers-turn-to-malicious-excel-add.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft's decision to block Visual Basic for Applications (VBA) macros by default for Office files downloaded from the internet has led many threat actors to improvise their attack chains in recent months.\nNow according to Cisco Talos, advanced persistent threat (APT) actors and commodity malware families alike are increasingly using Excel add-in (.XLL) files as an initial intrusion vector.",
-          "link": "https://thehackernews.com/2022/12/apt-hackers-turn-to-malicious-excel-add.html",
-          "publishedOn": "2022-12-28T07:12:00.000Z",
-          "wordCount": null,
-          "title": "APT Hackers Turn to Malicious Excel Add-ins as Initial Intrusion Vector",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdwpNONhOXqfIJMC7x-JbFNWf2lqEvq0BTe-YvdoR_3jCNmbjF9HaPh8i1ML8TqMUoHbWVp9rNYQrZZs4dhBbtvPfmz5WKUgN6MDk9985ZFCUTGCbycYRmwguthyH76aDZPGB298TTmZZidMm7Jm8jyfvV8dukqB1FJasUbEuyLjITtvY5_Swvidr3/s1600/VBA.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdwpNONhOXqfIJMC7x-JbFNWf2lqEvq0BTe-YvdoR_3jCNmbjF9HaPh8i1ML8TqMUoHbWVp9rNYQrZZs4dhBbtvPfmz5WKUgN6MDk9985ZFCUTGCbycYRmwguthyH76aDZPGB298TTmZZidMm7Jm8jyfvV8dukqB1FJasUbEuyLjITtvY5_Swvidr3/s1600/VBA.png"
         }
       ]
     },
@@ -10990,6 +10988,146 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/on_call/",
+          "author": null,
+          "description": "<h4>Even with instructions staring them in the face, this genius couldn't get it right</h4> <p>In last week’s edition of On-Call, <i>The Register</i>’s weekly column dedicated to readers’ days being damaged by demands to deflect needless disaster, we wondered if the inevitabilities of death and taxes should be joined by meaningless managerial interventions. This week, we have a new candidate to join lists of iconic inevitabilities: users ignoring instructions and then complaining when their own actions create complications.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/on_call/",
+          "publishedOn": "2023-01-27T08:30:10.000Z",
+          "wordCount": 1423,
+          "title": "User was told three times ‘Do Not Reboot This PC’ - then unplugged it anyway",
+          "imageUrl": "https://regmedia.co.uk/2023/01/27/shutterstock_do_not_turn_off_this_computer_sign.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/asteroid_2023_bu/",
+          "author": null,
+          "description": "<h4>What a tease</h4> <p>A box-truck-sized asteroid has made one of the closest approaches by a near-Earth object ever recorded, brushing past our home world at a distance of a couple of thousand miles on Thursday. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/asteroid_2023_bu/",
+          "publishedOn": "2023-01-27T07:28:12.000Z",
+          "wordCount": 1270,
+          "title": "Truck-size asteroid makes one of the tightest fly-bys of Earth ever recorded",
+          "imageUrl": "https://regmedia.co.uk/2023/01/26/shutterstock_asteroid.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/meta_tulip_technical_debt/",
+          "author": null,
+          "description": "<h4>Welcome to the real world, kids. And for the rest of us, a future at which Meta is gulp! – better at large-scale analytics</h4> <p>Here’s one from the “welcome to the real world, kids, we have no sympathy for your plight” files: social media giant Meta’s engineering team has bemoaned the complexity of migrating from legacy technology.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/meta_tulip_technical_debt/",
+          "publishedOn": "2023-01-27T06:28:12.000Z",
+          "wordCount": 1418,
+          "title": "Poor Meta. Technical debt and user training made its exabyte-scale data migration tricky",
+          "imageUrl": "https://regmedia.co.uk/2023/01/27/shutterstock_facebook_thumb_smile_heart.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/uk_warns_against_russian_and/",
+          "author": null,
+          "description": "<h4>Nice people on LinkedIn want to harvest logins from politicians, boffins, and defense types</h4> <p>The UK's National Cyber Security Centre (NSCS) has warned of two similar spear-phishing campaigns, one originating from Russia, the other from Iran.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/uk_warns_against_russian_and/",
+          "publishedOn": "2023-01-27T05:32:10.000Z",
+          "wordCount": 1109,
+          "title": "UK Cyber Security Centre's scary new story: One phish, two phish, Russia phish, Iran phish",
+          "imageUrl": "https://regmedia.co.uk/2023/01/27/shutterstock_facebook_uk_fish.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/intel_q4_2022/",
+          "author": null,
+          "description": "<h4>U OK Pat? Asking cos client sales are down, server sales are down, and your forecasts are grim</h4> <p>Intel CEO Pat Gelsinger has expressed confidence in the company's trajectory despite posting a $700 million net loss on revenues that plunged 32 percent during the fourth quarter of FY 2022, to a measly $14 billion.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/intel_q4_2022/",
+          "publishedOn": "2023-01-27T04:29:09.000Z",
+          "wordCount": 1526,
+          "title": "Intel inside a world of pain as revenue plunges by a third",
+          "imageUrl": "https://regmedia.co.uk/2022/09/27/gelsinger_innovation_2022.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/google_tag_dragonbridge_takedown/",
+          "author": null,
+          "description": "<h4>If you yell 'death to America' and no one watches the video, does it make a sound?</h4> <p>Google's Threat Analysis Group (TAG) has burned more than 50,000 spammy fake news stories and other content posted by the pro-China 'Dragonbridge' gang.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/google_tag_dragonbridge_takedown/",
+          "publishedOn": "2023-01-27T02:58:10.000Z",
+          "wordCount": 1656,
+          "title": "Google slays thousands of fake news vids posted by pro-China group Dragonbridge",
+          "imageUrl": "https://regmedia.co.uk/2023/01/27/shutterstock_dragonslayer.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/weve_reached_another_climate_tipping/",
+          "author": null,
+          "description": "<h4>As much cash went into low-carbon as fossil fuels last year, apparently</h4> <p>The world has reached a major tipping point in the transition from fossil fuels to low-carbon energy: 2022 was the first year global investments in low-carbon technologies matched spending on the fossil fuel industry.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/weve_reached_another_climate_tipping/",
+          "publishedOn": "2023-01-27T01:01:09.000Z",
+          "wordCount": 1529,
+          "title": "Have we hit a climate tipping point? Green power attracting big money",
+          "imageUrl": "https://regmedia.co.uk/2022/10/25/oiltech.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/lam_research_q2_2023/",
+          "author": null,
+          "description": "<h4>California-based chipmaking kit-maker Lam hit by DRAM decline, inability to export to Middle Kingdom</h4> <p>The Biden administration's policy of restricting Chinese chip makers from accessing vital manufacturing equipment has caused damage at home, with California-based wafer fabrication equipment supplier Lam Research announcing it would layoff 1,300 employees, or about seven percent of its global workforce, as the company prepares for billions in lost revenues during the 2023 fiscal year.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/27/lam_research_q2_2023/",
+          "publishedOn": "2023-01-27T00:54:06.000Z",
+          "wordCount": 1629,
+          "title": "US ban on China chip exports rebounds, causes 2,700 American job losses",
+          "imageUrl": "https://regmedia.co.uk/2021/08/17/shutterstock_good_news_bad_news.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/new_york_stock_exchange_snafu/",
+          "author": null,
+          "description": "<h4>The irony, it burns</h4> <p>On Tuesday, the New York Stock Exchange (NYSE) failed to open properly, disrupting and invalidating auction trading for more than 250 securities.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/new_york_stock_exchange_snafu/",
+          "publishedOn": "2023-01-26T23:58:06.000Z",
+          "wordCount": 1350,
+          "title": "Disaster recovery blunder broke New York Stock Exchange this week",
+          "imageUrl": "https://regmedia.co.uk/2015/09/30/nyse.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/tesla_boasts_record_year_conveniently/",
+          "author": null,
+          "description": "<h4>Elon conflates 'popularity' on unrelated platform with successful year for EV maker</h4> <p>Never mind the headlines. 2022 was Tesla's best year ever, Elon Musk claimed in the automaker's Q4 2022 earnings call this week.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/tesla_boasts_record_year_conveniently/",
+          "publishedOn": "2023-01-26T23:01:13.000Z",
+          "wordCount": 1738,
+          "title": "Musk: Tesla's doing great. I mean, have you seen my Twitter follower count?",
+          "imageUrl": "https://regmedia.co.uk/2021/05/24/tesla.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/darpa_tech_incubator/",
+          "author": null,
+          "description": "<h4>DARPA's Blake Bextine talks us through taking inventions commercial</h4> <p><strong>Interview</strong>  You've heard of some of the world-altering technologies that have come out of the US Department of Defense's Advanced Research Projects Agency, or DARPA, because you might not be reading this otherwise.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/darpa_tech_incubator/",
+          "publishedOn": "2023-01-26T21:59:23.000Z",
+          "wordCount": 1153,
+          "title": "How to shave years off the journey from military lab to real-world use",
+          "imageUrl": "https://regmedia.co.uk/2023/01/26/brandon-bextine-darpa-interview.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/smart_ovens_do_dumb_stuff/",
+          "author": null,
+          "description": "<h4>Pinging search services in the US, China, Russia perhaps not ideal for privacy</h4> <p>This just in: smart appliances are still not a bright idea for those who care about privacy.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/smart_ovens_do_dumb_stuff/",
+          "publishedOn": "2023-01-26T21:27:12.000Z",
+          "wordCount": 1735,
+          "title": "Smart ovens do really dumb stuff to check for Wi-Fi",
+          "imageUrl": "https://regmedia.co.uk/2017/04/19/smart_oven_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/fbi_hive_ransomware/",
+          "author": null,
+          "description": "<h4>Uncle Sam doles out decryption keys to 300+ victims amid sting op</h4> <p>The FBI said it has shut down the Hive's ransomware network, seizing control of the notorious gang's servers and websites, and thwarting the pesky criminals' ability to sting future victims.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/fbi_hive_ransomware/",
+          "publishedOn": "2023-01-26T20:30:10.000Z",
+          "wordCount": 1627,
+          "title": "FBI smokes ransomware Hive after secretly buzzing around gang's network for months",
+          "imageUrl": "https://regmedia.co.uk/2023/01/26/fbi_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/dell_snaps_up_cloudify/",
+          "author": null,
+          "description": "<h4>Intriguing move – just look at the software companies it has ditched...</h4> <p>Dell has confirmed it's buying cloud orchestration company Cloudify to give its own cloud services biz a shot in the arm and appeal more to organizations investing in DevOps.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/dell_snaps_up_cloudify/",
+          "publishedOn": "2023-01-26T19:11:01.000Z",
+          "wordCount": 1029,
+          "title": "VMwhat? Dell snaps up Cloudify for multi-cloud orchestration",
+          "imageUrl": "https://regmedia.co.uk/2023/01/26/shutterstock_server.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/26/notam_overhaul_passes_house/",
           "author": null,
@@ -15219,26 +15357,6 @@
           "wordCount": 1367,
           "title": "Intel settles to escape $4B patent suit with VLSI",
           "imageUrl": "https://regmedia.co.uk/2021/06/15/shutterstock_intel_editorial_only.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/12/28/southwest_outdated_it/",
-          "author": null,
-          "description": "<h4>Have they tried turning it off and back on again?</h4> <p>Winter storms and staff shortages were only the tipping point that sent Southwest Airlines IT infrastructure over the edge, leaving thousands still stranded across the US, chief operating officer Andrew Watterson has explained.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/12/28/southwest_outdated_it/",
-          "publishedOn": "2022-12-28T20:31:31.000Z",
-          "wordCount": 1485,
-          "title": "Southwest Airlines blames IT breakdown for stranding holiday travelers",
-          "imageUrl": "https://regmedia.co.uk/2020/02/12/shutterstock_cancelled.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/12/28/cloud_colonialism_era/",
-          "author": null,
-          "description": "<h4>Having claimed North America and Europe, the cloud giants hope to add Latin America and Africa to their empires</h4> <p><strong>Opinion</strong>  When the major cloud providers warned of slowing customer demand earlier this quarter, many expected them to pull back on their capex expenditures until the latest macroeconomic headwinds had blown over. Only, they didn't.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/12/28/cloud_colonialism_era/",
-          "publishedOn": "2022-12-28T10:00:14.000Z",
-          "wordCount": 1892,
-          "title": "The era of cloud colonialism has begun",
-          "imageUrl": "https://regmedia.co.uk/2015/03/27/safari_graphic.jpg"
         }
       ]
     }

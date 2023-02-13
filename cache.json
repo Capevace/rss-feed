@@ -923,6 +923,36 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/ransomware-hits-technion-university-protests-tech-layoffs-and-israel/",
+          "author": "Ax Sharma",
+          "description": "A new ransomware group going by the name 'DarkBit' has hit Technion - Israel Institute of Technology, one of Israel's leading research universities. The ransom note posted by DarkBit is littered with messaging protesting tech layoffs and promoting anti-Israel rhetoric, as well as the group demanding a $1.7 million payment. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/ransomware-hits-technion-university-protests-tech-layoffs-and-israel/",
+          "publishedOn": "2023-02-13T05:06:25.000Z",
+          "wordCount": 2476,
+          "title": "Ransomware hits Technion university, protests tech layoffs and Israel",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/02/12/chris-hearn-hpsxaA_wpVo-unsplash.jpeg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/",
+          "author": "Lawrence Abrams",
+          "description": "Domain registrar Namecheap had their email account breached Sunday night, causing a flood of MetaMask and DHL phishing emails that attempted to steal recipients' personal information and cryptocurrency wallets. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/",
+          "publishedOn": "2023-02-12T23:07:29.000Z",
+          "wordCount": 2636,
+          "title": "NameCheap's email hacked to send Metamask, DHL phishing emails",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/08/23/phishing-hook.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/devs-targeted-by-w4sp-stealer-malware-in-malicious-pypi-packages/",
+          "author": "Bill Toulas",
+          "description": "Five malicious packages were found on the Python Package Index (PyPI), stealing passwords, Discord authentication cookies, and cryptocurrency wallets from unsuspecting developers. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/devs-targeted-by-w4sp-stealer-malware-in-malicious-pypi-packages/",
+          "publishedOn": "2023-02-12T15:12:24.000Z",
+          "wordCount": 2330,
+          "title": "Devs targeted by W4SP Stealer malware in malicious PyPi packages",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/21/data-theft-header.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/microsoft-winget-package-manager-failing-from-expired-ssl-certificate/",
           "author": "Ax Sharma",
           "description": "Microsoft's WinGet package manager is currently having problems installing or upgrading packages after WinGet CDN's SSL/TLS certificate expired. [...]",
@@ -2821,36 +2851,6 @@
           "wordCount": 2336,
           "title": "CircleCI's hack caused by malware stealing engineer's 2FA-backed session",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/14/circleci-header.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/google/google-chrome-to-let-you-disable-or-enable-extensions-per-site/",
-          "author": "Mayank Parmar",
-          "description": "Google is working on a new feature that allows you to disable or enable Chrome extensions based on site-by-site basis. [...]",
-          "link": "https://www.bleepingcomputer.com/news/google/google-chrome-to-let-you-disable-or-enable-extensions-per-site/",
-          "publishedOn": "2023-01-14T21:02:37.000Z",
-          "wordCount": 2014,
-          "title": "Google Chrome to let you disable or enable extensions per site",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/08/Google_Chrome.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/brave-browser-s-new-snowflake-feature-help-bypass-tor-blocks/",
-          "author": "Bill Toulas",
-          "description": "Brave Browser version 1.47 was released yesterday, adding the Snowflake extension in the software's settings, enabling users to turn their devices into proxies that help users in censored countries connect to Tor. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/brave-browser-s-new-snowflake-feature-help-bypass-tor-blocks/",
-          "publishedOn": "2023-01-14T15:28:56.000Z",
-          "wordCount": 2402,
-          "title": "Brave browser’s new Snowflake feature help bypass Tor blocks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/06/22/Brave.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/canadas-largest-alcohol-retailers-site-hacked-to-steal-credit-cards/",
-          "author": "Sergiu Gatlan",
-          "description": "The Liquor Control Board of Ontario (LCBO), a Canadian government enterprise and the country's largest beverage alcohol retailer, revealed that unknown attackers had breached its website to inject malicious code designed to steal customer and credit card information at check-out. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/canadas-largest-alcohol-retailers-site-hacked-to-steal-credit-cards/",
-          "publishedOn": "2023-01-14T14:16:08.000Z",
-          "wordCount": 2185,
-          "title": "Canada's largest alcohol retailer's site hacked to steal credit cards",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/13/LCBO_headpic.jpg"
         }
       ]
     },
@@ -3546,6 +3546,66 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-7488883",
+          "author": null,
+          "description": "Linux-Server und Netzwerkdienste effektiv und umfassend gegen Angriffe absichern – von der physischen Sicherheit, über Verschlüsselung und 2FA bis zu SELinux.",
+          "link": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-mit-Fruehbucherrabatt-7488883.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-13T09:00:00.000Z",
+          "wordCount": 1822,
+          "title": "heise-Angebot: iX-Workshop: Linux-Server härten (mit Frühbucherrabatt)",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/5/3/1/3/Linux-Server_Ticker-16x9-2a237b7d9cf685a7.jpg"
+        },
+        {
+          "id": "http://heise.de/-7493505",
+          "author": null,
+          "description": "Apples All-in-One-Rechner wurde seit bald 2 Jahren nicht überholt – und auch eine Pro-Variante fehlt. Das könnte einem Bericht zufolge noch länger so bleiben.",
+          "link": "https://www.heise.de/news/Neuer-iMac-wohl-nicht-vor-Ende-des-Jahres-7493505.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-13T08:53:00.000Z",
+          "wordCount": 2008,
+          "title": "Neuer iMac wohl nicht vor Ende des Jahres",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/7/7/7/6/imacm1-24bd77d1aa7d4673.jpg"
+        },
+        {
+          "id": "http://heise.de/-7493633",
+          "author": null,
+          "description": "Die CISA warnt vor aktiven Angriffen auf Sicherheitslücken in GoAnywhere MFT, Intel-Teibern und TerraMaster TOS.  Updates zum Schließen der Lecks stehen bereit.",
+          "link": "https://www.heise.de/news/CISA-Warnung-Attacken-auf-GoAnywhere-MFT-Intel-Treiber-und-TerraMaster-OS-7493633.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-13T08:50:00.000Z",
+          "wordCount": 1894,
+          "title": "CISA-Warnung: Attacken auf GoAnywhere MFT, Intel-Treiber und TerraMaster OS",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/7/8/4/4/shutterstock_668074000-95ba03df0409561c.jpg"
+        },
+        {
+          "id": "http://heise.de/-7491314",
+          "author": null,
+          "description": "Die Industrie 4.0. bietet neben neuen Möglichkeiten auch Angriffsziele. Ein neuer Kurs der heise Academy zeigt, wie Gefahren erkannt und gebannt werden können.",
+          "link": "https://www.heise.de/news/Wertvolle-Tools-im-Kampf-gegen-Cyberkriminelle-Loesungsansaetze-direkt-vom-Profi-7491314.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-13T07:00:00.000Z",
+          "wordCount": 1855,
+          "title": "heise-Angebot: Wertvolle Tools im Kampf gegen Cyberkriminelle – Lösungsansätze direkt vom Profi",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/6/6/2/1/Cybersicherheit-Ticker-Header-16-9-1-3c73030faea55ddb.jpg"
+        },
+        {
+          "id": "http://heise.de/-7485308",
+          "author": null,
+          "description": "Intel-Chef Pat Gelsinger wirbt um Vertrauen, doch der Börsenwert von Intel sackt unter den von AMD. EU-Fördermittel locken einen weiteren US-Chiphersteller.",
+          "link": "https://www.heise.de/news/Intel-Probleme-neue-deutsche-Chip-Fab-RISC-V-Erfolg-7485308.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-13T05:30:00.000Z",
+          "wordCount": 2447,
+          "title": "Intel-Probleme, neue deutsche Chip-Fab, RISC-V-Erfolg",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/3/4/2/9/BitR-Teaser-16-9-2-Logo-f382b0709c0b0b62.jpg"
+        },
+        {
+          "id": "http://heise.de/-7493389",
+          "author": null,
+          "description": "Moderne PTZ-Überwachungskameras bieten Bewegungsverfolgung und andere smarte Funktionen. Damit können Anwender sie als Babyfon und für Automatisierung nutzen.",
+          "link": "https://www.techstage.de/bestenliste/top-5-die-besten-ptz-ueberwachungskameras-fuer-innen-babys-und-haustiere-im-blick/4d08ctq?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-12T19:00:00.000Z",
+          "wordCount": 3676,
+          "title": "Top 5: Die besten PTZ-Überwachungskameras für innen – Babys & Haustiere im Blick",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/sUFktkpTURBXy9kNTkzMDE3OTQ4M2ZiZWNjZTIwMThjODRlMmQ1Mjc3MC5qcGeSlQMAAM0PwM0I3JMFzQSwzQJ2"
+        },
         {
           "id": "http://heise.de/-7493469",
           "author": null,
@@ -8765,36 +8825,6 @@
           "wordCount": 1879,
           "title": "Twitter: Sperren von Drittanbieter-Apps \"sind beabsichtigt\"",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/7/9/6/7/6/shutterstock_1572348718-f2f3f1a2c353ecc7.jpg"
-        },
-        {
-          "id": "http://heise.de/-7459300",
-          "author": null,
-          "description": "Im Winter steigt die Gefahr von Schimmelbildung und auch in der Luft sind mehr Schadstoffe. Wie man diesen Herausforderungen begegnet, erläutert unser Ratgeber.",
-          "link": "https://www.techstage.de/ratgeber/schimmel-vermeiden-immunsystem-staerken-smarte-technik-fuer-gutes-raumklima/et6zmht?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-01-14T19:00:00.000Z",
-          "wordCount": 4355,
-          "title": "Schimmel vermeiden, Immunsystem stärken: Smarte Technik für gutes Raumklima",
-          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/bXmktkpTURBXy8zMWMwYjFiYTE4NzRmZjM5ZGFkY2MzZTJhOGIxMTkxMi5qcGeSlQMAAM0PwM0I3JMFzQSwzQJ2"
-        },
-        {
-          "id": "http://heise.de/-7459309",
-          "author": null,
-          "description": "Nvidias Tool Broadcast simuliert den direkten Blick in die Kamera bei Videokonferenzen und Livestreamings. Eine KI verändert in Echtzeit das Aussehen der Augen.",
-          "link": "https://www.heise.de/news/Videokonferenzen-Nvidia-Broadcast-erzeugt-per-KI-Effekt-virtuellen-Augenkontakt-7459309.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-01-14T15:15:00.000Z",
-          "wordCount": 1989,
-          "title": "WTF: Videokonferenzen: Nvidia Broadcast erzeugt per KI-Effekt virtuellen Augenkontakt",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/7/9/5/7/6/Screenshot_Nvidia_Broadcast-eed4277bdff3eb0d.jpg"
-        },
-        {
-          "id": "http://heise.de/-7458943",
-          "author": null,
-          "description": "Der Boom von 2020 lebt nach der Krise nicht wieder auf, die Börse reagiert entsprechend – und erst nach der CES erscheinen einige spannende Produkte.​",
-          "link": "https://www.heise.de/news/Katzenjammer-und-Spezialwerkzeug-die-Fotowoche-2-2023-7458943.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag_plus.beitrag_plus",
-          "publishedOn": "2023-01-14T09:00:00.000Z",
-          "wordCount": 2187,
-          "title": "heise+ | Katzenjammer und Spezialwerkzeug – die Fotowoche 2/2023",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/7/9/3/8/5/Canon-R10-f66d3014e731c4e4.webp"
         }
       ]
     },
@@ -8803,6 +8833,16 @@
       "feedUrl": "https://www.heise.de/security/rss/alert-news.rdf",
       "siteUrl": "https://www.heise.de/security/alerts/",
       "articles": [
+        {
+          "id": "http://heise.de/-7493633",
+          "author": null,
+          "description": "Die CISA warnt vor aktiven Angriffen auf Sicherheitslücken in GoAnywhere MFT, Intel-Teibern und TerraMaster TOS.  Updates zum Schließen der Lecks stehen bereit.",
+          "link": "https://www.heise.de/news/CISA-Warnung-Attacken-auf-GoAnywhere-MFT-Intel-Treiber-und-TerraMaster-OS-7493633.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-13T08:50:00.000Z",
+          "wordCount": 1894,
+          "title": "CISA-Warnung: Attacken auf GoAnywhere MFT, Intel-Treiber und TerraMaster OS",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/7/8/4/4/shutterstock_668074000-95ba03df0409561c.jpg"
+        },
         {
           "id": "http://heise.de/-7490680",
           "author": null,
@@ -9160,6 +9200,38 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/02/chinese-tonto-team-hackers-second.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The advanced persistent threat (APT) actor known as Tonto Team carried out an unsuccessful attack on cybersecurity company Group-IB in June 2022.\nThe Singapore-headquartered firm said that it detected and blocked malicious phishing emails originating from the group targeting its employees. It's also the second attack aimed at Group-IB, the first of which took place in March 2021.\nTonto Team,",
+          "link": "https://thehackernews.com/2023/02/chinese-tonto-team-hackers-second.html",
+          "publishedOn": "2023-02-13T07:58:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Tonto Team Hackers' Second Attempt to Target Cybersecurity Firm Group-IB Fails",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbEHNfOsuH_WgdbcVRngv8SlbP7usK-RYfpaB709v78ElytnPezD_tOeqvPPG27BmYOdmYRA4sSTVigsjKdWwEJEDtI4b4ASMThYkZcu02a8I4j3rg9U1hR5VEMDUfPQUo6T2VthfttvGz8b_7nX-2CfDjHSBKd3ZL0hPwxi6gAdujrT7GOmvOHuHA/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbEHNfOsuH_WgdbcVRngv8SlbP7usK-RYfpaB709v78ElytnPezD_tOeqvPPG27BmYOdmYRA4sSTVigsjKdWwEJEDtI4b4ASMThYkZcu02a8I4j3rg9U1hR5VEMDUfPQUo6T2VthfttvGz8b_7nX-2CfDjHSBKd3ZL0hPwxi6gAdujrT7GOmvOHuHA/s1600/hacker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/hackers-targeting-us-and-german-firms.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously unknown threat actor has been targeting companies in the U.S. and Germany with bespoke malware designed to steal confidential information.\nEnterprise security company Proofpoint, which is tracking the activity cluster under the name Screentime, said the group, dubbed TA866, is likely financially motivated.\n\"TA866 is an organized actor able to perform well thought-out attacks at",
+          "link": "https://thehackernews.com/2023/02/hackers-targeting-us-and-german-firms.html",
+          "publishedOn": "2023-02-13T07:44:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Targeting U.S. and German Firms Monitor Victims' Desktops with Screenshotter",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-t65CPCdOmL4W0GO4ZUeWynZscuox8dEL-_B0ROxpF0Dblk545dxLea1ej68BFNKzJYJFE9WdSwfWrxqLcXAVT4z-K1PtBaPlbh8LbMRs5bqWG0L5XcnCxoqPEhBjSpMLTsJ7SPYycaC91gOKw1pQrpzORxQS3V7ufhq2OjyCN9w6xAUeSyFMxufT/s1600/malwareee.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-t65CPCdOmL4W0GO4ZUeWynZscuox8dEL-_B0ROxpF0Dblk545dxLea1ej68BFNKzJYJFE9WdSwfWrxqLcXAVT4z-K1PtBaPlbh8LbMRs5bqWG0L5XcnCxoqPEhBjSpMLTsJ7SPYycaC91gOKw1pQrpzORxQS3V7ufhq2OjyCN9w6xAUeSyFMxufT/s1600/malwareee.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/02/new-esxiargs-ransomware-variant-emerges.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -10999,38 +11071,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh6LFF8-aecADYJyBQ2YS6MDGt6KnswiAnPf9F8bnx2qYOrF0zV0Mfed-yrhkDoCo5s9CeDVv8UBQzSpV0JuQ_qlVfP4hN-vuQ_ru-cato5knb8ptJSJsasmri4o-4axz2gWz9QQTO2pOd6G9wVqDSuTmrjZ67zDMoxxLn20auogXspkK8aGiYI4Bj/s1600/cia-malware-1.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh6LFF8-aecADYJyBQ2YS6MDGt6KnswiAnPf9F8bnx2qYOrF0zV0Mfed-yrhkDoCo5s9CeDVv8UBQzSpV0JuQ_qlVfP4hN-vuQ_ru-cato5knb8ptJSJsasmri4o-4axz2gWz9QQTO2pOd6G9wVqDSuTmrjZ67zDMoxxLn20auogXspkK8aGiYI4Bj/s1600/cia-malware-1.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/malware-attack-on-circleci-engineers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "DevOps platform CircleCI on Friday disclosed that unidentified threat actors compromised an employee's laptop and leveraged malware to steal their two-factor authentication-backed credentials to breach the company's systems and data last month.\nThe CI/CD service CircleCI said the \"sophisticated attack\" took place on December 16, 2022, and that the malware went undetected by its antivirus",
-          "link": "https://thehackernews.com/2023/01/malware-attack-on-circleci-engineers.html",
-          "publishedOn": "2023-01-14T08:41:00.000Z",
-          "wordCount": null,
-          "title": "Malware Attack on CircleCI Engineer's Laptop Leads to Recent Security Incident",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9emi7BCJNdUI0o5V1wEfDrS-3r2Ymky77INnrLi-LYr1HSoTuifRqSU_srWvjs5Byh2x1ZPwszDoCMy4qNfkKkzWJ9K11M4mfPb5fA8FaspI_t-GSzEUB_BWNP1qxkSn-hLZlJ4MdlkfmN5vKG6396wmbUpcG_WTroURot4HNZNJMaXgMMF1NdNjb/s1600/cicleci.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9emi7BCJNdUI0o5V1wEfDrS-3r2Ymky77INnrLi-LYr1HSoTuifRqSU_srWvjs5Byh2x1ZPwszDoCMy4qNfkKkzWJ9K11M4mfPb5fA8FaspI_t-GSzEUB_BWNP1qxkSn-hLZlJ4MdlkfmN5vKG6396wmbUpcG_WTroURot4HNZNJMaXgMMF1NdNjb/s1600/cicleci.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/cacti-servers-under-attack-as-majority.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A majority of internet-exposed Cacti servers have not been patched against a recently patched critical security vulnerability that has come under active exploitation in the wild.\nThat's according to attack surface management platform Censys, which found only 26 out of a total of 6,427 servers to be running a patched version of Cacti (1.2.23 and 1.3.0).\nThe issue in question relates to",
-          "link": "https://thehackernews.com/2023/01/cacti-servers-under-attack-as-majority.html",
-          "publishedOn": "2023-01-14T08:11:00.000Z",
-          "wordCount": null,
-          "title": "Cacti Servers Under Attack as Majority Fail to Patch Critical Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkB5AmEbwM4iIOKiuxSqAuEFCB26nFZNhi3MlX28DbJMTiPHEhK8w_VHD4m0ZctINGUVCe3SgBLZX2hWEak6TENZ3_nCdQx7WMGMqjrjXCjdVS8zWcx9md3i_ZI457Tk6-gGIIvBY--Nz2MXISSH9dmYkwmv-vQmHhCoLvkGYsY6kdCdEEoiI6qHke/s1600/catci.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkB5AmEbwM4iIOKiuxSqAuEFCB26nFZNhi3MlX28DbJMTiPHEhK8w_VHD4m0ZctINGUVCe3SgBLZX2hWEak6TENZ3_nCdQx7WMGMqjrjXCjdVS8zWcx9md3i_ZI457Tk6-gGIIvBY--Nz2MXISSH9dmYkwmv-vQmHhCoLvkGYsY6kdCdEEoiI6qHke/s1600/catci.png"
         }
       ]
     },
@@ -11039,6 +11079,76 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/who_me/",
+          "author": null,
+          "description": "<h4>Smart-alec worker found a way to avoid nasty, boring jobs – by doing what he was told</h4> <p><strong>Who, Me?</strong>  Ah, gentle reader, welcome back once again to the comfortable backwater of <em>The Register</em> we call Who, Me? in which readers' tales of not-quite-rightness are immortalized for the ages.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/who_me/",
+          "publishedOn": "2023-02-13T08:28:06.000Z",
+          "wordCount": 1449,
+          "title": "Learn the art of malicious compliance: doing exactly what you were asked, even when it's wrong",
+          "imageUrl": "https://regmedia.co.uk/2021/03/17/yes.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/european_carrier_adtech_jv_approved/",
+          "author": null,
+          "description": "<h4>European Commission satisfied joint venture won't create competitive problems for locals</h4> <p>In a world saturated with digital ads, four of Europe's mightiest telcos will soon ask citizens if they're willing to volunteer their phone numbers to a startup that promises to deliver targeted ads while also observing European privacy regulations.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/european_carrier_adtech_jv_approved/",
+          "publishedOn": "2023-02-13T07:29:10.000Z",
+          "wordCount": 1431,
+          "title": "Four top euro carriers will use phone numbers to target ads and annoy Google &amp; Facebook",
+          "imageUrl": "https://regmedia.co.uk/2022/04/06/shutterstock_starlink.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/chinese_balloon_tech_companies_banned/",
+          "author": null,
+          "description": "<h4>US Commerce Department can't just let red balloons go by</h4> <p>The US Department of Commerce added six more entities to its blacklist on Friday on grounds of national security after an errant Chinese surveillance balloon was shot down over the US last week.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/chinese_balloon_tech_companies_banned/",
+          "publishedOn": "2023-02-13T06:28:10.000Z",
+          "wordCount": 1570,
+          "title": "China's spy balloon barrage earns six of its companies a spot on US entity list",
+          "imageUrl": "https://regmedia.co.uk/2023/02/13/shutterstock_179373545.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/jira_upgrade_congress/",
+          "author": null,
+          "description": "<h4>Atlassian wants it used more widely … but probably not for reporting misinformation to social networks</h4> <p>Atlassian's Jira tool last Friday received significant upgrades aimed at encouraging its use beyond development teams, a day after it was cast in a sinister role in the USA's culture wars.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/jira_upgrade_congress/",
+          "publishedOn": "2023-02-13T05:31:12.000Z",
+          "wordCount": 1543,
+          "title": "'Private cloud server' Jira upgraded for wider teams, dragged into culture wars",
+          "imageUrl": "https://regmedia.co.uk/2022/04/06/atlassian_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/linux_6_2_rc8/",
+          "author": null,
+          "description": "<h4>Emperor Penguin promised a relaxed seasonal development cycle and has delivered</h4> <p>Work on version 6.2 of the Linux kernel will stretch into an eighth release candidate, despite emperor penguin Linus Torvalds now saying it isn't really necessary.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/linux_6_2_rc8/",
+          "publishedOn": "2023-02-13T04:31:08.000Z",
+          "wordCount": 1275,
+          "title": "Linus Torvalds releases probably unnecessary release candidate eight for Linux 6.2",
+          "imageUrl": "https://regmedia.co.uk/2021/08/29/shutterstock_penguin_birthday_party.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/in_brief_ai/",
+          "author": null,
+          "description": "<h4>Plus: Publisher using AI tools generated false health advice for men; how ChatGPT widens economic inequalities</h4> <p><strong>In brief</strong>  Microsoft CEO Satya Nadella has been waiting for the chance to challenge Google's dominance of internet search, and just might have finally pulled it off this week with the launch of AI-powered Bing.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/in_brief_ai/",
+          "publishedOn": "2023-02-13T02:27:35.000Z",
+          "wordCount": 2036,
+          "title": "Satya Nadella wants to make Google dance in battle for AI chat-powered web search",
+          "imageUrl": "https://regmedia.co.uk/2023/02/13/shutterstock_1290555652.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/asia_tech_news_roundup/",
+          "author": null,
+          "description": "<h4>PLUS: Toshiba acknowledges buyout bid; BTS member Jungkook's hat lands online seller in strife; and more</h4> <p><strong>Asia In Brief</strong>  India's minister for electronics and information technology Rajeev Chandrasekhar has insisted that the nation does not target Chinese apps for law enforcement action or bans.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/13/asia_tech_news_roundup/",
+          "publishedOn": "2023-02-13T00:34:07.000Z",
+          "wordCount": 2095,
+          "title": "India's IT minister denies targeting Chinese apps for bans",
+          "imageUrl": "https://regmedia.co.uk/2020/11/26/shutterstock_china_india.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/12/software_freedom_conservancy_fights_agplv3/",
           "author": null,
@@ -15798,26 +15908,6 @@
           "wordCount": 2208,
           "title": "AWS adds Superapp Grab's Asia-centric maps to its cloudy location service",
           "imageUrl": "https://regmedia.co.uk/2022/02/17/shutterstock_asia_pacific.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/14/in_brief_security/",
-          "author": null,
-          "description": "<h4>Also: That Pokemon is actually a RAT, Uncle Sam fails a password audit</h4> <p><strong>In brief</strong>  A US intelligence boss has asked Congress to reauthorize a controversial set of powers that give snoops warrantless authorization to surveil electronic communications in the name of fighting terrorism and so forth.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/14/in_brief_security/",
-          "publishedOn": "2023-01-14T20:57:07.000Z",
-          "wordCount": 1702,
-          "title": "NSA asks Congress to let it get on with that warrantless data harvesting, again",
-          "imageUrl": "https://regmedia.co.uk/2020/11/11/spying.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/14/intel_microsoft_russia/",
-          "author": null,
-          "description": "<h4>And Windows updates from Microsoft, too</h4> <p>People in Russia can reportedly once again download drivers and some other software from Intel and Microsoft, which both withdrew from the nation after its invasion of Ukraine.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/14/intel_microsoft_russia/",
-          "publishedOn": "2023-01-14T08:07:06.000Z",
-          "wordCount": 1766,
-          "title": "Russians say they can grab software from Intel again",
-          "imageUrl": "https://regmedia.co.uk/2022/02/17/intel_shutterstock.jpg"
         }
       ]
     }

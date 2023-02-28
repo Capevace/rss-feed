@@ -803,6 +803,46 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/lastpass-devops-engineer-hacked-to-steal-password-vault-data-in-2022-breach/",
+          "author": "Lawrence Abrams",
+          "description": "LastPass revealed more information on a \"coordinated second attack,\" where a threat actor accessed and stole data from the Amazon AWS cloud storage servers for over two months. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/lastpass-devops-engineer-hacked-to-steal-password-vault-data-in-2022-breach/",
+          "publishedOn": "2023-02-28T01:40:56.000Z",
+          "wordCount": 2552,
+          "title": "LastPass: DevOps engineer hacked to steal password vault data in 2022 breach",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/02/16/LastPass-vault.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/us-marshals-service-investigating-ransomware-attack-data-theft/",
+          "author": "Sergiu Gatlan",
+          "description": "The U.S. Marshals Service (USMS) is investigating the theft of sensitive law enforcement information following a ransomware attack that has impacted what it describes as \"a stand-alone USMS system.\" [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/us-marshals-service-investigating-ransomware-attack-data-theft/",
+          "publishedOn": "2023-02-28T00:48:28.000Z",
+          "wordCount": 2128,
+          "title": "U.S. Marshals Service investigating ransomware attack, data theft",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/02/27/US_Marshals_Service.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-app-now-force-installed-for-microsoft-365-users/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft is now force-installing the Microsoft Defender for Individuals application when installing or updating the Microsoft 365 apps. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-app-now-force-installed-for-microsoft-365-users/",
+          "publishedOn": "2023-02-27T21:45:00.000Z",
+          "wordCount": 2279,
+          "title": "Microsoft Defender app now force-installed for Microsoft 365 users",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/new-exfiltrator-22-post-exploitation-kit-linked-to-lockbit-ransomware/",
+          "author": "Bill Toulas",
+          "description": "Threat actors are promoting a new 'Exfiltrator-22' post-exploitation framework designed to spread ransomware in corporate networks while evading detection. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/new-exfiltrator-22-post-exploitation-kit-linked-to-lockbit-ransomware/",
+          "publishedOn": "2023-02-27T20:04:37.000Z",
+          "wordCount": 2374,
+          "title": "New Exfiltrator-22 post-exploitation kit linked to LockBit ransomware",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/28/hacker.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/critical-flaws-in-wordpress-houzez-theme-exploited-to-hijack-websites/",
           "author": "Bill Toulas",
           "description": "Hackers are actively exploiting two critical-severity vulnerabilities in the Houzez theme and plugin for WordPress, two premium add-ons used primarily in real estate websites. [...]",
@@ -2721,16 +2761,6 @@
           "wordCount": 2860,
           "title": "U.S. No Fly list shared on a hacking forum, government investigating",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/27/ashim-d-silva-1600-900.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/shady-reward-apps-on-google-play-amass-20-million-downloads/",
-          "author": "Bill Toulas",
-          "description": "A new category of activity tracking applications has been having massive success recently on Google Play, Android's official app store, having been downloaded on over 20 million devices. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/shady-reward-apps-on-google-play-amass-20-million-downloads/",
-          "publishedOn": "2023-01-29T15:16:32.000Z",
-          "wordCount": 2507,
-          "title": "Shady reward apps on Google Play amass 20 million downloads",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/01/Android.jpg"
         }
       ]
     },
@@ -3776,6 +3806,66 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-7529717",
+          "author": null,
+          "description": "Die erfolgreichen Attacken auf die IT-Systeme des Passwortmanager-Anbieters LastPass geht auf eine Verkettung von verschiedenen Umständen zurück.",
+          "link": "https://www.heise.de/news/LastPass-Hack-Angreifer-hackten-Privat-PC-von-DevOpS-Entwickler-7529717.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-28T09:08:00.000Z",
+          "wordCount": 1959,
+          "title": "LastPass-Hack: Angreifer hackten Privat-PC von DevOpS-Entwickler",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/9/3/1/8/login-1203603_1280-29af84ed0089ca2d.png"
+        },
+        {
+          "id": "http://heise.de/-7529339",
+          "author": null,
+          "description": "Das Framework CryptoKit ist jung und mächtig: Lernen Sie, Kryptographie in Apps zu implementieren und kryptographische Operationen systemübergreifend zu nutzen.",
+          "link": "https://www.heise.de/news/Neues-Webinar-Security-Best-Practices-mit-Apples-CryptoKit-7529339.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-28T09:00:00.000Z",
+          "wordCount": 1831,
+          "title": "heise-Angebot: Neues Webinar: Security Best Practices mit Apples CryptoKit",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/9/1/1/6/Cryptokit-Ticker-Header-16-9-eee9ab90a5df9435.jpg"
+        },
+        {
+          "id": "http://heise.de/-7529579",
+          "author": null,
+          "description": "Vergangene Woche hat Activision einen Datenklau zugegeben. Die Mitarbeiterdaten seien jedoch nicht sensibel. Jetzt stehen sie frei verfügbar im Netz.",
+          "link": "https://www.heise.de/news/Nach-Phishing-Angriff-Activision-Mitarbeiterdaten-im-Netz-veroeffentlicht-7529579.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-28T07:39:00.000Z",
+          "wordCount": 1825,
+          "title": "Nach Phishing-Angriff: Activision-Mitarbeiterdaten im Netz veröffentlicht",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/9/2/4/0/shutterstock_1917956951-3efc4d5abf04946f.jpg"
+        },
+        {
+          "id": "http://heise.de/-7528350",
+          "author": null,
+          "description": "Auf der IT-Security-Konferenzmesse secIT gibt es jede Menge hilfreiche Fakten, um Unternehmensnetzwerke effektiv abzusichern – und noch vieles mehr.",
+          "link": "https://www.heise.de/news/secIT-2023-Status-quo-Cybercrime-und-was-man-dagegen-tun-kann-7528350.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-28T07:00:00.000Z",
+          "wordCount": 1862,
+          "title": "heise-Angebot: secIT 2023: Status quo Cybercrime und was man dagegen tun kann",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/8/5/7/5/secIT23-Ticker-16-9-e660285b38143f20.jpg"
+        },
+        {
+          "id": "http://heise.de/-7528381",
+          "author": null,
+          "description": "Das japanische Konglomerat Hitachi expandiert. Eine Digitalstrategie soll 30.000 Arbeitsplätze schaffen – und Entlassungen bei Google, Twitter und Co. nutzen.",
+          "link": "https://www.heise.de/news/Aufholjagd-bei-Hitachi-Neue-Digitalstrategie-will-US-Entlassungswelle-ausnutzen-7528381.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-28T06:45:00.000Z",
+          "wordCount": 2044,
+          "title": "Aufholjagd bei Hitachi: Neue Digitalstrategie will US-Entlassungswelle ausnutzen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/8/5/9/2/shutterstock_1386618053-cc7238c05715bbd5.jpg"
+        },
+        {
+          "id": "http://heise.de/-7528427",
+          "author": null,
+          "description": "Smarte Heizkörperthermostate helfen, Energie zu sparen. Zudem bieten sie auch mehr Komfort. Wir zeigen die zehn besten smarten Heizungsregler aus unseren Tests.",
+          "link": "https://www.techstage.de/bestenliste/top-10-die-besten-smarten-heizkoerperthermostate/5mrzc8t?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-02-27T19:00:00.000Z",
+          "wordCount": 6557,
+          "title": "Top-10: Die besten smarten Heizkörperthermostate",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/yYjktkpTURBXy8wNjk2NzAxMjViOTczNmM4MDNlNjBiNjFkN2ZiNjA2ZS5qcGeSlQMAAM0MgM0HCJMFzQSwzQJ2"
+        },
         {
           "id": "http://heise.de/-7529294",
           "author": null,
@@ -8995,16 +9085,6 @@
           "wordCount": 2547,
           "title": "Intel spart, (Un-)Vernunftprozessoren, UEFI-Löcher",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/3/7/2/5/BitR-Teaser-16-9-2-Logo-f382b0709c0b0b62.jpg"
-        },
-        {
-          "id": "http://heise.de/-7474401",
-          "author": null,
-          "description": "Microsoft veröffentlicht zum Monatsende eine Update-Vorschau auf das kommende Windows Update. Im Januar behebt es unter anderem Probleme mit RDP-Brokern.",
-          "link": "https://www.heise.de/news/Microsoft-Windows-Update-Vorschau-behebt-RDP-Probleme-7474401.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-01-29T13:01:00.000Z",
-          "wordCount": 2095,
-          "title": "Microsoft: Windows-Update-Vorschau behebt RDP-Probleme",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/7/6/8/9/shutterstock_1651880641-777333b9818c817e.jpg"
         }
       ]
     },
@@ -9380,6 +9460,38 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/02/cisa-issues-warning-on-active.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity flaw affecting the ZK Framework to its Known Exploited Vulnerabilities (KEV) catalog based on evidence of active exploitation.\nTracked as CVE-2022-36537 (CVSS score: 7.5), the issue impacts ZK Framework versions 9.6.1, 9.6.0.1, 9.5.1.3, 9.0.1.2, and 8.6.4.1, and allows threat actors to retrieve sensitive",
+          "link": "https://thehackernews.com/2023/02/cisa-issues-warning-on-active.html",
+          "publishedOn": "2023-02-28T06:42:00.000Z",
+          "wordCount": null,
+          "title": "CISA Issues Warning on Active Exploitation of ZK Java Web Framework Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht3PvqF2z9YkS3gXYpUMKZCL_SHk7d0c1N1Vl5m7_AYiRMCDo3qc1QO2n7yTym-wSCTqJJZIFkAxmRKZDxQ1NRUjRreSd1mqf84j9Tjbcc0HgNprfPXQVBlDuqZ4GwMN-uIR3mRkRKAKRJHWJUxl8bjUUKgO0afHEaQdSzTjbgDZtjy3ETOqrl0Q0h/s1600/CISA.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht3PvqF2z9YkS3gXYpUMKZCL_SHk7d0c1N1Vl5m7_AYiRMCDo3qc1QO2n7yTym-wSCTqJJZIFkAxmRKZDxQ1NRUjRreSd1mqf84j9Tjbcc0HgNprfPXQVBlDuqZ4GwMN-uIR3mRkRKAKRJHWJUxl8bjUUKgO0afHEaQdSzTjbgDZtjy3ETOqrl0Q0h/s1600/CISA.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/lastpass-reveals-second-attack.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "LastPass, which in December 2022 disclosed a severe data breach that allowed threat actors to access encrypted password vaults, said it happened as a result of the same adversary launching a second attack on its systems.\nThe company said one of its DevOps engineers had their personal home computer breached and infected with a keylogger as part of a sustained cyber attack that exfiltrated",
+          "link": "https://thehackernews.com/2023/02/lastpass-reveals-second-attack.html",
+          "publishedOn": "2023-02-28T06:16:00.000Z",
+          "wordCount": null,
+          "title": "LastPass Reveals Second Attack Resulting in Breach of Encrypted Password Vaults",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-uGMUB3tHhy0O3xzEdAO3UIFLmHRNyaAqPd7cEEz8sbfWX4dbXt5U1qXp9OS7FB4zyhmW0pxhzIbUHDhFDHhWVT8RUF5kYDYXsY3tlfW0UOX52iBrR9QM827L2b0vv-1-Tw6YOZ22FJ0hg3Dp7D6c6uXELAhWCzWdHKmveE67uQDUA-BjlB1EUNFE/s1600/lastpass.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-uGMUB3tHhy0O3xzEdAO3UIFLmHRNyaAqPd7cEEz8sbfWX4dbXt5U1qXp9OS7FB4zyhmW0pxhzIbUHDhFDHhWVT8RUF5kYDYXsY3tlfW0UOX52iBrR9QM827L2b0vv-1-Tw6YOZ22FJ0hg3Dp7D6c6uXELAhWCzWdHKmveE67uQDUA-BjlB1EUNFE/s1600/lastpass.png"
+        },
         {
           "id": "https://thehackernews.com/2023/02/researchers-share-new-insights-into-rig.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -11419,6 +11531,166 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/news_corp_dwell_time_breach/",
+          "author": null,
+          "description": "<h4>All the news that's fit to pwn</h4> <p>The miscreants who infiltrated News Corporation's corporate IT network spent two years in the media monolith's system before being detected early last year.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/news_corp_dwell_time_breach/",
+          "publishedOn": "2023-02-28T08:31:14.000Z",
+          "wordCount": 1743,
+          "title": "News Corp outfoxed by IT intruders for years",
+          "imageUrl": "https://regmedia.co.uk/2022/10/18/shutterstock_wsj.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/anonymous_sudan_ddos_hospitals/",
+          "author": null,
+          "description": "<h4>Not that we're urging them to try harder or anything</h4> <p>A series of distributed-denial-of-service (DDoS) attacks shut down nine Danish hospitals' websites for a few hours on Sunday, but did not have any life-threatening impact on the medical centers' operations or digital infrastructure.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/anonymous_sudan_ddos_hospitals/",
+          "publishedOn": "2023-02-28T07:30:10.000Z",
+          "wordCount": 1299,
+          "title": "Russian hacktivists DDoS hospitals, with pathetic results",
+          "imageUrl": "https://regmedia.co.uk/2015/02/05/hospital.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/us_marshals_ransomware_data_exfiltration/",
+          "author": null,
+          "description": "<h4>It’s not just another data breach when the victim oversees witness protection programs</h4> <p>The US Marshals Service, the enforcement branch of the nation’s federal courts, has admitted to a “major” breach of its information security defenses allowed a ransomware infection and exfiltration of “law-enforcement sensitive information”.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/us_marshals_ransomware_data_exfiltration/",
+          "publishedOn": "2023-02-28T06:59:07.000Z",
+          "wordCount": 1512,
+          "title": "US Marshals Service leaks ‘law enforcement sensitive information’ in ransomware incident",
+          "imageUrl": "https://regmedia.co.uk/2023/02/28/shutterstock_us_and_us_marshal_flags.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/mit_researchers_interference_busting_radios/",
+          "author": null,
+          "description": "<h4>What’s the frequency, Kenneth?</h4> <p>Radio interference can be a pain to deal with, regardless of whether it's a rogue baby monitor interrupting your Wi-Fi or a stadium full of smartphone signals drowning each other out.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/mit_researchers_interference_busting_radios/",
+          "publishedOn": "2023-02-28T06:30:05.000Z",
+          "wordCount": 1544,
+          "title": "Boffins concoct interference-busting radios",
+          "imageUrl": "https://regmedia.co.uk/2018/01/29/shutterstock_interference.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/fujitsu_teams_up_with_mistubishi/",
+          "author": null,
+          "description": "<h4>Updating the nation through the power of games. And ads. Lots of ads</h4> <p>Ten Japanese companies, including IT services giant Fujitsu and automobile manufacturer Mitsubishi, have embarked on a collaboration to create an advertiser-friendly immersive gaming environment they've grandly named the \"Japan Metaverse Economic Zone.\"…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/fujitsu_teams_up_with_mistubishi/",
+          "publishedOn": "2023-02-28T04:59:05.000Z",
+          "wordCount": 1316,
+          "title": "Fujitsu, Mitsubishi, and pals proclaim 'Japan Metaverse Economic Zone'",
+          "imageUrl": "https://regmedia.co.uk/2023/02/28/shutterstock_vintage_mario_game_background.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/chatgpt_outage_meta_ai_personas/",
+          "author": null,
+          "description": "<h4>While we're here, what do you think of Zuck announcing a vague catchup plan to build 'AI personas'?</h4> <p>ChatGPT, the buggy generative AI chatbot that is apparently going to change every industry forever by responding to written prompts with slabs of stilted, shabby and sometimes entirely fictional prose, is unable to explain why it experienced an outage on Monday.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/chatgpt_outage_meta_ai_personas/",
+          "publishedOn": "2023-02-28T03:59:33.000Z",
+          "wordCount": 1535,
+          "title": "ChatGPT, write a report about database glitches that crashed you today",
+          "imageUrl": "https://regmedia.co.uk/2023/02/28/shutterstock_powerless_windup_robotic_man.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/spacex_starlink_satellites/",
+          "author": null,
+          "description": "<h4>But not the giant ones Musk previewed last year – those still can't get to space without Starship</h4> <p>Starlink has sent the first batch of its second-generation satellites into orbit today, but not the full-sized hardware CEO Elon Musk promised last year.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/spacex_starlink_satellites/",
+          "publishedOn": "2023-02-28T03:00:10.000Z",
+          "wordCount": 1633,
+          "title": "SpaceX lobs second-gen Starlink satellites into orbit",
+          "imageUrl": "https://regmedia.co.uk/2023/02/27/shutterstock_broadband_satellite_train.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/tesla_has_to_fix_safety/",
+          "author": null,
+          "description": "<h4>Those that signed up for the $15,000 package told to queue behind those waiting for safety upgrade</h4> <p>Tesla has hit the brakes on the rollout of its Full Self-Driving Beta software to new customers, while it delivers an update to faulty code in existing at least 362,758 cars already using the software in North America.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/tesla_has_to_fix_safety/",
+          "publishedOn": "2023-02-28T02:01:06.000Z",
+          "wordCount": 1276,
+          "title": "Tesla hits the brakes on rollout of Full Self-Driving code to new users",
+          "imageUrl": "https://regmedia.co.uk/2017/09/04/tesla_photo_via_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/supply_chain_security_chainguard/",
+          "author": null,
+          "description": "<h4>Chainguard CEO explains how to secure code given crims know to poison it at the source</h4> <p><strong>SCSW</strong>  The vast majority of off-the-shelf software is composed of imported components, whether that's open source libraries or proprietary code. And that spells a security danger: if someone can subvert one of those components, they can infiltrate every installation of applications using those dependencies.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/28/supply_chain_security_chainguard/",
+          "publishedOn": "2023-02-28T01:01:13.000Z",
+          "wordCount": 1137,
+          "title": "Feeling VEXed by software supply chain security? You’re not alone",
+          "imageUrl": "https://regmedia.co.uk/2023/02/27/shutterstock_weak_link.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/twitter_latest_layoffs/",
+          "author": null,
+          "description": "<h4>Reminder: Elon spent $44 billion on this. Forty-four thousand million dollars</h4> <p>Twitter has reportedly axed about another 200 employees, equivalent to roughly 10 per cent of its workforce.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/twitter_latest_layoffs/",
+          "publishedOn": "2023-02-27T23:56:08.000Z",
+          "wordCount": 1225,
+          "title": "Twitter rewards remaining loyal staff by decimating them",
+          "imageUrl": "https://regmedia.co.uk/2023/02/27/shutterstock_twitter_person.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/openai_ceo_agi/",
+          "author": null,
+          "description": "<h4>Elites won't accept anything that takes away power, we're not dazzled by fake predictable intelligence</h4> <p><strong>Comment</strong>  OpenAI CEO Sam Altman has said his upstart is preparing for the coming of artificial general intelligence – though there's disagreement about what AGI actually means and skepticism about his claim that OpenAI's mission is to ensure that AGI \"benefits all humanity.\"…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/openai_ceo_agi/",
+          "publishedOn": "2023-02-27T23:32:10.000Z",
+          "wordCount": 2050,
+          "title": "OpenAI CEO heralds AGI no one in their right mind wants",
+          "imageUrl": "https://regmedia.co.uk/2023/02/27/shutterstock_broken_robot.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/microsoft_ai_gpt3_data/",
+          "author": null,
+          "description": "<h4>When AI gives you lemons, you make orangeade</h4> <p>Microsoft is aggressively pushing OpenAI's artificial intelligence technology into seemingly every nook and cranny of its universe.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/microsoft_ai_gpt3_data/",
+          "publishedOn": "2023-02-27T22:23:06.000Z",
+          "wordCount": 1707,
+          "title": "Seeing as GPT-3 is great at faking info, you should lean into that, says Microsoft",
+          "imageUrl": "https://regmedia.co.uk/2023/02/27/shutterstock_robot.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/asml_china_data_spying/",
+          "author": null,
+          "description": "<h4>If at first you don’t succeed, spy, spy again</h4> <p>A former ASML worker accused of stealing trade secrets for advanced chip-making equipment from his employer is now suspected of spying for the Chinese government.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/asml_china_data_spying/",
+          "publishedOn": "2023-02-27T21:30:11.000Z",
+          "wordCount": 1432,
+          "title": "Sure looks like Beijing stole blueprints from chip fab world's ASML",
+          "imageUrl": "https://regmedia.co.uk/2018/05/29/shutterstock_beijing_tourist.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/dish_outage_ransomware/",
+          "author": null,
+          "description": "<h4>Techies 'hard at work' and all of that</h4> <p>US telco Dish said it is investigating a multi-day network \"issue\" that knocked some of its systems offline, leaving customers stranded from the web.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/dish_outage_ransomware/",
+          "publishedOn": "2023-02-27T20:30:07.000Z",
+          "wordCount": 1355,
+          "title": "Dish multi-day outage rolls on as ransomware fears grow",
+          "imageUrl": "https://regmedia.co.uk/2023/02/27/dish_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/ground_equipment_failure_scrubs_latest/",
+          "author": null,
+          "description": "<h4>Crew-6 will have to wait to go to space, and everyone in orbit will have to wait that much longer to come home</h4> <p>NASA and Space-X scrubbed this morning's launch of the Crew-6 mission to the ISS due to a ground systems issue that made it impossible to measure the Falcon 9 rocket's fuel levels.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/ground_equipment_failure_scrubs_latest/",
+          "publishedOn": "2023-02-27T19:30:14.000Z",
+          "wordCount": 1350,
+          "title": "Ground equipment failure scrubs latest ISS SpaceX launch",
+          "imageUrl": "https://regmedia.co.uk/2023/02/27/crew-6-scrub.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/flathub_app_store/",
+          "author": null,
+          "description": "<h4>Latest twist in long saga of trying to monetize desktop penguinistas</h4> <p>The GNOME and KDE organizations are working on a proposal to crowdsource a big change in Flathub: to make it an app store for Linux – including for paid software.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/flathub_app_store/",
+          "publishedOn": "2023-02-27T18:30:09.000Z",
+          "wordCount": 1501,
+          "title": "Linux app depot Flathub may offer paid-for software",
+          "imageUrl": "https://regmedia.co.uk/2018/10/10/shutterstock_shopping_trolley.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/02/27/emoji_financial_advice/",
           "author": null,
@@ -16368,26 +16640,6 @@
           "wordCount": 2171,
           "title": "China stops recognizing online study, orders kids back to foreign unis",
           "imageUrl": "https://regmedia.co.uk/2021/04/22/asia_by_night_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/29/ai_retraining_costs/",
-          "author": null,
-          "description": "<h4>Who said workforce development was just for humans?</h4> <p><strong>Comment</strong>  The lucid ramblings and art synthesized by ChatGPT or Stable Diffusion have captured imaginations and prompted no shortage of controversy over the role generative AI will play in our futures.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/29/ai_retraining_costs/",
-          "publishedOn": "2023-01-29T12:00:10.000Z",
-          "wordCount": 2331,
-          "title": "So you want to replace workers with AI? Watch out for retraining fees, they're a killer",
-          "imageUrl": "https://regmedia.co.uk/2023/01/28/ai_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/01/29/chrome_bug_file_storage/",
-          "author": null,
-          "description": "<h4>'I'm sorry, Dave. I can't do that'</h4> <p>Those using Chrome on Windows and other platforms may have trouble storing files over a network.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/01/29/chrome_bug_file_storage/",
-          "publishedOn": "2023-01-29T09:02:11.000Z",
-          "wordCount": 1320,
-          "title": "Chrome bug bedevils file storage in the cloud",
-          "imageUrl": "https://regmedia.co.uk/2021/06/02/bug.jpg"
         }
       ]
     }

@@ -613,6 +613,36 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/github-now-allows-enabling-private-vulnerability-reporting-at-scale/",
+          "author": "Sergiu Gatlan",
+          "description": "GitHub announced that private vulnerability reporting is now generally available and can be enabled at scale, on all repositories belonging to an organization.  [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/github-now-allows-enabling-private-vulnerability-reporting-at-scale/",
+          "publishedOn": "2023-04-22T16:18:09.000Z",
+          "wordCount": 2099,
+          "title": "GitHub now allows enabling private vulnerability reporting at scale",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/04/19/GitHub.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/evilextractor-malware-activity-spikes-in-europe-and-the-us/",
+          "author": "Bill Toulas",
+          "description": "Researchers are seeing a rise in attacks spreading the EvilExtractor data theft tool, used to steal users' sensitive data in Europe and the U.S. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/evilextractor-malware-activity-spikes-in-europe-and-the-us/",
+          "publishedOn": "2023-04-22T15:14:28.000Z",
+          "wordCount": 2318,
+          "title": "EvilExtractor malware activity spikes in Europe and the U.S.",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/30/evil-creepy-red-thing.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/google-ads-push-bumblebee-malware-used-by-ransomware-gangs/",
+          "author": "Bill Toulas",
+          "description": "The enterprise-targeting Bumblebee malware is distributed through Google Ads and SEO poisoning that promote popular software like Zoom, Cisco AnyConnect, ChatGPT, and Citrix Workspace. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/google-ads-push-bumblebee-malware-used-by-ransomware-gangs/",
+          "publishedOn": "2023-04-22T14:08:16.000Z",
+          "wordCount": 2257,
+          "title": "Google ads push BumbleBee malware used by ransomware gangs",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/04/28/Bee_headpic.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-21st-2023-macs-in-the-crosshairs/",
           "author": "Lawrence Abrams",
           "description": "A lot of news broke this week related to ransomware, with the discovery of LockBit testing macOS encryptors to an outage on NCR, causing massive headaches for restaurants. [...]",
@@ -2321,36 +2351,6 @@
           "wordCount": 2307,
           "title": "GitHub.com rotates its exposed private SSH key",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub__headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/microsoft-teams-virtualbox-tesla-zero-days-exploited-at-pwn2own/",
-          "author": "Sergiu Gatlan",
-          "description": "During the second day of Pwn2Own Vancouver 2023, competitors were awarded $475,000 after successfully exploiting 10 zero-days in multiple products. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-virtualbox-tesla-zero-days-exploited-at-pwn2own/",
-          "publishedOn": "2023-03-23T23:33:39.000Z",
-          "wordCount": 2173,
-          "title": "Microsoft Teams, Virtualbox, Tesla zero-days exploited at Pwn2Own",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/20/Pwn2Own_Vancouver.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/blackguard-stealer-now-targets-57-crypto-wallets-extensions/",
-          "author": "Bill Toulas",
-          "description": "A new variant of the BlackGuard stealer has been spotted in the wild, featuring new capabilities like USB propagation, persistence mechanisms, loading additional payloads in memory, and targeting additional crypto wallets. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/blackguard-stealer-now-targets-57-crypto-wallets-extensions/",
-          "publishedOn": "2023-03-23T22:08:57.000Z",
-          "wordCount": 2326,
-          "title": "BlackGuard stealer now targets 57 crypto wallets, extensions",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/30/evil-creepy-red-thing.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/wordpress-force-patching-woocommerce-plugin-with-500k-installs/",
-          "author": "Sergiu Gatlan",
-          "description": "Automattic, the company behind the WordPress content management system, is force installing a security update on hundreds of thousands of websites running the highly popular WooCommerce Payments for online stores. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/wordpress-force-patching-woocommerce-plugin-with-500k-installs/",
-          "publishedOn": "2023-03-23T21:39:14.000Z",
-          "wordCount": 2286,
-          "title": "WordPress force patching WooCommerce plugin with 500K installs",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/09/13/WordPress.jpg"
         }
       ]
     },
@@ -3176,6 +3176,66 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-8976282",
+          "author": null,
+          "description": "Sicherheitsexperten von Avira warnen vor der Malware XWorm RAT",
+          "link": "https://www.heise.de/news/XWorm-RAT-Avira-Sicherheitsexperten-warnen-vor-Malware-8976282.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-04-22T14:06:00.000Z",
+          "wordCount": 1669,
+          "title": "XWorm RAT: Avira-Sicherheitsexperten warnen vor Malware",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/4/8/0/5/7/shutterstock_2033447216-267e128890ac87b3.jpg"
+        },
+        {
+          "id": "http://heise.de/-8976202",
+          "author": null,
+          "description": "Gleich drei neue Funktionen hat GitHub veröffentlicht. Sie verbessern die Sicherheit und machen die Arbeit mit Branches komfortabler.",
+          "link": "https://www.heise.de/news/GitHub-Updates-Private-Schwachstellenmeldungen-und-Regeln-fuer-Branches-8976202.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-04-22T12:38:00.000Z",
+          "wordCount": 1985,
+          "title": "GitHub-Updates: Private Schwachstellenmeldungen und Regeln für Branches",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/4/8/0/1/6/shutterstock_1569354004-42eff2fc6e8e8a4b.jpg"
+        },
+        {
+          "id": "http://heise.de/-8976249",
+          "author": null,
+          "description": "Das smarte Heizkörperthermostat TP-Link Kasa KE100 Kit kommt mit Gateway, das bis zu 32 Thermostate verwalten kann. Ob es im Alltag überzeugt, zeigt der Test.",
+          "link": "https://www.techstage.de/test/tp-link-kasa-ke100-kit-im-test-heizkoerperthermostat-mit-potenzial/jk6vm05?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-04-22T11:44:00.000Z",
+          "wordCount": 4199,
+          "title": "TP-Link Kasa KE100 Kit im Test: Heizkörperthermostat mit Potenzial",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/dwLktkpTURBXy81OTNjOWM5M2ZmN2M1OWRlYjlkZmIzODEwNTFmY2JhMi5qcGeSlQMAAM0PwM0I3JMFzQSwzQJ2"
+        },
+        {
+          "id": "http://heise.de/-8974975",
+          "author": null,
+          "description": "Die Forschungsdemo des Large Language and Vision Assistant erlaubt Usern das Hochladen eigener Bilder zum Testen multimodaler Fähigkeiten und sammelt Feedback.",
+          "link": "https://www.heise.de/news/LLaVA-Multimodales-offenes-KI-Modell-auf-LLaMA-Basis-liest-Bilder-und-Sprache-8974975.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-04-22T10:15:00.000Z",
+          "wordCount": 2664,
+          "title": "LLaVA: Multimodales offenes KI-Modell auf LLaMA-Basis liest Bilder und Sprache",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/4/7/3/7/9/Bildschirmfoto_2023-04-22_um_11.52.50-9bf258b745a5cd28.png"
+        },
+        {
+          "id": "http://heise.de/-8970215",
+          "author": null,
+          "description": "In fünf Webinaren vom 23. Mai bis 27. Juni 2023 lernen angehende Security-Champions Grundlagen und Praxis-Know-how für sichere Software- und Webentwicklung.",
+          "link": "https://www.heise.de/news/Software-wird-nicht-von-alleine-sicher-Webinar-Serie-fuer-sichere-Entwicklung-8970215.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-04-22T10:00:00.000Z",
+          "wordCount": 1854,
+          "title": "heise-Angebot: Software wird nicht von alleine sicher – Webinar-Serie für sichere Entwicklung",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/4/4/8/4/0/Softwareentwicklung-Ticker-Header-16-9-da3e19fffbcecd0a.jpg"
+        },
+        {
+          "id": "http://heise.de/-8970917",
+          "author": null,
+          "description": "Der eigentliche Tausch der CPU gegen eine schnellere dauert wenige Sekunden. Mehr Zeit benötigen Vorbereitungen und Recherche, wobei der c't uplink hilft.",
+          "link": "https://www.heise.de/news/Neue-Prozessoren-fuer-alte-Mainboards-c-t-uplink-48-0c-8970917.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-04-22T09:20:00.000Z",
+          "wordCount": 2006,
+          "title": "Neue Prozessoren für alte Mainboards | c’t uplink 48.0c",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/4/5/2/2/3/maxresdefault-de4c447cd3977d73.webp"
+        },
         {
           "id": "http://heise.de/-8974343",
           "author": null,
@@ -8605,16 +8665,6 @@
           "wordCount": 1880,
           "title": "heise-Angebot: Neues Mac & i-Webinar: Automatisiertes Deployment und Release-Management",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/8/1/9/5/3/8/Automatisiertes-Deployment-Ticker-Header-16-9-51611e89dc6cbecc.jpg"
-        },
-        {
-          "id": "http://heise.de/-7869612",
-          "author": null,
-          "description": "Entwickler können ihre Apps über Plug-ins mit ChatGPT verknüpfen. Damit kann der KI-Chatbot auf aktuelle Daten zugreifen. Erste Plug-ins sind bereits verfügbar.",
-          "link": "https://www.heise.de/news/KI-Chatbot-lernt-das-Surfen-im-Internet-OpenAI-offeriert-Plug-Ins-fuer-ChatGPT-7869612.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-03-24T02:29:00.000Z",
-          "wordCount": 2047,
-          "title": "KI-Chatbot lernt das Surfen im Internet: OpenAI offeriert Plug-ins für ChatGPT",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/9/4/1/2/1/4/shutterstock_2241913405-b4adb67354a8723d.jpg"
         }
       ]
     },
@@ -10985,6 +11035,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/04/22/nasa_satellite_rhessi/",
+          "author": null,
+          "description": "<h4>Goodbye RHESSI, thanks for all the data</h4> <p>NASA's old defunct RHESSI solar flare satellite plummeted into Earth's atmosphere and disintegrated over the Saharan desert this week, the Department of Defense confirmed. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/04/22/nasa_satellite_rhessi/",
+          "publishedOn": "2023-04-22T14:09:05.000Z",
+          "wordCount": 1291,
+          "title": "NASA solar satellite burns up over the Sahara desert",
+          "imageUrl": "https://regmedia.co.uk/2017/02/06/solar_storm_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/04/22/eurocontrol_russia_attack/",
           "author": null,
@@ -15494,76 +15554,6 @@
           "wordCount": 1694,
           "title": "French parliament says <em>oui</em> to AI surveillance for 2024 Paris Olympics",
           "imageUrl": "https://regmedia.co.uk/2023/03/24/shutterstock_editorial_only_paris_olympics_surveillance.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/03/24/microsoft_geolocation_fail_uzbekistan/",
-          "author": null,
-          "description": "<h4>Customers banished to an IP address in Uzbekistan that Redmond’s cloud did not recognize</h4> <p>Microsoft has found a new and interesting way to break its cloud services: by messing up geolocation services and sending its users to Uzbekistan, which made it impossible for them to log in.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/03/24/microsoft_geolocation_fail_uzbekistan/",
-          "publishedOn": "2023-03-24T05:57:12.000Z",
-          "wordCount": 1639,
-          "title": "Microsoft breaks geolocation, locking users out of Azure and M365",
-          "imageUrl": "https://regmedia.co.uk/2022/04/05/shutterstock_fail.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/03/24/do_kwon_montenegro/",
-          "author": null,
-          "description": "<h4>Probably in a jail cell, waiting to be extradited stateside</h4> <p>The US Justice Department charged fugitive crypto bro Do Kwon with fraud on Thursday, just hours after Montenegro's minister of interior announced he had been detained by local authorities.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/03/24/do_kwon_montenegro/",
-          "publishedOn": "2023-03-24T05:28:47.000Z",
-          "wordCount": 1447,
-          "title": "Where in the world is Terraform Labs villain Do Kwon? Montenegro, actually",
-          "imageUrl": "https://regmedia.co.uk/2022/07/14/cryptowinter.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/03/24/cisco_huawei_ericsson_pldt_overrun/",
-          "author": null,
-          "description": "<h4>Next time you blow a project budget, console yourself that you weren’t this bad</h4> <p>Cisco, Huawei, and Ericsson have all been asked to take a hit after a Filipino telco blew its budget by a whopping $880 million and blamed it on bad procurement processes.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/03/24/cisco_huawei_ericsson_pldt_overrun/",
-          "publishedOn": "2023-03-24T03:58:12.000Z",
-          "wordCount": 1523,
-          "title": "Cisco, Huawei, Ericsson on the hook for Philippine telco's $880M overspend",
-          "imageUrl": "https://regmedia.co.uk/2016/12/14/shutterstock_mega_face_palm.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/03/24/toshiba_acquisition/",
-          "author": null,
-          "description": "<h4>It's probably going to happen, but final approval depends on 'circumstances'</h4> <p>The board of troubled Japanese tech conglomerate Toshiba has announced it supports but will not recommend a $15 billion takeover offer that will launch in the next ten days but won't close for around four months.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/03/24/toshiba_acquisition/",
-          "publishedOn": "2023-03-24T02:33:07.000Z",
-          "wordCount": 1370,
-          "title": "Toshiba board supports – without recommending – $15 billion takeover bid",
-          "imageUrl": "https://regmedia.co.uk/2018/05/09/shutterstock_toshiba.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/03/24/us_hunt_forward_albania/",
-          "author": null,
-          "description": "<h4>'Hunt forward' teams of this sort aid with defense and learn how attackers like Tehran operate</h4> <p>US Cyber Command operators have confirmed they carried out an online defensive mission in Albania, in response to last year's cyber attacks against the local government.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/03/24/us_hunt_forward_albania/",
-          "publishedOn": "2023-03-24T01:05:10.000Z",
-          "wordCount": 1810,
-          "title": "Uncle Sam reveals it sent cyber-soldiers to Albania to hunt for Iranian threats",
-          "imageUrl": "https://regmedia.co.uk/2018/12/21/shutterstock_us_iran.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/03/23/terran_rocket_fail/",
-          "author": null,
-          "description": "<h4>Mission named 'Good Luck Have Fun' needed more of both, but launch outfit insists it's a win</h4> <p>The world's first 3D-printed rocket, Terran 1, blasted off into the sky but failed to make orbit during its maiden voyage on Wednesday.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/03/23/terran_rocket_fail/",
-          "publishedOn": "2023-03-23T23:00:05.000Z",
-          "wordCount": 1589,
-          "title": "Terran 1, world's first (mostly) 3D printed rocket lifts off but fails to reach orbit",
-          "imageUrl": "https://regmedia.co.uk/2023/03/23/supplied_relativity_space_terran_1_launch.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/03/23/critical_infrastructure_hardware_flaws/",
-          "author": null,
-          "description": "<h4>Security researchers find bugs, big and small, in every industrial box probed</h4> <p>Devices used in critical infrastructure are riddled with vulnerabilities that can cause denial of service, allow configuration manipulation, and achieve remote code execution, according to security researchers.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/03/23/critical_infrastructure_hardware_flaws/",
-          "publishedOn": "2023-03-23T21:59:11.000Z",
-          "wordCount": 1974,
-          "title": "Critical infrastructure gear is full of flaws, but hey, at least it's certified",
-          "imageUrl": "https://regmedia.co.uk/2019/07/10/shutterstock_ics_example.jpg"
         }
       ]
     }

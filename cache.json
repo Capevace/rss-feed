@@ -415,6 +415,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar for June 2023. Enjoy!",
+          "link": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
+          "publishedOn": "2023-05-31T08:00:00.000Z",
+          "wordCount": 5292,
+          "title": "Create Your Own Path In June (2023 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/",
           "author": "hello@smashingmagazine.com (Ben Shih)",
           "description": "This article provides practical tips for improving the handoff process between design and development in product development. The guidance covers effective communication, documentation, design details, version control, and plugin usage.",
@@ -661,6 +676,56 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/wordpress-force-installs-critical-jetpack-patch-on-5-million-sites/",
+          "author": "Sergiu Gatlan",
+          "description": "Automattic, the company behind the open-source WordPress content management system, has started force installing a security patch on millions of websites today to address a critical vulnerability in the Jetpack WordPress plug-in. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/wordpress-force-installs-critical-jetpack-patch-on-5-million-sites/",
+          "publishedOn": "2023-05-30T22:01:09.000Z",
+          "wordCount": 2192,
+          "title": "WordPress force installs critical Jetpack patch on 5 million sites",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/09/13/WordPress.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/barracuda-zero-day-abused-since-2022-to-drop-new-malware-steal-data/",
+          "author": "Sergiu Gatlan",
+          "description": "Network and email security firm Barracuda today revealed that a recently patched zero-day vulnerability had been exploited for at least seven months to backdoor customers' Email Security Gateway (ESG) appliances with custom malware and steal data. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/barracuda-zero-day-abused-since-2022-to-drop-new-malware-steal-data/",
+          "publishedOn": "2023-05-30T20:25:22.000Z",
+          "wordCount": 2287,
+          "title": "Barracuda zero-day abused since 2022 to drop new malware, steal data",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/05/30/Barracuda.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-gravity-forms-vulnerable-to-php-object-injection/",
+          "author": "Bill Toulas",
+          "description": "The premium WordPress plugin 'Gravity Forms,' currently used by over 930,000 websites, is vulnerable to unauthenticated PHP Object Injection. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-gravity-forms-vulnerable-to-php-object-injection/",
+          "publishedOn": "2023-05-30T19:42:21.000Z",
+          "wordCount": 2190,
+          "title": "WordPress plugin ‘Gravity Forms’ vulnerable to PHP object injection",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/11/10/WordPress.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/microsoft-finds-macos-bug-that-lets-hackers-bypass-sip-root-restrictions/",
+          "author": "Sergiu Gatlan",
+          "description": "Apple has recently addressed a vulnerability that lets attackers with root privileges bypass System Integrity Protection (SIP) to install \"undeletable\" malware and access the victim's private data by circumventing Transparency, Consent, and Control (TCC) security checks. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-finds-macos-bug-that-lets-hackers-bypass-sip-root-restrictions/",
+          "publishedOn": "2023-05-30T19:20:41.000Z",
+          "wordCount": 2399,
+          "title": "Microsoft finds macOS bug that lets hackers bypass SIP root restrictions",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/19/Apple.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/romcom-malware-spread-via-google-ads-for-chatgpt-gimp-more/",
+          "author": "Bill Toulas",
+          "description": "A new campaign distributing the RomCom backdoor malware is impersonating the websites of well-known or fictional software, tricking users into downloading and launching malicious installers. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/romcom-malware-spread-via-google-ads-for-chatgpt-gimp-more/",
+          "publishedOn": "2023-05-30T19:01:01.000Z",
+          "wordCount": 2716,
+          "title": "RomCom malware spread via Google Ads for ChatGPT, GIMP, more",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/12/evil-hacker-ai.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-cameras-not-working-on-surface-laptops/",
           "author": "Sergiu Gatlan",
@@ -2490,66 +2555,6 @@
           "wordCount": 2525,
           "title": "How To Secure Web Applications Against AI-assisted Cyber Attacks",
           "imageUrl": "https://www.bleepstatic.com/content/posts/2023/05/01/outpost24-hacker-using-ai.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/apple/apples-first-rapid-security-response-patch-fails-to-install-on-iphones/",
-          "author": "Sergiu Gatlan",
-          "description": "Apple has launched the first Rapid Security Response (RSR) patches for iOS 16.4.1 and macOS 13.3.1 devices, with some users having issues installing them on their iPhones. [...]",
-          "link": "https://www.bleepingcomputer.com/news/apple/apples-first-rapid-security-response-patch-fails-to-install-on-iphones/",
-          "publishedOn": "2023-05-01T20:17:55.000Z",
-          "wordCount": 2601,
-          "title": "Apple’s first Rapid Security Response patch fails to install on iPhones",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/19/Apple.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/technology/twitter-outage-logs-you-out-and-wont-let-you-back-in/",
-          "author": "Lawrence Abrams",
-          "description": "A Twitter outage has logged many users out of the website and prevents them from logging back into the site. [...]",
-          "link": "https://www.bleepingcomputer.com/news/technology/twitter-outage-logs-you-out-and-wont-let-you-back-in/",
-          "publishedOn": "2023-05-01T20:11:18.000Z",
-          "wordCount": 2081,
-          "title": "Twitter outage logs you out and won’t let you back in",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/04/twitter-header.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/new-lobshot-malware-gives-hackers-hidden-vnc-access-to-windows-devices/",
-          "author": "Lawrence Abrams",
-          "description": "A new malware known as 'LOBSHOT' distributed using Google ads allows threat actors to stealthily take over infected Windows devices using hVNC. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/new-lobshot-malware-gives-hackers-hidden-vnc-access-to-windows-devices/",
-          "publishedOn": "2023-05-01T18:15:47.000Z",
-          "wordCount": 2407,
-          "title": "New LOBSHOT malware gives hackers hidden VNC access to Windows devices",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/09/hacker-looking-at-screens.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/t-mobile-discloses-second-data-breach-since-the-start-of-2023/",
-          "author": "Sergiu Gatlan",
-          "description": "T-Mobile disclosed the second data breach of 2023 after discovering that attackers had access to the personal information of hundreds of customers for more than a month, starting late February 2023. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/t-mobile-discloses-second-data-breach-since-the-start-of-2023/",
-          "publishedOn": "2023-05-01T17:28:16.000Z",
-          "wordCount": 2405,
-          "title": "T-Mobile discloses second data breach since the start of 2023",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/08/23/tmobile-header-glitch.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/technology/twitter-bug-let-legacy-verified-accounts-see-blue-check-in-their-profile/",
-          "author": "Lawrence Abrams",
-          "description": "A silly Twitter bug allowed previously-verified accounts to add their legacy 'Blue Check' back to their profile for free. [...]",
-          "link": "https://www.bleepingcomputer.com/news/technology/twitter-bug-let-legacy-verified-accounts-see-blue-check-in-their-profile/",
-          "publishedOn": "2023-05-01T13:14:23.000Z",
-          "wordCount": 2124,
-          "title": "Twitter bug let legacy verified accounts see blue check in their profile",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/03/twitter-verified.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/hackers-leak-images-to-taunt-western-digitals-cyberattack-response/",
-          "author": "Lawrence Abrams",
-          "description": "The ALPHV ransomware operation, aka BlackCat, has published screenshots of internal emails and video conferences stolen from Western Digital, indicating they likely had continued access to the company's systems even as the company responded to the breach. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-leak-images-to-taunt-western-digitals-cyberattack-response/",
-          "publishedOn": "2023-05-01T12:28:10.000Z",
-          "wordCount": 2331,
-          "title": "Hackers leak images to taunt Western Digital's cyberattack response",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/09/Western_Digital_headpic.jpg"
         }
       ]
     },
@@ -3337,36 +3342,6 @@
           "wordCount": 9811,
           "title": "Geoffrey Hinton tells us why he’s now scared of the tech he helped build",
           "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515040-thumb.jpeg?resize=1200,600"
-        },
-        {
-          "id": "https://www.technologyreview.com/?p=1072471",
-          "author": "Rhiannon Williams",
-          "description": "A noninvasive brain-computer interface capable of converting a person’s thoughts into words could one day help people who have lost the ability to speak as a result of injuries like strokes or conditions including ALS.  In a new study, published in Nature Neuroscience by researchers from the University of Texas at Austin, a model trained…",
-          "link": "https://www.technologyreview.com/2023/05/01/1072471/brain-scans-can-translate-a-persons-thoughts-into-words/",
-          "publishedOn": "2023-05-01T15:00:00.000Z",
-          "wordCount": 5857,
-          "title": "Brain scans can translate a person’s thoughts into words",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/04/brain-decode2.jpeg?resize=1200,600"
-        },
-        {
-          "id": "https://www.technologyreview.com/?p=1072463",
-          "author": "Tate Ryan-Mosley",
-          "description": "This article is from The Technocrat, MIT Technology Review’s weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday, sign up here. I recently published a story about a new kind of job that’s becoming essential at the frontier of the internet: the role of metaverse content…",
-          "link": "https://www.technologyreview.com/2023/05/01/1072463/undercover-in-the-metaverse/",
-          "publishedOn": "2023-05-01T11:00:00.000Z",
-          "wordCount": 6790,
-          "title": "Undercover in the metaverse",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/04/VRcop.jpeg?resize=1200,600"
-        },
-        {
-          "id": "https://www.technologyreview.com/?p=1072478",
-          "author": "Will Douglas Heaven",
-          "description": "Geoffrey Hinton, a VP and engineering fellow at Google and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI, is leaving the company after 10 years, the New York Times reported today. According to the Times, Hinton says he has new fears about the technology…",
-          "link": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
-          "publishedOn": "2023-05-01T09:25:23.000Z",
-          "wordCount": 5445,
-          "title": "Deep learning pioneer Geoffrey Hinton has quit Google",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515042.jpeg?resize=1200,600"
         }
       ]
     },
@@ -3375,6 +3350,106 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9069923",
+          "author": null,
+          "description": "Die Onlinekonferenz am 11. Juli geht auf die derzeitigen Trends des Containerorchestrierungssystem Kubernetes ein. Wer jetzt bucht, kann 50 Euro sparen.",
+          "link": "https://www.heise.de/news/Jetzt-noch-vom-Fruehbucherrabatt-der-Mastering-Kubernetes-2023-profitieren-9069923.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T09:06:00.000Z",
+          "wordCount": 1844,
+          "title": "heise-Angebot: Jetzt noch vom Frühbucherrabatt der Mastering Kubernetes 2023 profitieren",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/6/1/8/3/Mastering-Kubernetes-Ticker-Header-16-9-783788de0d68fb40.jpg"
+        },
+        {
+          "id": "http://heise.de/-9069832",
+          "author": null,
+          "description": "Ein Android-Software-Modul mit Spyware-Funktionen hat Doctor Web in Apps auf Google Play mit mehr als 421 Millionen Downloads aufgespürt. Google ist informiert.",
+          "link": "https://www.heise.de/news/Android-Spyware-SpinOk-kommt-auf-mehr-als-421-Millionen-Installationen-9069832.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T09:03:00.000Z",
+          "wordCount": 2125,
+          "title": "Android-Spyware SpinOk kommt auf mehr als 421 Millionen Installationen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/6/1/3/7/shutterstock_1038184249-d796a775e357aa2e.jpeg"
+        },
+        {
+          "id": "http://heise.de/-9069866",
+          "author": null,
+          "description": "Bei Teams kann man sich einen Avatar bauen und in Meetings schicken. Allerdings ist der Look schwierig und die Steuerung schwieriger. Doch er macht auch Spaß.",
+          "link": "https://www.heise.de/news/Microsoft-Teams-Avatare-sind-nach-zwei-Jahren-da-und-nur-so-geht-so-9069866.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T08:57:00.000Z",
+          "wordCount": 2321,
+          "title": "Microsoft Teams: Avatare sind nach zwei Jahren da – und nur so geht so",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/6/1/5/4/Bildschirmfoto_2023-05-31_um_09.21.59-1aa07b1d48161f66.png"
+        },
+        {
+          "id": "http://heise.de/-9069974",
+          "author": null,
+          "description": "Die Jetpack-Entwickler haben 102 fehlerbereinigte Versionen ihres WordPress-Plug-ins veröffentlicht.",
+          "link": "https://www.heise.de/news/Zwangsupdate-WordPress-Websites-ueber-Jetpack-Luecke-manipulierbar-9069974.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T08:35:00.000Z",
+          "wordCount": 1745,
+          "title": "Zwangsupdate: WordPress-Websites über Jetpack-Lücke manipulierbar",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/6/2/1/2/shutterstock_350982164-42f07489722ecd43.jpg"
+        },
+        {
+          "id": "http://heise.de/-9069654",
+          "author": null,
+          "description": "Wer noch 1Password 7 einsetzt, um den Cloud-Zwang des Passwortmanagers zu umgehen, kann die notwendigen Browser-Erweiterungen nicht mehr nachinstallieren.",
+          "link": "https://www.heise.de/news/Chrome-und-Firefox-1Password-loescht-Erweiterungen-fuer-alte-App-9069654.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T07:54:00.000Z",
+          "wordCount": 2130,
+          "title": "Chrome und Firefox: 1Password löscht Erweiterungen für alte App im Web Store",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/6/0/4/1/Screen_Shot_2023-05-30_at_23.17.51-292561fb9819ca45.png"
+        },
+        {
+          "id": "http://heise.de/-9069137",
+          "author": null,
+          "description": "Microsoft hat Erweiterungen für Skalierbarkeit und Hochverfügbarkeit bei .NET 8.0 sowie Änderungen bei der Authentifizierung in ASP.NET Core bekanntgegeben.",
+          "link": "https://www.heise.de/news/Microsoft-Weitere-Pakete-und-Plaene-fuer-NET-8-0-auf-der-Build-2023-9069137.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T07:00:00.000Z",
+          "wordCount": 3040,
+          "title": "Microsoft: Weitere Pakete und Pläne für .NET 8.0 auf der Build 2023",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/5/7/6/2/dotnet-sign-6f751b3d1088dffe.jpg"
+        },
+        {
+          "id": "http://heise.de/-9069705",
+          "author": null,
+          "description": "Neben den üblichen geschlossenen Sicherheitslücken, derer 16 an der Zahl, liefert Google Chrome 114 auch teils neue oder verbesserte Sicherheitsfunktionen.",
+          "link": "https://www.heise.de/news/Webbrowser-Google-Chrome-114-schliesst-16-Luecken-und-verbessert-Sicherheit-9069705.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T06:18:00.000Z",
+          "wordCount": 2248,
+          "title": "Webbrowser: Google Chrome 114 schließt 16 Lücken und verbessert Sicherheit",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/6/0/6/8/Chrome_Update_2023-cf6b1ea372934f01.png"
+        },
+        {
+          "id": "http://heise.de/-9069390",
+          "author": null,
+          "description": "Die Online-Konferenz zu .NET 8.0 am 21. November hilft Entwicklerinnen und Entwicklern bei der Vorbereitung auf das neue Long-Term-Support-Release.",
+          "link": "https://www.heise.de/news/betterCode-NET-8-0-die-Heise-Konferenz-zu-Microsofts-kuenftigem-LTS-Release-9069390.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T06:00:00.000Z",
+          "wordCount": 1943,
+          "title": "heise-Angebot: betterCode() .NET 8.0: die Heise-Konferenz zu Microsofts künftigem LTS-Release",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/5/9/0/3/dotnet-8-0-aufmacher-891a773d0f74d396.jpg"
+        },
+        {
+          "id": "http://heise.de/-8990996",
+          "author": null,
+          "description": "Lernen Sie in einem Webinar alles Wichtige über Cybersicherheit in der Industrie 4.0 – von Grundlagen über den Faktor Mensch bis zum Ausblick auf Industrie 5.0.",
+          "link": "https://www.heise.de/news/Cybersecurity-in-der-Industrie-4-0-Das-Webinar-der-heise-Academy-8990996.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T06:00:00.000Z",
+          "wordCount": 1964,
+          "title": "heise-Angebot: Cybersecurity in der Industrie 4.0 – Das Webinar der heise Academy",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/5/9/9/5/Cybersicherheit-Ticker-Header-16-9-7ba119e6e89b69e3.jpg"
+        },
+        {
+          "id": "http://heise.de/-9069680",
+          "author": null,
+          "description": "Ein hochkant gestelltes Notebook-Display in der Front macht das Zalman Z10 DS zum Second Screen. Zudem gibt es Luft- und Wasserkühler mit Kleinstmonitoren.",
+          "link": "https://www.heise.de/news/PC-Gehaeuse-mit-Riesendisplay-9069680.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T04:05:00.000Z",
+          "wordCount": 1745,
+          "title": "Computex: PC-Gehäuse mit Riesendisplay",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/6/0/5/4/IMG_3354_DxO-c357d262b81acc94.jpg"
+        },
         {
           "id": "http://heise.de/-9069622",
           "author": null,
@@ -8904,76 +8979,6 @@
           "wordCount": 1700,
           "title": "heise-Angebot: iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/4/9/9/5/0/2021_webdev_ws_1280x720_1-b8e24827fb707e22.png"
-        },
-        {
-          "id": "http://heise.de/-8983912",
-          "author": null,
-          "description": "Der TV-Empfang per Satellit bietet seit vielen Jahren das beste Preis-Leistungs-Verhältnis. Was für einen optimalen Empfang nötig ist, erklärt Techstage.",
-          "link": "https://www.techstage.de/ratgeber/sat-tv-alles-was-sie-ueber-satellitenschuesseln-lnbs-receiver-sat-ip-und-co-wissen/fevjwb6?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-05-01T18:00:00.000Z",
-          "wordCount": 3844,
-          "title": "TV-Empfang per Satellit: Was man über Satellitenschüsseln, LNBs & Co. wissen muss",
-          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/zZjktkpTURBXy9jMzRlZThiMGU0NTRiOTg5ZWY2MDk5MjRmMWQ0NmE2MS5qcGeSlQMAAM0HgM0EOJMFzQSwzQJ2"
-        },
-        {
-          "id": "http://heise.de/-8984099",
-          "author": null,
-          "description": "Der Deutsche Blinden- und Sehbehindertenverband dringt auf besser hörbare Fahrzeuggeräusche von Elektroautos, das vorgeschriebene Warnsystem Avas sei zu leise.",
-          "link": "https://www.heise.de/news/Blindenverband-fordert-besser-hoerbare-Elektroautos-8984099.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-05-01T15:15:00.000Z",
-          "wordCount": 1843,
-          "title": "Unfallforscher bestätigen: E-Autos sind zu leise und gefährden Sehbehinderte",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/2/7/8/shutterstock_1126516463-24eedea0781a9e82.jpg"
-        },
-        {
-          "id": "http://heise.de/-8984055",
-          "author": null,
-          "description": "US-Forschern ist es gelungen, im fMRT-Scan anhand der Hirnaktivität von Probanden festzustellen, welchen Text sie lesen oder welchen Stummfilm sie schauen.",
-          "link": "https://www.heise.de/news/GPT-hilft-beim-Gedankenlesen-8984055.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-05-01T15:00:00.000Z",
-          "wordCount": 2353,
-          "title": "GPT: Hirnströme verraten, was Probanden lesen und gucken",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/2/5/6/GAFA4-938dd4a866ce2858.jpg"
-        },
-        {
-          "id": "http://heise.de/-8984065",
-          "author": null,
-          "description": "Der angesehene Forscher Geoffrey Hinton hat seinen Job bei Google gekündigt, um vor den Risiken der künstlichen Intelligenz zu warnen.",
-          "link": "https://www.heise.de/news/KI-Pionier-Geoffrey-Hinton-verlaesst-Google-8984065.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-05-01T13:53:00.000Z",
-          "wordCount": 1831,
-          "title": "KI-Pionier Hinton verlässt Google, um unabhängig über Risiken der KI zu reden",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/2/6/1/dpa_picture_alliance_2-dbdef170d16efd56-a02aa60e001927b1.webp"
-        },
-        {
-          "id": "http://heise.de/-8984025",
-          "author": null,
-          "description": "Die unter Datenanalysten beliebte Pandas-Bibliothek kann jetzt mit Large-Language-Modulen genutzt werden. Aktuell funktioniert es mit GPT von Open AI.",
-          "link": "https://www.heise.de/news/Datenanalyse-Bibliothek-erweitert-Pandas-um-KI-Schnittstelle-8984025.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-05-01T13:14:00.000Z",
-          "wordCount": 1772,
-          "title": "Datenanalyse: Bibliothek erweitert Pandas um KI-Schnittstelle",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/2/4/1/pandas-ai-a07cf8ca513b0f37.png"
-        },
-        {
-          "id": "http://heise.de/-8984033",
-          "author": null,
-          "description": "Die Warnfunktion der Corona-Warn-App ist abgeschaltet, ab Juni geht sie in einen Schlafmodus und bekommt keine Updates mehr.",
-          "link": "https://www.heise.de/news/Corona-Warn-App-bis-auf-weiteres-stillgelegt-8984033.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-05-01T13:02:00.000Z",
-          "wordCount": 1787,
-          "title": "Corona-Warn-App: Keine Warnungen mehr, nur noch Verwaltung der Impfzertifikate",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/2/4/5/corona-ea26aa032214e8a9.jpeg"
-        },
-        {
-          "id": "http://heise.de/-8983960",
-          "author": null,
-          "description": "Die US-IT-Sicherheitsbehörde CISA warnt vor kritischen Sicherheitslücken in den medizinischen Geräten von Illumina. Angreifer könnten die Kontrolle übernehmen.",
-          "link": "https://www.heise.de/news/Medizin-Geraete-Warnung-vor-kritischer-Sicherheitsluecke-in-Illumina-Software-8983960.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-05-01T10:55:00.000Z",
-          "wordCount": 1848,
-          "title": "Medizin-Geräte: Warnung vor kritischer Sicherheitslücke in Illumina-Software",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/2/0/8/eHealth-d33cfded1a6b20cf.jpg"
         }
       ]
     },
@@ -8982,6 +8987,26 @@
       "feedUrl": "https://www.heise.de/security/rss/alert-news.rdf",
       "siteUrl": "https://www.heise.de/security/alerts/",
       "articles": [
+        {
+          "id": "http://heise.de/-9069974",
+          "author": null,
+          "description": "Die Jetpack-Entwickler haben 102 fehlerbereinigte Versionen ihres WordPress-Plug-ins veröffentlicht.",
+          "link": "https://www.heise.de/news/Zwangsupdate-WordPress-Websites-ueber-Jetpack-Luecke-manipulierbar-9069974.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T08:35:00.000Z",
+          "wordCount": 1745,
+          "title": "Zwangsupdate: WordPress-Websites über Jetpack-Lücke manipulierbar",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/6/2/1/2/shutterstock_350982164-42f07489722ecd43.jpg"
+        },
+        {
+          "id": "http://heise.de/-9069705",
+          "author": null,
+          "description": "Neben den üblichen geschlossenen Sicherheitslücken, derer 16 an der Zahl, liefert Google Chrome 114 auch teils neue oder verbesserte Sicherheitsfunktionen.",
+          "link": "https://www.heise.de/news/Webbrowser-Google-Chrome-114-schliesst-16-Luecken-und-verbessert-Sicherheit-9069705.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2023-05-31T06:18:00.000Z",
+          "wordCount": 2248,
+          "title": "Webbrowser: Google Chrome 114 schließt 16 Lücken und verbessert Sicherheit",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/6/0/6/8/Chrome_Update_2023-cf6b1ea372934f01.png"
+        },
         {
           "id": "http://heise.de/-9069031",
           "author": null,
@@ -9321,16 +9346,6 @@
           "wordCount": 1795,
           "title": "Angriffe auf Lücken in TP-Link Archer, Apache Log4j2 und Oracle Weblogic",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/3/4/8/shutterstock_680078968-76f321e503092ca9.jpg"
-        },
-        {
-          "id": "http://heise.de/-8983960",
-          "author": null,
-          "description": "Die US-IT-Sicherheitsbehörde CISA warnt vor kritischen Sicherheitslücken in den medizinischen Geräten von Illumina. Angreifer könnten die Kontrolle übernehmen.",
-          "link": "https://www.heise.de/news/Medizin-Geraete-Warnung-vor-kritischer-Sicherheitsluecke-in-Illumina-Software-8983960.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
-          "publishedOn": "2023-05-01T10:55:00.000Z",
-          "wordCount": 1848,
-          "title": "Medizin-Geräte: Warnung vor kritischer Sicherheitslücke in Illumina-Software",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/2/0/8/eHealth-d33cfded1a6b20cf.jpg"
         }
       ]
     },
@@ -9339,6 +9354,38 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/05/romcom-rat-using-deceptive-web-of-rogue.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind RomCom RAT are leveraging a network of fake websites advertising rogue versions of popular software at least since July 2022 to infiltrate targets.\nCybersecurity firm Trend Micro is tracking the activity cluster under the name Void Rabisu, which is also known as Tropical Scorpius (Unit 42) and UNC2596 (Mandiant).\n\"These lure sites are most likely only meant for a small",
+          "link": "https://thehackernews.com/2023/05/romcom-rat-using-deceptive-web-of-rogue.html",
+          "publishedOn": "2023-05-31T08:30:00.000Z",
+          "wordCount": null,
+          "title": "RomCom RAT Using Deceptive Web of Rogue Software Sites for Covert Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjRgnBQXtb3pK0ZmBGtxf-8C91AC1AepLXa43L9F4k3pXNZnHTEgSWoqpUXezh8lFNM0nukFCs638D2GNFx0KdQ_XQQYZWPw_7fzhjpECrbvcTofCj6pkAApoGA_cqqN5IhMUGhnfvm7Ez6YhcIWwjMSV3iXmencX72PMSzi_IezEOax5Piy3T6c0s/s1600/software.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjRgnBQXtb3pK0ZmBGtxf-8C91AC1AepLXa43L9F4k3pXNZnHTEgSWoqpUXezh8lFNM0nukFCs638D2GNFx0KdQ_XQQYZWPw_7fzhjpECrbvcTofCj6pkAApoGA_cqqN5IhMUGhnfvm7Ez6YhcIWwjMSV3iXmencX72PMSzi_IezEOax5Piy3T6c0s/s1600/software.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/05/alert-hackers-exploit-barracuda-email.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Enterprise security firm Barracuda on Tuesday disclosed that a recently patched zero-day flaw in its Email Security Gateway (ESG) appliances had been abused by threat actors since October 2022 to backdoor the devices.\nThe latest findings show that the critical vulnerability, tracked as CVE-2023-2868 (CVSS score: N/A), has been actively exploited for at least seven months prior to its discovery.",
+          "link": "https://thehackernews.com/2023/05/alert-hackers-exploit-barracuda-email.html",
+          "publishedOn": "2023-05-31T05:25:00.000Z",
+          "wordCount": null,
+          "title": "Alert: Hackers Exploit Barracuda Email Security Gateway 0-Day Flaw for 7 Months",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkYU2QtWAYniRwRVyKx17M8VxzSnq0axs-kfURc2HttOPC5IZfOESTCZfNWaNrLWqilHHXYWV2pv0pXCRg1-FP6xKFJCEZ76tBazjNl7IgFBx-D1_Pdbuehgouxnok5eOaI0yLd2RPY2HWHPVwk2LoH2jOK0RqHjEQanVerjR1HfSNLK5xXW3iAWXL/s1600/barracuda-email.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkYU2QtWAYniRwRVyKx17M8VxzSnq0axs-kfURc2HttOPC5IZfOESTCZfNWaNrLWqilHHXYWV2pv0pXCRg1-FP6xKFJCEZ76tBazjNl7IgFBx-D1_Pdbuehgouxnok5eOaI0yLd2RPY2HWHPVwk2LoH2jOK0RqHjEQanVerjR1HfSNLK5xXW3iAWXL/s1600/barracuda-email.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/05/hackers-win-105000-for-reporting.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -11562,70 +11609,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Z8SsBtsz_FrIkAaxTFPWxNLPQx1hFuU1YkRtWp42JSt_MYjg0eNoP8WdFvVO5aF8Suyubjx6rL1Y97h2PY5U2eXNcx4-Z4DZT1DbZEhh_rFDd4DeIZl2E3p3Qu1pKkfhXfty2XK0gvRuEl7BBTEnbq8DHFLLzOmGDfiKXBWSH1t1DtdMQHAjJjc8/s1600/cisa.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Z8SsBtsz_FrIkAaxTFPWxNLPQx1hFuU1YkRtWp42JSt_MYjg0eNoP8WdFvVO5aF8Suyubjx6rL1Y97h2PY5U2eXNcx4-Z4DZT1DbZEhh_rFDd4DeIZl2E3p3Qu1pKkfhXfty2XK0gvRuEl7BBTEnbq8DHFLLzOmGDfiKXBWSH1t1DtdMQHAjJjc8/s1600/cisa.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/05/new-decoy-dog-malware-toolkit-uncovered.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An analysis of over 70 billion DNS records has led to the discovery of a new sophisticated malware toolkit dubbed Decoy Dog targeting enterprise networks.\nDecoy Dog, as the name implies, is evasive and employs techniques like strategic domain aging and DNS query dribbling, wherein a series of queries are transmitted to the command-and-control (C2) domains so as to not arouse any suspicion.\n\"",
-          "link": "https://thehackernews.com/2023/05/new-decoy-dog-malware-toolkit-uncovered.html",
-          "publishedOn": "2023-05-01T12:31:00.000Z",
-          "wordCount": null,
-          "title": "New Decoy Dog Malware Toolkit Uncovered: Targeting Enterprise Networks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA7rd3EDfrv29r5pg2X4WSLO7Ew0tzXBpnB4IGfiKjx8uAPThNIRuWaUUy_yf7lZCGzGawjZ_2oqjeNl8bvCA_pXntY0xUN_UH18TntGWkENIDCbFUXegvoF7Y5Iy6xxoCh0P-rt-47zYPyMHj9l-jM5O9t9iwZOCEoh43Y2PL2rIKDfOfPfNfy9DO/s1600/hacking.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA7rd3EDfrv29r5pg2X4WSLO7Ew0tzXBpnB4IGfiKjx8uAPThNIRuWaUUy_yf7lZCGzGawjZ_2oqjeNl8bvCA_pXntY0xUN_UH18TntGWkENIDCbFUXegvoF7Y5Iy6xxoCh0P-rt-47zYPyMHj9l-jM5O9t9iwZOCEoh43Y2PL2rIKDfOfPfNfy9DO/s1600/hacking.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/05/wanted-dead-or-alive-real-time.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Just a few short years ago, lateral movement was a tactic confined to top APT cybercrime organizations and nation-state operators. Today, however, it has become a commoditized tool, well within the skillset of any ransomware threat actor. This makes real-time detection and prevention of lateral movement a necessity to organizations of all sizes and across all industries. But the disturbing truth",
-          "link": "https://thehackernews.com/2023/05/wanted-dead-or-alive-real-time.html",
-          "publishedOn": "2023-05-01T10:53:00.000Z",
-          "wordCount": null,
-          "title": "Wanted Dead or Alive: Real-Time Protection Against Lateral Movement",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmvkkNy_f0BhkThI6iugegNenENNhcuZCwNB0XAW78v_b6DaiWue6Cc0vyxeEvTr2Pm-a_LNJKXEOq4cuyYsiw3KUsLORQfnKl6iPV343V-edE_u6soqxZsNcvJGHZqM6n-PphW1bX1IIGPQw1l2xFdyggeiq9_4PyiTFXMuneBHyuCQjDpMf09wgZ/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmvkkNy_f0BhkThI6iugegNenENNhcuZCwNB0XAW78v_b6DaiWue6Cc0vyxeEvTr2Pm-a_LNJKXEOq4cuyYsiw3KUsLORQfnKl6iPV343V-edE_u6soqxZsNcvJGHZqM6n-PphW1bX1IIGPQw1l2xFdyggeiq9_4PyiTFXMuneBHyuCQjDpMf09wgZ/s1600/malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/05/vietnamese-threat-actor-infects-500000.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A Vietnamese threat actor has been attributed as behind a \"malverposting\" campaign on social media platforms to infect over 500,000 devices worldwide over the past three months to deliver variants of information stealers such as S1deload Stealer and SYS01stealer.\nMalverposting refers to the use of promoted social media posts on services like Facebook and Twitter to mass propagate malicious",
-          "link": "https://thehackernews.com/2023/05/vietnamese-threat-actor-infects-500000.html",
-          "publishedOn": "2023-05-01T09:17:00.000Z",
-          "wordCount": null,
-          "title": "Vietnamese Threat Actor Infects 500,000 Devices Using 'Malverposting' Tactics",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCE8ySYj-J9Z6oRwkMmDIkQaxxjqe-Us0P3cKtKYCH5nn0iImAlI66oSQueEFCIWxzb6bpTKdQEw3vAEW9GFjR3ZLvmKrcAYgswnKN2g4JA5wFtXuUyAM0CGzr3C0aMgRIpUVWJR1W1sXuW4NfQI64X_H9SDr6AQN1Orm1mC_5zRZ1BaK372Z1cKMD/s1600/mal.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCE8ySYj-J9Z6oRwkMmDIkQaxxjqe-Us0P3cKtKYCH5nn0iImAlI66oSQueEFCIWxzb6bpTKdQEw3vAEW9GFjR3ZLvmKrcAYgswnKN2g4JA5wFtXuUyAM0CGzr3C0aMgRIpUVWJR1W1sXuW4NfQI64X_H9SDr6AQN1Orm1mC_5zRZ1BaK372Z1cKMD/s1600/mal.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/05/apt28-targets-ukrainian-government.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of cyber attacks perpetrated by Russian nation-state hackers targeting various government bodies in the country.\nThe agency attributed the phishing campaign to APT28, which is also known by the names Fancy Bear, Forest Blizzard, FROZENLAKE, Iron Twilight, Sednit, and Sofacy.\nThe email messages come with the subject line \"",
-          "link": "https://thehackernews.com/2023/05/apt28-targets-ukrainian-government.html",
-          "publishedOn": "2023-05-01T08:52:00.000Z",
-          "wordCount": null,
-          "title": "APT28 Targets Ukrainian Government Entities with Fake \"Windows Update\" Emails",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUX6m11cJYvM86IYJR62Ql3mxFFP3t7xzaMP0t1pxuYHB5qgt-5eYteXD31Ej4iPNWsCpHvW_0DNbrOMdaf7M7s_JLcgob7RIa5LaVGUmfiT7wxzDBnh5FDX_34tk4Weg6UMjXjR0PHnkaQavszwEMmlRrz43x23p_31B4GvZ00ePMWeRXgu4Uplw0/s1600/windows-update.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUX6m11cJYvM86IYJR62Ql3mxFFP3t7xzaMP0t1pxuYHB5qgt-5eYteXD31Ej4iPNWsCpHvW_0DNbrOMdaf7M7s_JLcgob7RIa5LaVGUmfiT7wxzDBnh5FDX_34tk4Weg6UMjXjR0PHnkaQavszwEMmlRrz43x23p_31B4GvZ00ePMWeRXgu4Uplw0/s1600/windows-update.png"
         }
       ]
     },
@@ -11634,6 +11617,96 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/31/nhs_data_platforms/",
+          "author": null,
+          "description": "<h4>Procurement under threat of legal action imagines trusts will tailor systems for their own use cases</h4> <p>NHS England wants to provide every hospital trust with its own data platform, in a procurement US spy-tech company Palantir is hotly tipped to win.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/31/nhs_data_platforms/",
+          "publishedOn": "2023-05-31T08:30:12.000Z",
+          "wordCount": 1597,
+          "title": "Individual data platforms for all health providers under controversial NHS plans",
+          "imageUrl": "https://regmedia.co.uk/2017/08/03/shutterstock_medical_scan.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/31/computex_backs_arm_acclerated_computing/",
+          "author": null,
+          "description": "<h4>Game on as Nvidia, Arm, Ampere find enthusiastic locals who think buyers are open to alternatives</h4> <p><strong>Computex</strong>  Taiwan's annual Computex exhibition grew up as the world's premier forum for everything to do with PCs, and later became a celebration of the island's outsized role in the ecosystem.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/31/computex_backs_arm_acclerated_computing/",
+          "publishedOn": "2023-05-31T07:33:13.000Z",
+          "wordCount": 1450,
+          "title": "Taiwan's titans bullish on challengers to x86 in the datacenter and beyond",
+          "imageUrl": "https://regmedia.co.uk/2021/04/07/computex_taiwan_shutterstock_editorial_only.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/31/air_new_zealand_to_get/",
+          "author": null,
+          "description": "<h4>An aircraft mass properties engineer and an eating disorder therapist weigh in on Air New Zealand's plan</h4> <p>Airline travellers are long familiar with having their luggage weighed before boarding a flight – but beginning this week until July 2, Air New Zealand will also be weighing passengers. To be specific, 10,000 international passengers on international flights.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/31/air_new_zealand_to_get/",
+          "publishedOn": "2023-05-31T06:29:05.000Z",
+          "wordCount": 1556,
+          "title": "Airline puts international passengers on the scales pre-flight",
+          "imageUrl": "https://regmedia.co.uk/2023/05/31/shutterstock_editorial_only_air_new_zealand.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/31/australia_tech_worker_exploitation/",
+          "author": null,
+          "description": "<h4>Everything down under wants to either kill you, or underpay you</h4> <p>Border Force, Australia's law enforcement agency for immigration matters, has fined a pair of companies for exploiting techies who came to work under a temporary visa scheme aimed at addressing skills shortages.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/31/australia_tech_worker_exploitation/",
+          "publishedOn": "2023-05-31T05:01:53.000Z",
+          "wordCount": 1203,
+          "title": "Australia fines tech companies for exploiting foreign tech workers",
+          "imageUrl": "https://regmedia.co.uk/2021/03/12/australia_shutterstock_editorial_only.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/31/nvidia_broadcom_spectrum_x/",
+          "author": null,
+          "description": "<h4>Been there, done that, SVP Ram Velaga tells <em>El Reg</em></h4> <p>At Computex, Nvidia promised \"lossless Ethernet\" for generative AI workloads with the launch of its Spectrum-X platform – but if you ask Broadcom, it's not even a new idea.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/31/nvidia_broadcom_spectrum_x/",
+          "publishedOn": "2023-05-31T00:57:07.000Z",
+          "wordCount": 1851,
+          "title": "Broadcom says Nvidia Spectrum-X's 'lossless Ethernet' isn't new",
+          "imageUrl": "https://regmedia.co.uk/2023/05/31/shutterstock_broadcom.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/30/jimbos_protocol_defi_attack/",
+          "author": null,
+          "description": "<h4>3. It's asked for 90% of the digital dosh back, or else it'll beg the cops for help</h4> <p>Just days after releasing the second – and supposedly more stable and secure – version of its decentralized finance (DeFi) app, Jimbos Protocol over the weekend was hit by attackers who stole stole 4,090 ETH tokens from the project worth about $7.5 million.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/30/jimbos_protocol_defi_attack/",
+          "publishedOn": "2023-05-30T23:56:08.000Z",
+          "wordCount": 1840,
+          "title": "1. This crypto-coin is called Jimbo. 2. $8m was stolen from its devs in flash loan attack",
+          "imageUrl": "https://regmedia.co.uk/2023/05/30/etherium_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/30/slack_e2ee_protest/",
+          "author": null,
+          "description": "<h4>Protests planned for Wednesday in San Francisco and Denver</h4> <p>A coalition of 90-plus groups, including Fight for the Future and Mozilla, will descend upon Slack's offices in San Francisco and Denver on Wednesday to ask on the collaboration app to protect users' conversations via end-to-end encryption (E2EE).…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/30/slack_e2ee_protest/",
+          "publishedOn": "2023-05-30T22:53:18.000Z",
+          "wordCount": 1666,
+          "title": "90+ orgs tell Slack to stop slacking when it comes to full encryption",
+          "imageUrl": "https://regmedia.co.uk/2021/02/02/shutterstock_slack_billboard.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/30/ai_human_extinction/",
+          "author": null,
+          "description": "<h4>'We need to prepare now'</h4> <p>There's another doomsaying open letter about AI making the rounds. This time a wide swath of tech leaders, ML luminaries, and even a few celebrities have signed on to urge the world to take the alleged extinction-level threats posed by artificial intelligence more seriously. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/30/ai_human_extinction/",
+          "publishedOn": "2023-05-30T20:14:06.000Z",
+          "wordCount": 1834,
+          "title": "AI, extinction, nuclear war, pandemics ... That's expert open letter bingo",
+          "imageUrl": "https://regmedia.co.uk/2023/05/30/robot_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/30/nso_owner_hacking/",
+          "author": null,
+          "description": "<h4>Investors roll the dice against government sanctions and lawsuits</h4> <p>Spyware maker NSO Group has a new ringleader, as the notorious biz seeks to revamp its image amid new reports that the company's Pegasus malware is targeting yet more human rights advocates and journalists.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/30/nso_owner_hacking/",
+          "publishedOn": "2023-05-30T19:15:06.000Z",
+          "wordCount": 1609,
+          "title": "Pegasus-pusher NSO gets new owner keen on the commercial spyware biz",
+          "imageUrl": "https://regmedia.co.uk/2021/11/23/nso_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/30/microsoft_amd_arm_drivers/",
           "author": null,
@@ -16103,116 +16176,6 @@
           "wordCount": 1605,
           "title": "Top Google boffin Hinton quits, warns of AI danger, partly regrets life's work",
           "imageUrl": "https://regmedia.co.uk/2023/05/01/ai_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/sandia_hypersonic_missiles/",
-          "author": null,
-          "description": "<h4>You want this to go faster? OK, send in the contractors. That'll do the trick</h4> <p>The US government's hypersonic weapons programs may have been lagging behind international rivals, but at Sandia National Laboratory in New Mexico, there's a plan to accelerate the process by opening its doors to hundreds of contractors who've previously not been allowed inside the secure facility. What could possibly go wrong?…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/sandia_hypersonic_missiles/",
-          "publishedOn": "2023-05-01T20:44:13.000Z",
-          "wordCount": 1631,
-          "title": "How Sandia hopes to accelerate US hypersonic weapons development",
-          "imageUrl": "https://regmedia.co.uk/2023/05/01/hypersonic_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/uscis_h_1b_surge/",
-          "author": null,
-          "description": "<h4>Gee, you mean that surge to 800,000 applications in one year isn't entirely legit? Shocking</h4> <p>The US has seen a surge in employers making multiple H-1B visa registrations to bring skilled foreign workers into the country, a trend that authorities fear reflects rising immigration fraud.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/uscis_h_1b_surge/",
-          "publishedOn": "2023-05-01T19:56:06.000Z",
-          "wordCount": 1864,
-          "title": "Uncle Sam actually sounds like it may actually do something about rampant visa H-1B fraud",
-          "imageUrl": "https://regmedia.co.uk/2020/12/03/shutterstock_h1b_visa.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/apple_nuvia_lawsuit/",
-          "author": null,
-          "description": "<h4>Qualcomm acquisition dodges one bullet, Arm still coming for blood</h4> <p>Apple has abandoned its lawsuit against its former chief chip architect Gerard Williams, just over three years after accusing him of breaching his contract to found Arm-compatible chipmaker Nuvia.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/apple_nuvia_lawsuit/",
-          "publishedOn": "2023-05-01T19:29:14.000Z",
-          "wordCount": 1493,
-          "title": "Apple gives up legal war on iPhone CPU wizard who co-founded Nuvia",
-          "imageUrl": "https://regmedia.co.uk/2023/03/28/shutterstock_2249110747.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/bitmarck_data_breach/",
-          "author": null,
-          "description": "<h4>Patient data 'was and is never endangered', says medical tech slinger</h4> <p>German IT services provider Bitmarck has shut down all of its customer and internal systems, including entire datacenters in some cases, following a cyberattack. …</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/bitmarck_data_breach/",
-          "publishedOn": "2023-05-01T18:55:07.000Z",
-          "wordCount": 1582,
-          "title": "IT giant Bitmarck shuts down customer, internal systems after cyberattack",
-          "imageUrl": "https://regmedia.co.uk/2022/08/22/medical_record_screen_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/wooden_transistor_sweden/",
-          "author": null,
-          "description": "<h4>But don't toss out your silicon chips quite yet</h4> <p>Talk about branching out: Swedish researchers have built what they claim is the world's first wooden transistor.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/wooden_transistor_sweden/",
-          "publishedOn": "2023-05-01T17:08:16.000Z",
-          "wordCount": 1590,
-          "title": "Boffins claim to create the world's first wooden transistor",
-          "imageUrl": "https://regmedia.co.uk/2023/05/01/wood-transistor.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/security_posture_management_rsa/",
-          "author": null,
-          "description": "<h4>Security posture management gets its due at RSA</h4> <p><strong>RSA Conference</strong>  When talking about the idea behind security posture management in today's enterprises, Yotam Segev looks a few hundred years into the past.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/security_posture_management_rsa/",
-          "publishedOn": "2023-05-01T16:00:06.000Z",
-          "wordCount": 2378,
-          "title": "Plugging the infosec holes before the bad guys can sneak in",
-          "imageUrl": "https://regmedia.co.uk/2021/04/12/shutterstock_touching_cybersecurity.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/space_economy_vance/",
-          "author": null,
-          "description": "<h4>Ashlee Vance's <em>When the Heavens Went on Sale</em> paints an inside view of orbital startups</h4> <p><strong>Book review</strong>  First, a disclaimer: Ashlee Vance worked for <em>The Register</em> in the early noughties. But he's also the chap who literally wrote the book on Elon Musk and has a new tome on the private space industry, <a target=\"_blank\" href=\"https://www.harpercollins.com/products/when-the-heavens-went-on-sale-ashlee-vance?variant=40724760035362\"><em>When the Heavens Went on Sale</em></a>, that's definitely food for thought.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/space_economy_vance/",
-          "publishedOn": "2023-05-01T15:09:09.000Z",
-          "wordCount": 1687,
-          "title": "Space: The final frontier, or the next venture capital gold rush",
-          "imageUrl": "https://regmedia.co.uk/2021/03/22/shutterstock_too_many_sats.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/google_adds_account_sync_for/",
-          "author": null,
-          "description": "<h4>Also: Your Salesforce Community site might be leaking; a new CPU side-channel; and this week's critical vunls</h4> <p><strong>in brief</strong>  You may have heard news this week that Google is finally updating its authenticator app to add Google account synchronization. Before you rush to ensure your two-factor secrets are safe in the event you lose your device, take heed: The sync process isn't end-to-end encrypted.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/google_adds_account_sync_for/",
-          "publishedOn": "2023-05-01T11:04:08.000Z",
-          "wordCount": 1897,
-          "title": "Google adds account sync for Authenticator, without E2EE",
-          "imageUrl": "https://regmedia.co.uk/2019/09/18/shutterstock_open_door_unlocked.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/eu_patent_rules/",
-          "author": null,
-          "description": "<h4>Industry groups and biz aren't yet sold on reforms</h4> <p>The European Commission late last week proposed rules governing patents on technical standards, ostensibly to ensure innovation, competition, and fair prices.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/eu_patent_rules/",
-          "publishedOn": "2023-05-01T08:15:11.000Z",
-          "wordCount": 1443,
-          "title": "Europe floats patent overhaul, which obviously everyone's thrilled by",
-          "imageUrl": "https://regmedia.co.uk/2023/04/28/property_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/who_me/",
-          "author": null,
-          "description": "<h4>There are pranks, and savage pranks, and this prank when the CTO and HR ganged up on a very stressed techie</h4> <p><strong>Who, Me?</strong>  Welcome once again, gentle reader, to the safe space we call Who, Me? in which <em>Reg</em> readers can confess to the naughty or not-quite-competent things they did at work, knowing they will not be judged.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/who_me/",
-          "publishedOn": "2023-05-01T07:31:14.000Z",
-          "wordCount": 1521,
-          "title": "Your security failure was so bad we have to close the company .... NOT!",
-          "imageUrl": "https://regmedia.co.uk/2023/05/01/shutterstock_1129361708.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/intel_meteor_lake_core_rebranding/",
-          "author": null,
-          "description": "<h4>Game benchmark suggests 'Ultra 5' could replace names like 'Core i5'</h4> <p><strong>Poll</strong>  When Intel debuts its forthcoming Meteor Lake client processors, it could be the end of the chip giant's long-standing naming conventions for desktop and mobile processors.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/05/01/intel_meteor_lake_core_rebranding/",
-          "publishedOn": "2023-05-01T06:31:09.000Z",
-          "wordCount": 1481,
-          "title": "Intel to rebrand client chips once Meteor Lake splashes down",
-          "imageUrl": "https://regmedia.co.uk/2021/01/12/intel.jpg"
         }
       ]
     }

@@ -617,6 +617,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-wsus-servers-not-pushing-windows-11-22h2-updates/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft fixed a known issue impacting WSUS (Windows Server Update Services) servers upgraded to Windows Server 2022, causing them not to push Windows 11 22H2 updates to enterprise endpoints. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-wsus-servers-not-pushing-windows-11-22h2-updates/",
+          "publishedOn": "2023-07-31T08:40:41.000Z",
+          "wordCount": 2187,
+          "title": "Microsoft fixes WSUS servers not pushing Windows 11 22H2 updates",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/02/16/Windows_Server.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/google-android-patch-gap-makes-n-days-as-dangerous-as-zero-days/",
           "author": "Bill Toulas",
           "description": "Google has published its annual 0-day vulnerability report, presenting in-the-wild exploitation stats from 2022 and highlighting a long-standing problem in the Android platform that elevates the value and use of disclosed flaws for extended periods. [...]",
@@ -2525,16 +2535,6 @@
           "wordCount": 2285,
           "title": "Snappy: A tool to detect rogue WiFi access points on open networks",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/02/01/mobile-wifi.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/blackcat-ransomware-pushes-cobalt-strike-via-winscp-search-ads/",
-          "author": "Bill Toulas",
-          "description": "The BlackCat ransomware group (aka ALPHV) is running malvertizing campaigns to lure people into fake pages that mimic the official website of the WinSCP file-transfer application for Windows but instead push malware-ridden installers. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/blackcat-ransomware-pushes-cobalt-strike-via-winscp-search-ads/",
-          "publishedOn": "2023-07-01T15:18:09.000Z",
-          "wordCount": 2432,
-          "title": "BlackCat ransomware pushes Cobalt Strike via WinSCP search ads",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/06/30/blackcat-red.jpg"
         }
       ]
     },
@@ -3210,6 +3210,66 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9230493",
+          "author": null,
+          "description": "Das große X auf dem Dach des vormaligen Twitter-Bürogebäudes in San Francisco stört Anwohner und wohl auch die Bauaufsichtsbehörde.",
+          "link": "https://www.heise.de/news/X-zu-grell-und-verstoerend-Musks-Logo-verstoesst-gegen-Bauvorschriften-9230493.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-07-31T08:22:00.000Z",
+          "wordCount": 2217,
+          "title": "Kaum zu ertragen – Musks neues X-Logo grell, flackernd und nicht genehmigt",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/8/7/3/5/MuskX-c66c54fca3278b65.jpg"
+        },
+        {
+          "id": "http://heise.de/-9230463",
+          "author": null,
+          "description": "Eigentlich soll \"Screentime\" helfen, dass der Nachwuchs nicht unendlich am Apple-Gerät daddelt. Ein Fehler sorgt nun dafür, dass das nicht immer funktioniert.",
+          "link": "https://www.heise.de/news/Ploetzlicher-Reset-Apple-muss-Bug-bei-Bildschirmzeit-einraeumen-9230463.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-07-31T08:19:00.000Z",
+          "wordCount": 2127,
+          "title": "Plötzlicher Reset: Apple muss Bug bei Bildschirmzeit einräumen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/8/7/1/9/screentime-cda6e5f2ce05ea6d.png"
+        },
+        {
+          "id": "http://heise.de/-9230517",
+          "author": null,
+          "description": "Derzeit nehmen Angreifer Ivanti Endpoint Manager Mobile (EPMM) ins Visier. Nun gibt es einen Patch gegen eine weitere Schwachstelle.",
+          "link": "https://www.heise.de/news/Jetzt-patchen-Ivanti-schliesst-erneute-Zero-Day-Luecke-in-EPMM-9230517.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-07-31T08:11:00.000Z",
+          "wordCount": 1830,
+          "title": "Jetzt patchen! Ivanti schließt erneute Zero-Day-Lücke in EPMM",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/8/7/4/7/shutterstock_680078968-76f321e503092ca9.jpg"
+        },
+        {
+          "id": "http://heise.de/-9211566",
+          "author": null,
+          "description": "Lernen Sie, wie Sie Ihre Unternehmensdaten mithilfe von Python und dem Python Scientific Stack aufbereiten, visualisieren und daraus Erkenntnisse ableiten.",
+          "link": "https://www.heise.de/news/iX-Workshop-Einstieg-in-die-Datenanalyse-mit-Python-10-Rabatt-bis-21-8-9211566.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-07-31T08:00:00.000Z",
+          "wordCount": 2015,
+          "title": "heise-Angebot: iX-Workshop: Einstieg in die Datenanalyse mit Python (10% Rabatt bis 21.8.)",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/8/6/6/0/Datenanalyse-Python_Ticker-16x9_Kopie-9a796ad80ccd16dd.png"
+        },
+        {
+          "id": "http://heise.de/-9230477",
+          "author": null,
+          "description": "Apple hat eine Liste mit Anforderungen veröffentlicht, die Entwickler einhalten müssen, denen ein Entwicklerkit für das Mixed-Reality-Headset ausgeliehen wird.",
+          "link": "https://www.heise.de/news/Vision-Pro-Developer-Kit-Tuer-zu-sicherer-Raum-und-keine-Fremden-9230477.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-07-31T07:48:00.000Z",
+          "wordCount": 2178,
+          "title": "Vision-Pro-Developer-Kit: Tür zu, sicherer Raum und keine Fremden",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/8/7/2/6/Apple-WWCD23-Vision-Pro-rotation-230605-2c2a0a1a8219a863.jpg"
+        },
+        {
+          "id": "http://heise.de/-9210432",
+          "author": null,
+          "description": "Durch die Analyse aktueller Angriffstechniken die Wirksamkeit von Schutzmaßnahmen für die eigene IT besser einschätzen. 10% Rabatt noch bis 13.8.",
+          "link": "https://www.heise.de/news/iX-Workshop-Cybersicherheit-Aktuelle-Angriffstechniken-und-ihre-Abwehr-9210432.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-07-31T06:00:00.000Z",
+          "wordCount": 1838,
+          "title": "heise-Angebot: iX-Workshop Cybersicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/8/0/5/7/Cybersicherheit-Ticker-Header-16-9-794a1dda839f8842.jpg"
+        },
         {
           "id": "http://heise.de/-9230254",
           "author": null,
@@ -7629,66 +7689,6 @@
           "wordCount": 1832,
           "title": "WordPress-Plug-in Ultimate Member: Angreifer machen sich zu Admins",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/5/1/0/1/shutterstock_1378498490-a4647d4fe8cd2430.jpg"
-        },
-        {
-          "id": "http://heise.de/-9204823",
-          "author": null,
-          "description": "More than 150 managers from European companies such as Airbus, Deutsche Telekom and Siemens are calling on EU lawmakers to rethink their plan for AI regulation.",
-          "link": "https://www.heise.de/news/Business-Leaders-Sound-the-Alarm-EU-AI-Act-Threatens-Technological-Sovereignty-9204823.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-07-01T19:18:00.000Z",
-          "wordCount": 2485,
-          "title": "Business Leaders Sound the Alarm: EU AI Act Threatens Technological Sovereignty",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/5/0/5/1/_A_big_corporate_Manager_arguing_with_a_politician_a05e5941-4885-4497-997a-f1aae197c477-fd544ea8c8a9e47d.png"
-        },
-        {
-          "id": "http://heise.de/-9204813",
-          "author": null,
-          "description": "Twitter-Chef Elon Musk klagt über ein \"extremes Ausmaß der Datenauslese und Systemmanipulation\". Die Folgen bekommen vor allem nicht zahlende Nutzer zu spüren.",
-          "link": "https://www.heise.de/news/600-Posts-pro-Tag-Twitter-fuehrt-Leselimit-fuer-nicht-zahlende-Nutzer-ein-9204813.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-07-01T17:42:00.000Z",
-          "wordCount": 1901,
-          "title": "600 Posts pro Tag: Twitter führt Leselimit für nicht zahlende Nutzer ein",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/5/0/4/6/shutterstock_2150266557-00655ab47c62a8b8.jpg"
-        },
-        {
-          "id": "http://heise.de/-9204785",
-          "author": null,
-          "description": "Über 150 Manager europäischer Unternehmen wie Airbus, Deutsche Telekom und Siemens fordern die EU-Gesetzgeber auf, ihren Plan zur KI-Regulierung zu überdenken.",
-          "link": "https://www.heise.de/news/Brandbrief-der-Wirtschaft-KI-Verordnung-gefaehrdet-technologische-Souveraenitaet-9204785.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-07-01T15:23:00.000Z",
-          "wordCount": 2281,
-          "title": "Brandbrief der Wirtschaft: KI-Verordnung gefährdet technologische Souveränität",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/5/0/3/0/_A_big_corporate_Manager_arguing_with_a_politician_a05e5941-4885-4497-997a-f1aae197c477-fd544ea8c8a9e47d.png"
-        },
-        {
-          "id": "http://heise.de/-9204621",
-          "author": null,
-          "description": "Eine Luxus-Variante des Headsets soll neben einer Goldverzierung und einem Leder-Kopfband ein Klappvisier für mehr Privatsphäre erhalten.",
-          "link": "https://www.heise.de/news/Anbieter-will-Apples-Vision-Pro-vergolden-9204621.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-07-01T11:33:00.000Z",
-          "wordCount": 2172,
-          "title": "Anbieter will Apples Vision Pro vergolden",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/4/9/4/4/07-21eadc5d9bfa5483.jpg"
-        },
-        {
-          "id": "http://heise.de/-9204395",
-          "author": null,
-          "description": "Die Z8 hat ein Problem, Canon setzt Rekorde, und einen echten Profiklotz gibt es auch. Endlich ist bekannt, warum es wenige Objektive von Drittherstellern gibt.",
-          "link": "https://www.heise.de/news/Nikon-Rueckruf-und-110-Millionen-EOS-die-Fotonews-der-Woche-26-2023-9204395.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-07-01T10:36:00.000Z",
-          "wordCount": 3050,
-          "title": "Nikon-Rückruf und 110 Millionen EOS – die Fotonews der Woche 26/2023",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/4/8/2/9/xc-camera-beb6937a42907813.png"
-        },
-        {
-          "id": "http://heise.de/-9204107",
-          "author": null,
-          "description": "SeaTable vertieft in der neuen Version die Integration des File-Sync-and-Share-Programms Seafile. Neben weiteren Goodies erwarten Nutzer aber höhere Preise.",
-          "link": "https://www.heise.de/news/Moderne-Excel-Alternative-SeaTable-4-0-mit-komplett-neuem-Dateimanagement-9204107.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-07-01T09:43:00.000Z",
-          "wordCount": 2235,
-          "title": "Moderne Excel-Alternative SeaTable 4.0 mit komplett neuem Dateimanagement",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/4/6/7/7/shutterstock_420780988-f2d5dd1e5f1f0eec.jpg"
         }
       ]
     },
@@ -7697,6 +7697,16 @@
       "feedUrl": "https://www.heise.de/security/rss/alert-news.rdf",
       "siteUrl": "https://www.heise.de/security/alerts/",
       "articles": [
+        {
+          "id": "http://heise.de/-9230517",
+          "author": null,
+          "description": "Derzeit nehmen Angreifer Ivanti Endpoint Manager Mobile (EPMM) ins Visier. Nun gibt es einen Patch gegen eine weitere Schwachstelle.",
+          "link": "https://www.heise.de/news/Jetzt-patchen-Ivanti-schliesst-erneute-Zero-Day-Luecke-in-EPMM-9230517.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2023-07-31T08:11:00.000Z",
+          "wordCount": 1830,
+          "title": "Jetzt patchen! Ivanti schließt erneute Zero-Day-Lücke in EPMM",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/8/7/4/7/shutterstock_680078968-76f321e503092ca9.jpg"
+        },
         {
           "id": "http://heise.de/-9229575",
           "author": null,
@@ -8174,6 +8184,22 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/07/multiple-flaws-found-in-ninja-forms.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple security vulnerabilities have been disclosed in the Ninja Forms plugin for WordPress that could be exploited by threat actors to escalate privileges and steal sensitive data.\nThe flaws, tracked as CVE-2023-37979, CVE-2023-38386, and CVE-2023-38393, impact versions 3.6.25 and below, Patchstack said in a report last week. Ninja Forms is installed on over 800,000 sites.\nA brief description",
+          "link": "https://thehackernews.com/2023/07/multiple-flaws-found-in-ninja-forms.html",
+          "publishedOn": "2023-07-31T06:42:00.000Z",
+          "wordCount": null,
+          "title": "Multiple Flaws Found in Ninja Forms Plugin Leave 800,000 Sites Vulnerable",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_thE-3UNIBQyzGuZ27ohQtC17Y1T7knb3e6AKfbezmnX2gC3X8LiDFumkU0mDlY33gukkKoqAj_M7xd3B6kCCPnq-9AIm6NtyVsVmql-9S785N_l5D1ED5JbOfxv3-6zN20AbdWlK_-ya2ti_9TYhnGNc-dZRTK2gJQQO9ZcbltCkAKXyIOHJq6G2wFgA/s1600/nn.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_thE-3UNIBQyzGuZ27ohQtC17Y1T7knb3e6AKfbezmnX2gC3X8LiDFumkU0mDlY33gukkKoqAj_M7xd3B6kCCPnq-9AIm6NtyVsVmql-9S785N_l5D1ED5JbOfxv3-6zN20AbdWlK_-ya2ti_9TYhnGNc-dZRTK2gJQQO9ZcbltCkAKXyIOHJq6G2wFgA/s1600/nn.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/07/new-android-malware-cherryblos.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -10269,22 +10295,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrh5jHgqAdcerE_kHHScnqd4v5Xz70RsnDXtsaCt1_jbqlogH0wLFMT7BGzZN7DsIcyX8Ir8BKGJw_Os9XlWqLcpMvrCdWfmDqg9iuc_ocB-Jk7K7WMj7eGZ2mZfhQCc_m-hKQvftpaByY7yz1AMq6Wt3Bm60O3cwiEDYxeyHLe9jVgPyUxp39tasB8WA/s1600/winscp.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrh5jHgqAdcerE_kHHScnqd4v5Xz70RsnDXtsaCt1_jbqlogH0wLFMT7BGzZN7DsIcyX8Ir8BKGJw_Os9XlWqLcpMvrCdWfmDqg9iuc_ocB-Jk7K7WMj7eGZ2mZfhQCc_m-hKQvftpaByY7yz1AMq6Wt3Bm60O3cwiEDYxeyHLe9jVgPyUxp39tasB8WA/s1600/winscp.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/07/unpatched-wordpress-plugin-flaw-could.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "As many as 200,000 WordPress websites are at risk of ongoing attacks exploiting a critical unpatched security vulnerability in the Ultimate Member plugin.\nThe flaw, tracked as CVE-2023-3460 (CVSS score: 9.8), impacts all versions of the Ultimate Member plugin, including the latest version (2.6.6) that was released on June 29, 2023.\nUltimate Member is a popular plugin that facilitates the",
-          "link": "https://thehackernews.com/2023/07/unpatched-wordpress-plugin-flaw-could.html",
-          "publishedOn": "2023-07-01T07:25:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploiting Unpatched WordPress Plugin Flaw to Create Secret Admin Accounts",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZVf0HbAKLFAbfFFvfZ9TvaBvV8QJWphGcMYCBkWsdA8qBN01Z2YQPV3eikPxDWYcvRgf8yCPa2IkmflDCmBL4QJ2un4vIq_ijCHdVMgGsio4q2EYZbm1GUnQ9pZseg8OtgN1-DaMzEeoHrynKPns7CBPtNJeId0pT0x1lGGUi2WtJI4saEMCTgHg6VL4/s1600/wordpress-hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZVf0HbAKLFAbfFFvfZ9TvaBvV8QJWphGcMYCBkWsdA8qBN01Z2YQPV3eikPxDWYcvRgf8yCPa2IkmflDCmBL4QJ2un4vIq_ijCHdVMgGsio4q2EYZbm1GUnQ9pZseg8OtgN1-DaMzEeoHrynKPns7CBPtNJeId0pT0x1lGGUi2WtJI4saEMCTgHg6VL4/s1600/wordpress-hacking.jpg"
         }
       ]
     },
@@ -10293,6 +10303,76 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/opinion_column_sustainable_infosec/",
+          "author": null,
+          "description": "<h4>Clue: Nothing like what’s on offer today</h4> <p><strong>Opinion</strong>  \"There seems to be something wrong with our bloody ships today,\" fumed Admiral David Beatty during 1916's Battle of Jutland. Fair enough: three of the Royal Navy's finest vessels had just blown up and sank.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/opinion_column_sustainable_infosec/",
+          "publishedOn": "2023-07-31T08:30:13.000Z",
+          "wordCount": 1878,
+          "title": "What would sustainable security even look like?",
+          "imageUrl": "https://regmedia.co.uk/2023/07/28/shutterstock_blueprint_infosec.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/who_me/",
+          "author": null,
+          "description": "<h4>Techie installing an upgrade did everything right. But the user was already wrong</h4> <p><strong>Who, Me?</strong>  Greetings and felicitations, dear reader-folk, and welcome to the soft landing to the working week that we at <em>The Reg</em> call Who, Me? in which we share tales of readers like you who found themselves in unfortunate circumstances – often of their own making.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/who_me/",
+          "publishedOn": "2023-07-31T07:31:07.000Z",
+          "wordCount": 1654,
+          "title": "Nobody would ever work on the live server, right? Not intentionally, anyway",
+          "imageUrl": "https://regmedia.co.uk/2023/07/31/shutterstock_167343158.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/avaya_reseller_licence_scam/",
+          "author": null,
+          "description": "<h4>Comms vendor's employee allegedly generated bogus licences and hijacked sysadmin accounts to make more</h4> <p>A New Jersey man has plead guilty to selling pirated Avaya software licenses, allegedly generated and shopped by one of the vendor's system administrators.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/avaya_reseller_licence_scam/",
+          "publishedOn": "2023-07-31T06:45:07.000Z",
+          "wordCount": 1286,
+          "title": "Avaya reseller pleads guilty to role in $88m licensing scam",
+          "imageUrl": "https://regmedia.co.uk/2017/08/08/avaya_editorial_only_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/",
+          "author": null,
+          "description": "<h4>Thankfully the probe regularly phones home to fix this sort of mess</h4> <p>NASA revealed on Friday that its venerable Voyager 2 probe is currently incommunicado, because the space agency pointed its antenna in the wrong direction.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/",
+          "publishedOn": "2023-07-31T05:59:10.000Z",
+          "wordCount": 1333,
+          "title": "NASA mistakenly severs communication to Voyager 2",
+          "imageUrl": "https://regmedia.co.uk/2017/12/03/voyager_probe_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/weird_numerological_coincidence_found_during/",
+          "author": null,
+          "description": "<h4>It might be the only non-boring thing about the release, which has Linus Torvalds celebrating</h4> <p>Linus Torvalds has noticed a \"weird numerological coincidence\" during work on version 6.5 of the Linux kernel.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/weird_numerological_coincidence_found_during/",
+          "publishedOn": "2023-07-31T04:58:08.000Z",
+          "wordCount": 1367,
+          "title": "'Weird numerological coincidence' found during work on Linux kernel 6.5",
+          "imageUrl": "https://regmedia.co.uk/2022/04/07/shutterstock_penguin.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/asia_tech_news_in_brief/",
+          "author": null,
+          "description": "<h4>ALSO: Japan's government to write docs with AI; 5G boom coming; India denies infosec issues</h4> <p><strong>Asia In Brief</strong>  Elon Musk's rebadged Twitter, X.com, has been blocked in Indonesia as the domain was formerly used to for websites containing content deemed unsuitable, such as – ahem – adult entertainment and gambling.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/asia_tech_news_in_brief/",
+          "publishedOn": "2023-07-31T03:03:07.000Z",
+          "wordCount": 1933,
+          "title": "Indonesia blocks Musk's X.com over its X-rated past",
+          "imageUrl": "https://regmedia.co.uk/2023/07/26/shutterstock_x.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/infosec_in_brief/",
+          "author": null,
+          "description": "<h4>ALSO: China says US hacked it right back, BreachForums users have been pwned, and this week's critical vulns</h4> <p><strong>Infosec in brief</strong>  US senator Ron Wyden (D-OR) thinks it's Microsoft's fault that Chinese hackers broke into Exchange Online, and he wants three separate government agencies to launch investigations and \"hold Microsoft responsible for its negligent cyber security practices.\" …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/31/infosec_in_brief/",
+          "publishedOn": "2023-07-31T00:59:42.000Z",
+          "wordCount": 2014,
+          "title": "US senator victim-blames Microsoft for Chinese hack",
+          "imageUrl": "https://regmedia.co.uk/2021/02/22/china.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/29/museum_paul_allen_microsoft/",
           "author": null,
@@ -13872,36 +13952,6 @@
           "wordCount": 2041,
           "title": "Japan rebukes Fujitsu for cloud security fails",
           "imageUrl": "https://regmedia.co.uk/2023/07/03/shutterstock_fujitsu_cloud_leak.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/01/euclid_dark_energy_telescope_launch/",
-          "author": null,
-          "description": "<h4>We speak to project scientist on effort to build 3D map of space going back ten billion years</h4> <p><strong>Interview</strong>  Euclid, an advanced telescope built by the European Space Agency to study the nature of dark energy and dark matter, blasted off into space aboard a SpaceX Falcon 9 rocket on Saturday.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/01/euclid_dark_energy_telescope_launch/",
-          "publishedOn": "2023-07-01T16:13:13.000Z",
-          "wordCount": 1981,
-          "title": "Europe's Euclid telescope launches to figure out dark energy, the universe, and everything",
-          "imageUrl": "https://regmedia.co.uk/2023/07/01/handout_euclid_scope_cropped.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/01/h1b_fraud/",
-          "author": null,
-          "description": "<h4>How do you solve a problem like a visa? How do you catch a fraud and bring it down?</h4> <p><strong>In depth</strong>  H-1B visa fraud is rampant and growing, and the US Citizenship and Immigration Service (USCIS) has yet to demonstrate that it can deal with the situation.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/01/h1b_fraud/",
-          "publishedOn": "2023-07-01T15:48:10.000Z",
-          "wordCount": 2196,
-          "title": "H-1B fraud consultancies grow, with application abuse openly discussed online",
-          "imageUrl": "https://regmedia.co.uk/2020/12/03/shutterstock_h1b_visa.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/01/chiplet_market/",
-          "author": null,
-          "description": "<h4>Universal Chiplet Interconnect Express is on the rails</h4> <p><strong>Analysis</strong>  As Moore's so-called Law continues to slow, many chipmakers are turning to advanced packaging and chiplet techniques to drive greater efficiencies and performance than what's possible with process shrinks alone.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/01/chiplet_market/",
-          "publishedOn": "2023-07-01T10:49:08.000Z",
-          "wordCount": 1819,
-          "title": "A mix-and-match chiplet marketplace for processor makers is still a long way off",
-          "imageUrl": "https://regmedia.co.uk/2022/11/08/shutterstock_chiplet.jpg"
         }
       ]
     }

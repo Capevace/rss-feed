@@ -415,6 +415,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/",
+          "author": "hello@smashingmagazine.com (Lars Kappert)",
+          "description": "Most of the projects have at least a few unused files, exports, and dependencies lying around, often because it’s difficult knowing when one thing relies on another and scary removing something you’re not sure is in use. Lars Kappert shares a tool he’s been working on that offers a solution.",
+          "link": "https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/",
+          "publishedOn": "2023-08-14T10:00:00.000Z",
+          "wordCount": 4738,
+          "title": "Knip: An Automated Tool For Finding Unused Files, Exports, And Dependencies",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/knip-automated-tool-find-unused-files-exports-dependencies/knip-automated-tool-find-unused-files-exports-dependencies.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/knip-automated-tool-find-unused-files-exports-dependencies/knip-automated-tool-find-unused-files-exports-dependencies.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part2/",
           "author": "hello@smashingmagazine.com (Hannah Milan)",
           "description": "In Part 2 of the series, Hannah Milan reviews in detail various accessible text over images techniques for designing your web and mobile app content, including framing the image, soft-colored gradients technique, text styles and text position, solid color shapes, and use of colored backgrounds. And finally, the emphasis will once again be placed on the accessibility aspect, which needs to be “baked in” right from the start rather than being an afterthought in your design process.",
@@ -631,6 +646,66 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-kernel-cve-2023-32019-fix-for-everyone/",
+          "author": "Lawrence Abrams",
+          "description": "Microsoft has enabled a fix for a Kernel information disclosure vulnerability by default for everyone after previously disabling it out of concerns it could introduce breaking changes to Windows. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-kernel-cve-2023-32019-fix-for-everyone/",
+          "publishedOn": "2023-08-14T18:13:11.000Z",
+          "wordCount": 2146,
+          "title": "Microsoft enables Windows Kernel CVE-2023-32019 fix for everyone",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/03/09/Microsoft_Defender_headpic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-increasing-cryptocurrency-recovery-scams/",
+          "author": "Bill Toulas",
+          "description": "The FBI is warning of an increase in scammers pretending to be recovery companies that can help victims of cryptocurrency investment scams recover lost assets. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-increasing-cryptocurrency-recovery-scams/",
+          "publishedOn": "2023-08-14T17:02:02.000Z",
+          "wordCount": 2278,
+          "title": "FBI warns of increasing cryptocurrency recovery scams",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/12/16/FBI_headpic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/monti-ransomware-targets-vmware-esxi-servers-with-new-linux-locker/",
+          "author": "Bill Toulas",
+          "description": "The Monti ransomware has returned to action after a two-month hiatus, now targeting primarily legal and government organizations, and VMware ESXi servers using a new Linux variant that is vastly different from its predecessors. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/monti-ransomware-targets-vmware-esxi-servers-with-new-linux-locker/",
+          "publishedOn": "2023-08-14T16:12:18.000Z",
+          "wordCount": 2366,
+          "title": "Monti ransomware targets VMware ESXi servers with new Linux locker",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/06/22/Linux.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/criminal-ip-teams-up-with-polyswarm-to-strengthen-threat-detection/",
+          "author": "Sponsored by Criminal IP",
+          "description": "The addition of Criminal IP as a new contributor to PolySwarm's malicious URL detection represents a significant leap in specialized threat identification. Learn more from Criminal IP about this new collaboration. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-teams-up-with-polyswarm-to-strengthen-threat-detection/",
+          "publishedOn": "2023-08-14T14:02:01.000Z",
+          "wordCount": 1808,
+          "title": "Criminal IP Teams Up with PolySwarm to Strengthen Threat Detection",
+          "imageUrl": "https://www.bleepstatic.com/content/posts/2023/08/13/criminalip-polyswam-header.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/colorado-warns-4-million-of-data-stolen-in-ibm-moveit-breach/",
+          "author": "Bill Toulas",
+          "description": "The Colorado Department of Health Care Policy & Financing (HCPF) is alerting more than four million individuals of a data breach that impacted their personal and health information. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/colorado-warns-4-million-of-data-stolen-in-ibm-moveit-breach/",
+          "publishedOn": "2023-08-14T12:42:09.000Z",
+          "wordCount": 2233,
+          "title": "Colorado warns 4 million of data stolen in IBM MOVEit breach",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/08/14/Colorado-state-building.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/",
+          "author": "Bill Toulas",
+          "description": "A team of researchers from UC Irvine and Tsinghua University has developed a new powerful cache poisoning attack named 'MaginotDNS,' that targets Conditional DNS (CDNS) resolvers and can compromise entire TLDs top-level domains. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/",
+          "publishedOn": "2023-08-13T14:12:06.000Z",
+          "wordCount": 2488,
+          "title": "MaginotDNS attacks exploit weak checks for DNS cache poisoning",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/05/09/world-internet-network.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/uk-gov-keeps-repeating-its-voter-registration-website-is-not-a-scam/",
           "author": "Ax Sharma",
@@ -2549,6 +2624,26 @@
       "siteUrl": "https://www.technologyreview.com",
       "articles": [
         {
+          "id": "https://www.technologyreview.com/?p=1077872",
+          "author": "Charlotte Jee",
+          "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Next slide, please: A brief history of the corporate presentation PowerPoint is everywhere. It’s used in religious sermons; by schoolchildren preparing book reports; at funerals and weddings. In 2010, Microsoft announced that PowerPoint…",
+          "link": "https://www.technologyreview.com/2023/08/14/1077872/the-download-corporate-presentations-carbon-removal/",
+          "publishedOn": "2023-08-14T12:10:00.000Z",
+          "wordCount": 6505,
+          "title": "The Download: corporate presentations, and carbon removal funding",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/08/1988_Saab_9000_CD_Image_Wall_show_opening_1.1_19.05.05_3000X1984.jpeg?resize=1200,600"
+        },
+        {
+          "id": "https://www.technologyreview.com/?p=1077788",
+          "author": "Tate Ryan-Mosley",
+          "description": "This article is from The Technocrat, MIT Technology Review’s weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday, sign up here. Recently, I took myself to one of my favorite places in New York City, the public library, to look at some of the hundreds of…",
+          "link": "https://www.technologyreview.com/2023/08/14/1077788/ai-decoding-human-emotions-target-for-regulators/",
+          "publishedOn": "2023-08-14T11:00:00.000Z",
+          "wordCount": 6944,
+          "title": "AI isn’t great at decoding human emotions. So why are regulators targeting the tech?",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/08/babies-crying2.jpeg?resize=1200,600"
+        },
+        {
           "id": "https://www.technologyreview.com/?p=1077351",
           "author": "Mara Kardas-Nelson",
           "description": "One morning in August 2021, as she had nearly every morning for about a decade, Janice Smith opened her computer and went to Kiva.org, the website of the San Francisco–based nonprofit that helps everyday people make microloans to borrowers around the world. Smith, who lives in Elk River, Minnesota, scrolled through profiles of bakers in…",
@@ -3195,6 +3290,116 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9243710",
+          "author": null,
+          "description": "SSDs sind ideal als externe Speicher für große Datenmengen geeignet. TechStage zeigt robuste, wasserdichte Speicher sowie mobile USB-Hubs mit NVMe-Slot.",
+          "link": "https://www.techstage.de/ratgeber/wasserdichte-ssds-und-usb-hubs-mit-nvme-slot-externe-speicher-ab-50-euro/mg8kk7r?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T18:00:00.000Z",
+          "wordCount": 4098,
+          "title": "Wasserdichte SSDs und USB-Hubs mit NVMe-Slot: Externe Speicher ab 50 Euro",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/5IWktkpTURBXy9mY2NmNGE4OTViMGRhYWRkNzliOTExNTlkNDUyNDI0MC5qcGeSlQMAAM0PoM0IypMFzQSwzQJ2"
+        },
+        {
+          "id": "http://heise.de/-9243776",
+          "author": null,
+          "description": "Die New York Times verbietet das Verwenden ihrer Inhalte zu KI-Trainingszwecken in ihren Nutzungsbedingungen.",
+          "link": "https://www.heise.de/news/Large-Language-Models-Kein-Training-mit-Inhalten-der-New-York-Times-9243776.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T16:19:00.000Z",
+          "wordCount": 1932,
+          "title": "Large Language Models: Kein Training mit Inhalten der New York Times",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/5/9/6/5/shutterstock_2319228903-05dc311bb007d2e8.jpg"
+        },
+        {
+          "id": "http://heise.de/-9243922",
+          "author": null,
+          "description": "Wem die maximal 8 TByte im neuen Mac Pro nicht reichen, kann auch zu einer PCIe-Karte greifen. OWCs Accelsior 8M2 arbeitet im Gehäuse auch am Mac Studio.",
+          "link": "https://www.heise.de/news/64-TByte-fuer-neuen-Mac-Pro-11-000-Euro-fuer-eine-SSD-Karte-9243922.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T16:16:00.000Z",
+          "wordCount": 2139,
+          "title": "64 TByte für neuen Mac Pro: 11.000 Euro für eine SSD-Karte",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/6/0/4/0/owc_ssd-273f23b273c5e3e9.png"
+        },
+        {
+          "id": "http://heise.de/-9243862",
+          "author": null,
+          "description": "Mit einem Wartelistenzähler will Dough Hype um seinen neuen Spectrum Black 32\" schüren. Dahinter verbirgt sich aber ein Zufallsgenerator.",
+          "link": "https://www.heise.de/news/Dough-kuendigt-4K-OLED-Monitor-mit-31-5-Zoll-an-und-weckt-Misstrauen-9243862.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T14:51:00.000Z",
+          "wordCount": 2145,
+          "title": "Dough kündigt 4K-OLED-Monitor mit 31,5 Zoll an und weckt Misstrauen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/6/0/0/9/Spectrum_Black_page_hero2-b8476da7421e7829.jpg"
+        },
+        {
+          "id": "http://heise.de/-9243646",
+          "author": null,
+          "description": "Mehrere Millionen Sparkassenkunden haben bereits neue Girocards erhalten, die ein alternatives Debitkartensystem unterstützen – Tendenz steigend.",
+          "link": "https://www.heise.de/news/Maestro-Ende-Sparkasse-hat-bereits-2-8-Millionen-neue-Girocards-ausgegeben-9243646.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T14:18:00.000Z",
+          "wordCount": 1966,
+          "title": "Maestro-Ende: Sparkasse hat bereits 2,8 Millionen neue Girocards ausgegeben",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/5/8/8/9/shutterstock_1690708759-925a28794778eaca.jpg"
+        },
+        {
+          "id": "http://heise.de/-9243642",
+          "author": null,
+          "description": "Auf unserer HR-Bühne erhalten Sie wertvolle Tipps zur beruflichen Weiterentwicklung und spannende Einblicke in die Gaming-Szene.",
+          "link": "https://www.heise.de/news/Das-Buehnenprogramm-ist-da-gamescom-jobs-karriere-powered-by-heise-jobs-9243642.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T14:00:00.000Z",
+          "wordCount": 1919,
+          "title": "heise-Angebot: Das Bühnenprogramm ist da: gamescom jobs+karriere powered by heise jobs",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/5/8/8/7/hJITK_gamescom_Ticker_1920x1080_02-09b7754c1c389975.jpg"
+        },
+        {
+          "id": "http://heise.de/-9243345",
+          "author": null,
+          "description": "Eine Schwachstelle im Infotainmentsystem gefährdet bestimmte Modellserien von Ford und Lincoln. Die Fahrsicherheit soll davon aber nicht beeinträchtigt sein.",
+          "link": "https://www.heise.de/news/Schadcode-Attacken-via-WLAN-auf-einige-Automodelle-von-Ford-moeglich-9243345.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T12:09:00.000Z",
+          "wordCount": 1902,
+          "title": "Schadcode-Attacken via WLAN auf einige Automodelle von Ford möglich",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/5/7/1/8/shutterstock_1441299371-d2acde64372cec7e.jpeg"
+        },
+        {
+          "id": "http://heise.de/-9243497",
+          "author": null,
+          "description": "Der Terraform-Anbieter HashiCorp folgt mit seinem Wechsel zur Business Source License 1.1 anderen Unternehmen wie Couchbase, Cockroach Labs und MariaDB.",
+          "link": "https://www.heise.de/news/Business-Source-License-HashiCorp-verabschiedet-sich-von-Open-Source-Lizenz-9243497.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T11:58:00.000Z",
+          "wordCount": 2247,
+          "title": "Business Source License: HashiCorp verabschiedet sich von Open-Source-Lizenz",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/5/8/0/6/shutterstock_341434880-b6ced03d5b310cf6.jpg"
+        },
+        {
+          "id": "http://heise.de/-9243466",
+          "author": null,
+          "description": "Auf die Raspi-Version mit 2 und 4 GByte Speicher folgt das Modell mit 8 GByte. Der Preis ist unter 100 Euro gefallen.",
+          "link": "https://www.heise.de/news/Raspberry-Pi-4-Jetzt-auch-mit-8-GByte-RAM-wieder-verfuegbar-9243466.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T11:31:00.000Z",
+          "wordCount": 2010,
+          "title": "Bastelcomputer: Raspberry Pi 4 auch mit 8 GByte RAM wieder verfügbar",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/5/7/8/7/194057832_d54f034a84-9f48367254a98eb6.jpeg"
+        },
+        {
+          "id": "http://heise.de/-9243124",
+          "author": null,
+          "description": "Künstliche Intelligenz soll dafür genutzt werden können, Musik anhand von Gehirn-Aktivitäten zu generieren: Google arbeitet an Brain2Music.",
+          "link": "https://www.heise.de/news/Brain2Music-Google-will-Musik-auf-Basis-von-Gehirn-Aktivitaeten-generieren-9243124.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T11:10:00.000Z",
+          "wordCount": 2144,
+          "title": "Brain2Music: Google will Musik auf Basis von Gehirn-Aktivitäten generieren",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/5/5/9/5/shutterstock_606719909-4dd541154507936b.jpg"
+        },
+        {
+          "id": "http://heise.de/-9238851",
+          "author": null,
+          "description": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
+          "link": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-Fruehbucherrabatt-9238851.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T10:00:00.000Z",
+          "wordCount": 1893,
+          "title": "heise-Angebot: iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern (Frühbucherrabatt)",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/3/3/2/2/2021_webdev_ws_1280x720_1-b8e24827fb707e22.png"
+        },
         {
           "id": "http://heise.de/-9242937",
           "author": null,
@@ -7543,6 +7748,16 @@
       "siteUrl": "https://www.heise.de/security/alerts/",
       "articles": [
         {
+          "id": "http://heise.de/-9243345",
+          "author": null,
+          "description": "Eine Schwachstelle im Infotainmentsystem gefährdet bestimmte Modellserien von Ford und Lincoln. Die Fahrsicherheit soll davon aber nicht beeinträchtigt sein.",
+          "link": "https://www.heise.de/news/Schadcode-Attacken-via-WLAN-auf-einige-Automodelle-von-Ford-moeglich-9243345.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-14T12:09:00.000Z",
+          "wordCount": 1902,
+          "title": "Schadcode-Attacken via WLAN auf einige Automodelle von Ford möglich",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/5/7/1/8/shutterstock_1441299371-d2acde64372cec7e.jpeg"
+        },
+        {
           "id": "http://heise.de/-9243092",
           "author": null,
           "description": "Aufgrund von mehreren Schwachstellen in einem SDK, das im Industriebereich zum Einsatz kommt, sind Attacken auf kritische Infrastrukturen möglich.",
@@ -7919,6 +8134,86 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/08/qwixxrat-new-remote-access-trojan.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new remote access trojan (RAT) called QwixxRAT is being advertised for sale by its threat actor through Telegram and Discord platforms.\n\"Once installed on the victim's Windows platform machines, the RAT stealthily collects sensitive data, which is then sent to the attacker's Telegram bot, providing them with unauthorized access to the victim's sensitive information,\" Uptycs said in a new",
+          "link": "https://thehackernews.com/2023/08/qwixxrat-new-remote-access-trojan.html",
+          "publishedOn": "2023-08-14T15:54:00.000Z",
+          "wordCount": null,
+          "title": "QwixxRAT: New Remote Access Trojan Emerges via Telegram and Discord",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLbW81R34EdTj6TsAvrJOESpq8VqwJsF5jwFCIh1zlO37anEBFEI2Ptt7vV1rRBdLTWBnImA9fclVwmTp3c3GHmTh0Bfm4Dbxai3IB_wHEeI9HEt5QC0HknBDqzDIxbctPqAhJ71lR0fpXmFlodGpzgJ1C8kftUhFyDOJStc5gZ-2RIUhLTI04EA5qwV5q/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLbW81R34EdTj6TsAvrJOESpq8VqwJsF5jwFCIh1zlO37anEBFEI2Ptt7vV1rRBdLTWBnImA9fclVwmTp3c3GHmTh0Bfm4Dbxai3IB_wHEeI9HEt5QC0HknBDqzDIxbctPqAhJ71lR0fpXmFlodGpzgJ1C8kftUhFyDOJStc5gZ-2RIUhLTI04EA5qwV5q/s1600/malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/08/ongoing-xurum-attacks-on-e-commerce.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "E-commerce sites using Adobe's Magento 2 software are the target of an ongoing campaign that has been active since at least January 2023.\nThe attacks, dubbed Xurum by Akamai, leverage a now-patched critical security flaw (CVE-2022-24086, CVSS score: 9.8) in Adobe Commerce and Magento Open Source that, if successfully exploited, could lead to arbitrary code execution.\n\"The attacker seems to be",
+          "link": "https://thehackernews.com/2023/08/ongoing-xurum-attacks-on-e-commerce.html",
+          "publishedOn": "2023-08-14T13:14:00.000Z",
+          "wordCount": null,
+          "title": "Ongoing Xurum Attacks on E-commerce Sites Exploiting Critical Magento 2 Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVPfu1__SgLt5GY2q7-EIJ94yH8dd8bDkLVAub40Q1UlwX8yp6Cl3dMU1ekVsiCJr4bD_3tFP9pyP22161FFMBp_7ezMC_MzGwgKOnWnZBGmmWx4O3EbZYb0z1i9YBsTzW3V4UUz0OC6a6GoL6-Go0g96BvCR9oTeWdKA4h57QRDsbOnh8wdiN8qsXiUIo/s1600/code.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVPfu1__SgLt5GY2q7-EIJ94yH8dd8bDkLVAub40Q1UlwX8yp6Cl3dMU1ekVsiCJr4bD_3tFP9pyP22161FFMBp_7ezMC_MzGwgKOnWnZBGmmWx4O3EbZYb0z1i9YBsTzW3V4UUz0OC6a6GoL6-Go0g96BvCR9oTeWdKA4h57QRDsbOnh8wdiN8qsXiUIo/s1600/code.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/08/identity-threat-detection-and-response.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Why SaaS Security Is a Challenge\nIn today's digital landscape, organizations are increasingly relying on Software-as-a-Service (SaaS) applications to drive their operations. However, this widespread adoption has also opened the doors to new security risks and vulnerabilities.\nThe SaaS security attack surface continues to widen. It started with managing misconfigurations and now requires a",
+          "link": "https://thehackernews.com/2023/08/identity-threat-detection-and-response.html",
+          "publishedOn": "2023-08-14T11:13:00.000Z",
+          "wordCount": null,
+          "title": "Identity Threat Detection and Response: Rips in Your Identity Fabric",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlTo3sJsf6wMyu9NklrLsg-JigtVuLHN1qRLfLSVlAwDYp-FssfHj_t8OvoppCJ3e8JZUf_nrwU-sBwlsxiomhzPZEI7Ibiz-PITEygmLSO1MFmudbMQQwmJmVgfOQx0TMlz8Ed-WrFuXt4msCZGgk6au0981-uZxtEJgiLGsfMEibTIsuIekNIAL1zWPu/s1600/itdr.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlTo3sJsf6wMyu9NklrLsg-JigtVuLHN1qRLfLSVlAwDYp-FssfHj_t8OvoppCJ3e8JZUf_nrwU-sBwlsxiomhzPZEI7Ibiz-PITEygmLSO1MFmudbMQQwmJmVgfOQx0TMlz8Ed-WrFuXt4msCZGgk6au0981-uZxtEJgiLGsfMEibTIsuIekNIAL1zWPu/s1600/itdr.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/08/charming-kitten-targets-iranian.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Germany's Federal Office for the Protection of the Constitution (BfV) has warned of cyber attacks targeting Iranian persons and organizations in the country since the end of 2022.\n\"The cyber attacks were mainly directed against dissident organizations and individuals – such as lawyers, journalists, or human rights activists – inside and outside Iran,\" the agency said in an advisory.\nThe",
+          "link": "https://thehackernews.com/2023/08/charming-kitten-targets-iranian.html",
+          "publishedOn": "2023-08-14T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Charming Kitten Targets Iranian Dissidents with Advanced Cyber Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb54ewcuEGDF1Ml-eiLx9uRBRAXjsURxrrOl8brPicxa24xRgcz7cvHnsaqOA54rjj_b9bIQuM9CP5tn8CfqkF5ORJ4sxnzjwTzPPSfvKaZkZuVDtQcCY6xA7-9a4CKBcbgstNcrwKZ8238L8NXm4Y1jSYZ8ymE0cx2tBTDIV6GZOnXywxrj_2IqdpQbn0/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb54ewcuEGDF1Ml-eiLx9uRBRAXjsURxrrOl8brPicxa24xRgcz7cvHnsaqOA54rjj_b9bIQuM9CP5tn8CfqkF5ORJ4sxnzjwTzPPSfvKaZkZuVDtQcCY6xA7-9a4CKBcbgstNcrwKZ8238L8NXm4Y1jSYZ8ymE0cx2tBTDIV6GZOnXywxrj_2IqdpQbn0/s1600/cyberattack.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/08/new-financial-malware-janelarat-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Users in Latin America (LATAM) are the target of a financial malware called JanelaRAT that's capable of capturing sensitive information from compromised Microsoft Windows systems.\n\"JanelaRAT mainly targets financial and cryptocurrency data from LATAM bank and financial institutions,\" Zscaler ThreatLabz researchers Gaetano Pellegrino and Sudeep Singh said, adding it \"abuses DLL side-loading",
+          "link": "https://thehackernews.com/2023/08/new-financial-malware-janelarat-targets.html",
+          "publishedOn": "2023-08-14T10:25:00.000Z",
+          "wordCount": null,
+          "title": "New Financial Malware 'JanelaRAT' Targets Latin American Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwT0chPJaoF0BSss1qfRUdbthg0CENfaPELXZBeaDLUlQNxmAgMkZTg8F5LYaImzH-eKFLz0T03rX3ihE5h7j_SZolojWNyCCqA6qUvYqs9GMh9N2hyOfHao7KS4GcDWh63yEsoffDNMCSgGIX80K6Xsdr7iJruDCv4ul_vbMx_Y2kveMQJuoPBLUX8Tvw/s1600/chr.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwT0chPJaoF0BSss1qfRUdbthg0CENfaPELXZBeaDLUlQNxmAgMkZTg8F5LYaImzH-eKFLz0T03rX3ihE5h7j_SZolojWNyCCqA6qUvYqs9GMh9N2hyOfHao7KS4GcDWh63yEsoffDNMCSgGIX80K6Xsdr7iJruDCv4ul_vbMx_Y2kveMQJuoPBLUX8Tvw/s1600/chr.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/08/india-passes-new-digital-personal-data.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -10230,6 +10525,66 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/dell_fined_australia/",
+          "author": null,
+          "description": "<h4>Blunder made bundled monitors more expensive than standalone purchases</h4> <p>Australia's Federal Court has fined Dell AU$10 million ($6.5 million) for what the tech giant has called an error in its pricing processes.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/dell_fined_australia/",
+          "publishedOn": "2023-08-14T17:28:13.000Z",
+          "wordCount": 1160,
+          "title": "Dell fined $6.5M for 'error in pricing process' down under",
+          "imageUrl": "https://regmedia.co.uk/2022/06/10/shutterstock_broken_monitor.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/ibm_describes_analog_ai_chip/",
+          "author": null,
+          "description": "<h4>Power-sipper still in the research stage, but findings are interesting</h4> <p>IBM Research has developed a mixed-signal analog chip for AI inferencing that it claims may be able to match the performance of digital counterparts such as GPUs, while consuming considerably less power.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/ibm_describes_analog_ai_chip/",
+          "publishedOn": "2023-08-14T15:59:12.000Z",
+          "wordCount": 1772,
+          "title": "IBM describes analog AI chip that might displace power-hungry GPUs",
+          "imageUrl": "https://regmedia.co.uk/2023/08/14/shutterstock_neural.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/twitter_x_auction/",
+          "author": null,
+          "description": "<h4>Oscars 2014 Ellen DeGeneres Selfie in oil, anyone?</h4> <p>In case you were heretofore unconvinced that Twitter is dead and is never coming back, the latest sell-off of branded tat might sway you.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/twitter_x_auction/",
+          "publishedOn": "2023-08-14T14:30:07.000Z",
+          "wordCount": 1564,
+          "title": "X-rated auction sells last vestiges of pre-Musk Twitter",
+          "imageUrl": "https://regmedia.co.uk/2023/08/14/shutterstock_twitterx.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/def_con_roundup/",
+          "author": null,
+          "description": "<h4>Summer Camp is over and what has been done? Have aspirations shriveled in the Sun?</h4> <p><strong>DEF CON</strong>  A bomb threat against Caesars Forum, the main venue for this week's DEF CON hacking convention, led to the halls being cleared on Saturday evening and the building searched by fire crews and police officers.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/def_con_roundup/",
+          "publishedOn": "2023-08-14T13:00:09.000Z",
+          "wordCount": 2996,
+          "title": "Bomb threat causes mass evacuation at DEF CON hacking convention",
+          "imageUrl": "https://regmedia.co.uk/2023/08/14/defcon.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/cumbrian_police_accidentally_published_officer_details_online/",
+          "author": null,
+          "description": "<h4>Names, job titles and salaries included in unwitting leak</h4> <p>Cumbria Constabulary inadvertently published the names and salaries of all its officers and staff online earlier this year, making it the second UK force in a fortnight to admit disclosing personal information about its employees.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/cumbrian_police_accidentally_published_officer_details_online/",
+          "publishedOn": "2023-08-14T11:38:43.000Z",
+          "wordCount": 1441,
+          "title": "Cumbrian cops accidentally publish all of its officers' details online",
+          "imageUrl": "https://regmedia.co.uk/2021/06/08/police.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/oracle_suse_ciq_openela/",
+          "author": null,
+          "description": "<h4>'No subscriptions. No passwords. No barriers. Freeloaders welcome'</h4> <p>A non-profit called the Open Enterprise Linux Association (OpenELA) has been formed by Oracle, SUSE, CIQ, and other organizations that make Red Hat Enterprise Linux (RHEL) and CentOS rebuilds.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/oracle_suse_ciq_openela/",
+          "publishedOn": "2023-08-14T10:00:08.000Z",
+          "wordCount": 1586,
+          "title": "Oracle, SUSE and others caught up in RHEL drama hit back with OpenELA",
+          "imageUrl": "https://regmedia.co.uk/2023/08/12/shutterstock_suse_rh_oracle.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/08/14/opinion_column_india/",
           "author": null,

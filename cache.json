@@ -647,6 +647,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/",
+          "author": "Ax Sharma",
+          "description": "Serde, a popular Rust (de)serialization project, has decided to ship its serde_derive macro as a precompiled binary. This has generated a fair amount of concern among some developers who highlight the future legal and technical issues this may pose, along with a potential for supply chain attacks. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/",
+          "publishedOn": "2023-08-19T13:55:57.000Z",
+          "wordCount": 2770,
+          "title": "Rust devs push back as Serde project ships precompiled binaries",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/04/03/rust-bg.jpeg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-18th-2023-lockbit-on-thin-ice/",
           "author": "Lawrence Abrams",
           "description": "While there was quite a bit of ransomware news this week, the highlighted story was the release of Jon DiMaggio's third article in the Ransomware Diaries series, with the focus of this article on the LockBit ransomware operation. [...]",
@@ -2485,16 +2495,6 @@
           "wordCount": 2171,
           "title": "VirusTotal apologizes for data leak affecting 5,600 customers",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/04/24/VirusTotal_headpic.jpeg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/github-warns-of-lazarus-hackers-targeting-devs-with-malicious-projects/",
-          "author": "Lawrence Abrams",
-          "description": "GitHub is warning of a social engineering campaign targeting the accounts of developers in the blockchain, cryptocurrency, online gambling, and cybersecurity sectors to infect their devices with malware. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/github-warns-of-lazarus-hackers-targeting-devs-with-malicious-projects/",
-          "publishedOn": "2023-07-20T22:48:17.000Z",
-          "wordCount": 2470,
-          "title": "GitHub warns of Lazarus hackers targeting devs with malicious projects",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg"
         }
       ]
     },
@@ -3160,6 +3160,26 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9268105",
+          "author": null,
+          "description": "Das verbreitete Kompressionstool WinRAR besaß in älteren Versionen eine schwere Lücke, die beliebige Codeausführung erlaubte. Die aktuelle Version schließt sie.",
+          "link": "https://www.heise.de/news/Update-bereits-ausgespielt-Kritische-Luecke-in-WinRAR-erlaubte-Code-Ausfuehrung-9268105.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-19T12:14:00.000Z",
+          "wordCount": 1876,
+          "title": "Update bereits ausgespielt: Kritische Lücke in WinRAR erlaubte Code-Ausführung",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/8/8/3/3/shutterstock_232738432-27dad91ba69f37d8.jpg"
+        },
+        {
+          "id": "http://heise.de/-9268057",
+          "author": null,
+          "description": "Devuan 5 ist ein von systemd befreites Debian, das beim Init-System freie Wahl lässt. Es basiert auf dem zuvor veröffentlichten Debian 12 \"Bookworm\".",
+          "link": "https://www.heise.de/news/Devuan-5-0-mit-rootless-startx-und-Wayland-ohne-elogind-9268057.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-19T09:58:00.000Z",
+          "wordCount": 2421,
+          "title": "Devuan 5.0 mit rootless startx und Wayland ohne elogind",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/8/8/0/9/shutterstock_606174707-2bb492e9b80cac9d.jpg"
+        },
         {
           "id": "http://heise.de/-9267613",
           "author": null,
@@ -7569,16 +7589,6 @@
           "wordCount": 1878,
           "title": "OpenSSH 9.3p2 dichtet hochriskantes Sicherheitsleck ab",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/4/6/7/2/shutterstock_1861629355-9fc4ce677a187b30.jpg"
-        },
-        {
-          "id": "http://heise.de/-9222786",
-          "author": null,
-          "description": "Die großen Proteste auf und gegen Reddit sind größtenteils beendet. Besonders renitente Subreddits werden nun aber wohl beendet und Moderatoren entfernt.",
-          "link": "https://www.heise.de/news/Nach-anhaltenden-Protesten-Reddit-entfernt-Moderatoren-und-uebernimmt-Subreddits-9222786.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-07-21T05:34:00.000Z",
-          "wordCount": 2060,
-          "title": "Nach anhaltenden Protesten: Reddit entfernt Moderatoren und übernimmt Subreddits",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/4/6/3/1/shutterstock_1777192400-92f5d44120570cbb.jpg"
         }
       ]
     },
@@ -7587,6 +7597,16 @@
       "feedUrl": "https://www.heise.de/security/rss/alert-news.rdf",
       "siteUrl": "https://www.heise.de/security/alerts/",
       "articles": [
+        {
+          "id": "http://heise.de/-9268105",
+          "author": null,
+          "description": "Das verbreitete Kompressionstool WinRAR besaß in älteren Versionen eine schwere Lücke, die beliebige Codeausführung erlaubte. Die aktuelle Version schließt sie.",
+          "link": "https://www.heise.de/news/Update-bereits-ausgespielt-Kritische-Luecke-in-WinRAR-erlaubte-Code-Ausfuehrung-9268105.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2023-08-19T12:14:00.000Z",
+          "wordCount": 1876,
+          "title": "Update bereits ausgespielt: Kritische Lücke in WinRAR erlaubte Code-Ausführung",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/8/8/3/3/shutterstock_232738432-27dad91ba69f37d8.jpg"
+        },
         {
           "id": "http://heise.de/-9263452",
           "author": null,
@@ -7934,6 +7954,22 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/08/wooflocker-toolkit-hides-malicious.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have detailed an updated version of an advanced fingerprinting and redirection toolkit called WoofLocker that's engineered to conduct tech support scams.\nThe sophisticated traffic redirection scheme was first documented by Malwarebytes in January 2020, leveraging JavaScript embedded in compromised websites to perform anti-bot and web traffic filtering checks to serve",
+          "link": "https://thehackernews.com/2023/08/wooflocker-toolkit-hides-malicious.html",
+          "publishedOn": "2023-08-19T11:22:00.000Z",
+          "wordCount": null,
+          "title": "WoofLocker Toolkit Hides Malicious Codes in Images to Run Tech Support Scams",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjphf_Y2HkagN9PDGqmZNH2OrsowS0XChAOSdAF0pjTWtYdtgZ1WamSXSNmOUC-tgEJnBqVASrdzwGOci3ZTKtmkk4eueLXoblsMwSWYJ4-F3zIKUHDlr73GgsZ0ilRkUEGIGsQQE0UOg3tRU3jRCmnbRhrMhWFP6fcnqTLLwjBkOV7qiGssxv4qfkeim4Q/s1600/hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjphf_Y2HkagN9PDGqmZNH2OrsowS0XChAOSdAF0pjTWtYdtgZ1WamSXSNmOUC-tgEJnBqVASrdzwGOci3ZTKtmkk4eueLXoblsMwSWYJ4-F3zIKUHDlr73GgsZ0ilRkUEGIGsQQE0UOg3tRU3jRCmnbRhrMhWFP6fcnqTLLwjBkOV7qiGssxv4qfkeim4Q/s1600/hacking.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/08/new-juniper-junos-os-flaws-expose.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -10301,22 +10337,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR1VswotL6o8mAJg7uvzsqtADj2GeQapKknMMih_emF3SEeJaeDmZZrKItYQeygTBEN96yYTIHOjs6uoKfTwO3yYB8dmgz2vu6NZikHQu7WeDpihjqwGV2mYtacRjtuDOfEatjEgrqLF2jBXmRDrLUqV_NPATcCwuRyu1FXGq9iw5p34jwBvqk5hSJFNpm/s1600/ddos-attack.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR1VswotL6o8mAJg7uvzsqtADj2GeQapKknMMih_emF3SEeJaeDmZZrKItYQeygTBEN96yYTIHOjs6uoKfTwO3yYB8dmgz2vu6NZikHQu7WeDpihjqwGV2mYtacRjtuDOfEatjEgrqLF2jBXmRDrLUqV_NPATcCwuRyu1FXGq9iw5p34jwBvqk5hSJFNpm/s1600/ddos-attack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/07/citrix-netscaler-adc-and-gateway.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) issued an advisory on Thursday warning that the newly disclosed critical security flaw in Citrix NetScaler Application Delivery Controller (ADC) and Gateway devices is being abused to drop web shells on vulnerable systems.\n\"In June 2023, threat actors exploited this vulnerability as a zero-day to drop a web shell on a critical",
-          "link": "https://thehackernews.com/2023/07/citrix-netscaler-adc-and-gateway.html",
-          "publishedOn": "2023-07-21T05:26:00.000Z",
-          "wordCount": null,
-          "title": "Citrix NetScaler ADC and Gateway Devices Under Attack: CISA Urges Immediate Action",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikPrlcCUIsLSJZGgYPG7MsuGFFKrQdRzCCkx6CQaxLNUPhmM49VQthvGaY7J1eT1Kd2GoiY3Rj5gszQGvzZ7TxDPVD5IOxfRJrnqxJWee9kUET8eeLiMIGphtOuMZeInVCxrIMd3iltdDUf-jHoSxaL5GYSETGbEdU1U8XlV4cFMGVnS0jJ45TpLDsOXxo/s1600/hacked.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikPrlcCUIsLSJZGgYPG7MsuGFFKrQdRzCCkx6CQaxLNUPhmM49VQthvGaY7J1eT1Kd2GoiY3Rj5gszQGvzZ7TxDPVD5IOxfRJrnqxJWee9kUET8eeLiMIGphtOuMZeInVCxrIMd3iltdDUf-jHoSxaL5GYSETGbEdU1U8XlV4cFMGVnS0jJ45TpLDsOXxo/s1600/hacked.jpg"
         }
       ]
     },
@@ -14524,66 +14544,6 @@
           "wordCount": 1503,
           "title": "Douglas Adams was right: Telephone sanitizers are terrible human beings",
           "imageUrl": "https://regmedia.co.uk/2023/07/11/shutterstock_oops_wrong_wire_cut.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/21/judge_ai_art/",
-          "author": null,
-          "description": "<h4>Just the facts, ma'am. More facts, in fact</h4> <p>A US federal judge almost threw out a lawsuit brought by artists accusing text-to-image AI developers of copyright infringement, but decided to give the creatives a chance to improve and resubmit their complaint.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/21/judge_ai_art/",
-          "publishedOn": "2023-07-21T02:33:09.000Z",
-          "wordCount": 1599,
-          "title": "Judge lets art trio take another crack at suing AI devs over copyright",
-          "imageUrl": "https://regmedia.co.uk/2023/02/16/artist_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/21/us_police_data_broker_info/",
-          "author": null,
-          "description": "<h4>Plus: Senator teases larger surveillance reform bill coming soon</h4> <p>A draft law that would prevent data brokers from selling US citizens' personal information to law enforcement and federal agencies without a warrant has been advanced by lawmakers.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/21/us_police_data_broker_info/",
-          "publishedOn": "2023-07-21T01:20:09.000Z",
-          "wordCount": 2134,
-          "title": "Proposed ban on data brokers selling warrantless personal info to Feds revived",
-          "imageUrl": "https://regmedia.co.uk/2019/03/15/shutterstock_location.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/20/tsmc_arizona_fab/",
-          "author": null,
-          "description": "<h4>Output of 4nm parts stalled until at least 2025</h4> <p>TSMC on Thursday said its under-construction chip fab in Arizona won't be up and running until at least 2025 because of a shortage of skilled workers.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/20/tsmc_arizona_fab/",
-          "publishedOn": "2023-07-20T23:59:11.000Z",
-          "wordCount": 1481,
-          "title": "TSMC says Arizona fab behind schedule, blames chip geek shortage",
-          "imageUrl": "https://regmedia.co.uk/2023/07/20/sweat_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/20/tesla_to_license_fsd_software/",
-          "author": null,
-          "description": "<h4>Multiple safety investigations, patches for unsafe behavior, and the fact it's still a beta haven't dissuaded other OEMs?</h4> <p>Tesla CEO Elon Musk let an interesting tidbit slip during yesterday's Q2 earnings call: his car company has plans to license its as-yet Full Self-Driving stack to other automakers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/20/tesla_to_license_fsd_software/",
-          "publishedOn": "2023-07-20T23:27:07.000Z",
-          "wordCount": 1573,
-          "title": "Tesla to license Full Self-Driving stack to other automakers, says Musk",
-          "imageUrl": "https://regmedia.co.uk/2023/07/12/musk_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/20/ftc_doj_merger_rules/",
-          "author": null,
-          "description": "<h4>No more embrace-and-extinguish M&amp;As, but budgetary changes may make enforcement harder</h4> <p>The US Federal Trade Commission and Department of Justice have proposed rewritten guidelines on how mergers should be scrutinized by American watchdogs – the goal being to crack down harder on competition-crushing takeovers.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/20/ftc_doj_merger_rules/",
-          "publishedOn": "2023-07-20T22:30:08.000Z",
-          "wordCount": 1959,
-          "title": "Feds want to rewrite rules for competition-crushing merger probes",
-          "imageUrl": "https://regmedia.co.uk/2023/07/20/market_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/07/20/magnetars/",
-          "author": null,
-          "description": "<h4>Astronomers puzzled over what is powering GPM J1839−10</h4> <p>Astronomers believe they may have discovered a new type of stellar object after spotting something that has been beaming radio pulses every 22 minutes for more than three decades.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/07/20/magnetars/",
-          "publishedOn": "2023-07-20T22:26:06.000Z",
-          "wordCount": 1528,
-          "title": "Weird radio pulses could be coming from new type of stellar object",
-          "imageUrl": "https://regmedia.co.uk/2023/07/20/shutterstock_magnetar.jpg"
         }
       ]
     }

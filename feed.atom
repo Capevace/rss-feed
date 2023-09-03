@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.mateffy.me/index.html</id>
     <title>Mateffy's RSS Feed</title>
-    <updated>2023-09-02T18:15:06.946Z</updated>
+    <updated>2023-09-03T09:11:35.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.mateffy.me/index.html"/>
     <link rel="self" href="https://news.mateffy.me/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PoC Exploit Released for Critical VMware Aria's SSH Auth Bypass Vulnerability]]></title>
+        <id>https://thehackernews.com/2023/09/poc-exploit-released-for-critical.html</id>
+        <link href="https://thehackernews.com/2023/09/poc-exploit-released-for-critical.html"/>
+        <updated>2023-09-03T04:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Proof-of-concept (PoC) exploit code has been made available for a recently disclosed and patched critical flaw impacting VMware Aria Operations for Networks (formerly vRealize Network Insight).
+The flaw, tracked as CVE-2023-34039, is rated 9.8 out of a maximum of 10 for severity and has been described as a case of authentication bypass due to a lack of unique cryptographic key generation.
+“A]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Die besten Strommessgeräte: Energie sparen & Ertrag von Balkonkraftwerk erfassen]]></title>
         <id>http://heise.de/-9293060</id>
@@ -44,6 +56,16 @@
         <summary type="html"><![CDATA[Nach 28 Jahren wird Wordpad von Microsoft eingestellt. Die Textverarbeitung wird nicht mehr aktualisiert und soll mit einem zukünftigen Update gelöscht werden.]]></summary>
         <author>
             <name>heise online IT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake YouPorn extortion scam threatens to leak your sex tape]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/fake-youporn-extortion-scam-threatens-to-leak-your-sex-tape/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/fake-youporn-extortion-scam-threatens-to-leak-your-sex-tape/"/>
+        <updated>2023-09-02T14:12:06.000Z</updated>
+        <summary type="html"><![CDATA[A new sextortion scam is making the rounds that pretends to be an email from the adult site YouPorn, warning that a sexually explicit video of you was uploaded to the site and suggesting you pay to have it taken down. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
         </author>
     </entry>
     <entry>
@@ -13386,419 +13408,6 @@ Tracked as CVE-2023-39143 (CVSS score: 8.4), the flaw impacts PaperCut NG/MF p
         <link href="https://go.theregister.com/feed/www.theregister.com/2023/08/04/us_navy_sailors_china_spies/"/>
         <updated>2023-08-04T22:03:09.000Z</updated>
         <summary type="html"><![CDATA[<h4>'Quite obviously f**king espionage,' one suspect allegedly blabbed</h4> <p>Two US Navy service members appeared in federal court Thursday accused of espionage and stealing sensitive military information for China in separate cases.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behold, Incus: Check out this fork of Canonical's LXD 'containervisor']]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2023/08/04/incus_lxd_fork/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2023/08/04/incus_lxd_fork/"/>
-        <updated>2023-08-04T20:36:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Lead dev Graber quits Ubuntu maker, helps out this new project</h4> <p>SUSE developer Aleksa Sarai has created Incus, a fork of Canonical's LXD code, with the backing of the now-former lead developer of the container-manager-cum-hypervisor.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New PaperCut critical bug exposes unpatched servers to RCE attacks]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/new-papercut-critical-bug-exposes-unpatched-servers-to-rce-attacks/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/new-papercut-critical-bug-exposes-unpatched-servers-to-rce-attacks/"/>
-        <updated>2023-08-04T20:23:06.000Z</updated>
-        <summary type="html"><![CDATA[PaperCut recently fixed a critical security vulnerability in its NG/MF print management software that allows unauthenticated attackers to gain remote code execution on unpatched Windows servers. [...]]]></summary>
-        <author>
-            <name>Sergiu Gatlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alarm raised over Mozilla VPN: Wonky authorization check lets users cause havoc]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2023/08/04/mozilla_vpn_linux_flaw/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2023/08/04/mozilla_vpn_linux_flaw/"/>
-        <updated>2023-08-04T19:48:32.000Z</updated>
-        <summary type="html"><![CDATA[<h4>SUSE security engineer goes public on unfixed client hole after disclosure drama</h4> <p>A security engineer at Linux distro maker SUSE has published an advisory for a flaw in the Mozilla VPN client for Linux that has yet to be addressed in a publicly released fix because the disclosure process went off the rails.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI warns of scammers posing as NFT devs to steal your crypto]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/fbi-warns-of-scammers-posing-as-nft-devs-to-steal-your-crypto/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-scammers-posing-as-nft-devs-to-steal-your-crypto/"/>
-        <updated>2023-08-04T18:11:41.000Z</updated>
-        <summary type="html"><![CDATA[The FBI warned today of fraudsters posing as Non-Fungible Token (NFT) developers to prey upon NFT enthusiasts and steal their cryptocurrency and NFT assets. [...]]]></summary>
-        <author>
-            <name>Sergiu Gatlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read lips? Siri wants to feel them, according to fresh Apple patent]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2023/08/04/read_lips_siri_wants_to/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2023/08/04/read_lips_siri_wants_to/"/>
-        <updated>2023-08-04T18:01:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>We make movements when we talk, and gyro, accelerometer and sensor tech could improve speech recog</h4> <p>Siri's ability to recognize speech may be getting a boost through the addition of lip-reading – or, more appropriately, lip-feeling – technology, according to a newly published Apple patent.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft kills Cortana in Windows 11 preview, long live AI!]]></title>
-        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-kills-cortana-in-windows-11-preview-long-live-ai/</id>
-        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-kills-cortana-in-windows-11-preview-long-live-ai/"/>
-        <updated>2023-08-04T17:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has officially begun killing off Cortana as the company moves its focus towards integrating ChatGPT and AI into Windows 11. [...]]]></summary>
-        <author>
-            <name>Lawrence Abrams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google explains how Android malware slips onto Google Play Store]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/google-explains-how-android-malware-slips-onto-google-play-store/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/google-explains-how-android-malware-slips-onto-google-play-store/"/>
-        <updated>2023-08-04T17:04:02.000Z</updated>
-        <summary type="html"><![CDATA[The Google Cloud security team acknowledged a common tactic known as versioning used by malicious actors to slip malware on Android devices after evading the Google Play Store's review process and security controls. [...]]]></summary>
-        <author>
-            <name>Sergiu Gatlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big chip players join forces to form another RISC-V venture]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2023/08/04/chip_companies_risc_v/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2023/08/04/chip_companies_risc_v/"/>
-        <updated>2023-08-04T16:29:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Initial drive starts in Germany, pushes automotive blueprints</h4> <p>The RISC-V open instruction set architecture got a boost today after it emerged that five chip giants are coming together to jointly invest in a company to develop reference architectures based on the standard.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KI-Extension Jupyter AI bearbeitet und erstellt Jupyter Notebooks]]></title>
-        <id>http://heise.de/-9235225</id>
-        <link href="https://www.heise.de/news/KI-Extension-Jupyter-AI-bearbeitet-und-erstellt-Jupyter-Notebooks-9235225.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T16:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Die neue Extension Jupyter AI nutzt große Sprachmodelle, um Code in Notebooks zu erklären, zu generieren, zusammenzufassen und Fehler zu korrigieren.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[c't 3003: Deshalb brauchst du nie wieder Passwörter]]></title>
-        <id>http://heise.de/-9234924</id>
-        <link href="https://www.heise.de/news/c-t-3003-Deshalb-brauchst-du-nie-wieder-Passwoerter-9234924.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T15:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Passkeys sollen Passwörter unnötig machen. Sie sind sicherer und einfacher zu benutzen. c't 3003 macht den Test und stellt die Accounts auf den Nachfolger um.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla-Jailbreak: AMD-Prozessor verhilft zu kostenlosen Premium-Features]]></title>
-        <id>http://heise.de/-9235296</id>
-        <link href="https://www.heise.de/news/Tesla-Jailbreak-AMD-Prozessor-verhilft-zu-kostenlosen-Premium-Features-9235296.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T15:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Aktuelle Tesla-Autos mit einem AMD-Infotainmentsystem lassen sich knacken. So könnte man sich kostenlos ein Premium-Abo verpassen.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronaut-menacing sunstorm spotted rippling across inner solar system]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2023/08/04/gle73_cme_warning/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2023/08/04/gle73_cme_warning/"/>
-        <updated>2023-08-04T15:00:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Rare coronal mass ejection so powerful it was observed from Earth, Moon, and Mars simultaneously</h4> <p>Spacecraft orbiting the Earth, Moon, and Mars have all detected the same giant coronal mass ejection from the Sun – the first time vehicles in all three locations - plus one on the surface of Mars - have all observed the same event of this sort.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extended warranty robocallers fined $300 million after 5 billion scam calls]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/extended-warranty-robocallers-fined-300-million-after-5-billion-scam-calls/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/extended-warranty-robocallers-fined-300-million-after-5-billion-scam-calls/"/>
-        <updated>2023-08-04T14:54:53.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Communications Commission (FCC) has announced a record-breaking $299,997,000 fine imposed on an international network of companies for placing five billion robocalls to more than 500 million phone numbers over three months in 2021. [...]]]></summary>
-        <author>
-            <name>Bill Toulas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Snapshots: Programmierer-News in ein, zwei Sätzen]]></title>
-        <id>http://heise.de/-9234832</id>
-        <link href="https://www.heise.de/news/Developer-Snapshots-Programmierer-News-in-ein-zwei-Saetzen-9234832.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Unsere Übersicht kleiner, interessanter Meldungen enthält unter anderem ReSharper C++, k0smotron, dependabot, Grafana Tempo, Datadog Bits und Data Frog.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nach Apple-Zahlen: Wie es mit KI, Mac, iPad und Vision Pro weitergeht]]></title>
-        <id>http://heise.de/-9234674</id>
-        <link href="https://www.heise.de/news/Nach-Apple-Zahlen-Wie-es-mit-KI-Mac-iPad-und-Vision-Pro-weitergeht-9234674.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Im Call mit Investoren haben sich Tim Cook und Luca Maestri zu Apples weiteren Plänen geäußert – und Begründungen gesucht, warum das iPhone-Geschäft schrumpft.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wichtige ARM-Kunden gründen RISC-V-Allianz in Deutschland]]></title>
-        <id>http://heise.de/-9235216</id>
-        <link href="https://www.heise.de/news/Wichtige-ARM-Kunden-gruenden-RISC-V-Allianz-in-Deutschland-9235216.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T14:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Kurz vor dem Börsengang des CPU-Entwicklers ARM gründen fünf namhafte Lizenznehmer eine Allianz, die RISC-V-Chips zunächst für Autos voranbringen soll.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soon the most popular 'real' desktop will be the Linux desktop]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2023/08/04/linux_desktop_cloud_desktops/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2023/08/04/linux_desktop_cloud_desktops/"/>
-        <updated>2023-08-04T13:36:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Microsoft is moving Windows to the cloud and Apple will be happy to have you run macOS on the cloud</h4> <p><strong>Opinion</strong>  If you count Android and Chrome OS as Linux, which I do, the Linux desktop accounts for 44.98 percent of the end user market. But if your idea of the "Linux desktop" has a front end of Cinnamon, GNOME or KDE, then it's more like 3.06 percent. Better than it has been at times, but it's no "Year of the Linux desktop." Maybe, though, it will be someday.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[heise-Angebot: Es gibt nicht nur ChatGPT: Webinar zu Sprachmodellen im Unternehmenseinsatz]]></title>
-        <id>http://heise.de/-9235155</id>
-        <link href="https://www.heise.de/news/Es-gibt-nicht-nur-ChatGPT-Webinar-zu-Sprachmodellen-im-Unternehmenseinsatz-9235155.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T13:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Unternehmen können Large Language Models für diverse Zwecke einsetzen und anpassen. Viele Modelle sind als Open-Source-Projekte verfügbar.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify down: music searches, pages, account signups not working]]></title>
-        <id>https://www.bleepingcomputer.com/news/technology/spotify-down-music-searches-pages-account-signups-not-working/</id>
-        <link href="https://www.bleepingcomputer.com/news/technology/spotify-down-music-searches-pages-account-signups-not-working/"/>
-        <updated>2023-08-04T13:16:05.000Z</updated>
-        <summary type="html"><![CDATA[Spotify users are reporting the music streaming service to be down in the last hour. Spotify team is currently investigating the cause. [...]]]></summary>
-        <author>
-            <name>Ax Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYC Couple Pleads Guilty to Money Laundering in $3.6 Billion Bitfinex Hack]]></title>
-        <id>https://thehackernews.com/2023/08/nyc-couple-pleads-guilty-to-money.html</id>
-        <link href="https://thehackernews.com/2023/08/nyc-couple-pleads-guilty-to-money.html"/>
-        <updated>2023-08-04T12:13:00.000Z</updated>
-        <summary type="html"><![CDATA[A married couple from New York City has pleaded guilty to money laundering charges in connection with the 2016 hack of cryptocurrency stock exchange Bitfinex, resulting in the theft of about 120,000 bitcoin.
-The development comes more than a year after Ilya Lichtenstein, 35, and his wife, Heather Morgan, 33, were arrested in February 2022, following the seizure of roughly 95,000 of the stolen]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Download: China’s digital currency ambitions, and US AI rules]]></title>
-        <id>https://www.technologyreview.com/?p=1077214</id>
-        <link href="https://www.technologyreview.com/2023/08/04/1077214/the-download-china-currency-ambitions-us-ai-rules/"/>
-        <updated>2023-08-04T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for China’s digital currency? China’s digital yuan was seemingly born out of a desire to centralize a tech giant-dominated payment system. According to its central bank, the digital currency, also known…]]></summary>
-        <author>
-            <name>Charlotte Jee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge throws out EE's £25M 5G contract suit against Virgin Media]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2023/08/04/virgin_media_vs_ee_judgement/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2023/08/04/virgin_media_vs_ee_judgement/"/>
-        <updated>2023-08-04T11:59:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>2022's MVNO spat wrapped up as world+dog reminded to check exclusion clauses</h4> <p>A High Court judge has dismissed a 2022 £24.6 million ($31 million) breach of contract lawsuit in which EE sued Virgin Media when it struck a deal with Vodafone to provide 5G services – something EE claimed was in breach of the pair's MVNO network access agreement.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake VMware vConnector package on PyPI targets IT pros]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/fake-vmware-vconnector-package-on-pypi-targets-it-pros/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/fake-vmware-vconnector-package-on-pypi-targets-it-pros/"/>
-        <updated>2023-08-04T11:37:34.000Z</updated>
-        <summary type="html"><![CDATA[A malicious package that mimics the VMware vSphere connector module 'vConnector' was uploaded on the Python Package Index (PyPI) under the name 'VMConnect,' targeting IT professionals. [...]]]></summary>
-        <author>
-            <name>Bill Toulas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nach dem geklauten Master-Key für Azure: Hilfestellung von Microsoft]]></title>
-        <id>http://heise.de/-9234954</id>
-        <link href="https://www.heise.de/news/Nach-dem-geklauten-Master-Key-fuer-Azure-Hilfestellung-von-Microsoft-9234954.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T11:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsofts Playbook zum Umgang mit Token-Diebstahl in der Azure-Cloud soll Anwendern helfen herauszufinden, ob ihre Azure-Dienste kompromittiert sind]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar - Making PAM Great Again: Solving the Top 5 Identity Team PAM Challenges]]></title>
-        <id>https://thehackernews.com/2023/08/webinar-making-pam-great-again-solving.html</id>
-        <link href="https://thehackernews.com/2023/08/webinar-making-pam-great-again-solving.html"/>
-        <updated>2023-08-04T11:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Privileged Access Management (PAM) solutions are widely acknowledged as the gold standard for securing critical privileged accounts. However, many security and identity teams face inherent obstacles during the PAM journey, hindering these solutions from reaching their full potential. These challenges deprive organizations of the resilience they seek, making it essential to address them]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fujitsu beendet Verkauf von Notebooks und Desktop-PCs in Europa]]></title>
-        <id>http://heise.de/-9235061</id>
-        <link href="https://www.heise.de/news/Fujitsu-beendet-Verkauf-von-Notebooks-und-Desktop-PCs-in-Europa-9235061.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T11:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Nach April 2024 will Fujitsu in Europa keine "Client"-Geräte mehr verkaufen, sondern konzentriert sich auf Server und Rechenzentren.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Personas: KI Surfer Dudes für Facebook & Co.]]></title>
-        <id>http://heise.de/-9234905</id>
-        <link href="https://www.heise.de/news/Meta-Personas-Chatbots-sollen-in-Facebook-Instagram-und-WhatsApp-ziehen-9234905.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T11:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Abraham Lincoln und ein nicer Surfer Dude: Solche KI-Chatbots sollen in Metas Anwendungen einziehen.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious npm Packages Found Exfiltrating Sensitive Data from Developers]]></title>
-        <id>https://thehackernews.com/2023/08/malicious-npm-packages-found.html</id>
-        <link href="https://thehackernews.com/2023/08/malicious-npm-packages-found.html"/>
-        <updated>2023-08-04T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new bunch of malicious packages on the npm package registry that are designed to exfiltrate sensitive developer information.
-Software supply chain firm Phylum, which first identified the "test" packages on July 31, 2023, said they "demonstrated increasing functionality and refinement," hours after which they were removed and re-uploaded under different]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telecom giants dial up the heat on suppliers: It's not you, it's your CO<sub>2</sub>]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2023/08/04/jac_emissions_best_practices/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2023/08/04/jac_emissions_best_practices/"/>
-        <updated>2023-08-04T10:31:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Tackling sneaky Scope 3 emissions with 'best practices' and a 'climate lens'</h4> <p>A telecoms industry body focused on corporate social responsibility (CSR) has called for all companies to take action to reduce carbon dioxide emissions - so-called Scope 3 emissions - across their entire value chain.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[heise-Angebot: c’t Sonderheft Linux-Praxis: Tipps zum Einrichten, Erweitern und Optimieren]]></title>
-        <id>http://heise.de/-9229328</id>
-        <link href="https://www.heise.de/news/c-t-Sonderheft-Linux-Praxis-Tipps-zum-Einrichten-Erweitern-und-Optimieren-9229328.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T10:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Mit c't Linux-Praxis lernen Sie Ihren Linux-Desktop neu kennen. Wir zeigen, an welchen Stellschrauben Sie drehen können, um Ihr System zu optimieren.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#TGIQF - Das Quiz zu den spannendsten Meldungen des August-Beginns]]></title>
-        <id>http://heise.de/-9234731</id>
-        <link href="https://www.heise.de/news/TGIQF-Das-Quiz-zu-den-spannendsten-Meldungen-des-August-Beginns-9234731.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Supraleiter, Superkondensator oder der neueste X-Twitter-Slapstik? Die Woche bot viele spannende Meldungen für ein Freitags-Newsquiz. Knobeln Sie mit!]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KI-Assistent GitHub Copilot will Code nicht klauen, sondern sauber referenzieren]]></title>
-        <id>http://heise.de/-9234532</id>
-        <link href="https://www.heise.de/news/KI-Assistent-GitHub-Copilot-will-Code-nicht-klauen-sondern-sauber-referenzieren-9234532.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T09:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Die Codereferenz-Ergänzung für GitHub Copilot durchsucht öffentliche GitHub-Repositories nach Code, der den Vorschlägen des KI-Assistenten entspricht.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoStudent erhält Kapitalerhöhung in Höhe von 95 Millionen US-Dollar]]></title>
-        <id>http://heise.de/-9234725</id>
-        <link href="https://www.heise.de/news/GoStudent-erhaelt-Kapitalerhoehung-in-Hoehe-von-95-Millionen-US-Dollar-9234725.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T08:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Der Nachhilfe-Anbieter GoStudent will mit einer Kapitalerhöhung hybride Lernformate und KI-Nutzung forcieren, SimpleClub erhält Geld für den Ausbildungsbereich.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Accessible Text Over Images: Best Practices, Techniques, And Resources (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/</id>
-        <link href="https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/"/>
-        <updated>2023-08-04T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this two-part series of articles, Hannah Milan covers the best practices when using various accessible text over images techniques for designing your web and mobile app content.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Hannah Milan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: Powerkurs VMware vSphere 7 und 8 (Last Call)]]></title>
-        <id>http://heise.de/-9214145</id>
-        <link href="https://www.heise.de/news/iX-Workshop-Powerkurs-VMware-vSphere-7-und-8-Last-Call-9214145.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lernen Sie an fünf Tagen mit vielen praktischen Übungen, wie Sie VMware vSphere 7 und 8 installieren, konfigurieren und administrieren.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sicherheitsupdates F5 BIG-IP: Angreifer können Passwörter erraten]]></title>
-        <id>http://heise.de/-9234641</id>
-        <link href="https://www.heise.de/news/Sicherheitsupdates-F5-BIG-IP-Angreifer-koennen-Passwoerter-erraten-9234641.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T07:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Es sind wichtige Sicherheitspatches für mehrere BIG-IP-Produkte von F5 erschienen. Admins sollten zeitnah handeln.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sicherheitsupdates F5 BIG-IP: Angreifer können Passwörter erraten]]></title>
-        <id>http://heise.de/-9234641</id>
-        <link href="https://www.heise.de/news/Sicherheitsupdates-F5-BIG-IP-Angreifer-koennen-Passwoerter-erraten-9234641.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T07:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Es sind wichtige Sicherheitspatches für mehrere BIG-IP-Produkte von F5 erschienen. Admins sollten zeitnah handeln.]]></summary>
-        <author>
-            <name>Security-Alert Meldungen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get a computer get stuck in a lift? Ask an 'illegal engineer']]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2023/08/04/on_call/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2023/08/04/on_call/"/>
-        <updated>2023-08-04T07:29:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Settle in for a weighty story with plenty of gravity</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <i>The Register</i>'s regular Friday frolic through readers' memories of tech tasks that turned terrifying before trending towards triumph.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft-Cloud: Weitere kritische Lücke – scharfe Kritik an Microsoft]]></title>
-        <id>http://heise.de/-9234573</id>
-        <link href="https://www.heise.de/news/Microsoft-Cloud-Weitere-kritische-Luecke-scharfe-Kritik-an-Microsoft-9234573.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag"/>
-        <updated>2023-08-04T07:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Mehr als drei Monaten wusste Microsoft von einer kritischen Lücke im Azure AD, ohne sie zu schließen. Der Chef von Tenable findet dafür harsche Worte.]]></summary>
-        <author>
-            <name>heise online IT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major Cybersecurity Agencies Collaborate to Unveil 2022's Most Exploited Vulnerabilities]]></title>
-        <id>https://thehackernews.com/2023/08/major-cybersecurity-agencies.html</id>
-        <link href="https://thehackernews.com/2023/08/major-cybersecurity-agencies.html"/>
-        <updated>2023-08-04T07:02:00.000Z</updated>
-        <summary type="html"><![CDATA[A four-year-old critical security flaw impacting Fortinet FortiOS SSL has emerged as one of the most routinely and frequently exploited vulnerabilities in 2022.
-"In 2022, malicious cyber actors exploited older software vulnerabilities more frequently than recently disclosed vulnerabilities and targeted unpatched, internet-facing systems," cybersecurity and intelligence agencies from the Five]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official science: People do less, make more mistakes on Friday afternoons]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2023/08/04/workers_performance_study_friday/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2023/08/04/workers_performance_study_friday/"/>
-        <updated>2023-08-04T06:24:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Why 'dont deploy on Frday' is a thnng</h4> <p>Boffins have spent two years monitoring the computers of office staff at a large Texas energy concern and found that workers did less and made more mistakes in the afternoon – particularly on Fridays.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>

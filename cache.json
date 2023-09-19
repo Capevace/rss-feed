@@ -415,6 +415,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/09/smashing-magazine-tinacms-manage-editorial-workflow/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "This article is a peek behind the curtain of how content is managed here at Smashing Magazine. In it, you’ll get a tour of an article’s full lifecycle, from a basic outline to the sort of thing you’re reading right this second.",
+          "link": "https://smashingmagazine.com/2023/09/smashing-magazine-tinacms-manage-editorial-workflow/",
+          "publishedOn": "2023-09-18T18:00:00.000Z",
+          "wordCount": 4779,
+          "title": "How Smashing Magazine Uses TinaCMS To Manage An Editorial Workflow",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-magazine-tinacms-manage-editorial-workflow/tina-editor.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-magazine-tinacms-manage-editorial-workflow/tina-editor.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/revealing-images-css-mask-animations/",
           "author": "hello@smashingmagazine.com (Temani Afif)",
           "description": "Let’s play with images and experiment with CSS masks. The idea is fairly simple: take a single `` tag and harness the power of CSS to accomplish complex hover transitions. Through different demos, you will see how CSS masks combined with gradients allow us to create fancy effects — with efficient, reusable code.",
@@ -586,6 +601,36 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/apt36-state-hackers-infect-android-devices-using-youtube-app-clones/",
+          "author": "Bill Toulas",
+          "description": "The APT36 hacking group, aka 'Transparent Tribe,' has been observed using at least three Android apps that mimic YouTube to infect devices with their signature remote access trojan (RAT), 'CapraRAT.' [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/apt36-state-hackers-infect-android-devices-using-youtube-app-clones/",
+          "publishedOn": "2023-09-18T22:06:13.000Z",
+          "wordCount": 2241,
+          "title": "APT36 state hackers infect Android devices using YouTube app clones",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/05/10/YouTube.jpeg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-gets-new-mirrored-network-mode/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft has released Windows Subsystem for Linux (WSL) 2.0.0 with a set of new opt-in experimental features, including a new network mode and automated memory and disk size cleanup. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-gets-new-mirrored-network-mode/",
+          "publishedOn": "2023-09-18T21:52:29.000Z",
+          "wordCount": 2233,
+          "title": "Windows Subsystem for Linux gets new 'mirrored' network mode",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2020/09/30/wsl-space-header.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/thousands-of-juniper-devices-vulnerable-to-unauthenticated-rce-flaw/",
+          "author": "Bill Toulas",
+          "description": "An estimated 12,000 Juniper SRX firewalls and EX switches are vulnerable to a fileless remote code execution flaw that attackers can exploit without authentication. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/thousands-of-juniper-devices-vulnerable-to-unauthenticated-rce-flaw/",
+          "publishedOn": "2023-09-18T19:40:29.000Z",
+          "wordCount": 2389,
+          "title": "Thousands of Juniper devices vulnerable to unauthenticated RCE flaw",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/08/28/Juniper.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-paint-finally-gets-support-for-layers-and-transparency/",
           "author": "Sergiu Gatlan",
@@ -2445,26 +2490,6 @@
           "wordCount": 2361,
           "title": "Hands on with Windows 11's 'never combine' taskbar feature",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/02/13/Windows_11.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-when-installed-extensions-are-malware/",
-          "author": "Lawrence Abrams",
-          "description": "Google is testing a new feature in the Chrome browser that will warn users when an installed extension has been removed from the Chrome Web Store, usually indicative of it being malware. [...]",
-          "link": "https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-when-installed-extensions-are-malware/",
-          "publishedOn": "2023-08-20T17:26:54.000Z",
-          "wordCount": 2256,
-          "title": "Google Chrome to warn when installed extensions are malware",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/09/23/Chrome_flare.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cuba-ransomware-uses-veeam-exploit-against-critical-us-organizations/",
-          "author": "Bill Toulas",
-          "description": "The Cuba ransomware gang was observed in attacks targeting critical infrastructure organizations in the United States and IT firms in Latin America, using a combination of old and new tools. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cuba-ransomware-uses-veeam-exploit-against-critical-us-organizations/",
-          "publishedOn": "2023-08-20T14:15:30.000Z",
-          "wordCount": 2188,
-          "title": "Cuba ransomware uses Veeam exploit against critical U.S. organizations",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/08/18/Cuba-2.jpg"
         }
       ]
     },
@@ -2473,6 +2498,26 @@
       "feedUrl": "https://www.technologyreview.com/feed/",
       "siteUrl": "https://www.technologyreview.com",
       "articles": [
+        {
+          "id": "https://www.technologyreview.com/?p=1079846",
+          "author": "Melissa Heikkilä",
+          "description": "So smart! So talented! This week I’m pleased to introduce you to a new crop of bright minds working on some of the most challenging problems in AI and beyond. You can read MIT Technology Review’s full list of 35 Innovators Under 35 here.  We’ve previously highlighted some of the most promising people in tech before…",
+          "link": "https://www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/",
+          "publishedOn": "2023-09-19T08:37:10.000Z",
+          "wordCount": 6348,
+          "title": "Meet the next generation of AI superstars",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/09/SharonLi_Stathas_34-algo.jpeg?resize=1200,600"
+        },
+        {
+          "id": "https://www.technologyreview.com/?p=1079832",
+          "author": "Zeyi Yang",
+          "description": "Scroll through the livestreaming videos at 4 a.m. on Taobao, China’s most popular e-commerce platform, and you’ll find it weirdly busy. While most people are fast asleep, there are still many diligent streamers presenting products to the cameras and offering discounts in the wee hours.  But if you take a closer look, you may notice…",
+          "link": "https://www.technologyreview.com/2023/09/19/1079832/chinese-ecommerce-deepfakes-livestream-influencers-ai/",
+          "publishedOn": "2023-09-19T07:45:00.000Z",
+          "wordCount": 7759,
+          "title": "Deepfakes of Chinese influencers are livestreaming 24/7",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/09/vlcsnap-2023-09-18-12h55m27s732.png?resize=1200,600"
+        },
         {
           "id": "https://www.technologyreview.com/?p=1079778",
           "author": "Rhiannon Williams",
@@ -3310,6 +3355,76 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9309479",
+          "author": null,
+          "description": "Der Landesbetrieb Information und Technik NRW arbeitet mit Hochdruck daran, eine Serverstörung zu beseitigen, die sich auch bundesweit auswirkt.",
+          "link": "https://www.heise.de/news/Serverstoerung-Insolvenzverfahren-de-und-mehrere-andere-Portale-nicht-erreichbar-9309479.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-09-19T09:02:00.000Z",
+          "wordCount": 1890,
+          "title": "Serverstörung: Insolvenzverfahren.de und mehrere andere Portale nicht erreichbar",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/0/5/0/5/7/shutterstock_674220025-a781fb20c257102e.jpg"
+        },
+        {
+          "id": "http://heise.de/-9309303",
+          "author": null,
+          "description": "Links zum Teilen von Dateien können riskant sein: Microsofts KI-Team hat damit aus Versehen 38 Terabyte an privaten Daten öffentlich geteilt.",
+          "link": "https://www.heise.de/news/Datenleck-Microsofts-KI-Team-stellt-38-Terabyte-ins-Netz-9309303.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-09-19T08:31:00.000Z",
+          "wordCount": 2202,
+          "title": "Datenleck: Fehlkonfiguration von Microsofts KI-Team stellt 38 Terabyte online",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/0/4/9/5/9/shutterstock_1579023238-ac092dd31bfa5547.jpg"
+        },
+        {
+          "id": "http://heise.de/-9309363",
+          "author": null,
+          "description": "Der Bundesdatenschutzbeauftragte Kelber fordert mehr Medienkompetenz an Schulen. Kinder sollen Antworten von ChatGPT und Co. hinterfragen und reflektieren.",
+          "link": "https://www.heise.de/news/KI-in-der-Schule-Datenschutzbeauftragter-fordert-mehr-Medienbildung-9309363.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-09-19T08:08:00.000Z",
+          "wordCount": 2021,
+          "title": "KI in der Schule: Datenschutzbeauftragter fordert mehr Medienbildung",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/0/4/9/9/3/shutterstock_1081026812-47928a36e6766fc9.jpg"
+        },
+        {
+          "id": "http://heise.de/-9301517",
+          "author": null,
+          "description": "Lernen Sie Konzepte und Methoden der Kryptographie anhand typischer Anwendungsfälle aus der Praxis kennen.",
+          "link": "https://www.heise.de/news/iX-Workshop-Moderne-Kryptographie-verstehen-und-anwenden-Last-Call-9301517.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-09-19T08:00:00.000Z",
+          "wordCount": 1855,
+          "title": "heise-Angebot: iX-Workshop: Moderne Kryptographie verstehen und anwenden – Last Call",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/0/0/7/6/5/Moderne-Kryptografie-Ticker-Header-16-9-5bbebe87a2873f61.jpg"
+        },
+        {
+          "id": "http://heise.de/-9309284",
+          "author": null,
+          "description": "Die neue Linux-Distribution openSUSE Slowroll könnte das beliebte openSUSE Leap ablösen. Allerdings gibt es mit Linarite noch einen weiteren Kandidaten.",
+          "link": "https://www.heise.de/news/openSUSE-Slowroll-Die-Zukunft-von-openSUSE-Leap-9309284.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-09-19T06:49:00.000Z",
+          "wordCount": 2156,
+          "title": "openSUSE Slowroll: Die Zukunft von openSUSE Leap?",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/0/4/9/4/8/2023-09-19-openSUSE-Slowroll-Wiki-auf_Notebook_auf_Tisch_2-1080-0c8901a8867bd9ea.jpg"
+        },
+        {
+          "id": "http://heise.de/-9301543",
+          "author": null,
+          "description": "Lernen Sie effektive technische Maßnahmen kennen, um Microsofts Office-Paket gegen Angriffe aus der Cloud abzusichern. Mit 10 % Rabatt bis 25. September.",
+          "link": "https://www.heise.de/news/iX-Workshop-Sichere-Konfiguration-von-M365-10-Fruehbucherrabatt-9301543.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-09-19T06:00:00.000Z",
+          "wordCount": 1916,
+          "title": "heise-Angebot: iX-Workshop: Sichere Konfiguration von M365 (10% Frühbucherrabatt)",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/0/0/7/7/8/Sichere-Konfiguration-Ticker-Header-16-9-d354c89982dc68c3.jpg"
+        },
+        {
+          "id": "http://heise.de/-9309133",
+          "author": null,
+          "description": "Microsofts ehemaliger Windows- und Surface-Chef Panos Panay wechselt angeblich zu Amazon. Dort soll er die Abteilung der Echo- und Alexa-Produkte leiten.",
+          "link": "https://www.heise.de/news/Microsoft-Produktchef-auf-dem-Sprung-zu-Amazon-9309133.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-09-18T21:09:00.000Z",
+          "wordCount": 2115,
+          "title": "Microsoft-Produktchef auf dem Sprung zu Amazon",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/0/4/8/6/5/urn-newsml-dpa-com-20090101-140521-99-01393_large_4_3-a7780aa129a815ab.jpg"
+        },
         {
           "id": "http://heise.de/-9309038",
           "author": null,
@@ -8379,36 +8494,6 @@
           "wordCount": 2495,
           "title": "Offen für alle, aber Details verschweigen – zum Tod von John Warnock",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/9/0/8/0/Bildschirmfoto_2023-08-21_um_08.57.52-f6310228f87196b5.png"
-        },
-        {
-          "id": "http://heise.de/-9268268",
-          "author": null,
-          "description": "Eine stimmungsvolle Beleuchtung basiert nicht nur auf einfachen LED-Lampen. LED-Strips, Projektoren und vieles mehr erzeugen ganz besondere Lichtmomente.",
-          "link": "https://www.techstage.de/ratgeber/krasse-lichteffekte-mit-led-streifen-sternenhimmel-lichterketten-und-co-ab-10-euro/cmg7ngq?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-08-20T14:00:00.000Z",
-          "wordCount": 6132,
-          "title": "Krasse Lichteffekte mit LED-Streifen, Sternenhimmel, Lichterketten & Co. ab 10 €",
-          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/jo0ktkpTURBXy80NzEwYjU0NGI5NjExNDE1OGM1NjcwMTU2OWRhMWY3OS5qcGeSlQMAAM0PwM0I3JMFzQSwzQJ2"
-        },
-        {
-          "id": "http://heise.de/-9268426",
-          "author": null,
-          "description": "Durch einen Datendiebstahl, ermöglicht durch eine Zero-Day-Schwachstelle in MobileIron, flossen persönliche Daten der Mitarbeiter der Berner Kantonspolizei ab.",
-          "link": "https://www.heise.de/news/MobileIron-Diebstahl-persoenlicher-Daten-von-Polizei-Mitarbeitern-in-der-Schweiz-9268426.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-08-20T13:53:00.000Z",
-          "wordCount": 1998,
-          "title": "MobileIron: Diebstahl persönlicher Daten von Polizei-Mitarbeitern in der Schweiz",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/8/9/9/5/shutterstock_1640657776-dfb73f191694aae2.jpg"
-        },
-        {
-          "id": "http://heise.de/-9268248",
-          "author": null,
-          "description": "Der Bundesbeauftragte für den Datenschutz Ulrich Kelber fordert, den Datenschutz gegen die Datensammelei von KI-Systemen durchzusetzen. Es brauche Regeln dafür.",
-          "link": "https://www.heise.de/news/Datenschutzbeauftragter-KI-beim-Datensammeln-mit-Regeln-bremsen-9268248.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-08-20T11:27:00.000Z",
-          "wordCount": 2005,
-          "title": "Datenschutzbeauftragter: KI beim Datensammeln mit Regeln bremsen",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/8/9/0/6/shutterstock_546129427-315503bb8019a4ee.jpg"
         }
       ]
     },
@@ -8904,6 +8989,38 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/09/transparent-tribe-uses-fake-youtube.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The suspected Pakistan-linked threat actor known as Transparent Tribe is using malicious Android apps mimicking YouTube to distribute the CapraRAT mobile remote access trojan (RAT), demonstrating the continued evolution of the activity.\n\"CapraRAT is a highly invasive tool that gives the attacker control over much of the data on the Android devices that it infects,\" SentinelOne security",
+          "link": "https://thehackernews.com/2023/09/transparent-tribe-uses-fake-youtube.html",
+          "publishedOn": "2023-09-19T06:56:00.000Z",
+          "wordCount": null,
+          "title": "Transparent Tribe Uses Fake YouTube Android Apps to Spread CapraRAT Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoe8c7hL2zOYWPTQXI7MwFyB30WdZJdUoGmjPQxWjueM2IZoj0K3X_WVIWBw7Z3MeI1T9sJwUo3ViB-8fBrPvS1YgLfCAu58sTWDZrOJvsBA-sK6tVmO3PP56PE6R7IyJ3YWuXRH5qykgEe9B2oOm6X55rwUi4MYKHyacxEvFX68F-I5OwxuPbHF7ZqRW2/s1600/youtube.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoe8c7hL2zOYWPTQXI7MwFyB30WdZJdUoGmjPQxWjueM2IZoj0K3X_WVIWBw7Z3MeI1T9sJwUo3ViB-8fBrPvS1YgLfCAu58sTWDZrOJvsBA-sK6tVmO3PP56PE6R7IyJ3YWuXRH5qykgEe9B2oOm6X55rwUi4MYKHyacxEvFX68F-I5OwxuPbHF7ZqRW2/s1600/youtube.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/09/microsoft-ai-researchers-accidentally.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Monday said it took steps to correct a glaring security gaffe that led to the exposure of 38 terabytes of private data.\nThe leak was discovered on the company's AI GitHub repository and is said to have been inadvertently made public when publishing a bucket of open-source training data, Wiz said. It also included a disk backup of two former employees' workstations containing secrets",
+          "link": "https://thehackernews.com/2023/09/microsoft-ai-researchers-accidentally.html",
+          "publishedOn": "2023-09-19T04:05:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyJyQb9mcfSjaCa17jIAuIuKveXmj16kftXN2B1lMd8fODbwIrboMDf1VP38_vIFpAb-J_rUVu-2mTraIhsYXVdyZc2bHh0vbDY0bxqCkNb2guDOAp-52gDutokkTKT12srlfZU_gnxTIOy15X9TzCdZWeX4TrEAgpQsMp2qTCkhicAv_DaH_y8kvRukSk/s1600/wiz.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyJyQb9mcfSjaCa17jIAuIuKveXmj16kftXN2B1lMd8fODbwIrboMDf1VP38_vIFpAb-J_rUVu-2mTraIhsYXVdyZc2bHh0vbDY0bxqCkNb2guDOAp-52gDutokkTKT12srlfZU_gnxTIOy15X9TzCdZWeX4TrEAgpQsMp2qTCkhicAv_DaH_y8kvRukSk/s1600/wiz.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/09/new-ambersquid-cryptojacking-operation.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -10943,6 +11060,146 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/bt_confirms_nationwide_3g_switch/",
+          "author": null,
+          "description": "<h4>Time to retire that Nokia N97 at last?</h4> <p>BT has updated the schedule to phase out 3G services from its networks a little later than planned, saying this will now start early next year.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/bt_confirms_nationwide_3g_switch/",
+          "publishedOn": "2023-09-19T08:30:13.000Z",
+          "wordCount": 1531,
+          "title": "BT confirms it's switching off 3G in UK from Jan next year",
+          "imageUrl": "https://regmedia.co.uk/2021/01/06/shutterstock_cell_tower.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/matt_uber_china_excel_clone/",
+          "author": null,
+          "description": "<h4>Developer recounts rideshare giant's strange Middle Kingdom journey, and its fears interns were spies</h4> <p>A developer named Matt Basta has posted an extraordinary account of working for Uber, where he was asked to develop a substitute for Microsoft's Excel spreadsheet program under peculiar circumstances – only to see his work discarded.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/matt_uber_china_excel_clone/",
+          "publishedOn": "2023-09-19T07:26:10.000Z",
+          "wordCount": 2028,
+          "title": "Excel clone built for Uber China exposed Microsoft calculation error",
+          "imageUrl": "https://regmedia.co.uk/2016/06/04/shutterstock_uber.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/amd_desktop_ai_futures/",
+          "author": null,
+          "description": "<h4>Chip designer has extended support for modest desktop CPUs, citing Intel setting expectations for cheap and not-so-speedy silicon</h4> <p>AI-on-the-desktop is not yet a thing, and its uses may not be apparent for some time, according to Justin Galton, director and worldwide segment leader for AMD’s commercial client business.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/amd_desktop_ai_futures/",
+          "publishedOn": "2023-09-19T06:26:13.000Z",
+          "wordCount": 1549,
+          "title": "Desktop AI isn’t happening, says AMD, and might not for quite a while",
+          "imageUrl": "https://regmedia.co.uk/2021/01/12/ryzen.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/china_metaverse_standards/",
+          "author": null,
+          "description": "<h4>Beijing reckons they could be handy for manufacturing, but for now they're just a mess</h4> <p>China’s Ministry of Industry and Information Technology (MIIT) announced Monday it will form a working group to set metaverse standards - becuase without them, metaversal matters have meandered.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/china_metaverse_standards/",
+          "publishedOn": "2023-09-19T05:14:14.000Z",
+          "wordCount": 1203,
+          "title": "China to set standards for the metaverse because it's not sure what one is",
+          "imageUrl": "https://regmedia.co.uk/2022/02/23/metaverse_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/australia_six_cyber_shields/",
+          "author": null,
+          "description": "<h4>Local corporate regulator warns boards that cyber is totally a directorial duty</h4> <p>Australia will build \"six cyber shields around our nation\" declared home affairs minister Clare O'Neill yesterday, as part of a national cyber security strategy.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/australia_six_cyber_shields/",
+          "publishedOn": "2023-09-19T03:44:07.000Z",
+          "wordCount": 1630,
+          "title": "Australia to build six 'cyber shields' to defend its shores",
+          "imageUrl": "https://regmedia.co.uk/2021/02/03/fighting_kangaroos_australia.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/vmware_broadcom_acquisition_layoffs/",
+          "author": null,
+          "description": "<h4>CVs are starting to appear on social media because staff think it's a sensible time to be in the shop window</h4> <p>VMware last week held a staff meeting at which it reportedly foreshadowed job cuts – perhaps before its acquisition by Broadcom closes in late October.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/vmware_broadcom_acquisition_layoffs/",
+          "publishedOn": "2023-09-19T02:13:07.000Z",
+          "wordCount": 1380,
+          "title": "VMware staff reportedly told job cuts may start before Broadcom acquisition",
+          "imageUrl": "https://regmedia.co.uk/2020/03/27/lost_job_facepalm.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/dod_google_ai_cancer_microsocope/",
+          "author": null,
+          "description": "<h4>A different type of ARM - the Augmented Reality Microscope</h4> <p>Google has contributed software to an AI-powered microscope the US Department of Defense hopes will help pathologists spot cancerous cells in tissue samples much more quickly.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/19/dod_google_ai_cancer_microsocope/",
+          "publishedOn": "2023-09-19T00:45:14.000Z",
+          "wordCount": 1571,
+          "title": "US Defense Department enlists Google for AI-powered cancer-spotting kit",
+          "imageUrl": "https://regmedia.co.uk/2021/03/22/shutterstock_medical_tests.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/slac_freeelectron_xray_laser/",
+          "author": null,
+          "description": "<h4>US DoE particle will be a 'strobe light' in atomic disco</h4> <p>The world's most powerful publicly known X-ray laser at the US Department of Energy's SLAC National Accelerator Laboratory has fired its first pulses with an upgrade that could see it scan our world in strange new ways.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/slac_freeelectron_xray_laser/",
+          "publishedOn": "2023-09-18T23:58:09.000Z",
+          "wordCount": 1558,
+          "title": "World's most powerful free-electron laser upgraded to fire a million X-rays per second",
+          "imageUrl": "https://regmedia.co.uk/2023/09/18/slac_lcls.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/juniper_firewalls_rce/",
+          "author": null,
+          "description": "<h4>Unauthenticated and remote code execution possible without dropping a file on disk</h4> <p>About 79 percent of public-facing Juniper SRX firewalls remain vulnerable to a single security flaw can allow an unauthenticated attacker to remotely execute code on the devices, according to threat intelligence platform provider VulnCheck.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/juniper_firewalls_rce/",
+          "publishedOn": "2023-09-18T22:30:10.000Z",
+          "wordCount": 1591,
+          "title": "Thousands of Juniper Junos firewalls still open to hijacks, exploit code available to all",
+          "imageUrl": "https://regmedia.co.uk/2022/03/30/software_bug_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/intel_glass_packaging/",
+          "author": null,
+          "description": "<h4>Don't get too excited, tech won't be ready until the end of the decade</h4> <p>Intel's latest gambit to keep Moores' Law on life support involves ditching organic substrates — the intermediary through which data and power flows on its way in and out of a compute die — for glass ones.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/intel_glass_packaging/",
+          "publishedOn": "2023-09-18T21:46:11.000Z",
+          "wordCount": 1825,
+          "title": "Intel thinks glass substrates are a clear winner in multi-die packaging",
+          "imageUrl": "https://regmedia.co.uk/2023/09/18/intel_glass_substrate.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/sec_lyft_10m_settlement/",
+          "author": null,
+          "description": "<h4>Board member sold off stock just before listing, Lyft forgot to mention it</h4> <p>Ride sharing firm Lyft has agreed to pay the US Securities and Exchange Commission $10 million to settle charges that it failed to report a company director's role in a massive pre-IPO stock deal. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/sec_lyft_10m_settlement/",
+          "publishedOn": "2023-09-18T21:00:13.000Z",
+          "wordCount": 1396,
+          "title": "SEC gets $10m from Lyft over failure to disclose $424m pre-IPO stock sale",
+          "imageUrl": "https://regmedia.co.uk/2019/09/18/shutterstock_lyft_logo.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/cio_penn_state_security/",
+          "author": null,
+          "description": "<h4>Now-NASA boffin not impressed</h4> <p>Last October, Pennsylvania State University (Penn State) was sued by a former chief information officer for allegedly falsifying government security compliance reports.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/cio_penn_state_security/",
+          "publishedOn": "2023-09-18T20:15:10.000Z",
+          "wordCount": 1870,
+          "title": "Former CIO accuses Penn State of faking cybersecurity compliance",
+          "imageUrl": "https://regmedia.co.uk/2019/04/09/shutterstock_366639578.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/microsoft_surface_panos_panay/",
+          "author": null,
+          "description": "<h4>Rumors point to Panay headed to Amazon to take over for outgoing Alexa and Echo chief David Limp</h4> <p>Panos Panay, Microsoft chief product officer and VP for devices, abruptly announced his departure today after 19 years with the company. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/microsoft_surface_panos_panay/",
+          "publishedOn": "2023-09-18T19:29:09.000Z",
+          "wordCount": 1813,
+          "title": "Microsoft Surface chief Panos Panay abruptly announces departure",
+          "imageUrl": "https://regmedia.co.uk/2020/02/06/panos-panay.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/sonos_google_patent_victory/",
+          "author": null,
+          "description": "<h4>ITC judge rules you can't sue over invalid patents, but the fight goes on</h4> <p>The years-long legal drama resulting from a brief fling between Google and smart speaker maker Sonos has resulted in another loss for the Chocolate Factory, which had its claims of copyright infringement tossed out by a US International Trade Commission (ITC) judge Friday. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/sonos_google_patent_victory/",
+          "publishedOn": "2023-09-18T18:45:09.000Z",
+          "wordCount": 1667,
+          "title": "Sonos secures a victory in audio patent fight against Google",
+          "imageUrl": "https://regmedia.co.uk/2020/03/06/shutterstock_sonos.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/18/more_microsoft_token_trouble/",
           "author": null,
@@ -15252,16 +15509,6 @@
           "wordCount": 1532,
           "title": "Moscow makes a mess on the Moon as Luna 25 probe misses orbit, lands with a thud",
           "imageUrl": "https://regmedia.co.uk/2017/01/10/moon.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/08/20/interpol_africa_arrests/",
-          "author": null,
-          "description": "<h4>Cops credit security shops with an assist, tho it's a drop in the ocean</h4> <p>An Interpol-led operation arrested 14 suspects and identified 20,674 \"suspicious\" networks spanning 25 African countries that international cops have linked to more than $40 million in cybercrime losses.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/08/20/interpol_africa_arrests/",
-          "publishedOn": "2023-08-20T07:18:06.000Z",
-          "wordCount": 1508,
-          "title": "Interpol arrests 14 who allegedly scammed $40m from victims in 'cyber surge'",
-          "imageUrl": "https://regmedia.co.uk/2023/08/19/shutterstock_interpol.jpg"
         }
       ]
     }

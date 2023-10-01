@@ -647,6 +647,46 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/meet-losttrust-ransomware-a-likely-rebrand-of-the-metaencryptor-gang/",
+          "author": "Lawrence Abrams",
+          "description": "The LostTrust ransomware operation is believed to be a rebrand of MetaEncryptor, utilizing almost identical data leak sites and encryptors. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/meet-losttrust-ransomware-a-likely-rebrand-of-the-metaencryptor-gang/",
+          "publishedOn": "2023-10-01T15:17:34.000Z",
+          "wordCount": 2482,
+          "title": "Meet LostTrust ransomware — A likely rebrand of the MetaEncryptor gang",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/04/hacker-arms-raised-brighter.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/new-marvin-attack-revives-25-year-old-decryption-flaw-in-rsa/",
+          "author": "Bill Toulas",
+          "description": "A flaw related to the PKCS #1 v1.5 padding in SSL servers discovered in 1998 and believed to have been resolved still impacts several widely-used projects today. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/new-marvin-attack-revives-25-year-old-decryption-flaw-in-rsa/",
+          "publishedOn": "2023-10-01T14:16:08.000Z",
+          "wordCount": 2321,
+          "title": "New Marvin attack revives 25-year-old decryption flaw in RSA",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/09/cyber-key.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/cloudflare-ddos-protections-ironically-bypassed-using-cloudflare/",
+          "author": "Bill Toulas",
+          "description": "Cloudflare's Firewall and DDoS prevention can be bypassed through a specific attack process that leverages logic flaws in cross-tenant security controls. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/cloudflare-ddos-protections-ironically-bypassed-using-cloudflare/",
+          "publishedOn": "2023-09-30T14:16:08.000Z",
+          "wordCount": 2450,
+          "title": "Cloudflare DDoS protections ironically bypassed using Cloudflare",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2020/10/06/cloudflare-ddos.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-prompts-to-reopen-closed-windows/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft has resolved a known issue that caused Outlook Desktop to unexpectedly prompt users to reopen previously closed windows. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-prompts-to-reopen-closed-windows/",
+          "publishedOn": "2023-09-30T14:09:08.000Z",
+          "wordCount": 2203,
+          "title": "Microsoft fixes Outlook prompts to reopen closed windows",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/11/03/Outlook.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-29th-2023-dark-angels/",
           "author": "Lawrence Abrams",
           "description": "This week has been a busy ransomware week, with ransomware attacks having a massive impact on organizations and the fallout of the MOVEit breaches to be disclosed. [...]",
@@ -2435,16 +2475,6 @@
           "wordCount": 2422,
           "title": "Yes, there's an npm package called @(-.-)/env and some others like it",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/07/05/NPM_head_pic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-wordpad-in-windows-after-28-years/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft announced today that it will deprecate WordPad with a future Windows update as it's no longer under active development, though the company did not specify the precise timing of this change. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-wordpad-in-windows-after-28-years/",
-          "publishedOn": "2023-09-01T21:47:42.000Z",
-          "wordCount": 2621,
-          "title": "Microsoft is killing WordPad in Windows after 28 years",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/01/Wordpad_headpic.jpg"
         }
       ]
     },
@@ -3250,6 +3280,16 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9321929",
+          "author": null,
+          "description": "Neben der E-Patientenakte MyGNUHealth wurden auf der Konferenz zahlreiche weitere Einsatzmöglichkeiten freier Software im Medizinbereich vorgestellt.",
+          "link": "https://www.heise.de/news/GNU-Health-Konferenz-Von-persoenlichen-Gesundheitsakten-bis-zum-DICOM-Server-9321929.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-10-01T14:55:00.000Z",
+          "wordCount": 3213,
+          "title": "GNU-Health-Konferenz: Von persönlichen Gesundheitsakten bis zum DICOM-Server",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/1/7/2/0/GNU_Health_Award-54b27fbffd3b4689.jpeg"
+        },
         {
           "id": "http://heise.de/-9322413",
           "author": null,
@@ -8339,16 +8379,6 @@
           "wordCount": 1931,
           "title": "heise-Angebot: Neues Webinar: Datenschutz bei der App-Entwicklung berücksichtigen",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/9/3/8/1/3/Datenschutz-Apps-Ticker-Header-16-9-ef5ba5a67ec2ca3c.jpg"
-        },
-        {
-          "id": "http://heise.de/-9292203",
-          "author": null,
-          "description": "In dieser Folge des c’t uplink gehts um Smart-TVs – genauer: darum, wie sie unser Verhalten überwachen.",
-          "link": "https://www.heise.de/news/Smart-TV-Tracking-vs-Datenschutz-c-t-uplink-9292203.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-09-02T04:30:00.000Z",
-          "wordCount": 1944,
-          "title": "Smart TV: Tracking vs. Datenschutz | c’t uplink",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/9/5/8/0/3/uplinkSmartTVSThumbnail_v1-5f309b3d3ad889e7.jpg"
         }
       ]
     },
@@ -10845,22 +10875,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE4D8MhqYWhfOd2aFpaVvixDOV5nqQyXiMBd139w2Jpvafo4jbxBZb67rbGUsBQGPRZXiZ-SHUBx7swBloTSp-zcUZOaJJHmtml2DKIPhpb0BbyUObsy_u1BBNtROerY_zG41faeFdJnc81KF2uLkLuSFBHt7h_32nWsKDAEpauo0kNvWDGetxuzCRHV4D/s1600/exploit.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE4D8MhqYWhfOd2aFpaVvixDOV5nqQyXiMBd139w2Jpvafo4jbxBZb67rbGUsBQGPRZXiZ-SHUBx7swBloTSp-zcUZOaJJHmtml2DKIPhpb0BbyUObsy_u1BBNtROerY_zG41faeFdJnc81KF2uLkLuSFBHt7h_32nWsKDAEpauo0kNvWDGetxuzCRHV4D/s1600/exploit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/09/okta-warns-of-social-engineering.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Identity services provider Okta on Friday warned of social engineering attacks orchestrated by threat actors to obtain elevated administrator permissions.\n“In recent weeks, multiple US-based Okta customers have reported a consistent pattern of social engineering attacks against IT service desk personnel, in which the caller’s strategy was to convince service desk personnel to reset all",
-          "link": "https://thehackernews.com/2023/09/okta-warns-of-social-engineering.html",
-          "publishedOn": "2023-09-02T04:12:00.000Z",
-          "wordCount": null,
-          "title": "Okta Warns of Social Engineering Attacks Targeting Super Administrator Privileges",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi5Z3qlh7V1bYIFrmwE37P3LvGKKuWVG1r9JqTrvLTJErMx6Qh1J97_fs9BkSnl2Bqhi9qyy6GBSeUffLDV3fvMzvYpE5hCLOzqIsZcnBcYRBcAEp_TqBoqcUToX17d5jjQnI_dTV6JThLoB_qOoouVT4Lfzgpenn42w37Ae1khEwQ5rxQR81R1VD-p9NN/s1600/okta.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi5Z3qlh7V1bYIFrmwE37P3LvGKKuWVG1r9JqTrvLTJErMx6Qh1J97_fs9BkSnl2Bqhi9qyy6GBSeUffLDV3fvMzvYpE5hCLOzqIsZcnBcYRBcAEp_TqBoqcUToX17d5jjQnI_dTV6JThLoB_qOoouVT4Lfzgpenn42w37Ae1khEwQ5rxQR81R1VD-p9NN/s1600/okta.jpg"
         }
       ]
     },
@@ -15448,16 +15462,6 @@
           "wordCount": 1646,
           "title": "Cops drill into chat apps, sink plot to smuggle tons of coke into Europe",
           "imageUrl": "https://regmedia.co.uk/2023/09/01/screenshot_europol.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/02/los_alamos_supercomputer/",
-          "author": null,
-          "description": "<h4>Memory-optimized beast prioritizes weapon-sim perf over flashy FLOPS figs</h4> <p>After months of work unpacking, installing, and deploying the various subsystems and supporting infrastructure, Los Alamos National Laboratory's (LANL) latest super, the Crossroads system, has been installed.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/02/los_alamos_supercomputer/",
-          "publishedOn": "2023-09-02T00:24:16.000Z",
-          "wordCount": 1629,
-          "title": "Los Alamos finishes installing Crossroads super to test nukes without a big bang",
-          "imageUrl": "https://regmedia.co.uk/2023/09/01/lanl_crossroads_installation.jpg"
         }
       ]
     }

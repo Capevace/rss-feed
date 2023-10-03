@@ -415,6 +415,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "In this second article of a two-part series, Adrian shares insights about building WaterBear — his first project as a lead developer — discussing the challenges his team encountered while building it and various accessibility and performance improvements they’ve made. You’ll get a peek at the inner workings of a team striving to find its groove to systematize the work.",
+          "link": "https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/",
+          "publishedOn": "2023-10-02T18:00:00.000Z",
+          "wordCount": 6216,
+          "title": "WaterBear: Building A Free Platform For Impactful Documentaries (Part 2)",
+          "enclosure": {
+            "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/waterbear-building-free-platform-documentaries-part2/waterbear-building-free-platform-impactful-documentaries.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://smashing-files.ams3.digitaloceanspaces.com/articles/waterbear-building-free-platform-documentaries-part2/waterbear-building-free-platform-impactful-documentaries.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/desktop-wallpaper-calendars-october-2023/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!",
@@ -646,6 +661,46 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/microsoft-defender-no-longer-flags-tor-browser-as-malware/",
+          "author": "Mayank Parmar",
+          "description": "For Windows users who frequently use the TorBrowser, there's been a pressing concern. Recent versions of the TorBrowser, specifically because of the tor.exe file it contained, were being flagged as potential threats by Windows Defender. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-no-longer-flags-tor-browser-as-malware/",
+          "publishedOn": "2023-10-02T22:33:17.000Z",
+          "wordCount": 2179,
+          "title": "Microsoft Defender no longer flags Tor Browser as malware",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2020/08/19/Tor.png"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/exim-patches-three-of-six-zero-day-bugs-disclosed-last-week/",
+          "author": "Sergiu Gatlan",
+          "description": "Exim developers have released patches for three of the zero-days disclosed last week through Trend Micro's Zero Day Initiative (ZDI), one of them allowing unauthenticated attackers to gain remote code execution. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/exim-patches-three-of-six-zero-day-bugs-disclosed-last-week/",
+          "publishedOn": "2023-10-02T21:50:12.000Z",
+          "wordCount": 2286,
+          "title": "Exim patches three of six zero-day bugs disclosed last week",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/10/02/Exim.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/new-bunnyloader-threat-emerges-as-a-feature-rich-malware-as-a-service/",
+          "author": "Bill Toulas",
+          "description": "Security researchers discovered a new malware-as-a-service (MaaS) named 'BunnyLoader' advertised on multiple hacker forums as a fileless loader that can steal and replace the contents of the system clipboard. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/new-bunnyloader-threat-emerges-as-a-feature-rich-malware-as-a-service/",
+          "publishedOn": "2023-10-02T19:59:09.000Z",
+          "wordCount": 2415,
+          "title": "New BunnyLoader threat emerges as a feature-rich malware-as-a-service",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/10/02/bunny.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-exploiting-critical-teamcity-rce-flaw/",
+          "author": "Sergiu Gatlan",
+          "description": "Ransomware gangs are now targeting a recently patched critical vulnerability in JetBrains' TeamCity continuous integration and deployment server. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-exploiting-critical-teamcity-rce-flaw/",
+          "publishedOn": "2023-10-02T19:32:19.000Z",
+          "wordCount": 2123,
+          "title": "Ransomware gangs now exploiting critical TeamCity RCE flaw",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/12/hacker-staring.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-ws-ftp-bug-exploited-in-attacks/",
           "author": "Sergiu Gatlan",
@@ -2445,46 +2500,6 @@
           "wordCount": 2205,
           "title": "Okta: Hackers target IT help desks to gain Super Admin, disable MFA",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/04/20/Okta.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-top-three-new-features/",
-          "author": "Mayank Parmar",
-          "description": "The highly anticipated Windows 11 23H2 update is around the corner, and Microsoft has released its best features to testers in the Beta Channel. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-top-three-new-features/",
-          "publishedOn": "2023-09-03T21:01:56.000Z",
-          "wordCount": 2433,
-          "title": "Windows 11 23H2: Top three new features",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/02/13/Windows_11_dark_hdr.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/university-of-sydney-data-breach-impacts-recent-applicants/",
-          "author": "Bill Toulas",
-          "description": "The University of Sydney (USYD) has announced it has suffered a data breach through a third-party service provider, exposing the personal data of recently applied and enrolled international applicants. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/university-of-sydney-data-breach-impacts-recent-applicants/",
-          "publishedOn": "2023-09-03T15:13:15.000Z",
-          "wordCount": 2088,
-          "title": "University of Sydney data breach impacts recent applicants",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/01/sydney01.png"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-windows-will-disable-insecure-tls-soon/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft reminded users that insecure Transport Layer Security (TLS) 1.0 and 1.1 protocols will be disabled soon in future Windows releases. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-windows-will-disable-insecure-tls-soon/",
-          "publishedOn": "2023-09-03T14:20:30.000Z",
-          "wordCount": 2173,
-          "title": "Microsoft reminds users Windows will disable insecure TLS soon",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/09/20/Windows.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/childrens-snack-recalled-after-its-website-caught-serving-porn/",
-          "author": "Ax Sharma",
-          "description": "Supermarket chain Lidl has been recalling four types of PAW Patrol-themed snacks across the UK. Except, the reason for the recall has got nothing to do with food contents, but the website listed on the snack's packaging serving porn. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/childrens-snack-recalled-after-its-website-caught-serving-porn/",
-          "publishedOn": "2023-09-03T10:06:18.000Z",
-          "wordCount": 2344,
-          "title": "Children's snack recalled after its website caught serving porn",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/03/paw-patrol.jpeg"
         }
       ]
     },
@@ -3310,6 +3325,46 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9323709",
+          "author": null,
+          "description": "Nach verschiedenen Kommunikationspannen hat das Exim-Team kritische Sicherheitslücken im beliebten Mailserver behoben. Debian verteilt bereits Updates.",
+          "link": "https://www.heise.de/news/Exim-Luecke-Erste-Patches-laufen-ein-9323709.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-10-03T08:25:00.000Z",
+          "wordCount": 1852,
+          "title": "Exim-Lücke: Erste Patches laufen ein",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/2/6/5/4/shutterstock_76778770-b847c03702c9daa0.jpg"
+        },
+        {
+          "id": "http://heise.de/-9288410",
+          "author": null,
+          "description": "Lernen Sie alles Wichtige über Cybersicherheit in der Industrie 4.0 und in kritischer Infrastruktur – mit Tipps für die fünf größten Probleme der Cybersecurity.",
+          "link": "https://www.heise.de/news/Webinar-Cybersecurity-in-Industrie-4-0-und-kritischer-Infrastruktur-9288410.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-10-03T08:00:00.000Z",
+          "wordCount": 2018,
+          "title": "heise-Angebot: Webinar: Cybersecurity in Industrie 4.0 und kritischer Infrastruktur",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/9/3/7/5/1/Cybersicherheit-Ticker-Header-16-9-7ba119e6e89b69e3.jpg"
+        },
+        {
+          "id": "http://heise.de/-9323431",
+          "author": null,
+          "description": "Bis zu 90 Prozent aller Angriffe bedienen sich Microsofts Active Directory – es ist der Hebel, um die eigene Sicherheit zu verbessern. Wir zeigen, wie das geht.",
+          "link": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Der-beste-Schutz-fuer-das-Active-Directory-9323431.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-10-03T05:30:00.000Z",
+          "wordCount": 2491,
+          "title": "Drei Fragen und Antworten: Der beste Schutz für das Active Directory",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/2/5/0/2/fragen_antworten-3759dca96f265b07.png"
+        },
+        {
+          "id": "http://heise.de/-9323681",
+          "author": null,
+          "description": "In addition to the electronic health record ‘MyGNUHealth’, numerous other possible uses of free software in the medical field were presented at the conference.",
+          "link": "https://www.heise.de/news/GNU-Health-Conference-Free-software-for-personal-health-records-and-more-9323681.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-10-02T20:47:00.000Z",
+          "wordCount": 3381,
+          "title": "GNU Health Conference: Free software for personal health records and more",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/2/6/3/7/GNU_Health_Award-54b27fbffd3b4689.jpeg"
+        },
         {
           "id": "http://heise.de/-9323673",
           "author": null,
@@ -8915,6 +8970,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/10/arm-issues-patch-for-mali-gpu-kernel.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Arm has released security patches to contain a security flaw in the Mali GPU Kernel Driver that has come under active exploitation in the wild.\nTracked as CVE-2023-4211, the shortcoming impacts the following driver versions -\n\nMidgard GPU Kernel Driver: All versions from r12p0 - r32p0\nBifrost GPU Kernel Driver: All versions from r0p0 - r42p0\nValhall GPU Kernel Driver: All versions from r19p0 -",
+          "link": "https://thehackernews.com/2023/10/arm-issues-patch-for-mali-gpu-kernel.html",
+          "publishedOn": "2023-10-03T04:58:00.000Z",
+          "wordCount": null,
+          "title": "Arm Issues Patch for Mali GPU Kernel Driver Vulnerability Amidst Ongoing Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfjrpmndMb1FAwTJ1QWTAwnw4oV9r2HD3UJLKLUh3h65WWjtl6Au5FiRffULMt9ftFXfvYaAGTqOcTqNKO5Bqfv3Nz-cBaGm_MO2uo_luxAwXbjll4Vpwp2Jot6yXhMEUmXBLGMEYDuP0RkY0jSKvyuzqQBcEgf1gIh_xPlprh3IfISWr2nAfZ_63qr29O/s1600/arm.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfjrpmndMb1FAwTJ1QWTAwnw4oV9r2HD3UJLKLUh3h65WWjtl6Au5FiRffULMt9ftFXfvYaAGTqOcTqNKO5Bqfv3Nz-cBaGm_MO2uo_luxAwXbjll4Vpwp2Jot6yXhMEUmXBLGMEYDuP0RkY0jSKvyuzqQBcEgf1gIh_xPlprh3IfISWr2nAfZ_63qr29O/s1600/arm.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/10/apis-unveiling-silent-killer-of-cyber.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Introduction\nIn today's interconnected digital ecosystem, Application Programming Interfaces (APIs) play a pivotal role in enabling seamless communication and data exchange between various software applications and systems. APIs act as bridges, facilitating the sharing of information and functionalities. However, as the use of APIs continues to rise, they have become an increasingly attractive",
@@ -11113,6 +11184,146 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/uk_iaas_market_cma_probe/",
+          "author": null,
+          "description": "<h4>Ofcom to refer findings to CMA – which insiders say will home in on egress fees, interoperability and licensing</h4> <p><em>The Reg</em> can reveal that UK's comms regulator Ofcom is expected to refer the findings of its six-month inquiry into the health of Britain's cloud computing landscape to the Competition Markets Authority later this week for a deeper probe.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/uk_iaas_market_cma_probe/",
+          "publishedOn": "2023-10-03T08:30:11.000Z",
+          "wordCount": 2060,
+          "title": "UK IaaS market: Deeper probe by competition regulator lands soon",
+          "imageUrl": "https://regmedia.co.uk/2018/03/23/cloud_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/microsoft_defender_tor/",
+          "author": null,
+          "description": "<h4>Just because you're paranoid…</h4> <p>We're sure you'll be pleased to know Microsoft Defender has stopped mistakenly breaking the latest version of Tor Browser. The antivirus tool had flagged and quarantined the application's core tor.exe program as a trojan, causing the software to stop working as desired.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/microsoft_defender_tor/",
+          "publishedOn": "2023-10-03T07:35:08.000Z",
+          "wordCount": 1665,
+          "title": "Microsoft Defender 'finally' stops flagging Tor Browser as malware",
+          "imageUrl": "https://regmedia.co.uk/2023/10/02/onion_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/vega_c_return_delay/",
+          "author": null,
+          "description": "<h4>Eurolauncher won't fly again until 2024 as it awaits another redesign</h4> <p>The Vega-C rocket will not return to launch until late 2024 because a test on a redesigned nozzle failed, the European Space Agency revealed on Monday.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/vega_c_return_delay/",
+          "publishedOn": "2023-10-03T06:15:13.000Z",
+          "wordCount": 1578,
+          "title": "ESA delays Vega-C's return after nozzle design fails tests",
+          "imageUrl": "https://regmedia.co.uk/2016/03/15/exomars_proton_teaser.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/chromebook_plus/",
+          "author": null,
+          "description": "<h4>Some may be made in India, where the Big G has teamed to make kit with HP</h4> <p>Google has added a 'Plus' designation to its Chromebook spec that requires machines to offer at least an Intel Core i3 12th Gen or above, or AMD Ryzen 3 7000, plus 8GB of memory and 128GB of onboard storage.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/chromebook_plus/",
+          "publishedOn": "2023-10-03T04:34:28.000Z",
+          "wordCount": 1344,
+          "title": "Google doubles minimum RAM and disk in 'Chromebook Plus' spec",
+          "imageUrl": "https://regmedia.co.uk/2023/10/03/supplied_chromebook_plus.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/japan_infosec_self_sufficiency_cynex/",
+          "author": null,
+          "description": "<h4>CYNEX Alliance brings industry, government, and academia together to share info and devise tools</h4> <p>Japan's National Institute of Information and Communications Technology yesterday launched the CYNEX Alliance – an entity charged with fostering local development of security tools and encouraging their adoption by local industry to reduce dependence on imported infosec tools.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/japan_infosec_self_sufficiency_cynex/",
+          "publishedOn": "2023-10-03T02:45:13.000Z",
+          "wordCount": 1404,
+          "title": "Japan drives for infosec self-sufficiency – at least in one layer of deep defenses",
+          "imageUrl": "https://regmedia.co.uk/2021/06/03/shutterstock_japan_flag.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/asia_in_brief/",
+          "author": null,
+          "description": "<h4>Plus: Philippine state health insurance knocked offline by ransomware, China relaxes data export laws, and more</h4> <p><strong>Asia in brief</strong>  Zhu Su, co-founder of fallen crypto business Three Arrows Capital (3AC), was arrested last Friday at Changi Airport in Singapore as he attempted to leave the country.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/asia_in_brief/",
+          "publishedOn": "2023-10-03T01:30:15.000Z",
+          "wordCount": 2085,
+          "title": "Co-founder of collapsed crypto biz Three Arrows cuffed at airport",
+          "imageUrl": "https://regmedia.co.uk/2023/10/02/shutetrstock_chnagi_airport.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/apple_ios_17_overheating_fix/",
+          "author": null,
+          "description": "<h4>Fixes about to flow, perhaps along with an iSearch engine</h4> <p>Apple has warned that a bug in the iOS 17 software powering its latest iPhone 15 Pro model is causing smartphones to overheat.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/03/apple_ios_17_overheating_fix/",
+          "publishedOn": "2023-10-03T00:32:41.000Z",
+          "wordCount": 1465,
+          "title": "Apple blames iOS 17 bug for overheating iPhone 15 woes",
+          "imageUrl": "https://regmedia.co.uk/2023/04/11/iphone_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/us_state_security_gao/",
+          "author": null,
+          "description": "<h4>End-of-life systems still in use, poor inventory control, and China's hunting</h4> <p>The US Department of State has largely failed to implement an effective cybersecurity risk program, auditors concluded in a report last week. That means a crucial arm of the American government is potentially wide open to cyberattacks it may not be able to identify or stop.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/us_state_security_gao/",
+          "publishedOn": "2023-10-02T23:29:13.000Z",
+          "wordCount": 2061,
+          "title": "US State Dept has no idea if its IT security actually works, say auditors",
+          "imageUrl": "https://regmedia.co.uk/2022/04/05/us_department_of_state_logo_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/watermarking_security_checks/",
+          "author": null,
+          "description": "<h4>Basically, it's 'not going to work'</h4> <p><strong>Exclusive</strong>  In July, the White House announced that seven large tech players have committed to AI safety measures, including the deployment of watermarking to ensure that algorithmically-generated content can be distinguished from the work of actual people.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/watermarking_security_checks/",
+          "publishedOn": "2023-10-02T21:59:07.000Z",
+          "wordCount": 1956,
+          "title": "Watermarking AI images to fight misinfo and deepfakes may be pretty pointless",
+          "imageUrl": "https://regmedia.co.uk/2020/02/06/shutterstock_watermark.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/feds_ransomware_report/",
+          "author": null,
+          "description": "<h4>Better late than never, we guess</h4> <p>An urgent ransomware warning from the Feds has some industry analysts scratching their heads and wondering if Uncle Sam's noggin has been buried in the sand for too long.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/feds_ransomware_report/",
+          "publishedOn": "2023-10-02T21:29:09.000Z",
+          "wordCount": 1994,
+          "title": "Feds hopelessly behind the times on ransomware trends in alert to industry",
+          "imageUrl": "https://regmedia.co.uk/2018/07/10/shutterstock_fbi_smartphone.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/tom_hanks_ai_advert/",
+          "author": null,
+          "description": "<h4>I'm not a smart man, but I know it should be cast away</h4> <p>A dental healthcare advert featuring what looks like a younger Tom Hanks dressed in a black suit is fake and AI-generated, the Forrest Gump actor has warned.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/tom_hanks_ai_advert/",
+          "publishedOn": "2023-10-02T20:31:09.000Z",
+          "wordCount": 1394,
+          "title": "Fuming Tom Hanks says he had nothing to do with that AI dental ad clone of him",
+          "imageUrl": "https://regmedia.co.uk/2023/10/02/hanks_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/cern_storage_exabyte/",
+          "author": null,
+          "description": "<h4>A petabyte or more a day of readings? No problem, pal</h4> <p>In preparation for its latest round of ion-smashing tests, CERN boosted its storage array for the experiments to more than one million terabytes in total size.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/cern_storage_exabyte/",
+          "publishedOn": "2023-10-02T19:48:07.000Z",
+          "wordCount": 1391,
+          "title": "CERN swells storage space beyond 1EB for LHC's latest ion-whacking experiments",
+          "imageUrl": "https://regmedia.co.uk/2023/10/02/cern_datacenter.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/nasa_astronaut_health/",
+          "author": null,
+          "description": "<h4>One (very) small leap for humanity's future in space</h4> <p>NASA has announced plans to fund eight short-term research projects aimed at improving our understanding of space's effects on the human body, but all eight will have to share just $1.5 million in funding to accomplish their goals. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/nasa_astronaut_health/",
+          "publishedOn": "2023-10-02T18:45:06.000Z",
+          "wordCount": 1405,
+          "title": "NASA awards $1.5m for 'three steps to Mars' astronaut health program",
+          "imageUrl": "https://regmedia.co.uk/2021/05/19/astronaut.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/slowroll_opensuse_tumbleweed/",
+          "author": null,
+          "description": "<h4>Keep rollin', rollin', rollin', rollin'</h4> <p>The openSUSE project is undergoing changes that, to us at least, indicate a multiplicity of future directions for the code base.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/slowroll_opensuse_tumbleweed/",
+          "publishedOn": "2023-10-02T18:18:12.000Z",
+          "wordCount": 1646,
+          "title": "openSUSE offers Slowroll distro for those scared by the speed of Tumbleweed",
+          "imageUrl": "https://regmedia.co.uk/2023/10/02/tumbleweed_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/10/02/x_sues_sublessee/",
           "author": null,

@@ -677,6 +677,16 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/ubuntu-discovers-hate-speech-in-release-2310-how-to-upgrade/",
+          "author": "Ax Sharma",
+          "description": "Ubuntu, the most popular Linux distribution, has pulled its Desktop release 23.10 after its Ukrainian translations were discovered to contain hate speech. According to the Ubuntu project, a malicious contributor is behind anti-Semitic, homophobic, and xenophobic slurs that were injected into the distro via a \"third party tool.\" [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/ubuntu-discovers-hate-speech-in-release-2310-how-to-upgrade/",
+          "publishedOn": "2023-10-14T10:00:00.000Z",
+          "wordCount": 2713,
+          "title": "Ubuntu discovers 'hate speech' in release 23.10 — how to upgrade?",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/12/13/Ubuntu.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-13th-2023-increasing-attacks/",
           "author": "Lawrence Abrams",
           "description": "Ransomware gangs continue to pummel the enterprise, with attacks causing disruption in business operations and resulting in data breaches if a ransom is not paid. [...]",
@@ -2465,16 +2475,6 @@
           "wordCount": 1845,
           "title": "Bing Chat AI is down, affecting Windows Copilot and more",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/02/17/Bing-chat.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/mgm-casinos-esxi-servers-allegedly-encrypted-in-ransomware-attack/",
-          "author": "Ionut Ilascu",
-          "description": "An affiliate of the BlackCat ransomware group, also known as APLHV, is behind the attack that disrupted MGM Resorts' operations, forcing the company to shut down IT systems. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/mgm-casinos-esxi-servers-allegedly-encrypted-in-ransomware-attack/",
-          "publishedOn": "2023-09-14T22:52:04.000Z",
-          "wordCount": 2651,
-          "title": "MGM casino's ESXi servers allegedly encrypted in ransomware attack",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/14/cyber-spider.jpg"
         }
       ]
     },
@@ -3350,6 +3350,56 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9334827",
+          "author": null,
+          "description": "Die US-Normungsbehörde NIST hat sich beim Einschätzen der Stärke des Post-Quanten-Systems Kyber-512 völlig verrechnet. Der Experte Dan Bernstein ist besorgt.",
+          "link": "https://www.heise.de/news/NSA-Kryptologe-warnt-vor-Unterwanderung-quantengesicherter-Verschluesselung-9334827.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-10-14T15:22:00.000Z",
+          "wordCount": 2428,
+          "title": "Post-Quanten-Kryptografie: NIST in der Krtik wegen \"dummen Rechenfehler\"​",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/8/6/8/2/shutterstock_1787263763-7222bfb1d9ac6dae.jpg"
+        },
+        {
+          "id": "http://heise.de/-9334809",
+          "author": null,
+          "description": "Gesichtserkennung verbreitet sich in der Tourismusbranche nicht nur beim Check-in an Flughäfen, Kreuzfahrtschiffen und Themenparks, sondern auch beim Bezahlen.",
+          "link": "https://www.heise.de/news/Check-in-und-bezahlen-Das-Gesicht-als-Immer-dabei-Ticket-9334809.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-10-14T14:33:00.000Z",
+          "wordCount": 2307,
+          "title": "Check-in und bezahlen: Das Gesicht als Immer-dabei-Ticket​",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/8/6/7/3/shutterstock_719572552-e61b52545cf38bf5.jpg"
+        },
+        {
+          "id": "http://heise.de/-9334708",
+          "author": null,
+          "description": "Wo punkten mechanische Festplatten, wo ist die M.2-NVMe-SSD besser als die SATA-SSD? TechStage geht der Frage nach dem besten Speicher für einen PC nach.",
+          "link": "https://www.techstage.de/ratgeber/hdd-ssd-oder-nvme-festplatte-nur-fuer-grosse-datenmengen-sonst-stets-ssd-kaufen/1r5wf2t?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-10-14T14:00:00.000Z",
+          "wordCount": 5171,
+          "title": "HDD, SSD oder NVMe: Festplatte nur für große Datenmengen, sonst stets SSD kaufen",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/jRTktkpTURBXy8wYTZiZjUwMGQyMGQ2ZTEzYjM1ZmU4NTBlNDc5ZjA4Mi5qcGeSlQPNAUvNAXPNDZDNB6KTBc0EsM0Cdg"
+        },
+        {
+          "id": "http://heise.de/-9333600",
+          "author": null,
+          "description": "Am 24. Oktober wendet sich die betterCode() Rust vor allem an diejenigen, die Rust nutzen möchten, um ihre C/C++-Codebasis zu migrieren oder zu ergänzen.",
+          "link": "https://www.heise.de/news/Von-C-C-nach-Rust-Jetzt-noch-zur-Online-Konferenz-betterCode-Rust-anmelden-9333600.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-10-14T12:02:00.000Z",
+          "wordCount": 1849,
+          "title": "heise-Angebot: Von C/C++ nach Rust: Jetzt noch zur Online-Konferenz betterCode() Rust anmelden",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/8/0/2/4/bcc_rust_23-d14a9b41a71bd5bc.jpg"
+        },
+        {
+          "id": "http://heise.de/-9331955",
+          "author": null,
+          "description": "Den Haag beherbergt zahlreiche internationale Institutionen, die häufig Cyberangriffen ausgesetzt sind. Im Rathaus lässt man sich daher von Hackern helfen.",
+          "link": "https://www.heise.de/news/Hack-the-Hague-Warum-sich-eine-Stadtverwaltung-hacken-laesst-9331955.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-10-14T09:15:00.000Z",
+          "wordCount": 2343,
+          "title": "Hack The Hague: Warum sich eine Stadtverwaltung hacken lässt",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/1/7/1/6/1/Screenshot_2023-10-11_at_19.42.25-466f5725b1459844.png"
+        },
         {
           "id": "http://heise.de/-9329356",
           "author": null,
@@ -8549,16 +8599,6 @@
           "wordCount": 1945,
           "title": "heise-Angebot: heise Security Webinar: Security mit System - auch für KMUs",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/0/2/8/8/4/Security-System-Ticker-Header-16-9-1aa3cf0fdc8338d6.png"
-        },
-        {
-          "id": "http://heise.de/-9300819",
-          "author": null,
-          "description": "Ab dem 7.11. lernen Sie in 4 Webinaren, wie Sie mit TISAX für Sicherheit in der Automobilindustrie sorgen: sicherer Datenaustausch und zuverlässige IT-Security.",
-          "link": "https://www.heise.de/news/Sicherheit-in-der-Automobilindustrie-in-vier-Webinaren-zum-TISAX-Experten-9300819.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-09-15T06:00:00.000Z",
-          "wordCount": 2074,
-          "title": "heise-Angebot: Sicherheit in der Automobilindustrie – in vier Webinaren zum TISAX-Experten",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/0/0/3/9/0/Tisax-Ticker-Header-16-9-f2a8e069265bbb5c.png"
         }
       ]
     },
@@ -11199,22 +11239,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAvt-W8NJqJVrtnbnnOTwfaDOqXzZnkQJ5H-oPFKlJCviJ3Hy2cAAzxiikFUfhVdMtaQU8Tgie_ql717uZE0yAeByCql6lx1zJGMUKkqND53G5ToSM-oFbMAlTmP2_oK_rc3WbvqdrPg2PM-KoJUVRRfHpY5hdnv77zyJayeUKfraAV05E4GMvqM-QqiBa/s1600/cyber.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAvt-W8NJqJVrtnbnnOTwfaDOqXzZnkQJ5H-oPFKlJCviJ3Hy2cAAzxiikFUfhVdMtaQU8Tgie_ql717uZE0yAeByCql6lx1zJGMUKkqND53G5ToSM-oFbMAlTmP2_oK_rc3WbvqdrPg2PM-KoJUVRRfHpY5hdnv77zyJayeUKfraAV05E4GMvqM-QqiBa/s1600/cyber.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/09/iranian-nation-state-actors-employ.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Iranian nation-state actors have been conducting password spray attacks against thousands of organizations globally between February and July 2023, new findings from Microsoft reveal.\nThe tech giant, which is tracking the activity under the name Peach Sandstorm (formerly Holmium), said the adversary pursued organizations in the satellite, defense, and pharmaceutical sectors to likely facilitate",
-          "link": "https://thehackernews.com/2023/09/iranian-nation-state-actors-employ.html",
-          "publishedOn": "2023-09-15T04:14:00.000Z",
-          "wordCount": null,
-          "title": "Iranian Nation-State Actors Employ Password Spray Attacks Targeting Multiple Sectors",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ZUdV0GlB_tlkYLe6CoV3epETAqDrLo61B99atuQRCMOILmngP4J7Blwo058Pqg9CqidwugdY4wdwpOmIw-agsljuGF8pSgEMnmSzAfzKv3434MiqV172YsSywQiOwFpcSd5-YLhnydixe_11sdk9N-357sBRgKhVqQBbLPTH8j3-OkPEq1n9Tg5N1heY/s1600/patch.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ZUdV0GlB_tlkYLe6CoV3epETAqDrLo61B99atuQRCMOILmngP4J7Blwo058Pqg9CqidwugdY4wdwpOmIw-agsljuGF8pSgEMnmSzAfzKv3434MiqV172YsSywQiOwFpcSd5-YLhnydixe_11sdk9N-357sBRgKhVqQBbLPTH8j3-OkPEq1n9Tg5N1heY/s1600/patch.jpg"
         }
       ]
     },
@@ -16352,66 +16376,6 @@
           "wordCount": 1389,
           "title": "Meet Honda's latest electric vehicle: A rideable suitcase",
           "imageUrl": "https://regmedia.co.uk/2023/09/14/motocompacto.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/15/hp_reveals_bonkers_5k_foldable/",
-          "author": null,
-          "description": "<h4>There’s a weird one-and-a-half screen laptop mode, too</h4> <p>New PC form factors are few and far between, but HP Inc. has tried to shake things up with a foldable device called the Spectre Foldable PC that can be a 12.3-inch laptop, or a bigger laptop, or a 17-inch desktop, or a 17-inch tablet.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/15/hp_reveals_bonkers_5k_foldable/",
-          "publishedOn": "2023-09-15T04:58:06.000Z",
-          "wordCount": 1210,
-          "title": "HP reveals bonkers $5k foldable tablet/laptop/desktop",
-          "imageUrl": "https://regmedia.co.uk/2023/09/15/screenshot_hp_spectre_foldable_2.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/15/oracle_database_at_azure/",
-          "author": null,
-          "description": "<h4>Larry Ellison and Satya Nadella find a common enemy: latency that alows data moving from DBs to AIs</h4> <p>The same Oracle Cloud hardware that Big Red uses to run databases in its own hyperscale cloud will be placed in Microsoft's Azure datacenters, under an expanded collaboration between the two software giants.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/15/oracle_database_at_azure/",
-          "publishedOn": "2023-09-15T03:34:22.000Z",
-          "wordCount": 1556,
-          "title": "Oracle cloud hardware to reside in Azure datacenters – and Microsoft's good with that",
-          "imageUrl": "https://regmedia.co.uk/2023/09/15/screenshot_satya_nadella_microsoft_larry_ellison_oracle_small.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/15/skill_india_digital/",
-          "author": null,
-          "description": "<h4>Mobile-first service aims to bring e-learning to the masses, covering tech and plenty more</h4> <p>India on Wednesday launched a government-supported e-learning and job posting service, Skill India Digital (SID), that includes free courses from the likes of Microsoft, Cisco, and Google.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/15/skill_india_digital/",
-          "publishedOn": "2023-09-15T02:02:06.000Z",
-          "wordCount": 1579,
-          "title": "Big Tech offers free training courses on India's new digital skills platform",
-          "imageUrl": "https://regmedia.co.uk/2021/02/25/india.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/15/arm_post_ipo_strategy/",
-          "author": null,
-          "description": "<h4>British chip design biz plans to satisfy investors by seeking new customers, while RISC-V and China are already challenges</h4> <p><strong>Comment</strong>  The Arm that listed on the Nasdaq Thursday is a very different operation to the one Softbank took private in 2016, because the British chip designer has evolved from licensing its architecture and core designs to developing pre-validated almost-complete processor blueprints that offer a swift and cheap route to developing custom silicon.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/15/arm_post_ipo_strategy/",
-          "publishedOn": "2023-09-15T00:59:50.000Z",
-          "wordCount": 2332,
-          "title": "Post-IPO, Arm to push purpose-built almost-processors",
-          "imageUrl": "https://regmedia.co.uk/2023/09/14/shuttersrtock_arm.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/15/ijc_noescape_ransomware/",
-          "author": null,
-          "description": "<h4>NoEscape promises 'colossal wave of problems' if IJC doesn't pay up</h4> <p>The International Joint Commission, a body that manages water rights along the US-Canada border, has confirmed its IT security was targeted, after a ransomware gang claimed it stole 80GB of data from the organization.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/15/ijc_noescape_ransomware/",
-          "publishedOn": "2023-09-15T00:15:26.000Z",
-          "wordCount": 1422,
-          "title": "US-Canada water org confirms 'cybersecurity incident' after ransomware crew threatens leak",
-          "imageUrl": "https://regmedia.co.uk/2022/03/17/perfect_storm_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/09/14/google_chromebook_10_years_updates/",
-          "author": null,
-          "description": "<h4>I've seen things you people wouldn't believe, laptops on fire off the shoulder of Orion...</h4> <p>Google said Thursday it will provide a decade of service updates for recent model Chromebooks, a policy change that reflects the growing political clout of right-to-repair campaigners.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/09/14/google_chromebook_10_years_updates/",
-          "publishedOn": "2023-09-14T22:30:06.000Z",
-          "wordCount": 1814,
-          "title": "Google promises eternity of updates for Chromebooks – that's a decade for everyone else",
-          "imageUrl": "https://regmedia.co.uk/2023/05/26/shutterstock_ewaste_recyling.jpg"
         }
       ]
     }

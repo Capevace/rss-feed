@@ -632,6 +632,76 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/security/canadian-government-discloses-data-breach-after-contractor-hacks/",
+          "author": "Sergiu Gatlan",
+          "description": "The Canadian government says two of its contractors have been hacked, exposing sensitive information belonging to an undisclosed number of government employees.  [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/canadian-government-discloses-data-breach-after-contractor-hacks/",
+          "publishedOn": "2023-11-20T17:23:08.000Z",
+          "wordCount": 2164,
+          "title": "Canadian government discloses data breach after contractor hacks",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/20/0_Canada_flag.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/kinsing-malware-exploits-apache-activemq-rce-to-plant-rootkits/",
+          "author": "Bill Toulas",
+          "description": "The Kinsing malware operator is actively exploiting the CVE-2023-46604 critical vulnerability in the Apache ActiveMQ open-source message broker to compromise Linux systems. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/kinsing-malware-exploits-apache-activemq-rce-to-plant-rootkits/",
+          "publishedOn": "2023-11-20T16:54:44.000Z",
+          "wordCount": 2204,
+          "title": "Kinsing malware exploits Apache ActiveMQ RCE to plant rootkits",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/10/06/apache-glow.png"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/rhysida-ransomware-gang-claims-british-library-cyberattack/",
+          "author": "Sergiu Gatlan",
+          "description": "The Rhysida ransomware gang has claimed responsibility for a cyberattack on the British Library in October, which has caused a major ongoing IT outage. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/rhysida-ransomware-gang-claims-british-library-cyberattack/",
+          "publishedOn": "2023-11-20T15:44:25.000Z",
+          "wordCount": 2237,
+          "title": "Rhysida ransomware gang claims British Library cyberattack",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/17/Hackers_in_library.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/how-to-boost-security-with-self-service-password-resets/",
+          "author": "Sponsored by Specops Software",
+          "description": "Learn more from Specops Software about the benefits of self-service password resets and ways to accomplish this with on-premises Active Directory. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/how-to-boost-security-with-self-service-password-resets/",
+          "publishedOn": "2023-11-20T15:02:04.000Z",
+          "wordCount": 2534,
+          "title": "How to boost Security with Self-Service Password Resets",
+          "imageUrl": "https://www.bleepstatic.com/content/posts/2023/11/19/specops-password-prompt-2.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/lumma-stealer-malware-now-uses-trigonometry-to-evade-detection/",
+          "author": "Bill Toulas",
+          "description": "The Lumma information-stealing malware is now using an interesting tactic to evade detection by security software - the measuring of mouse movements using trigonometry to determine if the malware is running on a real machine or an antivirus sandbox. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/lumma-stealer-malware-now-uses-trigonometry-to-evade-detection/",
+          "publishedOn": "2023-11-20T14:40:21.000Z",
+          "wordCount": 2285,
+          "title": "Lumma Stealer malware now uses trigonometry to evade detection",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/10/02/Hacker_headpic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/russian-hackers-use-ngrok-feature-and-winrar-exploit-to-attack-embassies/",
+          "author": "Ionut Ilascu",
+          "description": "After Sandworm and APT28 (known as Fancy Bear), another state-sponsored Russian hacker group, APT29, is leveraging the CVE-2023-38831 vulnerability in WinRAR for cyberattacks. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-use-ngrok-feature-and-winrar-exploit-to-attack-embassies/",
+          "publishedOn": "2023-11-19T16:14:25.000Z",
+          "wordCount": 2320,
+          "title": "Russian hackers use Ngrok feature and WinRAR exploit to attack embassies",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/08/Russian_hacker_headpic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/researchers-extract-rsa-keys-from-ssh-server-signing-errors/",
+          "author": "Bill Toulas",
+          "description": "A team of academic researchers from universities in California and Massachusetts demonstrated that it's possible under certain conditions for passive network attackers to retrieve secret RSA keys from naturally occurring errors leading to failed SSH (secure shell) connection attempts. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/researchers-extract-rsa-keys-from-ssh-server-signing-errors/",
+          "publishedOn": "2023-11-19T15:01:10.000Z",
+          "wordCount": 2367,
+          "title": "Researchers extract RSA keys from SSH server signing errors",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/09/cyber-key.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/microsoft/windows-10-to-let-admins-control-how-optional-updates-are-deployed/",
           "author": "Sergiu Gatlan",
           "description": "Microsoft announced a new policy that allows admins to control how optional updates are deployed on Windows 10 enterprise endpoints on their networks. [...]",
@@ -2579,6 +2649,46 @@
       "siteUrl": "https://www.technologyreview.com",
       "articles": [
         {
+          "id": "https://www.technologyreview.com/?p=1083715",
+          "author": "Melissa Heikkilä",
+          "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI, are you okay, babe? This past weekend has been a fever dream in the AI world. The board of OpenAI, the world’s hottest AI company, shocked everyone by firing CEO…",
+          "link": "https://www.technologyreview.com/2023/11/20/1083715/whats-next-for-openai/",
+          "publishedOn": "2023-11-20T17:05:04.000Z",
+          "wordCount": 8247,
+          "title": "What’s next for OpenAI",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/11/next-openai2.jpg?resize=1200,600"
+        },
+        {
+          "id": "https://www.technologyreview.com/?p=1083696",
+          "author": "Rhiannon Williams",
+          "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This viral game in China reinvents hide-and-seek for the digital age The “cat-and-mouse game” has gone viral in China this year, drawing thousands of people across the country to events every week. It’s a fun…",
+          "link": "https://www.technologyreview.com/2023/11/20/1083696/the-download-digital-hide-and-seek-and-ai-for-african-languages/",
+          "publishedOn": "2023-11-20T13:10:00.000Z",
+          "wordCount": 6511,
+          "title": "The Download: digital hide-and-seek, and AI for African languages",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/11/cat-mouse-game.jpg?resize=1200,600"
+        },
+        {
+          "id": "https://www.technologyreview.com/?p=1083679",
+          "author": "Tate Ryan-Mosley",
+          "description": "This article is from The Technocrat, MIT Technology Review’s weekly tech policy newsletter about power, politics, and Silicon Valley. To receive it in your inbox every Friday, sign up here. For the past week my social feeds have been filled with a pretty important tech policy debate that I want to key you in on:…",
+          "link": "https://www.technologyreview.com/2023/11/20/1083679/a-controversial-us-surveillance-program-is-up-for-renewal-critics-are-speaking-out/",
+          "publishedOn": "2023-11-20T12:00:00.000Z",
+          "wordCount": 6493,
+          "title": "A controversial US surveillance program is up for renewal. Critics are speaking out.",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/11/FISA-renew4.jpg?resize=1200,600"
+        },
+        {
+          "id": "https://www.technologyreview.com/?p=1083660",
+          "author": "Zeyi Yang",
+          "description": "On a late October evening, I found myself hiding in the shadows of a tree in a Hong Kong park. I was on high alert, warily eyeing everyone walking toward me. I was checking my phone every few seconds, watching the locations of dozens of people who were trying to hunt me down. I wasn’t…",
+          "link": "https://www.technologyreview.com/2023/11/20/1083660/game-china-hide-seek-map/",
+          "publishedOn": "2023-11-20T09:00:00.000Z",
+          "wordCount": 7088,
+          "title": "This viral game in China reinvents hide-and-seek for the digital age",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/11/cat-mouse-game.jpg?resize=1200,600"
+        },
+        {
           "id": "https://www.technologyreview.com/?p=1083637",
           "author": "Abdullahi Tsanni",
           "description": "Inside a co-working space in the Rosebank neighborhood of Johannesburg, Jade Abbott popped open a tab on her computer and prompted ChatGPT to count from 1 to 10 in isiZulu, a language spoken by more than 10 million people in her native South Africa. The results were “mixed and hilarious,” says Abbott, a computer scientist…",
@@ -3475,6 +3585,246 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9534374",
+          "author": null,
+          "description": "Windows-Kommandozeile und PowerShell lassen sich jetzt auch in natürlicher Sprache steuern.",
+          "link": "https://www.heise.de/news/Das-Windows-Terminal-wird-intelligent-9534374.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T17:15:00.000Z",
+          "wordCount": 1813,
+          "title": "Das Windows Terminal wird intelligent",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/7/0/4/Powershell_mit_Chat-521bfb1124363799.png"
+        },
+        {
+          "id": "http://heise.de/-9534433",
+          "author": null,
+          "description": "Ein langgehegter Wunsch vieler MacBook-Nutzer könnte wahr werden. Warum das Warten aber noch zur Geduldsprobe werden könnte.",
+          "link": "https://www.heise.de/news/MacBooks-mit-Mobilfunkchip-laut-Bericht-nicht-vor-2028-9534433.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T16:30:00.000Z",
+          "wordCount": 2015,
+          "title": "MacBooks mit Mobilfunkchip laut Bericht nicht vor 2028",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/7/3/5/shutterstock_1370501852-970f945eac7ffb56.jpg"
+        },
+        {
+          "id": "http://heise.de/-9534362",
+          "author": null,
+          "description": "Über zwei Drittel der Mitarbeiter des AI-Startups drohen mit Kündigung, sollte der Vorstand nicht seinen Hut nehmen. Auch ein Vorstandsmitglied ist dabei.",
+          "link": "https://www.heise.de/news/OpenAI-Revolte-Mitarbeiter-stellen-Ruecktritts-Ultimatum-an-Vorstand-9534362.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T16:16:00.000Z",
+          "wordCount": 1991,
+          "title": "OpenAI-Revolte: Mitarbeiter stellen Rücktritts-Ultimatum an Vorstand",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/6/9/8/shutterstock_2366323229-ae60908f7878a8a0.jpg"
+        },
+        {
+          "id": "http://heise.de/-9534258",
+          "author": null,
+          "description": "Das Java-Ökosystem bewegt sich zügig in Richtung Java 21. Nun gibt es Updates für Spring 6.1 und Spring Data 2023.1.",
+          "link": "https://www.heise.de/news/Spring-6-1-Die-neue-Version-bringt-Java-21-und-Virtual-Threads-9534258.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T15:52:00.000Z",
+          "wordCount": 1924,
+          "title": "Java 21 mit virtuellen Threads nun auch in Spring 6.1",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/6/4/3/Homeoffice-79964047fb8d0874.jpg"
+        },
+        {
+          "id": "http://heise.de/-9534269",
+          "author": null,
+          "description": "Zum Black Friday gibt es nicht nur Hardware günstiger. Heise Download zeigt einige der besten Angebote für Cloud-Services, VPN, Security-Tools und mehr.",
+          "link": "https://www.techstage.de/angebote/die-besten-vpn-security-und-cloud-dienste-zur-black-week/hdwdspz?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T15:16:00.000Z",
+          "wordCount": 2573,
+          "title": "Die besten VPN-, Security & Cloud-Dienste zur Black Week",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/WjBktkpTURBXy8wNmY5M2M2ODBmZTdiODUzNDJhYmM1YzVmOGRjZmJmNC5wbmeSlQMAzIbNBADNAkCTBc0EsM0Cdg"
+        },
+        {
+          "id": "http://heise.de/-9534170",
+          "author": null,
+          "description": "Das Organ- und Gewebespenderegister soll 2024 online gehen, doch viele Kliniken sind bislang nicht registriert. ​",
+          "link": "https://www.heise.de/news/Organspenden-Online-Register-kommt-2024-Termin-noch-offen-9534170.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T14:40:00.000Z",
+          "wordCount": 2122,
+          "title": "​ Organspenden: Online-Register kommt 2024, Termin noch offen",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/5/9/7/shutterstock_1728175762-12984139c95b0022.jpg"
+        },
+        {
+          "id": "http://heise.de/-9534192",
+          "author": null,
+          "description": "Die Veröffentlichung von Apples räumlichem Computer rückt näher. Wovon der Termin abhängt und was Apple angeblich rund um das Release plant.",
+          "link": "https://www.heise.de/news/Veroeffentlichung-der-Vision-Pro-Was-Apple-mit-Early-Next-Year-wirklich-meint-9534192.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T14:36:00.000Z",
+          "wordCount": 2207,
+          "title": "Veröffentlichung der Vision Pro: Was Apple mit \"Early Next Year\" wirklich meint",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/6/0/9/Apple-WWCD23-Vision-Pro-rotation-230605-2c2a0a1a8219a863.jpg"
+        },
+        {
+          "id": "http://heise.de/-9534157",
+          "author": null,
+          "description": "Zur Black Week gibt es zahlreiche Smart-Home-Komponenten zu besonders günstigen Konditionen. Wir zeigen die besten Angebote.",
+          "link": "https://www.techstage.de/angebote/black-friday-die-besten-smart-home-deals-sensoren-steckdosen-router-und-co/4qegm71?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T14:03:00.000Z",
+          "wordCount": 3153,
+          "title": "Black Friday: Die besten Smart-Home-Deals – Sensoren, Steckdosen, Router & Co.",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/CebktkpTURBXy9iNDg4MWE2MWE1NmU2N2MzNjNlODkzOGJiOTM5M2Q0NS5qcGeSlQMAAM0PwM0I3JMFzQSwzQJ2"
+        },
+        {
+          "id": "http://heise.de/-9534068",
+          "author": null,
+          "description": "Die Techniker Krankenkasse gibt auf dem Digitalgipfel einen Ausblick auf ihre Gesundheits-ID-App \"TK-Ident\". Bald soll diese in den App-Stores verfügbar sein.",
+          "link": "https://www.heise.de/news/E-Patientenakte-E-Rezept-und-weitere-Techniker-bringt-Gesundheits-ID-App-raus-9534068.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T13:38:00.000Z",
+          "wordCount": 2185,
+          "title": "E-Patientenakte, E-Rezept und weitere: Techniker bringt Gesundheits-ID-App raus",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/5/4/0/shutterstock_592216799-564ffcfb002ab910.jpg"
+        },
+        {
+          "id": "http://heise.de/-9534072",
+          "author": null,
+          "description": "Angreifer können eigenen Code auf Überwachungskameras von Synology ausführen.",
+          "link": "https://www.heise.de/news/Synology-schliesst-kritische-Firmware-Luecke-in-Ueberwachungskameras-9534072.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T13:28:00.000Z",
+          "wordCount": 1762,
+          "title": "Synology schließt kritische Firmware-Lücke in Überwachungskameras",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/5/4/2/Ueberwachung-f2e2377337c4b5bd.jpg"
+        },
+        {
+          "id": "http://heise.de/-9533969",
+          "author": null,
+          "description": "Bis Mitte Dezember verhandeln die 193 Mitgliedsstaaten der ITU in Dubai über neue Regeln für den Funkdienst. Welche Services könnten mehr Spektrum bekommen?",
+          "link": "https://www.heise.de/news/Weltfunkkonferenz-2023-Karten-fuer-Mobilfunk-DVB-und-WLAN-werden-neu-gemischt-9533969.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T12:39:00.000Z",
+          "wordCount": 2433,
+          "title": "Weltfunkkonferenz 2023: Karten für Mobilfunk, DVB und WLAN werden neu gemischt",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/4/8/6/Funkmast_mit_Stromleitung-157bc506a2fe5150.jpg"
+        },
+        {
+          "id": "http://heise.de/-9533994",
+          "author": null,
+          "description": "Nothing Chats sollte iMessages auf Android bringen. Die App hatte offenbar noch gravierendere Sicherheitsprobleme, als im Vorfeld vermutet.",
+          "link": "https://www.heise.de/news/iMessage-auf-Android-Nothing-zieht-Chats-App-nach-Sicherheitsbedenken-zurueck-9533994.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T12:36:00.000Z",
+          "wordCount": 2136,
+          "title": "'iMessage auf Android': Nothing zieht Chats-App nach Sicherheitsbedenken zurück",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/5/0/2/shutterstock_1663950967-9b1064ffcf2062bd.jpg"
+        },
+        {
+          "id": "http://heise.de/-9534002",
+          "author": null,
+          "description": "Zur Black Week finden sich zahlreiche Laptops und Chromebooks mit fettem Rabatt. Techstage zeigt die besten Angebote.",
+          "link": "https://www.techstage.de/angebote/black-friday-2023-die-besten-deals-fuer-laptops-und-chromebooks/d7w7csz?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T12:27:00.000Z",
+          "wordCount": 2658,
+          "title": "Black Friday: Die besten Deals für Laptops und Chromebooks",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/n-NktkpTURBXy8zZWNhM2ExMTExOGVjNDYzZmQ5MGVmOTk4NzQ1OWRhYy5qcGeSlQPMeArNCUvNBTuTBc0EsM0Cdg"
+        },
+        {
+          "id": "http://heise.de/-9533679",
+          "author": null,
+          "description": "2023 wird der Gesundheitsdatenraum zur EU-weiten Bereitstellung von Daten vermutlich nicht kommen, denn es gibt noch offene Diskussionspunkte zum Datenschutz.",
+          "link": "https://www.heise.de/news/Europaeischer-Gesundheitsdatenraum-Ratspraesidentschaft-fuer-mehr-Datenschutz-9533679.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T11:52:00.000Z",
+          "wordCount": 2284,
+          "title": "Europäischer Gesundheitsdatenraum: Ratspräsidentschaft für mehr Datenschutz",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/3/1/9/shutterstock_1530386477-a0b0652e4003de22.jpg"
+        },
+        {
+          "id": "http://heise.de/-9533816",
+          "author": null,
+          "description": "Trellix, Nachfolger von McAfee und FireEye, hat den ePolicy Orchestrator aktualisiert. Das Update schließt etwa eine hochriskant eingestufte Schwachstelle.",
+          "link": "https://www.heise.de/news/Updates-fuer-Trellix-ePolicy-Orchestrator-schliessen-Sicherheitsluecken-9533816.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T11:49:00.000Z",
+          "wordCount": 1925,
+          "title": "Updates für Trellix ePolicy Orchestrator schließen Sicherheitslücken",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/3/9/6/shutterstock_755806180-015889c575fb6327.jpg"
+        },
+        {
+          "id": "http://heise.de/-9533825",
+          "author": null,
+          "description": "An insgesamt vier Terminen können Interessenten sich in die Schlange am virtuellen Kartenschalter einreihen. Die Eintrittspreise sind gegenüber 2019 gestiegen.",
+          "link": "https://www.heise.de/news/Hacker-Kongress-37C3-Ticketpreise-und-Vorverkaufstermine-stehen-fest-9533825.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T11:39:00.000Z",
+          "wordCount": 2152,
+          "title": "Hacker-Kongress 37C3: Ticketpreise und Vorverkaufstermine stehen fest",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/4/0/1/hackham_39941474_original.large-4-3-800-473-0-4252-2835-b3b5b3f23a3d69b1.jpg"
+        },
+        {
+          "id": "http://heise.de/-9533833",
+          "author": null,
+          "description": "Wenn KI überreguliert werde, \"haben wir die besten Verkehrsvorschriften, aber keinen Verkehr auf der Straße\", sagte der Bundeswirtschaftsminister.",
+          "link": "https://www.heise.de/news/Habeck-Kuenstliche-Intelligenz-nicht-zu-streng-regulieren-9533833.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T11:16:00.000Z",
+          "wordCount": 2152,
+          "title": "Habeck zum Digitalgipfel: Künstliche Intelligenz nicht zu streng regulieren",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/4/0/5/habeck-cae046a515a6d469.jpg"
+        },
+        {
+          "id": "http://heise.de/-9533708",
+          "author": null,
+          "description": "Statt erwarteter Nachrichten zur Broadcom-Übernahme steigt die Unsicherheit, ob es überhaupt noch klappt. Technisch dominierten KI-Themen die Konferenz.",
+          "link": "https://www.heise.de/news/Geopolitik-ueberschattet-VMware-Explore-in-Barcelona-KI-im-Fokus-9533708.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T11:09:00.000Z",
+          "wordCount": 2655,
+          "title": "Geopolitik überschattet VMware Explore in Barcelona, KI im Fokus",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/3/3/6/VMware-Explore_Barcelona_Banner-e531ac5a0d19e2b9.jpg"
+        },
+        {
+          "id": "http://heise.de/-9532365",
+          "author": null,
+          "description": "Das Webinar führt umfassend in die neuen APIs ein, die Apple für Unternehmens-Apps anbietet – von SwiftData über WidgetKit bis SensitiveContentAnalysis.",
+          "link": "https://www.heise.de/news/Webinar-Neue-Apple-APIs-in-iOS-17-Co-fuer-Unternehmens-Apps-9532365.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T11:00:00.000Z",
+          "wordCount": 1965,
+          "title": "heise-Angebot: Webinar: Neue Apple-APIs in iOS 17 & Co für Unternehmens-Apps",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/0/6/2/8/Unternehmens-Apps-APIs-Ticker-Header-16-9-430d7b063983bd1f.jpg"
+        },
+        {
+          "id": "http://heise.de/-9533636",
+          "author": null,
+          "description": "Unsichere XML-Verarbeitung und ungenügende Prüfung von Logeinträgen ermöglichten Angreifern, eigenen Code in Splunk-Produkte zu schleusen.",
+          "link": "https://www.heise.de/news/Code-Schmuggel-Neue-Splunk-Versionen-beheben-Sicherheitsluecken-9533636.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T10:20:00.000Z",
+          "wordCount": 2001,
+          "title": "Code-Schmuggel: Neue Splunk-Versionen beheben Sicherheitslücken",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/2/9/7/shutterstock_2033447216-267e128890ac87b3.jpg"
+        },
+        {
+          "id": "http://heise.de/-9533598",
+          "author": null,
+          "description": "Angreifer können Lücken in Junipers SIEM-Lösung als Sprungbrett ausnutzen und sich zum Root-Nutzer machen.",
+          "link": "https://www.heise.de/news/Sicherheitsupdates-Juniper-Secure-Analytics-ist-angreifbar-9533598.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T10:09:00.000Z",
+          "wordCount": 1788,
+          "title": "Sicherheitsupdates: Juniper Secure Analytics ist angreifbar",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/2/7/6/shutterstock_1492712420-6f07bb0c1abf0992.jpg"
+        },
+        {
+          "id": "http://heise.de/-9533620",
+          "author": null,
+          "description": "Die am Freitag bei OpenAI geschassten Sam Altman und Greg Brockman gehen zu Microsoft. Satya Nadella freut sich auf OpenAIs neuen Vorstand.",
+          "link": "https://www.heise.de/news/OpenAI-Personal-Microsoft-heuert-Altmann-und-Brockman-an-9533620.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T09:32:00.000Z",
+          "wordCount": 2063,
+          "title": "OpenAI: Altman und Brockman gehen zu Microsoft, \"neuer Vorstand\" erwartet",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/2/8/7/Microsoft_Stop-6eed2f69be03390e.jpeg"
+        },
+        {
+          "id": "http://heise.de/-9530365",
+          "author": null,
+          "description": "Die Online-Konferenz findet am 27. November statt und richtet sich an Developer, die sich über PHP 8.3 und Best Practices informieren wollen.",
+          "link": "https://www.heise.de/news/Last-Call-Jetzt-noch-Tickets-sichern-fuer-die-betterCode-PHP-2023-9530365.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T09:28:00.000Z",
+          "wordCount": 2010,
+          "title": "heise-Angebot: Last Call: Jetzt noch Tickets sichern für die betterCode() PHP 2023",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/4/9/9/5/5/4/PHP23-HO-Teaser_2_-c02b29cc1713aaa5.jpg"
+        },
+        {
+          "id": "http://heise.de/-9357517",
+          "author": null,
+          "description": "Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.",
+          "link": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-Ihr-Leitfaden-zur-IT-Sicherheit-9357517.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T09:00:00.000Z",
+          "wordCount": 1888,
+          "title": "heise-Angebot: iX-Workshop: Sichere IT-Infrastrukturen - Zertifizierung nach IT-Grundschutz",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/3/0/9/1/5/IT-Grundschutz-Praktiker-Ticker-Header-16-9-a1ddb46c3d46ff95.jpg"
+        },
         {
           "id": "http://heise.de/-9533496",
           "author": null,
@@ -8803,6 +9153,36 @@
       "siteUrl": "https://www.heise.de/security/alerts/",
       "articles": [
         {
+          "id": "http://heise.de/-9534072",
+          "author": null,
+          "description": "Angreifer können eigenen Code auf Überwachungskameras von Synology ausführen.",
+          "link": "https://www.heise.de/news/Synology-schliesst-kritische-Firmware-Luecke-in-Ueberwachungskameras-9534072.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T13:28:00.000Z",
+          "wordCount": 1762,
+          "title": "Synology schließt kritische Firmware-Lücke in Überwachungskameras",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/5/4/2/Ueberwachung-f2e2377337c4b5bd.jpg"
+        },
+        {
+          "id": "http://heise.de/-9533816",
+          "author": null,
+          "description": "Trellix, Nachfolger von McAfee und FireEye, hat den ePolicy Orchestrator aktualisiert. Das Update schließt etwa eine hochriskant eingestufte Schwachstelle.",
+          "link": "https://www.heise.de/news/Updates-fuer-Trellix-ePolicy-Orchestrator-schliessen-Sicherheitsluecken-9533816.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T11:49:00.000Z",
+          "wordCount": 1925,
+          "title": "Updates für Trellix ePolicy Orchestrator schließen Sicherheitslücken",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/3/9/6/shutterstock_755806180-015889c575fb6327.jpg"
+        },
+        {
+          "id": "http://heise.de/-9533598",
+          "author": null,
+          "description": "Angreifer können Lücken in Junipers SIEM-Lösung als Sprungbrett ausnutzen und sich zum Root-Nutzer machen.",
+          "link": "https://www.heise.de/news/Sicherheitsupdates-Juniper-Secure-Analytics-ist-angreifbar-9533598.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2023-11-20T10:09:00.000Z",
+          "wordCount": 1788,
+          "title": "Sicherheitsupdates: Juniper Secure Analytics ist angreifbar",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/2/7/6/shutterstock_1492712420-6f07bb0c1abf0992.jpg"
+        },
+        {
           "id": "http://heise.de/-9529075",
           "author": null,
           "description": "Neben FortiOS und FortiClient sind auch FortiSIEM, FortiWLM und weitere von zum Teil kritischen Security-Fehlern betroffen. Admins sollten patchen.",
@@ -9209,6 +9589,102 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are targeting the education, government and business services sectors with a remote access trojan called NetSupport RAT.\n\"The delivery mechanisms for the NetSupport RAT encompass fraudulent updates, drive-by downloads, utilization of malware loaders (such as GHOSTPULSE), and various forms of phishing campaigns,\" VMware Carbon Black researchers said in a report shared with The",
+          "link": "https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html",
+          "publishedOn": "2023-11-20T15:19:00.000Z",
+          "wordCount": null,
+          "title": "NetSupport RAT Infections on the Rise - Targeting Government and Business Sectors",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxQ-QZTyteozhL7HtkboFMAmOPM01FGWJfipmMPuaCnLPO8ehU68x_mdRkmQbE5C_YzhmtUA0QLJMHQyof0cCdNEpKSH4r3-sKHXqKiVZ2HhGorDd9Q8uhoj85KEhwLrQ8boZbLHzoRinNBrawT2lP2Z4RfvlGG95MaWWnIvl7__WsZnfqCBP4GkyaXkUw/s1600/trojan.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxQ-QZTyteozhL7HtkboFMAmOPM01FGWJfipmMPuaCnLPO8ehU68x_mdRkmQbE5C_YzhmtUA0QLJMHQyof0cCdNEpKSH4r3-sKHXqKiVZ2HhGorDd9Q8uhoj85KEhwLrQ8boZbLHzoRinNBrawT2lP2Z4RfvlGG95MaWWnIvl7__WsZnfqCBP4GkyaXkUw/s1600/trojan.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/11/darkgate-and-pikabot-malware-resurrect.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Phishing campaigns delivering malware families such as DarkGate and PikaBot are following the same tactics previously used in attacks leveraging the now-defunct QakBot trojan.\n“These include hijacked email threads as the initial infection, URLs with unique patterns that limit user access, and an infection chain nearly identical to what we have seen with QakBot delivery,” Cofense said in a report",
+          "link": "https://thehackernews.com/2023/11/darkgate-and-pikabot-malware-resurrect.html",
+          "publishedOn": "2023-11-20T14:50:00.000Z",
+          "wordCount": null,
+          "title": "DarkGate and PikaBot Malware Resurrect QakBot's Tactics in New Phishing Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKyHnDiM0DFY7v8TQdrF6tGUiCFkhsJwAyToTYbggoaW-F_rKqVTt5ZY_LT4d0kxDQLUVsC2Z1wu5Kb9DPk7dLslrPd1I2Uba9zzh5J0Z3FG0UZ24NnSN7TOhH2xSX9HUHbTef_o8KmbHz-2likocguzjwuTECNCQWoE-___y_oHJdXjwzhRbd91Gm2oKj/s1600/phishing.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKyHnDiM0DFY7v8TQdrF6tGUiCFkhsJwAyToTYbggoaW-F_rKqVTt5ZY_LT4d0kxDQLUVsC2Z1wu5Kb9DPk7dLslrPd1I2Uba9zzh5J0Z3FG0UZ24NnSN7TOhH2xSX9HUHbTef_o8KmbHz-2likocguzjwuTECNCQWoE-___y_oHJdXjwzhRbd91Gm2oKj/s1600/phishing.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/11/product-walkthrough-silverforts-unified.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In this article, we will provide a brief overview of Silverfort's platform, the first (and currently only) unified identity protection platform on the market. Silverfort’s patented technology aims to protect organizations from identity-based attacks by integrating with existing identity and access management solutions, such as AD (Active Directory) and cloud-based services, and extending secure",
+          "link": "https://thehackernews.com/2023/11/product-walkthrough-silverforts-unified.html",
+          "publishedOn": "2023-11-20T14:50:00.000Z",
+          "wordCount": null,
+          "title": "Product Walkthrough: Silverfort's Unified Identity Protection Platform",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhErK6kYkyuXQbVayWchkX2vF3a8UYD_W6JjJT6gLyuas_dCDFhgM-V_CMXeQADtcc4WBRcTXRN9GmzbL-_28YrQpHZoPUyDctL3tnEtKa-rAu58c4DMsc4jpsMA61iIPPpQ3DLK1Yys9N4EuQYw4CYUmUx1EhWdbDcfbzx5mB1IM2qq2U-xeGFN5AObrU/s1600/silverfort.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhErK6kYkyuXQbVayWchkX2vF3a8UYD_W6JjJT6gLyuas_dCDFhgM-V_CMXeQADtcc4WBRcTXRN9GmzbL-_28YrQpHZoPUyDctL3tnEtKa-rAu58c4DMsc4jpsMA61iIPPpQ3DLK1Yys9N4EuQYw4CYUmUx1EhWdbDcfbzx5mB1IM2qq2U-xeGFN5AObrU/s1600/silverfort.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Today’s security leaders must manage a constantly evolving attack surface and a dynamic threat environment due to interconnected devices, cloud services, IoT technologies, and hybrid work environments. Adversaries are constantly introducing new attack techniques, and not all companies have internal Red Teams or unlimited security resources to stay on top of the latest threats. On top of that,",
+          "link": "https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html",
+          "publishedOn": "2023-11-20T11:02:00.000Z",
+          "wordCount": null,
+          "title": "Why Defenders Should Embrace a Hacker Mindset",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiviQL2b0_ZKJdSKQ8cyKPSKh7FLULEJBNgJliL_BrgvNK8TPDxTFSOU7VPfvQTJCu0Fl_PfYd1B0532LhK84369dh_7NO4OOFJLOVuBhGGrhTVla6tWioIeRfRf-Vp5pGBl7pzIvfh3SkgeXd87Up3lTtE0__Hdw15CuqHuZGDHgobWY4M1imVDuC88_E/s1600/pentera.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiviQL2b0_ZKJdSKQ8cyKPSKh7FLULEJBNgJliL_BrgvNK8TPDxTFSOU7VPfvQTJCu0Fl_PfYd1B0532LhK84369dh_7NO4OOFJLOVuBhGGrhTVla6tWioIeRfRf-Vp5pGBl7pzIvfh3SkgeXd87Up3lTtE0__Hdw15CuqHuZGDHgobWY4M1imVDuC88_E/s1600/pentera.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/11/lummac2-malware-deploys-new.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The stealer malware known as LummaC2 (aka Lumma Stealer) now features a new anti-sandbox technique that leverages the mathematical principle of trigonometry to evade detection and exfiltrate valuable information from infected hosts.\nThe method is designed to \"delay detonation of the sample until human mouse activity is detected,\" Outpost24 security researcher Alberto Marín said in a technical",
+          "link": "https://thehackernews.com/2023/11/lummac2-malware-deploys-new.html",
+          "publishedOn": "2023-11-20T10:49:00.000Z",
+          "wordCount": null,
+          "title": "LummaC2 Malware Deploys New Trigonometry-Based Anti-Sandbox Technique",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMFViIUR8jphoPGdQcLpQJHRDsMTQJ-bB7Ouku3wEQDeHkNROgFsHDAsHrRR6z85VIIlV4RYBd1pyJTZgfNHp9ruVOoKxm8Cofy5ZtQIPIcsFcIL4_v1wsuo4Qw2MdrQzUiDj6ArX2RiQ72TZYE0hQtiBGmfwCUopHAh0htJt4dcjendWqnnNh4UpcBmGn/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMFViIUR8jphoPGdQcLpQJHRDsMTQJ-bB7Ouku3wEQDeHkNROgFsHDAsHrRR6z85VIIlV4RYBd1pyJTZgfNHp9ruVOoKxm8Cofy5ZtQIPIcsFcIL4_v1wsuo4Qw2MdrQzUiDj6ArX2RiQ72TZYE0hQtiBGmfwCUopHAh0htJt4dcjendWqnnNh4UpcBmGn/s1600/malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/11/randstorm-exploit-bitcoin-wallets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Bitcoin wallets created between 2011 and 2015 are susceptible to a new kind of exploit called Randstorm that makes it possible to recover passwords and gain unauthorized access to a multitude of wallets spanning several blockchain platforms.\n\"Randstorm() is a term we coined to describe a collection of bugs, design decisions, and API changes that, when brought in contact with each other, combine",
+          "link": "https://thehackernews.com/2023/11/randstorm-exploit-bitcoin-wallets.html",
+          "publishedOn": "2023-11-20T09:16:00.000Z",
+          "wordCount": null,
+          "title": "Randstorm Exploit: Bitcoin Wallets Created b/w 2011-2015 Vulnerable to Hacking",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs_l0mHw2HFP8ee988Emv1OiXkRYUX6HM1ghkj7yqaj1L6XacRMmveQ7BWjohPT4M8xxbYPcSO4wC9hhRx5zTZu-e8r2eeppe-kLucL4KOCjK8FAj7J5mHcrjm1l2kG6Ftbn5-rpWpEqWLurewdaYQu6IYFuSAUMIFEAqjmsdxE5bTk8ZWzRcLfi0vjDds/s1600/bitcoin.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs_l0mHw2HFP8ee988Emv1OiXkRYUX6HM1ghkj7yqaj1L6XacRMmveQ7BWjohPT4M8xxbYPcSO4wC9hhRx5zTZu-e8r2eeppe-kLucL4KOCjK8FAj7J5mHcrjm1l2kG6Ftbn5-rpWpEqWLurewdaYQu6IYFuSAUMIFEAqjmsdxE5bTk8ZWzRcLfi0vjDds/s1600/bitcoin.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/11/indian-hack-for-hire-group-targeted-us.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -11184,6 +11660,116 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/former_infosec_coo_pleads_guilty/",
+          "author": null,
+          "description": "<h4>Admits to taking phones used for 'code blue' emergencies offline and more</h4> <p>An Atlanta tech company's former COO has pleaded guilty to a 2018 incident in which he deliberately launched online attacks on two hospitals, later citing the incidents in sales pitches.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/former_infosec_coo_pleads_guilty/",
+          "publishedOn": "2023-11-20T17:15:06.000Z",
+          "wordCount": 1445,
+          "title": "Former infosec COO pleads guilty to attacking hospitals to drum up business",
+          "imageUrl": "https://regmedia.co.uk/2018/03/09/shutterstock_doctors.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/openai_staff_threaten_to_leave/",
+          "author": null,
+          "description": "<h4>OpenAI is nothing without its people, say staffers who signed letter</h4> <p>The fast-moving OpenAI saga has taken a new turn with the news that more than 500 of the company's employees have threatened to quit unless the board resigns and reinstates Sam Altman as its CEO.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/openai_staff_threaten_to_leave/",
+          "publishedOn": "2023-11-20T16:31:10.000Z",
+          "wordCount": 1323,
+          "title": "OpenAI staff threaten to leave if ousted CEO Altman is not reinstated",
+          "imageUrl": "https://regmedia.co.uk/2023/11/20/shutterstock_altman.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/sentry_introduces_the_functional_source/",
+          "author": null,
+          "description": "<h4>Yet another attempt to create better balance for devs and users</h4> <p>Sentry has brought yet another software license into the world – the Functional Source License – in an effort to balance user freedom and developer sustainability.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/sentry_introduces_the_functional_source/",
+          "publishedOn": "2023-11-20T15:30:12.000Z",
+          "wordCount": 1373,
+          "title": "License to thrill BSL refuseniks? Sentry introduces Functional Source License",
+          "imageUrl": "https://regmedia.co.uk/2018/10/08/shutterstock_close_blue_curtain.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/ai-in-brief/",
+          "author": null,
+          "description": "<h4>Plus: Amazon lays off hundreds of employees working on Alexa, and more</h4> <p><strong>AI In Brief</strong>  Microsoft is updating the Bing AI chatbot service to prevent users generating fake film posters containing Disney's logo over fears of copyright infringement. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/ai-in-brief/",
+          "publishedOn": "2023-11-20T14:45:11.000Z",
+          "wordCount": 1900,
+          "title": "Microsoft dials back Bing after users manage to recreate Disney logo in fake AI-generated images",
+          "imageUrl": "https://regmedia.co.uk/2016/12/14/shutterstock_disney.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/green500_benchmark_shift/",
+          "author": null,
+          "description": "<h4>Just because it's super efficient at Linpack doesn't mean it'll be in everything</h4> <p><strong>SC23</strong>  Is it time for the Green500 to expand its scope to account for more diverse workloads? This was one of the questions attendees grappled with at SC23.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/green500_benchmark_shift/",
+          "publishedOn": "2023-11-20T14:01:07.000Z",
+          "wordCount": 1723,
+          "title": "Researchers weigh new benchmarks for Green500 amid shifting workload priorities",
+          "imageUrl": "https://regmedia.co.uk/2021/01/19/shutterstock_green_data_center.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/royal_navy_flies_large_drone/",
+          "author": null,
+          "description": "<h4>Pilotless plane said to be next generation of naval air power</h4> <p>A large drone aircraft has been operated from one of Britain's aircraft carriers for the first time, indicating how the Royal Navy intends to expand its air power beyond the meager number of F-35 fighters it currently has at its disposal.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/royal_navy_flies_large_drone/",
+          "publishedOn": "2023-11-20T13:34:09.000Z",
+          "wordCount": 1744,
+          "title": "Royal Navy flies first mega Mojave drone from aircraft carrier",
+          "imageUrl": "https://regmedia.co.uk/2023/11/20/drone_rn2.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/ec_rules_adobes_20bn_buy/",
+          "author": null,
+          "description": "<h4>Software duo must respond with remedies – plus: closing deal in '23 likely a Figma of their imagination</h4> <p><strong>Updated</strong>  The European Commission says Adobe's proposed $20 billion purchase of web-first design collaboration startup Figma will harm competition in the region unless the pair devise remedies to resolve this.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/ec_rules_adobes_20bn_buy/",
+          "publishedOn": "2023-11-20T12:31:09.000Z",
+          "wordCount": 1621,
+          "title": "Europe says Adobe's $20B buy of Figma will kill competition",
+          "imageUrl": "https://regmedia.co.uk/2020/03/23/shutterstock_red_alert.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/rhysida_claims_british_library_ransomware/",
+          "author": null,
+          "description": "<h4>Crims post passport scans and internal forms up for 'auction' to prove it</h4> <p>The Rhysida ransomware group says it's behind the highly disruptive October cyberattack on the British Library, leaking a snippet of stolen data in the process.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/rhysida_claims_british_library_ransomware/",
+          "publishedOn": "2023-11-20T12:05:17.000Z",
+          "wordCount": 1602,
+          "title": "Rhysida ransomware gang: We attacked the British Library",
+          "imageUrl": "https://regmedia.co.uk/2023/11/20/shutterstock_british_library.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/ex_openai_boss_sam_altman_to_join_microsoft/",
+          "author": null,
+          "description": "<h4>Worst season of Succession ever</h4> <p>The story of Sam Altman and OpenAI took a twist this morning that even the most hallucinatory of chatbots would struggle to conjure: he and other OpenAI chums - including co-founder Greg Brockman - are off to Microsoft.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/ex_openai_boss_sam_altman_to_join_microsoft/",
+          "publishedOn": "2023-11-20T11:11:32.000Z",
+          "wordCount": 1544,
+          "title": "Former OpenAI boss Sam Altman will join Microsoft",
+          "imageUrl": "https://regmedia.co.uk/2016/11/01/shutterstock_214674865.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/budgie_switches_wayland_approach/",
+          "author": null,
+          "description": "<h4>Elementary OS going full speed ahead, but Parachutist Parakeet considers a new, post-Enlightenment glide path</h4> <p><strong>Exclusive</strong>  While Elementary OS commits to Wayland, the development team of the Budgie desktop is changing course and will work with the Xfce developers toward Budgie's Wayland future.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/budgie_switches_wayland_approach/",
+          "publishedOn": "2023-11-20T10:22:05.000Z",
+          "wordCount": 1722,
+          "title": "Ubuntu Budgie switches its approach to Wayland",
+          "imageUrl": "https://regmedia.co.uk/2023/11/17/shutterstock_budgie.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/3_million_deepin_users/",
+          "author": null,
+          "description": "<h4>The other big Chinese distro, after Kylin, seems to be thriving</h4> <p>Leading Chinese Linux vendor UnionTech says it's reached an impressive milestone: it says it has three million users of its desktop edition, Tongxin UOS. Yep, million.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/3_million_deepin_users/",
+          "publishedOn": "2023-11-20T09:38:10.000Z",
+          "wordCount": 2050,
+          "title": "Linux Deepin's big brother claims it's hit three million installs",
+          "imageUrl": "https://regmedia.co.uk/2023/11/16/deepin-23-beta-2.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/20/opinion/",
           "author": null,

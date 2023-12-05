@@ -632,6 +632,66 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5032288-update-improves-copilot-fixes-11-bugs/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft has released the KB5032288 November 2023 Windows 11 preview update with improvements for the Copilot AI assistant and almost a dozen bug fixes. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5032288-update-improves-copilot-fixes-11-bugs/",
+          "publishedOn": "2023-12-04T23:01:34.000Z",
+          "wordCount": 2201,
+          "title": "Windows 11 KB5032288 update improves Copilot, fixes 11 bugs",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/19/Windows_11.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-desktop-crashes-when-sending-emails/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft has fixed a known issue causing Outlook Desktop clients to crash when sending emails from Outlook.com accounts. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-desktop-crashes-when-sending-emails/",
+          "publishedOn": "2023-12-04T21:30:15.000Z",
+          "wordCount": 2098,
+          "title": "Microsoft fixes Outlook Desktop crashes when sending emails",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/11/03/Outlook.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/stealthier-version-of-p2pinfect-malware-targets-mips-devices/",
+          "author": "Bill Toulas",
+          "description": "The latest variants of the P2Pinfect botnet are now focusing on infecting devices with 32-bit MIPS (Microprocessor without Interlocked Pipelined Stages) processors, such as routers and IoT devices. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/stealthier-version-of-p2pinfect-malware-targets-mips-devices/",
+          "publishedOn": "2023-12-04T21:10:20.000Z",
+          "wordCount": 2188,
+          "title": "Stealthier version of P2Pinfect malware targets MIPS devices",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/05/26/Botnet_headpic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/russian-hackers-exploiting-outlook-bug-to-hijack-exchange-accounts/",
+          "author": "Bill Toulas",
+          "description": "Microsoft's Threat Intelligence team issued a warning earlier today about the Russian state-sponsored actor APT28 (aka \"Fancybear\" or \"Strontium\") actively exploiting the CVE-2023-23397 Outlook flaw to hijack Microsoft Exchange accounts and steal sensitive information. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/russian-hackers-exploiting-outlook-bug-to-hijack-exchange-accounts/",
+          "publishedOn": "2023-12-04T20:14:22.000Z",
+          "wordCount": 2213,
+          "title": "Russian hackers exploiting Outlook bug to hijack Exchange accounts",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/06/28/Outlook_headpic_red.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/december-android-updates-fix-critical-zero-click-rce-flaw/",
+          "author": "Sergiu Gatlan",
+          "description": "Google announced today that the December 2023 Android security updates tackle 85 vulnerabilities, including a critical severity zero-click remote code execution (RCE) bug. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/december-android-updates-fix-critical-zero-click-rce-flaw/",
+          "publishedOn": "2023-12-04T19:37:38.000Z",
+          "wordCount": 2157,
+          "title": "December Android updates fix critical zero-click RCE flaw",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/04/Android.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/tipalti-investigates-claims-of-data-stolen-in-ransomware-attack/",
+          "author": "Lawrence Abrams",
+          "description": "Tipalti says they are investigating claims that the ALPHV ransomware gang breached its network and stole 256 GB of data, including data for Roblox and Twitch. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/tipalti-investigates-claims-of-data-stolen-in-ransomware-attack/",
+          "publishedOn": "2023-12-04T19:22:36.000Z",
+          "wordCount": 2221,
+          "title": "Tipalti investigates claims of data stolen in ransomware attack",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/04/24/travis-essinger-money.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/fake-wordpress-security-advisory-pushes-backdoor-plugin/",
           "author": "Bill Toulas",
           "description": "WordPress administrators are being emailed fake WordPress security advisories for a fictitious vulnerability tracked as CVE-2023-45124 to infect sites with a malicious plugin. [...]",
@@ -2410,16 +2470,6 @@
           "wordCount": 2424,
           "title": "Cybercrime service bypasses Android security to install malware",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/05/25/Android_malware.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/socks5systemz-proxy-service-infects-10-000-systems-worldwide/",
-          "author": "Bill Toulas",
-          "description": "A proxy botnet called 'Socks5Systemz' has been infecting computers worldwide via the 'PrivateLoader' and 'Amadey' malware loaders, currently counting 10,000 infected devices. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/socks5systemz-proxy-service-infects-10-000-systems-worldwide/",
-          "publishedOn": "2023-11-05T15:17:34.000Z",
-          "wordCount": 2329,
-          "title": "Socks5Systemz proxy service infects 10,000 systems worldwide",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/05/26/Botnet_headpic.jpg"
         }
       ]
     },
@@ -2428,6 +2478,16 @@
       "feedUrl": "https://www.technologyreview.com/feed/",
       "siteUrl": "https://www.technologyreview.com",
       "articles": [
+        {
+          "id": "https://www.technologyreview.com/?p=1084381",
+          "author": "Casey Crownhart",
+          "description": "Carbon dioxide emissions from fossil fuels are on track to reach a record high by the end of 2023. And a new report shows just how insignificant technologies that pull greenhouse gases out of the atmosphere are by comparison.  Worldwide, those emissions are projected to reach 36.8 billion metric tons in 2023, a 1.1% increase…",
+          "link": "https://www.technologyreview.com/2023/12/04/1084381/fossil-fuel-emissions-carbon-removal-efforts/",
+          "publishedOn": "2023-12-05T00:01:00.000Z",
+          "wordCount": 6013,
+          "title": "Fossil-fuel emissions are over a million times greater than carbon removal efforts",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/12/emissions2b.jpg?resize=1200,600"
+        },
         {
           "id": "https://www.technologyreview.com/?p=1083950",
           "author": "Miriam Friedel",
@@ -3165,6 +3225,56 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9548526",
+          "author": null,
+          "description": "Wenn ChatGPT aufgefordert wurde, ein Wort \"für immer\" zu wiederholen, lieferte die KI Trainingsdaten. OpenAI hat das Vorgehen untersagt – aber nicht gepatcht.",
+          "link": "https://www.heise.de/news/Herausgabe-von-Trainingsdaten-OpenAI-untersagt-albernen-Angriff-auf-ChatGPT-9548526.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-12-05T08:24:00.000Z",
+          "wordCount": 1974,
+          "title": "Herausgabe von Trainingsdaten: OpenAI untersagt \"albernen Angriff\" auf ChatGPT",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/8/7/5/4/shutterstock_2273227467-16939c1bb84d0165.jpg"
+        },
+        {
+          "id": "http://heise.de/-9538336",
+          "author": null,
+          "description": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive Abschlussprüfung und Zertifizierung. (Frühbucherrabatt bis 25.12.)",
+          "link": "https://www.heise.de/news/iX-Workshop-KRITIS-Zusaetzliche-Pruefverfahrenskompetenz-fuer-8a-BSIG-9538336.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-12-05T07:00:00.000Z",
+          "wordCount": 1958,
+          "title": "heise-Angebot: iX-Workshop KRITIS: Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/3/4/8/7/KRITIS-Pruefungskompetenz-Ticker-Header-16-9-25c1b1ab4c585e90.jpg"
+        },
+        {
+          "id": "http://heise.de/-9548441",
+          "author": null,
+          "description": "In Großbritannien sorgt ein Bericht für Aufregung, laut dem Atomanlage Sellafield seit Jahren durch Malware kompromittiert ist. Die Regierung widerspricht.",
+          "link": "https://www.heise.de/news/Atomkomplex-Sellafield-Regierung-widerspricht-Bericht-ueber-Hackerangriff-9548441.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-12-05T06:41:00.000Z",
+          "wordCount": 2056,
+          "title": "Atomkomplex Sellafield: Regierung widerspricht Bericht über Hackerangriff",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/8/7/0/7/Atomm__xfffd_ll-e5170b15771a55c6.jpg"
+        },
+        {
+          "id": "http://heise.de/-9548413",
+          "author": null,
+          "description": "Intel hat ein VLSI-Patent doch nicht verletzt. Ein US-Bundesberufungsgericht schickt den Fall zurück nach Texas.​",
+          "link": "https://www.heise.de/news/Intel-erringt-Teilerfolg-gegen-Patent-Troll-VLSI-9548413.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-12-05T03:40:00.000Z",
+          "wordCount": 1996,
+          "title": "Intel erringt Teilerfolg gegen Patent-Troll VLSI",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/8/6/9/3/DSC05384_1-fa9d5c96583ade65.jpg"
+        },
+        {
+          "id": "http://heise.de/-9548161",
+          "author": null,
+          "description": "Notlichter für die Steckdose garantieren Licht bei Stromausfall. TechStage zeigt fünf Modelle ab 13 Euro und erklärt, wie sie sich in der Praxis unterscheiden.",
+          "link": "https://www.techstage.de/ratgeber/lampen-fuer-den-stromausfall-mobile-leuchten-griffbereit-und-geladen-ab-13-euro/f85e9j8?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-12-04T19:00:00.000Z",
+          "wordCount": 4011,
+          "title": "Lampen für Stromausfall: Mobile Leuchten – griffbereit und geladen",
+          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/ft2ktkpTURBXy85Y2ExNWM0MzJlMGJhM2E5ZjhjMmU0MDk5NzZhNDExNS5qcGeSlQMAAM0Pms0Ix5MFzQSwzQJ2"
+        },
         {
           "id": "http://heise.de/-9547965",
           "author": null,
@@ -8564,56 +8674,6 @@
           "wordCount": 2393,
           "title": "Bit-Rauschen: Der bisher schnellste RISC-V-Prozessor rechnet eher langsam",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/2/7/0/7/1/BitR-Teaser-16-9-2-Logo-b41023daeaff85b1-8d443d84ade6b004-2521a9d9653d87e4-b3cb09d59e3c9523.webp"
-        },
-        {
-          "id": "http://heise.de/-9353809",
-          "author": null,
-          "description": "Vier Schwachstellen im Exchange-Server machen die Groupware anfällig für Cyberangriffe. Drei Lücken werden bald geschlossen, eine ist bereits abgedichtet.",
-          "link": "https://www.heise.de/news/Microsoft-Exchange-Server-anfaellig-fuer-Remotecode-Ausfuehrung-und-Datenklau-9353809.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-05T16:19:00.000Z",
-          "wordCount": 2023,
-          "title": "Microsoft Exchange Server anfällig für Remotecode-Ausführung und Datenklau",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/2/8/9/3/0/shutterstock_1458873818-b216ff8185292199.jpg"
-        },
-        {
-          "id": "http://heise.de/-9353308",
-          "author": null,
-          "description": "Das Webinar führt umfassend in die neuen APIs ein, die Apple für Unternehmens-Apps anbietet – von SwiftData über WidgetKit bis SensitiveContentAnalysis.",
-          "link": "https://www.heise.de/news/Webinar-Neue-Apple-APIs-in-iOS-17-Co-fuer-Unternehmens-Apps-9353308.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-05T13:00:00.000Z",
-          "wordCount": 1931,
-          "title": "heise-Angebot: Webinar: Neue Apple-APIs in iOS 17 & Co für Unternehmens-Apps",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/2/8/6/6/9/api169-e6c631e8fc23e10e.png"
-        },
-        {
-          "id": "http://heise.de/-9353711",
-          "author": null,
-          "description": "Das Unternehmen xAI von Elon Musk kündigt seine KI \"Grok\" offiziell als Beta an. Wenn man keinen Humor besitzt, sollte man das LLM nicht nutzen.",
-          "link": "https://www.heise.de/news/Besser-als-GPT-3-5-Elon-Musks-xAI-kuendigt-seine-KI-Grok-offiziell-an-9353711.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-05T12:08:00.000Z",
-          "wordCount": 2212,
-          "title": "\"Besser als GPT 3.5\": Elon Musks xAI kündigt seine KI \"Grok\" offiziell an",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/2/8/8/7/7/F1BjOh1WYAAr8Jc-83364bd56aa43423.jpg"
-        },
-        {
-          "id": "http://heise.de/-9348894",
-          "author": null,
-          "description": "Das Webinar vermittelt, wie sich iOS-Apps effektiv und gezielt an Kunden, Businesspartner oder im Unternehmen intern verteilen lassen.",
-          "link": "https://www.heise.de/news/Neues-Webinar-iPhone-Apps-richtig-bereitstellen-nicht-nur-im-App-Store-9348894.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-05T11:00:00.000Z",
-          "wordCount": 1932,
-          "title": "heise-Angebot: Neues Webinar: iPhone-Apps richtig bereitstellen – nicht nur im App Store",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/2/6/2/5/7/Distribution-Apps-Ticker-Header-16-9-281105d59f4604e5.jpg"
-        },
-        {
-          "id": "http://heise.de/-9353647",
-          "author": null,
-          "description": "Ein Sprachmodell von Future House soll künftig in der Lage sein, Tausende von wissenschaftlichen Arbeiten zu sichten und schnell Hypothesen daraus abzuleiten.",
-          "link": "https://www.heise.de/news/Ex-Google-Chef-Schmidt-will-mit-KI-die-Wissenschaft-revolutionieren-9353647.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-05T10:03:00.000Z",
-          "wordCount": 2292,
-          "title": "Ex-Google-Chef Schmidt will mit KI die Wissenschaft revolutionieren",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/2/8/8/4/5/shutterstock_1530386477-a0b0652e4003de22.jpg"
         }
       ]
     },
@@ -9001,16 +9061,6 @@
           "wordCount": 1840,
           "title": "Sicherheitsupdates QNAP: Angreifer können eigene Befehle auf NAS ausführen",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/2/9/0/9/0/shutterstock_1494931898-0bd9dfaf437ebabc.jpg"
-        },
-        {
-          "id": "http://heise.de/-9353809",
-          "author": null,
-          "description": "Vier Schwachstellen im Exchange-Server machen die Groupware anfällig für Cyberangriffe. Drei Lücken werden bald geschlossen, eine ist bereits abgedichtet.",
-          "link": "https://www.heise.de/news/Microsoft-Exchange-Server-anfaellig-fuer-Remotecode-Ausfuehrung-und-Datenklau-9353809.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-05T16:19:00.000Z",
-          "wordCount": 2077,
-          "title": "Microsoft Exchange Server anfällig für Remotecode-Ausführung und Datenklau",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/2/8/9/3/0/shutterstock_1458873818-b216ff8185292199.jpg"
         }
       ]
     },
@@ -9019,6 +9069,38 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented threat actor has been linked to a cyber attack targeting an aerospace organization in the U.S. as part of what's suspected to be a cyber espionage mission.\nThe BlackBerry Threat Research and Intelligence team is tracking the activity cluster as AeroBlade. Its origin is currently unknown and it's not clear if the attack was successful.\n\"The actor used spear-phishing",
+          "link": "https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html",
+          "publishedOn": "2023-12-05T07:55:00.000Z",
+          "wordCount": null,
+          "title": "New Threat Actor 'AeroBlade' Emerges in Espionage Attack on U.S. Aerospace",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqEy4-aiml5Xrp2yNZ7KO7Esjd-qa-3vXhAoQaMLDuQX7mszzWfttQ91N7UjT4bXXuhuP_f1wHeFGByHhP9-7zrri7-cVDqK3GDuPkE9sdVMrXtF7JTygJJQcPERUysArGgE1T_648tQi3yupKhWoOsiyYDD0_PuDmkmHG5Co_gMaJk9O4SJVwMoRRmFVS/s1600/aero.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqEy4-aiml5Xrp2yNZ7KO7Esjd-qa-3vXhAoQaMLDuQX7mszzWfttQ91N7UjT4bXXuhuP_f1wHeFGByHhP9-7zrri7-cVDqK3GDuPkE9sdVMrXtF7JTygJJQcPERUysArGgE1T_648tQi3yupKhWoOsiyYDD0_PuDmkmHG5Co_gMaJk9O4SJVwMoRRmFVS/s1600/aero.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/12/microsoft-warns-of-kremlin-backed-apt28.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Monday said it detected Kremlin-backed nation-state activity exploiting a critical security flaw in its Outlook email service to gain unauthorized access to victims' accounts within Exchange servers.\nThe tech giant attributed the intrusions to a threat actor it called Forest Blizzard (formerly Strontium), which is also widely tracked under the monikers APT28,",
+          "link": "https://thehackernews.com/2023/12/microsoft-warns-of-kremlin-backed-apt28.html",
+          "publishedOn": "2023-12-05T06:59:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Warns of Kremlin-Backed APT28 Exploiting Critical Outlook Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo_-O_Y4uEx6cWQElaNsbR6l9bLhUELAsQGsmKehTfMRPqd-pCH6n3vee6fURoX_gLaN6dYNxB4jKgIw39wzUK9RbEMQAuHFU6nqOzaCGLFt9oA7l1CKkKsi3gT4yUHIZMqQcE2VGHyzReEe9IPXqu_x1yOzdTACFT0it1wqBbcpPLrW16e7-2o54twJva/s1600/email-hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo_-O_Y4uEx6cWQElaNsbR6l9bLhUELAsQGsmKehTfMRPqd-pCH6n3vee6fURoX_gLaN6dYNxB4jKgIw39wzUK9RbEMQAuHFU6nqOzaCGLFt9oA7l1CKkKsi3gT4yUHIZMqQcE2VGHyzReEe9IPXqu_x1yOzdTACFT0it1wqBbcpPLrW16e7-2o54twJva/s1600/email-hacking.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -11090,6 +11172,146 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/space_debris_orbit/",
+          "author": null,
+          "description": "<h4>It's hard to see, but when they rendezvous in orbit sparks ignite</h4> <p>Tiny bits of space junk too small to track using current methods could be detected by a novel process using by ground-based radio dishes, according to the latest research.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/space_debris_orbit/",
+          "publishedOn": "2023-12-05T08:30:09.000Z",
+          "wordCount": 1603,
+          "title": "Tiny bits of space junk reveal their wherabouts when they collide, boffins hope",
+          "imageUrl": "https://regmedia.co.uk/2019/09/04/spacedebris.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/spanish_media_meta_lawsuit/",
+          "author": null,
+          "description": "<h4>€550 million lawsuit seeks recompense for 'systemic and massive' disregard for privacy laws</h4> <p>A group representing some of Spain's largest media outlets have sued Meta, demanding €550 million ($596 million) in recompense for Zuckercorp's \"systemic and massive\" disregard for EU privacy regulations that have left them at risk of collapse.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/spanish_media_meta_lawsuit/",
+          "publishedOn": "2023-12-05T07:30:07.000Z",
+          "wordCount": 1495,
+          "title": "Spanish media sues Meta for ignoring GDPR and harvesting data",
+          "imageUrl": "https://regmedia.co.uk/2023/11/15/meta_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/uk_government_denies_sellafield_hack_claim/",
+          "author": null,
+          "description": "<h4>Report suggests Sellafield compromised since 2015, response seems worryingly ignorant of Stuxnet</h4> <p>The government of the United Kingdom has issued a strongly worded denial of a report that the Sellafield nuclear complex has been compromised by malware for years.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/uk_government_denies_sellafield_hack_claim/",
+          "publishedOn": "2023-12-05T06:30:06.000Z",
+          "wordCount": 1479,
+          "title": "UK government denies China/Russia nuke plant hack claim",
+          "imageUrl": "https://regmedia.co.uk/2023/12/05/leonardo_ai_uk_russia_china_nuclear.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/china_gamifies_censorship_and_surveillance/",
+          "author": null,
+          "description": "<h4>I'm not a regular government, I'm a cool government</h4> <p>China has introduced a program designed to make propaganda fun – an online knowledge competition that poses questions about the rules of proper socialist internet use and other cyber matters.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/china_gamifies_censorship_and_surveillance/",
+          "publishedOn": "2023-12-05T05:30:07.000Z",
+          "wordCount": 1226,
+          "title": "China gamifies censorship and surveillance with national internet law quiz",
+          "imageUrl": "https://regmedia.co.uk/2021/02/24/shutterstock_online_exams.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/south_north_korea_spy_satellites/",
+          "author": null,
+          "description": "<h4>North claims it took photos of stuff. South points to success of homegrown booster</h4> <p>A little more than a week after North Korea claimed to have launched its first indigenous military reconnaissance satellite, South Korea has done the same – then followed up by launching another sat on its own rocket.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/south_north_korea_spy_satellites/",
+          "publishedOn": "2023-12-05T03:30:15.000Z",
+          "wordCount": 1674,
+          "title": "Korean peninsula space race sees South and North launch tit for tat spy sats",
+          "imageUrl": "https://regmedia.co.uk/2023/05/31/korea_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/amazon_camera_hook_case_proceeds/",
+          "author": null,
+          "description": "<h4>Judge finds plaintiff's claim – that Amazon knew about illicit usage – credible enough for case to proceed</h4> <p>Two years ago, a Brazilian minor came to the US as an exchange student in the US and stayed in a West Virginia home in which her host had placed a spy camera bought on Amazon.com.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/amazon_camera_hook_case_proceeds/",
+          "publishedOn": "2023-12-05T02:01:15.000Z",
+          "wordCount": 1659,
+          "title": "Amazon on the hook for predictably revolting use of concealed clothes hook spy cam",
+          "imageUrl": "https://regmedia.co.uk/2017/06/15/peepingtom.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/ibm_heron_quantum_processor/",
+          "author": null,
+          "description": "<h4>Big Blue's roadmap prioritizes circuit size over qubit quantity</h4> <p>IBM has unveiled the Heron – a quantum processor it claims has achieved \"utility scale\" – and a so-called modular System Two architecture that will employ it in production.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/05/ibm_heron_quantum_processor/",
+          "publishedOn": "2023-12-05T01:14:02.000Z",
+          "wordCount": 1612,
+          "title": "IBM takes a crack at 'utility scale' quantum processing with Heron processor",
+          "imageUrl": "https://regmedia.co.uk/2023/12/04/ibm_quantum_system_two.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/iran_terrorist_us_water_attacks/",
+          "author": null,
+          "description": "<h4>There's a war on and critical infrastructure operators are still using default passwords</h4> <p>Iran-linked cyber thugs have exploited Israeli-made programmable logic controllers (PLCs) used in \"multiple\" water systems and other operational technology environments at facilities across the US, according to multiple law enforcement agencies .…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/iran_terrorist_us_water_attacks/",
+          "publishedOn": "2023-12-04T23:30:08.000Z",
+          "wordCount": 1599,
+          "title": "US warns Iranian terrorist crew broke into 'multiple' US water facilities",
+          "imageUrl": "https://regmedia.co.uk/2018/12/21/shutterstock_us_iran.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/astrazeneca_absci_cancer/",
+          "author": null,
+          "description": "<h4>Startup Absci will turn to its generative AI algorithms to design synthetic protein</h4> <p>Pharma giant AstraZeneca has signed a $247 million deal with Ai drug creation company Absci to develop an antibody designed to fight cancer.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/astrazeneca_absci_cancer/",
+          "publishedOn": "2023-12-04T22:35:07.000Z",
+          "wordCount": 1456,
+          "title": "AstraZeneca bets $247m AI can create a cancer-fighting antibody",
+          "imageUrl": "https://regmedia.co.uk/2017/11/09/syringe_key_on_keyboard.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/researcher_harvard_meta/",
+          "author": null,
+          "description": "<h4>University says ties to Meta execs and a $500 million donation played no role</h4> <p>A former Harvard misformation scholar has filed a whistleblower complaint against the Ivy League university, alleging that its Kennedy School canceled her research into social media harms in order to protect a $500 million donation from The Chan Zuckerberg Initiative.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/researcher_harvard_meta/",
+          "publishedOn": "2023-12-04T21:40:39.000Z",
+          "wordCount": 1830,
+          "title": "Researcher claims Harvard nixed social media research after getting Zuck bucks",
+          "imageUrl": "https://regmedia.co.uk/2017/06/05/harvard_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/intel_vlsi_reversal/",
+          "author": null,
+          "description": "<h4>The never-ending IP story goes on</h4> <p><strong>Updated</strong>  Intel has delayed paying $2.18 billion in damages for its alleged misuse of patents on Monday after a US appeals court threw out the case against the chip giant brought by VLSI.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/intel_vlsi_reversal/",
+          "publishedOn": "2023-12-04T20:58:36.000Z",
+          "wordCount": 1519,
+          "title": "Intel scores a reprieve in $2.18B VLSI patent case after court orders retrial",
+          "imageUrl": "https://regmedia.co.uk/2021/03/02/judgement.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/cruise_pedestrian_california/",
+          "author": null,
+          "description": "<h4>Stalled self-driving car biz up to its axles in problems</h4> <p>California's Public Utilities Commission (CPUC) has threatened driverless taxi outfit Cruise with fines and sanctions unless it can prove it didn't withhold information and make misleading statements about an October accident. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/cruise_pedestrian_california/",
+          "publishedOn": "2023-12-04T20:00:08.000Z",
+          "wordCount": 1542,
+          "title": "California commission says Cruise withheld data about parking atop of a pedestrian",
+          "imageUrl": "https://regmedia.co.uk/2023/04/10/shutterstock_cruise.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/hershey_phishes_data_breach/",
+          "author": null,
+          "description": "<h4>Stealing Kit Kat maker's data?! Give me a break</h4> <p>There's no sugarcoating this news: The Hershey Company has disclosed cyber crooks gobbled up 2,214 people's financial information following a phishing campaign that netted the chocolate maker's data.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/hershey_phishes_data_breach/",
+          "publishedOn": "2023-12-04T19:15:10.000Z",
+          "wordCount": 1466,
+          "title": "Hershey phishes! Crooks snarf chocolate lovers' creds",
+          "imageUrl": "https://regmedia.co.uk/2023/12/04/hersheys_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/remember_when_the_hubble_space/",
+          "author": null,
+          "description": "<h4>30 years ago astronauts embarked on ambitious mission to fix Hubble ... and NASA's reputation</h4> <p>Today is the thirtieth anniversary since NASA launched the first servicing mission for the stricken Hubble observatory, a record that lands just as the the space telescope faces a fresh round of fixes.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/remember_when_the_hubble_space/",
+          "publishedOn": "2023-12-04T18:30:11.000Z",
+          "wordCount": 1725,
+          "title": "Remember when the Hubble Space Telescope was more punchline than science powerhouse?",
+          "imageUrl": "https://regmedia.co.uk/2015/04/25/hubble_flaw.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/04/spotify_layoffs/",
           "author": null,
@@ -16079,16 +16301,6 @@
           "wordCount": 1477,
           "title": "Beijing signals it may let Micron out of the penalty box in the Middle Kingdom",
           "imageUrl": "https://regmedia.co.uk/2021/03/17/shutterstock_micron_boise.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/05/biden_ai_reporting_thresholds/",
-          "author": null,
-          "description": "<h4>But the astronomical performance thresholds mean few ML operators will be required to report at this rate</h4> <p><strong>Comment</strong>  The White House wants to know who is deploying AI compute clusters and training large language models — but for now only the really, really, big ones.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/05/biden_ai_reporting_thresholds/",
-          "publishedOn": "2023-11-05T18:30:14.000Z",
-          "wordCount": 2000,
-          "title": "Developing AI models or giant GPU clusters? Uncle Sam would like a word",
-          "imageUrl": "https://regmedia.co.uk/2020/03/30/shutterstock_uncle_sam.jpg"
         }
       ]
     }

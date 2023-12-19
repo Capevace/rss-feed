@@ -415,6 +415,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
+          "author": "hello@smashingmagazine.com (Luis Ouriach)",
+          "description": "Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.",
+          "link": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
+          "publishedOn": "2023-12-18T15:00:00.000Z",
+          "wordCount": 8446,
+          "title": "Building Components For Consumption, Not Complexity (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/",
           "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
           "description": "Have you run into a situation where you need the padding of one element to align with the padding of another element? In this article, Brecht De Ruyte demonstrates the issue with a full-width slider component that breaks out of the main page container and shares a couple of techniques to keep it visually aligned with other elements on the page.",
@@ -601,6 +616,56 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/xfinity-discloses-data-breach-after-recent-citrix-server-hack/",
+          "author": "Sergiu Gatlan",
+          "description": "Comcast Cable Communications, doing business as Xfinity, disclosed on Monday that attackers who breached one of its Citrix servers in October also stole customer-sensitive information from its systems. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/xfinity-discloses-data-breach-after-recent-citrix-server-hack/",
+          "publishedOn": "2023-12-19T00:03:30.000Z",
+          "wordCount": 2279,
+          "title": "Xfinity discloses data breach after recent Citrix server hack",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/18/Xfinity.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/decembers-windows-11-kb5033375-update-breaks-wi-fi-connectivity/",
+          "author": "Sergiu Gatlan",
+          "description": "The KB5033375 cumulative update released during the December 2023 Patch Tuesday causes Wi-Fi connectivity issues on some Windows 11 devices. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/decembers-windows-11-kb5033375-update-breaks-wi-fi-connectivity/",
+          "publishedOn": "2023-12-18T21:25:15.000Z",
+          "wordCount": 2101,
+          "title": "December's Windows 11 KB5033375 update breaks Wi-Fi connectivity",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/07/10/Windows_11.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/microsoft-discovers-critical-rce-flaw-in-perforce-helix-core-server/",
+          "author": "Bill Toulas",
+          "description": "Four vulnerabilities, one of which is rated critical, have been discovered in the Perforce Helix Core Server, a source code management platform widely used by the gaming, government, military, and technology sectors. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-discovers-critical-rce-flaw-in-perforce-helix-core-server/",
+          "publishedOn": "2023-12-18T20:49:35.000Z",
+          "wordCount": 2187,
+          "title": "Microsoft discovers critical RCE flaw in Perforce Helix Core Server",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/18/warning.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/vans-and-north-face-owner-vf-corp-hit-by-ransomware-attack/",
+          "author": "Bill Toulas",
+          "description": "American global apparel and footwear giant VF Corporation, the owner of brands like Supreme, Vans, Timberland, and The North Face, has disclosed a security incident that caused operational disruptions. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/vans-and-north-face-owner-vf-corp-hit-by-ransomware-attack/",
+          "publishedOn": "2023-12-18T18:56:41.000Z",
+          "wordCount": 2189,
+          "title": "Vans and North Face owner VF Corp hit by ransomware attack",
+          "imageUrl": "https://www.bleepstatic.com/content/posts/2023/12/18/vf-corp-brands2.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-printer-issues-with-new-troubleshooter/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft has released a troubleshooter tool to fix an issue where the HP Smart app would automatically install on Windows systems after renaming all printers to HP LaserJet M101-M106. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-printer-issues-with-new-troubleshooter/",
+          "publishedOn": "2023-12-18T18:17:34.000Z",
+          "wordCount": 2127,
+          "title": "Microsoft fixes Windows printer issues with new troubleshooter",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/10/Windows_headpic.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-300-victims-including-critical-orgs/",
           "author": "Sergiu Gatlan",
@@ -2350,26 +2415,6 @@
           "wordCount": 2285,
           "title": "Lumma Stealer malware now uses trigonometry to evade detection",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/10/02/Hacker_headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/russian-hackers-use-ngrok-feature-and-winrar-exploit-to-attack-embassies/",
-          "author": "Ionut Ilascu",
-          "description": "After Sandworm and APT28 (known as Fancy Bear), another state-sponsored Russian hacker group, APT29, is leveraging the CVE-2023-38831 vulnerability in WinRAR for cyberattacks. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-use-ngrok-feature-and-winrar-exploit-to-attack-embassies/",
-          "publishedOn": "2023-11-19T16:14:25.000Z",
-          "wordCount": 2320,
-          "title": "Russian hackers use Ngrok feature and WinRAR exploit to attack embassies",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/11/08/Russian_hacker_headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/researchers-extract-rsa-keys-from-ssh-server-signing-errors/",
-          "author": "Bill Toulas",
-          "description": "A team of academic researchers from universities in California and Massachusetts demonstrated that it's possible under certain conditions for passive network attackers to retrieve secret RSA keys from naturally occurring errors leading to failed SSH (secure shell) connection attempts. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/researchers-extract-rsa-keys-from-ssh-server-signing-errors/",
-          "publishedOn": "2023-11-19T15:01:10.000Z",
-          "wordCount": 2367,
-          "title": "Researchers extract RSA keys from SSH server signing errors",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/09/cyber-key.jpg"
         }
       ]
     },
@@ -2387,6 +2432,16 @@
           "wordCount": 13561,
           "title": "Developing climate solutions with green software",
           "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/12/Asim-Hussain_1200.png?resize=1200,600"
+        },
+        {
+          "id": "https://www.technologyreview.com/?p=1085299",
+          "author": "MIT Technology Review Insights",
+          "description": "One can’t step into the same river twice. This simple representation of change as the only constant was taught by the Greek philosopher Heraclitus more than 2000 years ago. Today, it rings truer than ever with the advent of generative AI. The emergence of generative AI is having a profound effect on today’s enterprises—business leaders…",
+          "link": "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-shifting-customer-engagement-landscape-with-generative-ai/",
+          "publishedOn": "2023-12-18T14:00:00.000Z",
+          "wordCount": 7171,
+          "title": "Navigating a shifting customer-engagement landscape with generative AI",
+          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/12/WNS_graphic_1200.png?resize=1200,600"
         },
         {
           "id": "https://www.technologyreview.com/?p=1085605",
@@ -3165,6 +3220,46 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9577963",
+          "author": null,
+          "description": "Im August haben internationale Strafverfolger das Quakbot-Botnetz außer Gefecht gesetzt. Jetzt hat Microsoft eine neue Phishing-Kampagne entdeckt.",
+          "link": "https://www.heise.de/news/Botnet-Neue-Qakbot-Phishing-Kampagne-entdeckt-9577963.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-12-19T07:36:00.000Z",
+          "wordCount": 1820,
+          "title": "Botnet: Neue Qakbot-Phishing-Kampagne entdeckt",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/1/5/8/0/4/shutterstock_503797840-dda23a559eddd806.jpg"
+        },
+        {
+          "id": "http://heise.de/-9577975",
+          "author": null,
+          "description": "Die Regierung der Islamischen Republik hat eingestanden, dass ein Cyberangriff für landesweite Probleme an Tankstellen Anfang der Woche verantwortlich war.",
+          "link": "https://www.heise.de/news/Iran-Zahlreiche-Tankstellen-nach-Cyberangriff-lahmgelegt-9577975.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-12-19T07:31:00.000Z",
+          "wordCount": 1913,
+          "title": "Iran: Zahlreiche Tankstellen nach Cyberangriff lahmgelegt",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/1/5/8/1/1/shutterstock_1062083486-88e277e3d2015aad.jpg"
+        },
+        {
+          "id": "http://heise.de/-9541486",
+          "author": null,
+          "description": "Analysieren Sie aktuelle Angriffstechniken, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen. Rabatt bis 14.01.",
+          "link": "https://www.heise.de/news/iX-Workshop-Schutz-vor-Cyberangriffen-Verstehen-erkennen-und-abwehren-9541486.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-12-19T07:00:00.000Z",
+          "wordCount": 1869,
+          "title": "heise-Angebot: iX-Workshop: Schutz vor Cyberangriffen - Verstehen, erkennen und abwehren",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/5/0/9/6/Cybersicherheit-Ticker-Header-16-9-7f0ce07a52823808.jpg"
+        },
+        {
+          "id": "http://heise.de/-9577868",
+          "author": null,
+          "description": "Bei dem Genanalyse-Unternehmen \"Asper Biogene\" ist es zu einem Ransomware-Vorfall gekommen. Betroffen sind dabei Gesundheitsdaten von etwa 10.000 Esten.",
+          "link": "https://www.heise.de/news/Estland-10-000-Menschen-von-Gendaten-Leak-betroffen-9577868.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2023-12-18T20:30:00.000Z",
+          "wordCount": 1876,
+          "title": "Gendaten von 10.000 Esten geleakt",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/1/5/7/5/5/shutterstock_1046584543-ccd11a507bd290ee.jpg"
+        },
         {
           "id": "http://heise.de/-9577817",
           "author": null,
@@ -8144,66 +8239,6 @@
           "wordCount": 2410,
           "title": "Bit-Rauschen: Neue Hoffnungen auf schnelle ARM-Notebooks",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/4/9/2/0/2/7/BitR-Teaser-16-9-2-Logo-b41023daeaff85b1-8d443d84ade6b004-2521a9d9653d87e4-b3cb09d59e3c9523.webp"
-        },
-        {
-          "id": "http://heise.de/-9533351",
-          "author": null,
-          "description": "Das smarte Heizkörperthermostat TP-Link Kasa KE100 Kit kommt mit Gateway, das bis zu 32 Thermostate verwalten kann. Ob es im Alltag überzeugt, zeigt der Test.",
-          "link": "https://www.techstage.de/test/tp-link-kasa-ke100-kit-im-test-zur-black-week-fuer-unter-40-euro-erhaeltlich/jk6vm05?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-19T16:45:00.000Z",
-          "wordCount": 4407,
-          "title": "TP-Link Kasa KE100 Kit im Test: Zur Black Week für unter 40 Euro erhältlich",
-          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/dwLktkpTURBXy81OTNjOWM5M2ZmN2M1OWRlYjlkZmIzODEwNTFmY2JhMi5qcGeSlQMAAM0PwM0I3JMFzQSwzQJ2"
-        },
-        {
-          "id": "http://heise.de/-9533345",
-          "author": null,
-          "description": "Der Switchbot K10+ hat nicht nur eine Absaugstation, sondern ist auch besonders klein. Damit kommt er theoretisch in die kleinste Ecke – ob das stimmt, verrät der Test.",
-          "link": "https://www.techstage.de/test/switchbot-k10-im-test-der-kleinste-vollwertige-saugroboter-mit-absaugstation/251sc2w?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-19T15:46:00.000Z",
-          "wordCount": 3814,
-          "title": "Switchbot K10+ im Test: Der kleinste vollwertige Saugroboter mit Absaugstation",
-          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/rOiktkpTURBXy9kODQ5ZjBlMzcxODU5YmFhMzNlYzE3ZTBkOGZiOWEyYS5qcGeSlQMAAM0O_M0IbpMFzQSwzQJ2"
-        },
-        {
-          "id": "http://heise.de/-9533307",
-          "author": null,
-          "description": "Smarte Heizkörperthermostate helfen, Energie zu sparen. Zudem bieten sie auch mehr Komfort. Zur Black Week sind sie besonders günstig.",
-          "link": "https://www.techstage.de/bestenliste/top-10-die-besten-heizkoerperthermostate-im-test-homematic-ip-vor-tado/5mrzc8t?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-19T15:00:00.000Z",
-          "wordCount": 7868,
-          "title": "Top 10: Die besten Heizkörperthermostate – zur Black Week besonders günstig",
-          "imageUrl": "https://ocdn.eu/pulscms-transforms/1/yYjktkpTURBXy8wNjk2NzAxMjViOTczNmM4MDNlNjBiNjFkN2ZiNjA2ZS5qcGeSlQMAAM0MgM0HCJMFzQSwzQJ2"
-        },
-        {
-          "id": "http://heise.de/-9533241",
-          "author": null,
-          "description": "Ein israelischer Detektiv hat US-Behörden zufolge eine internationale Phishing-Operation für Kunden wie Wirecard geleitet und 4,8 Millionen Dollar eingesackt.",
-          "link": "https://www.heise.de/news/US-Urteil-Wirecard-Auftragshacker-zu-80-Monaten-Gefaengnis-verurteilt-9533241.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-19T12:35:00.000Z",
-          "wordCount": 2147,
-          "title": "US-Urteil: Wirecard-Auftragshacker zu 80 Monaten Gefängnis verurteilt",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/0/8/9/Ransomware_Erpressungstrojaner_Trojaner_Cybercrime_-aef244114b9bf7d2.jpg"
-        },
-        {
-          "id": "http://heise.de/-9533188",
-          "author": null,
-          "description": "Bei der Datenschutztagung wurden die Herausforderungen bei Künstliche Intelligenz diskutiert. Wichtig seien klare datenschutzrechtliche Verantwortlichkeiten.",
-          "link": "https://www.heise.de/news/DAFTA-Personenbezug-als-Elefant-im-Raum-bei-Kuenstlicher-Intelligenz-9533188.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-19T12:03:00.000Z",
-          "wordCount": 2324,
-          "title": "DAFTA: Personenbezug als \"Elefant im Raum\" bei Künstlicher Intelligenz",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/0/6/2/daf-34b5fdfb3ff65d06.jpeg"
-        },
-        {
-          "id": "http://heise.de/-9533212",
-          "author": null,
-          "description": "Der Vorstand von OpenAI hat Gespräche mit dem kürzlich entlassen CEO Sam Altman aufgenommen. Altman soll als CEO zurückkommen – auch auf Druck der Investoren.",
-          "link": "https://www.heise.de/news/OpenAI-Vorstand-in-Gespraechen-mit-Altman-ueber-seine-Rueckkehr-als-CEO-9533212.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2023-11-19T11:30:00.000Z",
-          "wordCount": 2431,
-          "title": "OpenAI: Altman soll als CEO zurückkehren – Vorstand bereit zurückzutreten",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/1/0/7/4/shutterstock_2366323229-ae60908f7878a8a0.jpg"
         }
       ]
     },
@@ -8579,6 +8614,38 @@
       "feedUrl": "http://feeds.feedburner.com/TheHackersNews?format=xml",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/12/8220-gang-exploiting-oracle-weblogic.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors associated with the 8220 Gang have been observed exploiting a high-severity flaw in Oracle WebLogic Server to propagate their malware.\nThe security shortcoming is CVE-2020-14883 (CVSS score: 7.2), a remote code execution bug that could be exploited by authenticated attackers to take over susceptible servers.\n\"This vulnerability allows remote authenticated",
+          "link": "https://thehackernews.com/2023/12/8220-gang-exploiting-oracle-weblogic.html",
+          "publishedOn": "2023-12-19T06:58:00.000Z",
+          "wordCount": null,
+          "title": "8220 Gang Exploiting Oracle WebLogic Server Vulnerability to Spread Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAPBIGEn6Tb6zHdONyZIwEcpKerx9higjGLcFLGCB_JC5V-15V6zfxzy07IngDidAs5GP25qoFRPmqXIZQIAGBYBs3p1HqyQB0ott20xKMtUk5P74ko-OhOVaN1g_wfgLdEh8mYM1_Bz_qjgNu1OFWeBJKo9b5EeztYWfj8KsICm0AMqXQ7xP_4HqLYpoV/s1600/server-security.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAPBIGEn6Tb6zHdONyZIwEcpKerx9higjGLcFLGCB_JC5V-15V6zfxzy07IngDidAs5GP25qoFRPmqXIZQIAGBYBs3p1HqyQB0ott20xKMtUk5P74ko-OhOVaN1g_wfgLdEh8mYM1_Bz_qjgNu1OFWeBJKo9b5EeztYWfj8KsICm0AMqXQ7xP_4HqLYpoV/s1600/server-security.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/12/double-extortion-play-ransomware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind the Play ransomware are estimated to have impacted approximately 300 entities as of October 2023, according to a new joint cybersecurity advisory from Australia and the U.S.\n\"Play ransomware actors employ a double-extortion model, encrypting systems after exfiltrating data and have impacted a wide range of businesses and critical infrastructure organizations in North",
+          "link": "https://thehackernews.com/2023/12/double-extortion-play-ransomware.html",
+          "publishedOn": "2023-12-19T05:42:00.000Z",
+          "wordCount": null,
+          "title": "Double-Extortion Play Ransomware Strikes 300 Organizations Worldwide",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB55_7x_nRNK3mhmKqd0sc3K9cmX25dncjiSoW0xM9j_wHcrvfbx3reFQ5iPIZ18q5_0zKH24q6519ig5VftlhNTf4SaZuTEzg1GknjgS-7c1DoeYfu7tRiMzIWgHIgsSBVrTKr6vH4fP8j-snu72K2eHSkbu9I9g4shl7fIauvgWeottiZE-L3SkFOzYE/s1600/joint.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB55_7x_nRNK3mhmKqd0sc3K9cmX25dncjiSoW0xM9j_wHcrvfbx3reFQ5iPIZ18q5_0zKH24q6519ig5VftlhNTf4SaZuTEzg1GknjgS-7c1DoeYfu7tRiMzIWgHIgsSBVrTKr6vH4fP8j-snu72K2eHSkbu9I9g4shl7fIauvgWeottiZE-L3SkFOzYE/s1600/joint.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/12/beware-experts-reveal-new-details-on.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -10762,6 +10829,156 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/valuelicensing_files_a_summary_judgment/",
+          "author": null,
+          "description": "<h4>UK software reseller alleges 'no real prospect of success' of Windows giant's arguments</h4> <p>Microsoft's tussle with ValueLicensing over perpetual licensing terms has taken another turn after the software reseller asked the Competition Appeal Tribunal (CAT) to strike out parts of Redmond's amended defense.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/valuelicensing_files_a_summary_judgment/",
+          "publishedOn": "2023-12-19T08:22:12.000Z",
+          "wordCount": 1472,
+          "title": "ValueLicensing tries to smack down Microsoft defenses in license reselling spat",
+          "imageUrl": "https://regmedia.co.uk/2018/05/09/shutterstock_microsoft_cloud.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/kirin_ai_drink_development/",
+          "author": null,
+          "description": "<h4>Maybe check the label before you next sip a Kirin alcopop?</h4> <p>With less than two weeks remaining in 2023, <em>The Register</em> thinks we've almost reached the point at which we can prove Nothing Is Safe From AI – thanks to an <a target=\"_blank\" href=\"https://www.kirinholdings.com/jp/newsroom/release/2023/1219_02.html\">announcement</a> that Japan's Kirin Holdings, purveyor of many fine beers, has enlisted a binary brainbox to brew ideas for new products.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/kirin_ai_drink_development/",
+          "publishedOn": "2023-12-19T07:30:07.000Z",
+          "wordCount": 1316,
+          "title": "Japanese brewery using generative AI to dream up new beverages",
+          "imageUrl": "https://regmedia.co.uk/2023/12/19/leonardo_ai_robot_drinking_beer_in_bar.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/vmware_euc_sale_speculation/",
+          "author": null,
+          "description": "<h4>Would you rather a cloud that not-so-gently migrates you, or a retirement home like HCL?</h4> <p>Broadcom recently <a target=\"_blank\" href=\"https://www.theregister.com/2023/12/07/broadcom_q4_2023/\">revaled</a> it intends to divest VMware's end-user compute products, which span virtual desktops, app publishing, and device management. Let's ponder where they might land.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/vmware_euc_sale_speculation/",
+          "publishedOn": "2023-12-19T06:31:06.000Z",
+          "wordCount": 1610,
+          "title": "VMware's end-user compute products are for sale. Who might buy 'em?",
+          "imageUrl": "https://regmedia.co.uk/2021/08/02/shutterstock_cloud_pc.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/ousted_and_isolated_pakistan_pm/",
+          "author": null,
+          "description": "<h4>Grammar might be off, but use case remains groundbreaking</h4> <p>While pundits fear a future where elections are clouded by AI-created videos of faked politicans spreading misinformation, a Pakistani politician has deliberately delivered a deepfake of a speech while isolated from media behind bars.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/ousted_and_isolated_pakistan_pm/",
+          "publishedOn": "2023-12-19T05:28:14.000Z",
+          "wordCount": 1268,
+          "title": "Pakistani politician deepfakes himself to deliver a speech from behind bars",
+          "imageUrl": "https://regmedia.co.uk/2022/03/03/ai_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/india_telecommunications_bill_2023/",
+          "author": null,
+          "description": "<h4>OTT apps in the clear. Indian citizens, not so much – law proposes registration, surveillance, and shutdown powers</h4> <p>India's government has introduced its Telecommunications Bill – heavily anticipated legislation that will replace laws that were passed before the internet existed and prior to India turning on over a billion mobile phone subscriptions.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/india_telecommunications_bill_2023/",
+          "publishedOn": "2023-12-19T04:06:18.000Z",
+          "wordCount": 1453,
+          "title": "India's long-awaited telecoms bill drops language that would have regulated social media",
+          "imageUrl": "https://regmedia.co.uk/2021/06/24/shutterstock_india_phone.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/cac_app_fornalism_crackdown/",
+          "author": null,
+          "description": "<h4>Its hard to disagree with a mandate to make government digital services fit for people, not box-tickers</h4> <p>Beijing's internet regulator, the Cyberspace Administration of China (CAC), has decided government digital services and apps need to become less bureaucratic and formal.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/cac_app_fornalism_crackdown/",
+          "publishedOn": "2023-12-19T02:02:07.000Z",
+          "wordCount": 1261,
+          "title": "Beijing demands government apps must shed their bureaucratic skins",
+          "imageUrl": "https://regmedia.co.uk/2017/08/30/chinese_computer_keyboard_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/iab_ietf_oppose_clientside_scanning/",
+          "author": null,
+          "description": "<h4>Someone needs to think of the children ... and the consequences of breaking encryption and trashing privacy</h4> <p>The Internet Architecture Board (IAB) has warned that policy proposals requiring or enabling the automated scouring of people's devices for illegal material – as floated by the European Union, the United Kingdom, and the United States – threaten the open internet.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/19/iab_ietf_oppose_clientside_scanning/",
+          "publishedOn": "2023-12-19T00:37:10.000Z",
+          "wordCount": 2041,
+          "title": "Internet's deep-level architects slam US, UK, Europe for pushing device-side scanning",
+          "imageUrl": "https://regmedia.co.uk/2018/07/10/shutterstock_annoyed_cellphone.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/hacktivists_shut_down_irans_petrol/",
+          "author": null,
+          "description": "<h4>Predatory Sparrow previously knocked out railways and a steel plant</h4> <p>Hacktivists reportedly disrupted services at about 70 percent of Iran's gas stations in a politically motivated cyberattack.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/hacktivists_shut_down_irans_petrol/",
+          "publishedOn": "2023-12-18T22:45:10.000Z",
+          "wordCount": 1548,
+          "title": "Hacktivists boast: We shut down Iran's gas pumps today",
+          "imageUrl": "https://regmedia.co.uk/2023/12/18/shutterstock_iran_gas.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/beeper_blocked_imessage_whacamole_continues/",
+          "author": null,
+          "description": "<h4>Anticompetitive ... or simply keeping iDevice users nice and safe?</h4> <p>Apple's game of Whac-A-Mole with messaging platform Beeper continues unabated, with the service reporting today that most users can again no longer send or receive iMessages.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/beeper_blocked_imessage_whacamole_continues/",
+          "publishedOn": "2023-12-18T21:59:11.000Z",
+          "wordCount": 1391,
+          "title": "Apple pops blue bubbles of Beeper Mini's iMessage service again",
+          "imageUrl": "https://regmedia.co.uk/2021/09/13/shutterstock_imessage.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/mr_cooper_breach_disclosure/",
+          "author": null,
+          "description": "<h4>Mortgage lender says no evidence of identity theft (yet) after SSNs, DoBs, addresses, more swiped</h4> <p>Mortgage lender Mr Cooper has now admitted almost 14.7 million people's private information, including addresses and bank account numbers, were stolen in an earlier IT security breach, which is expected to cost the business at least $25 million to clean up.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/mr_cooper_breach_disclosure/",
+          "publishedOn": "2023-12-18T20:54:12.000Z",
+          "wordCount": 1507,
+          "title": "Mr Cooper cyberattack laid bare: 14.7M people's info stolen, costs hit $25M",
+          "imageUrl": "https://regmedia.co.uk/2023/12/18/shutterstock_mr_cooper.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/us_fines_southwest_airlines_140m/",
+          "author": null,
+          "description": "<h4>Wrist, meet slap: Only a quarter will be paid to Treasury, the rest is vouchers and credits</h4> <p>The US Department of Transportation has, on paper at least, fined Southwest Airlines $140 million in addition to refunds the government strong-armed the biz to pay out, as a result of the budget airline's massive Christmas outage last year.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/us_fines_southwest_airlines_140m/",
+          "publishedOn": "2023-12-18T20:16:09.000Z",
+          "wordCount": 1761,
+          "title": "Southwest Airlines lands $140M fine for that Christmas IT meltdown",
+          "imageUrl": "https://regmedia.co.uk/2023/12/18/shutterstock_southwest_airlines.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/vf_vans_cybersecurity_incident/",
+          "author": null,
+          "description": "<h4>IT systems encrypted, personal data pilfered from North Face parent, we're told</h4> <p>A digital break-in has disrupted VF Corp's operations and its ability to fulfill orders, according to the apparel and footwear giant.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/vf_vans_cybersecurity_incident/",
+          "publishedOn": "2023-12-18T19:45:14.000Z",
+          "wordCount": 1425,
+          "title": "Cyber-crooks slip into Vans, trample over operations",
+          "imageUrl": "https://regmedia.co.uk/2023/12/18/shutterstock_vans.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/adobe_figma/",
+          "author": null,
+          "description": "<h4>Now Photoshop giant needs to cough up that $1B break-up fee</h4> <p>Adobe has decided to abandon its $20 billion acquisition of Figma in a concession to regulatory pressure in Europe, the United Kingdom, and the United States.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/adobe_figma/",
+          "publishedOn": "2023-12-18T19:14:01.000Z",
+          "wordCount": 1859,
+          "title": "Adobe ditches $20B Figma takeover under pressure from monopoly cops",
+          "imageUrl": "https://regmedia.co.uk/2023/12/18/shutterstock_adobe_figma.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/zuckerberg_hawaii_bunker/",
+          "author": null,
+          "description": "<h4>$270M secret building project includes 5,000 sq ft bunker</h4> <p>On a remote part of Kauai, the fourth largest island in the Hawaiian archipelago, someone with a lot of money is bankrolling an extensive construction project.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/zuckerberg_hawaii_bunker/",
+          "publishedOn": "2023-12-18T19:00:05.000Z",
+          "wordCount": 1672,
+          "title": "Zuckerberg hunkers down in Hawaii to wait out apocalypse",
+          "imageUrl": "https://regmedia.co.uk/2023/12/18/shutterstock_kauai.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/apple_pulling_watch_series_9/",
+          "author": null,
+          "description": "<h4>Get those holiday orders wrapped up now, because the bell tolls for iStrap</h4> <p>If you're planning to give someone an Apple Watch Series 9 or Ultra 2 for the holidays you'd better act fast: Apple plans to pull both models from shelves in the United States in mere days after losing a patent fight earlier this year. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/apple_pulling_watch_series_9/",
+          "publishedOn": "2023-12-18T18:15:10.000Z",
+          "wordCount": 1496,
+          "title": "Apple pulls Watch Series 9, Ultra 2 from shelves in US after Masimo patent brawl",
+          "imageUrl": "https://regmedia.co.uk/2023/12/18/apple-watch-lineup.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2023/12/18/intel_xeon_challengers/",
           "author": null,
@@ -15621,16 +15838,6 @@
           "wordCount": 1644,
           "title": "OpenAI CEO Sam Altman's ejection sparks theories as odd as some ChatGPT output",
           "imageUrl": "https://regmedia.co.uk/2019/07/26/microsoft_ceo_satya_nadella_and_openai_ceo_sam_altman_at_the_microsoft_campus.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/",
-          "author": null,
-          "description": "<h4>Complaint alleges age discrimination harms certain retirees</h4> <p>A former IBM enterprise salesperson has sued the mainframe titan claiming its recent healthcare benefit changes represents age discrimination.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/",
-          "publishedOn": "2023-11-19T15:56:11.000Z",
-          "wordCount": 2008,
-          "title": "Ex-IBM sales veteran sues for access to health benefits",
-          "imageUrl": "https://regmedia.co.uk/2023/11/18/nurse_shutterstock.jpg"
         }
       ]
     }

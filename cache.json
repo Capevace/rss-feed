@@ -557,6 +557,26 @@
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
         {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-bringing-the-linux-sudo-command-to-windows-server/",
+          "author": "Lawrence Abrams",
+          "description": "Microsoft is bringing the Linux 'sudo' feature to Windows Server 2025, offering a new way for admins to elevate privileges for console applications. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-bringing-the-linux-sudo-command-to-windows-server/",
+          "publishedOn": "2024-02-04T17:26:16.000Z",
+          "wordCount": 2185,
+          "title": "Microsoft is bringing the Linux sudo command to Windows Server",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/01/13/WindowsServer.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/leaky-vessels-flaws-allow-hackers-to-escape-docker-runc-containers/",
+          "author": "Bill Toulas",
+          "description": "Four vulnerabilities collectively called \"Leaky Vessels\" allow hackers to escape containers and access data on the underlying host operating system. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/leaky-vessels-flaws-allow-hackers-to-escape-docker-runc-containers/",
+          "publishedOn": "2024-02-04T15:17:34.000Z",
+          "wordCount": 2295,
+          "title": "Leaky Vessels flaws allow hackers to escape Docker, runc containers",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/08/04/package-container.jpg"
+        },
+        {
           "id": "https://www.bleepingcomputer.com/news/security/clorox-says-cyberattack-caused-49-million-in-expenses/",
           "author": "Lawrence Abrams",
           "description": "Clorox has confirmed that a September 2023 cyberattack has so far cost the company $49 million in expenses related to the response to the incident. [...]",
@@ -2465,26 +2485,6 @@
           "wordCount": 2224,
           "title": "X users fed up with constant stream of malicious crypto ads",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/01/05/X-logo-flare.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-5th-2024-secret-decryptors/",
-          "author": "Lawrence Abrams",
-          "description": "With it being the first week of the New Year and some still away on vacation, it has been slow with ransomware news, attacks, and new information. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-5th-2024-secret-decryptors/",
-          "publishedOn": "2024-01-05T22:16:57.000Z",
-          "wordCount": 2417,
-          "title": "The Week in Ransomware - January 5th 2024 - Secret decryptors",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/02/07/brighter-key.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/us-charged-19-suspects-linked-to-xdedic-cybercrime-marketplace/",
-          "author": "Sergiu Gatlan",
-          "description": "The U.S. Department of Justice announced the end of a transnational investigation into the dark web xDedic cybercrime marketplace, charging 19 suspects for their involvement in running and using the market's services. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/us-charged-19-suspects-linked-to-xdedic-cybercrime-marketplace/",
-          "publishedOn": "2024-01-05T21:16:02.000Z",
-          "wordCount": 2534,
-          "title": "US charged 19 suspects linked to xDedic cybercrime marketplace",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/28/law-enforcement-arrest-bright.jpg"
         }
       ]
     },
@@ -3210,6 +3210,56 @@
       "feedUrl": "https://www.heise.de/rss/heise-Rubrik-IT.rdf",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "http://heise.de/-9617895",
+          "author": null,
+          "description": "In einem internen Memo feiert Apple-Chef Tim Cook die Markteinführung seines VR-Headsets. Er erwähnt auch, dass das Gerät anders vermittelt werden muss.",
+          "link": "https://www.heise.de/news/Tim-Cook-sieht-Vision-Pro-als-so-bedeutend-wie-Mac-oder-iPhone-an-9617895.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2024-02-04T15:33:00.000Z",
+          "wordCount": 2234,
+          "title": "Tim Cook sieht Vision Pro als so bedeutend wie Mac oder iPhone an",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/3/6/7/7/8/AppleEvent.MAR8Keynote01.Tim_Cook-10b9da0c83b2f520.JPG"
+        },
+        {
+          "id": "http://heise.de/-9617673",
+          "author": null,
+          "description": "Mehr Compiler für die Sprache Rust sollen her! Ein Projekt, das seine Pläne zur FOSDEM präsentiert, will die GNU Compiler Collection um Rust ergänzen.",
+          "link": "https://www.heise.de/news/FOSDEM-24-Rust-statt-Rost-fuer-GNU-GCC-9617673.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2024-02-04T13:30:00.000Z",
+          "wordCount": 2610,
+          "title": "FOSDEM 24: Rust statt Rost für GNU GCC",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/3/6/6/6/6/aufmacher_fosdem24_rust-6fa27bd23f4b46fc.png"
+        },
+        {
+          "id": "http://heise.de/-9617717",
+          "author": null,
+          "description": "Die aktuelle Tails-Version bringt kaum Neues mit, dafür trumpft aber das bald erscheinende Tails 6.0 mit Neuheiten auf. Das kann man jetzt schon ausprobieren.",
+          "link": "https://www.heise.de/news/Anonym-arbeiten-und-surfen-Tails-5-22-ist-da-und-Tails-6-0-erscheint-zeitnah-9617717.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2024-02-04T12:11:00.000Z",
+          "wordCount": 1979,
+          "title": "Anonym arbeiten und surfen: Tails 5.22 ist da und Tails 6.0 erscheint zeitnah",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/3/6/6/8/8/2022-04-06-Tails_Desktop_4.29-scaled-ef87349397fcf009.png"
+        },
+        {
+          "id": "http://heise.de/-9617691",
+          "author": null,
+          "description": "Mehrere Schwachstellen in IBM Business Automation Workflow gefährden Systeme.",
+          "link": "https://www.heise.de/news/IBM-Business-Automation-Workflow-fuer-DoS-Attacken-Co-anfaellig-9617691.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2024-02-04T10:48:00.000Z",
+          "wordCount": 1805,
+          "title": "IBM Business Automation Workflow für DoS-Attacken & Co. anfällig",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/3/6/6/7/5/shutterstock_1024271563-bad03ea07113dd32.jpg"
+        },
+        {
+          "id": "http://heise.de/-9617677",
+          "author": null,
+          "description": "Angreifer können Junipers Security-Information-and-Event-Management-System JSA ins Visier nehmen. Sicherheitspatches sind verfügbar.",
+          "link": "https://www.heise.de/news/IT-Sicherheitsueberwachung-Juniper-JSA-fuer-mehrere-Attacken-anfaellig-9617677.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
+          "publishedOn": "2024-02-04T10:33:00.000Z",
+          "wordCount": 1830,
+          "title": "IT-Sicherheitsüberwachung Juniper JSA für mehrere Attacken anfällig",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/3/6/6/6/8/shutterstock_1571734357-5feb3c7245bb21f0.jpg"
+        },
         {
           "id": "http://heise.de/-9610054",
           "author": null,
@@ -8699,16 +8749,6 @@
           "wordCount": 2049,
           "title": "Boeing 737 Max 9 verliert Tür im Flug und landet sicher",
           "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/2/1/8/9/7/Boeing_737_Max_8-4d251533371c21f0.webp"
-        },
-        {
-          "id": "http://heise.de/-9588542",
-          "author": null,
-          "description": "Wer immer wieder mal Server aufsetzen muss, kann das jedes Mal von Hand machen – oder Ansible für sich arbeiten lassen.",
-          "link": "https://www.heise.de/news/Infrastructure-as-Code-mit-Ansible-c-t-uplink-9588542.html?wt_mc=rss.red.ho.beitrag.rdf.beitrag.beitrag",
-          "publishedOn": "2024-01-06T05:30:00.000Z",
-          "wordCount": 1889,
-          "title": "Infrastructure as Code mit Ansible | c’t uplink",
-          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/2/1/4/4/2/signal-2024-01-04-133521_003-12d53b5ae71acc61.jpeg"
         }
       ]
     },
@@ -8717,6 +8757,26 @@
       "feedUrl": "https://www.heise.de/security/rss/alert-news.rdf",
       "siteUrl": "https://www.heise.de/security/alerts/",
       "articles": [
+        {
+          "id": "http://heise.de/-9617691",
+          "author": null,
+          "description": "Mehrere Schwachstellen in IBM Business Automation Workflow gefährden Systeme.",
+          "link": "https://www.heise.de/news/IBM-Business-Automation-Workflow-fuer-DoS-Attacken-Co-anfaellig-9617691.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2024-02-04T10:48:00.000Z",
+          "wordCount": 1805,
+          "title": "IBM Business Automation Workflow für DoS-Attacken & Co. anfällig",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/3/6/6/7/5/shutterstock_1024271563-bad03ea07113dd32.jpg"
+        },
+        {
+          "id": "http://heise.de/-9617677",
+          "author": null,
+          "description": "Angreifer können Junipers Security-Information-and-Event-Management-System JSA ins Visier nehmen. Sicherheitspatches sind verfügbar.",
+          "link": "https://www.heise.de/news/IT-Sicherheitsueberwachung-Juniper-JSA-fuer-mehrere-Attacken-anfaellig-9617677.html?wt_mc=rss.red.security.alert-news.rdf.beitrag.beitrag",
+          "publishedOn": "2024-02-04T10:33:00.000Z",
+          "wordCount": 1830,
+          "title": "IT-Sicherheitsüberwachung Juniper JSA für mehrere Attacken anfällig",
+          "imageUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/3/6/6/6/8/shutterstock_1571734357-5feb3c7245bb21f0.jpg"
+        },
         {
           "id": "http://heise.de/-9617332",
           "author": null,
@@ -16476,16 +16536,6 @@
           "wordCount": 1856,
           "title": "Swarms of laser-flown bots visiting a planet light years away – and more NASA-funded projects revealed",
           "imageUrl": "https://regmedia.co.uk/2024/01/05/maggie_martian_plane.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2024/01/05/swatting_extorion_tactics/",
-          "author": null,
-          "description": "<h4>Remember the good old days when ransomware crooks vowed not to infect medical centers?</h4> <p>Extortionists are now threatening to swat hospital patients — calling in bomb threats or other bogus reports to the police so heavily armed cops show up at victims' homes — if the medical centers don't pay the crooks' ransom demands.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2024/01/05/swatting_extorion_tactics/",
-          "publishedOn": "2024-01-05T21:54:33.000Z",
-          "wordCount": 1771,
-          "title": "After injecting cancer hospital with ransomware, crims threaten to swat patients",
-          "imageUrl": "https://regmedia.co.uk/2021/07/22/swat_shutterstock.jpg"
         }
       ]
     }
